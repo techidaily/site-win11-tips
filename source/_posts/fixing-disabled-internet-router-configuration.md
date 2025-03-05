@@ -1,7 +1,7 @@
 ---
 title: Fixing Disabled Internet Router Configuration
-date: 2024-08-16T01:24:13.232Z
-updated: 2024-08-17T01:24:13.232Z
+date: 2025-02-27T01:22:51.629Z
+updated: 2025-03-04T17:15:41.678Z
 tags:
   - windows10
   - windows11
@@ -61,17 +61,11 @@ To find your Default Gateway IP address for the router:
 1. In Google Chrome, click the three-dots menu and select**Settings** .
 2. Open the**Privacy and Security** tab in the left pane.  
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 3. Next, click**Clear browsing data** .
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
  You can configure your network adapter's TCP/IP settings to obtain an IP address automatically. You'll be unable to access your router login page if you have used incorrect IP settings for the network adapter.
@@ -84,28 +78,16 @@ To find your Default Gateway IP address for the router:
 4. Click on**Network and Sharing Center** .
 5. In the left pane, click**Change adapter settings** .  
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Right-click on your**Ethernet adapter** and select**Properties** .
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 9. Select the**Validate settings upon exit** option and click**OK** .
 10. Relaunch your browser and try to access the router page.
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Invisibility on Any LAN VPNs
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
@@ -130,14 +112,11 @@ To disable Invisibility on LAN on NordVPN:
 
  If you have trouble reaching the router login page, make sure you are using the correct IP address. Use the ipconfing command in Command Prompt and verify if your IP address matches the Default Gateway address. Additionally, check your network adapter’s TCP/IP settings, perform a router power cycle, or reset the router to its factory default settings to resolve the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,8 +125,22 @@ To disable Invisibility on LAN on NordVPN:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-ingenious-name-makers-elevate-your-channels/"><u>[New] In 2024, Ingenious Name Makers Elevate Your Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-youtube-productions-with-effective-video-lighting/"><u>[Updated] 2024 Approved Elevating YouTube Productions with Effective Video Lighting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-video-zoom-on-youtube-for-2024/"><u>[Updated] Perfecting Video Zoom on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descubra-os-18-melhores-ferramentas-livres-que-permitem-a-conversao-de-mp4-para-dvd-com-excelencia/"><u>Descubra Os 18 Melhores Ferramentas Livres Que Permitem a Conversão De MP4 Para DVD Com Excelência!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-gsm-audio-to-mp4-format-with-movavi/"><u>Free Online Converter: Convert GSM Audio to MP4 Format with Movavi</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-identify-phony-it-assistance-cons-jobs-and-shield-your-personal-info/"><u>How to Identify Phony IT Assistance Cons Jobs & Shield Your Personal Info</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-buttons-in-windows-11-laptop-and-desktop-keyboards/"><u>How to Repair Unresponsive Buttons in Windows 11 Laptop and Desktop Keyboards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/libera-e-facile-conversione-mov-a-wma-tramite-il-servizio-di-conversione-on-line-offerto-da-movavi/"><u>Libera E Facile Conversione MOV a WMA Tramite Il Servizio Di Conversione On-Line Offerto Da Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-your-youtube-experience-with-premium-subscription-for-2024/"><u>Master Your YouTube Experience with Premium Subscription for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-and-gratis-omzetten-van-ogg-naar-webm-mit-movavi-efficient-professioneel/"><u>Online & Gratis Omzetten Van OGG Naar WEBM Mit Movavi - Efficiënt Professioneel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-7-plus-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 7 Plus on MetroPCS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4a-flv/"><u>모바이비가 제공하는 원격 변환: M4A에서 FLV 채널 무료 대상</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225335804-mp4-m2ts-movavi/"><u>오픈 소스 MP4, M2TS 영상 변환 가능 – 전공 시작하기 : Movavi 도구</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726227971927-ogmmpg-movavi/"><u>オンラインでのお手頃価格なOGMからMPGへの変換 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2025-02-12T22:12:10.078Z
-updated: 2025-02-15T16:34:59.480Z
+date: 2025-02-27T18:44:39.163Z
+updated: 2025-03-04T16:20:42.593Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Both folders contain files needed for the installation of Windows updates. Windows update installation issues can occur because of corrupted data in those folders. Those errors typically appear in Settings with variable codes like 0x800f0922 when users manually select to check for and install updates.
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
@@ -83,10 +79,6 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
@@ -97,10 +89,6 @@ net start msiserver`
 
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -120,15 +108,7 @@ net start msiserver`
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Exit FixWin and reboot your PC after selecting those options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
 
@@ -146,22 +126,20 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[New] 2024 Approved Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>[New] Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-marketing-mastery-for-affiliate-success/"><u>[New] Video Marketing Mastery for Affiliate Success</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-perfectly-crafted-online-meeting-backdrops/"><u>[Updated] Perfectly Crafted Online Meeting Backdrops</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[Updated] Unlocking Smooth Playback Overcoming Booty Freezes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commercial-clutter-cleared-windows-start-edition/"><u>Commercial Clutter Cleared: Windows Start Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defeating-windows-11-administrative-barriers/"><u>Defeating Windows 11 Administrative Barriers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-guide-to-get-the-most-recent-ch340g-usb-chip-driver-version-on-your-windows-10-computer/"><u>Easy Installation Guide to Get the Most Recent CH340G USB Chip Driver Version on Your Windows 10 Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-new-approach-to-icon-cache/"><u>Enhancing System Performance: New Approach to Icon Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-errors-in-windows/"><u>Fixing Steam Cloud Errors in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-preventing-default-saving-issues-in-win/"><u>Guide to Preventing Default Saving Issues in Win</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/25485572-in-2024-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>In 2024, Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dll-not-found-problem-with-steamui/"><u>Overcoming DLL Not Found Problem with SteamUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-printer-connectivity-failures-in-windows-11/"><u>Solutions for Printer Connectivity Failures in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-13-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi 13 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-6-changes-in-windows-ui-and-layout/"><u>Top 6 Changes in Windows UI and Layout</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-breathe-life-into-photos-using-blur-effects-in-illustrator-for-2024/"><u>[New] Breathe Life Into Photos Using Blur Effects in Illustrator for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-a-plan-evaluating-your-igtv-engagement-levels/"><u>[Updated] Crafting a Plan Evaluating Your IGTV Engagement Levels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-streamlining-post-production-with-luts-in-ae/"><u>[Updated] Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-effortless-subscriber-acquisition-for-enhanced-viewership/"><u>2024 Approved Effortless Subscriber Acquisition for Enhanced Viewership</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-beginner-friendly-introduction-to-io-screen-recorder-for-2024/"><u>A Beginner-Friendly Introduction to IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/audio-mastery-techniques-for-windows-users/"><u>Audio Mastery Techniques for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/launching-the-next-gen-faq-platform-with-mondly/"><u>Launching the Next-Gen FAQ Platform with Mondly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-filesize-calculation-with-advanced-powershell-methods/"><u>Mastering Filesize Calculation with Advanced Powershell Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-for-removing-non-standard-login-profiles-in-win-11/"><u>Method for Removing Non-Standard Login Profiles in Win 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-try-before-you-buy-90-day-final-cut-pro-free-trial-offer/"><u>New Try Before You Buy 90-Day Final Cut Pro Free Trial Offer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-games-images-on-steam/"><u>Reinstating Lost Games Images on Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-to-windows-11-taskbar/"><u>Restoring Normalcy to Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-system-the-windows-11-reset-method/"><u>Streamlining Your System: The Windows 11 Reset Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-driver-not-starting-in-windows-1011/"><u>Troubleshooting Display Driver Not Starting in Windows 10/11</u></a></li>
 </ul></div>
 

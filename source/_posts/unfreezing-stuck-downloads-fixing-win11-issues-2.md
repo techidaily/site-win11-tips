@@ -1,7 +1,7 @@
 ---
 title: "Unfreezing Stuck Downloads: Fixing WIN11 Issues (2)"
-date: 2025-02-12T19:31:12.503Z
-updated: 2025-02-15T22:30:20.116Z
+date: 2025-02-28T16:50:45.079Z
+updated: 2025-03-05T03:54:00.921Z
 tags:
   - windows10
   - windows11
@@ -37,17 +37,9 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Select a Different Download Location in Your Browser
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -98,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -111,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -129,15 +109,7 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Reset** inside the confirmation prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
 
@@ -165,18 +137,24 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-way-to-record-podcast-remotely/"><u>[New] Best Way to Record Podcast Remotely</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-file-download-voice-track-analysis-for-2024/"><u>[Updated] File Download Voice Track Analysis for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-the-slate-executing-a-clean-boot-in-windows-11/"><u>Clearing the Slate: Executing a Clean Boot in Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dont-miss-out-spectacular-discounted-rates-on-premium-tribit-audio-gear-for-the-ultimate-shopping-extravaganza/"><u>Don't Miss Out: Spectacular Discounted Rates on Premium Tribit Audio Gear for the Ultimate Shopping Extravaganza!</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-modern-setup-host-causing-high-cpu-usage-on-windows/"><u>How to Fix Modern Setup Host Causing High CPU Usage on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audio-error-0xc00d36b4-in-windows-10-and-11/"><u>How to Fix the Audio Error 0Xc00d36b4 in Windows 10 & 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nubia-red-magic-9-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nubia Red Magic 9 Pro Easily?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-concurrent-archive-decompression-in-a-digital-age/"><u>Mastering Concurrent Archive Decompression in a Digital Age</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-rectifying-workspace-errors-in-office-software/"><u>Navigating and Rectifying Workspace Errors in Office Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-connect-and-stream-with-chromecast-on-fire-stick/"><u>Simple Steps to Connect and Stream with Chromecast on Fire Stick</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-navigation-window-11-power-user-guide/"><u>Simplify Navigation: Window 11 Power User Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/strategies-for-effective-scheduling-of-digital-meetups-for-2024/"><u>Strategies for Effective Scheduling of Digital Meetups for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-5-elite-slow-camera-systems/"><u>[Updated] Unveiling the Top 5 Elite Slow Camera Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-remove-image-background-with-photopea/"><u>2024 Approved How to Remove Image Background With Photopea</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-youtube-profits-ajeys-guidebook/"><u>2024 Approved Mastering YouTube Profits Ajey's Guidebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp2-wav-movavi/"><u>完全無料のオンラインMP2 WAV音楽ファイル変換ツール - Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138574-9780743221894-a-mans-journey-to-simple-abundance/"><u>A Man's Journey to Simple Abundance | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-potential-problems-essential-information-on-ios-18s-impact-on-ipads-detailed-zdnet-insights/"><u>Avoid Potential Problems: Essential Information on iOS 18'S Impact on iPads Detailed | ZDNET Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-hidden-storage-a-windows-adventure/"><u>Discovering Hidden Storage: A Windows Adventure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-fixing-lg-usb-connections-and-drivers-on-your-windows-pc-windows-1187/"><u>Easy Guide to Fixing LG USB Connections and Drivers on Your Windows PC (Windows 11/8/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tune-your-android-development-top-tips-for-windows-users/"><u>Fine-Tune Your Android Development: Top Tips for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-drivers-installed-on-your-windows-device-full-tutorial/"><u>Get the Latest SteelSeries Drivers Installed on Your Windows Device: Full Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-counteract-missed-steam-icons/"><u>How to Counteract Missed Steam Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-the-consequences-of-device-isolation-in-windows/"><u>Investigating the Consequences of Device Isolation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-fixes-to-unblock-verification-on-windows-updates/"><u>Precision Fixes to Unblock Verification on Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-to-eradicate-error-0x80049dd3-from-windows-11/"><u>Quick Tips to Eradicate Error 0X80049DD3 From Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-malwarebytes-runtime-error-missed-calls/"><u>Strategies to Tackle Malwarebytes Runtime Error: Missed Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-counteract-yellowed-image-on-laptop-screens/"><u>Techniques to Counteract Yellowed Image on Laptop Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-applications-for-your-pc-switch-from-mac/"><u>The Ultimate Guide to Applications for Your PC Switch From Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforma-tu-video-de-mov-a-mp4-sin-coste-guia-completa-y-gratuita-con-movavi/"><u>Transforma Tu Video De MOV a MP4 Sin Coste: Guía Completa Y Gratuita Con Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-and-video-converter-technical-assistance-enhance-your-digital-media-solutions-with-our-e-support-services/"><u>WinX DVD Ripper and Video Converter Technical Assistance - Enhance Your Digital Media Solutions with Our E-Support Services</u></a></li>
 </ul></div>
 

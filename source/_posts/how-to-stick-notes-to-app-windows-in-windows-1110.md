@@ -1,7 +1,7 @@
 ---
 title: How to Stick Notes to App Windows in Windows 11/10
-date: 2024-08-16T01:24:20.548Z
-updated: 2024-08-17T01:24:20.548Z
+date: 2025-03-02T23:30:45.326Z
+updated: 2025-03-04T19:49:08.573Z
 tags:
   - windows10
   - windows11
@@ -59,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -85,15 +82,9 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**OK** to stick the note to the selected window.
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
@@ -103,23 +94,13 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  Notezilla also enables you to stick notes to specific files open in software packages. Bring up a word processor, spreadsheet, or any other application with which you can open document files. Open a file within the application. Stick a note to the software's window, as outlined for steps eight to 14 above. Select the checkbox for the file in the window and click**OK** . Then you'll only see the note in the software's window when you bring up the file you stuck it on.
 
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
  Forget about merely sticking notes to the Windows 11 and the Windows 10 desktop like in Windows 7\. Stick A Note and Notezilla give you an entirely new way to add notes without cluttering the desktop by sticking them to app windows. Now you can add handy sticky notes to windows that apply to specific software packages or webpages and files.
@@ -130,8 +111,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +118,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-exclusive-access-to-the-finest-ae-templates-all-free/"><u>[New] Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-link-zoom-calls-to-iphoneandroid-events-seamlessly-for-2024/"><u>[New] Link Zoom Calls to iPhone/Android Events Seamlessly for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/clandestine-call-collectors-a-stealthy-apps-review-androidios/"><u>Clandestine Call Collectors A Stealthy Apps Review (Android/iOS)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversao-em-lote-de-ogg-para-mov-livre-on-line-pela-movavi-ferramenta-de-transformacao-gratuita/"><u>Conversão Em Lote De OGG Para MOV Livre On-Line Pela Movavi - Ferramenta De Transformação Gratuita!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-mystery-of-emojis-10-shocking-facts-revealed/"><u>Decoding the Mystery of Emojis: 10 Shocking Facts Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-e-instalar-el-conversor-de-audio-gratuito-para-convertir-archivos-mp3-a-wma/"><u>Descargar E Instalar El Conversor De Audio Gratuito Para Convertir Archivos MP3 a WMA</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-11-and-7-ethernet-connectivity-issues/"><u>Diagnosing & Solving Windows 11 and 7 Ethernet Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-avi-to-mov-transformation-secure-your-data-with-free-online-service-by-movavi/"><u>Effortless AVI-to-MOV Transformation: Secure Your Data with FREE Online Service by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mkv-to-m4v-converter-by-movavi/"><u>Free Online MKV to M4V Converter by Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/navigate-without-worry-apples-latest-update-brings-offline-functionality-to-its-mapping-service/"><u>Navigate Without Worry! Apple's Latest Update Brings Offline Functionality to Its Mapping Service</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/regular-payouts-for-youtube-content-makers-in-2024/"><u>Regular Payouts for YouTube Content Makers, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switch-from-ppm-to-bmp-seamlessly-on-the-web-at-no-cost-using-imageconverter-pro/"><u>Switch From PPM to BMP Seamlessly on the Web at No Cost Using ImageConverter Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Disable Auto-Play of Spotify in Windows
-date: 2025-02-11T21:13:46.392Z
-updated: 2025-02-16T01:33:57.750Z
+date: 2025-02-25T22:18:36.996Z
+updated: 2025-03-05T00:34:06.483Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Stop Spotify From Opening Automatically by Changing Its Startup Behavior
 
  Spotify for Windows lets you customize its startup behavior directly from the in-app settings menu. You can modify the**Startup and window behavior** setting in the Spotify app to keep it from opening automatically on boot. Here are the steps you need to follow.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 5. Click the drop-down menu to the right of **Open Spotify automatically after you log into the computer** and select**No** . If you want Spotify to run during startup but not launch full screen, select**Minimized** instead.  
 ![Spotify Startup Behavior on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-startup-behavior-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
 
 ## 2\. Stop Spotify From Opening Automatically Using Windows Task Manager
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 2. Switch to the**Startup apps** tab using the left pane.
 3. Locate and select**Spotify** from the list. Then, click the**Disable** button at the top.  
 ![Disable Spotify as a Startup App Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-using-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you complete the above steps, Spotify’s status should change to**Disabled** in the Task Manager app. Following that, the app will not open during startup. Later, if you want to re-enable Spotify as a startup app, you can change its status back to**Enabled** .
 
@@ -74,14 +62,6 @@ To stop Spotify from opening at startup via the Settings app:
 3. Select**Startup** from the right pane.
 4. Scroll down to locate**Spotify** on the list and disable the toggle next to it.  
 ![Disable Spotify as a Startup App via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-via-windows-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prevent Spotify From Launching at Startup on Windows
 
@@ -104,19 +84,24 @@ To stop Spotify from opening at startup via the Settings app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-exemplary-execution-using-apple-watch-to-open-mac/"><u>[New] Exemplary Execution Using Apple Watch to Open Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagrams-latest-trends-for-successful-influencer-journeys-for-2024/"><u>[New] Instagram's Latest Trends for Successful Influencer Journeys for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-video-recording-titans-obs-studio-vs-fraps-face-off-for-2024/"><u>[Updated] Video Recording Titans OBS Studio vs Fraps Face-Off for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-look-at-apples-latest-ai-showcase-overlooked-breakthroughs-and-future-prospects/"><u>Exclusive Look at Apple's Latest AI Showcase – Overlooked Breakthroughs & Future Prospects</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-x90s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo X90S Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-ethernet-speed-capped-at-100mbps-on-windows/"><u>How to Fix Your Ethernet Speed Capped at 100Mbps on Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-cross-platform-shares-igtv-and-facebook/"><u>In 2024, Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lightning-fast-virtual-machines-on-windows-heres-how/"><u>Lightning-Fast Virtual Machines on Windows - Here's How</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-gaps-between-explore-elements/"><u>Mending Gaps Between Explore Elements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safe-haven-10-secure-sites-for-windows-free-apps/"><u>Safe Haven: 10 Secure Sites for Windows FREE Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-windows-11-photos-experience-with-slide-shows-and-image-spot-repair/"><u>Streamline Your Windows 11 Photos Experience with Slide Shows & Image Spot Repair</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-speedy-way-to-bring-your-brother-printer-online-without-hiccups/"><u>The Speedy Way to Bring Your Brother Printer Online Without Hiccups</u></a></li>
-<li><a href="https://games-able.techidaily.com/tranquil-playtime-regulating-console-sound-outputs/"><u>Tranquil Playtime: Regulating Console Sound Outputs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-against-ps4-input-drop-outs-on-personal-computers/"><u>Winning Against PS4 Input Drop-Outs on Personal Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] 2024 Approved First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass/"><u>[Updated] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-advanced-guide-to-documenting-online-sport-spectacles/"><u>[Updated] In 2024, Advanced Guide to Documenting Online Sport Spectacles</u></a></li>
+<li><a href="https://facebook.techidaily.com/actions-to-take-when-facing-a-frozen-facebook-account/"><u>Actions to Take When Facing a Frozen Facebook Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-windows-11-for-spatial-sound-excellence/"><u>Configuring Windows 11 for Spatial Sound Excellence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/detailed-look-into-the-lg-bp350ayering-and-user-experience-for-2024/"><u>Detailed Look Into the LG BP350'ayering and User Experience for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-memory-management-in-windows-11/"><u>Efficient Memory Management in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/grasping-how-windows-handles-preemptive-memory/"><u>Grasping How Windows Handles Preemptive Memory</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-note-30withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Note 30with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S17 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011-problems-in-discord-installation/"><u>Overcoming Windows 10/11 Problems in Discord Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-no-hypervisor-issue-on-windows-sandbox/"><u>Resolving No Hypervisor Issue on Windows Sandbox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-rca-video-doorbell-exceptional-capabilities-and-features-explored/"><u>Reviewing the RCA Video Doorbell - Exceptional Capabilities and Features Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sifting-through-nvidia-drivers-to-find-best-suit-for-you/"><u>Sifting Through Nvidia Drivers to Find Best Suit For You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-boosting-workflow-with-toolbar-in-windows-11/"><u>Step-by-Step to Boosting Workflow with Toolbar in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/timeless-thread-triumphs-reddits-all-time-fave-list-top-10-for-2024/"><u>Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricking-tpm-and-secure-boot-a-guide-to-rufus-usage/"><u>Tricking TPM and Secure Boot: A Guide to Rufus Usage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-sound-on-the-go-comprehensive-review-of-the-jbl-clip-5-bluetooth-speaker-experience/"><u>Ultimate Sound on the Go: Comprehensive Review of the JBL Clip 5 Bluetooth Speaker Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-effective-use-of-powertoys-locksmith/"><u>Unlocking Potential: Effective Use of PowerToys Locksmith</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Malfunctioning Office Notification System
-date: 2024-08-16T01:25:38.768Z
-updated: 2024-08-17T01:25:38.768Z
+date: 2025-03-01T02:02:28.685Z
+updated: 2025-03-04T16:37:29.254Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ You can fix this by disabling offline mode in Outlook:
 2. Click the option that says**Work Offline** to disable it.  
 ![Send / Receive Tab in Outlook App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disable-Work-Offline-in-Outlook-App-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Outlook's In-App Notification Settings
 
  If Outlook fails to send notifications even when it is online, you should check Outlook’s in-app notification settings to make sure email alerts aren't disabled.
@@ -67,15 +64,9 @@ Follow these steps to check Outlook’s notification settings:
 2. Navigate to**System > Notifications** .
 3. Turn off the toggle next to**Do not distrub** .  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Battery Saver
 
  Another reason Outlook may fail to send you notifications is if the battery saver is enabled on your laptop. If it is, apps like Outlook will fail to sync data in the background, and you may not receive notifications from Outlook unless you open the app. To avoid this, you must disable the battery saver mode on Windows by following the steps below.
@@ -85,9 +76,6 @@ Follow these steps to check Outlook’s notification settings:
 3. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Check Outlook's Rules
 
  The rules in Outlook allow you to specify how different types of emails should be handled. If you have previously set any notification rules in the Outlook app, this may cause them to not show. If unsure, you can go through Outlook’s rules to disable any rules related to notifications.
@@ -98,9 +86,6 @@ Here's how you can access Outlook's rules:
 2. In the**Info** tab, select the**Manage Rules & Alerts** option.
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
 ## 7\. Clear the Outlook Cache
 
@@ -122,15 +107,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 1. Open Outlook on your PC and head over to**File > Office Account** .
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Repair Your Email Account
 
  If Outlook is failing to display notifications only for a specific email account, you can try repairing it. Here are the steps for the same.
@@ -141,18 +120,7 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Repair the Microsoft Office Suite
 
  Microsoft Office comes with a handy repair tool that can prove useful when Office apps fail to work correctly. You can repair the Microsoft Office suite in case the above solutions don't help. Here’s what you’ll need to do.
@@ -171,14 +139,11 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,8 +152,26 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-apowersoft-unpacked-in-depth-review-and-comparisons-required/"><u>[Updated] 2024 Approved Apowersoft Unpacked In-Depth Review & Comparisons Required</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insights-into-whatsapp-sound-calls/"><u>[Updated] Insights Into WhatsApp Sound Calls</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>2024 Approved From Mediocre to Marvelous An Exhaustive Facetune Analysis</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beliebteste-kostenlose-videobearbeitungssoftware-fur-windows-und-mac-os-x-entferne-unerwunschte-teile-ihrer-videos-einfach/"><u>Beliebteste Kostenlose Videobearbeitungssoftware Für Windows Und Mac OS X - Entferne Unerwünschte Teile Ihrer Videos Einfach!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-convertir-archivos-wmv-a-formato-avi-gratuito-online-con-convertidor-de-movavi/"><u>Cómo Convertir Archivos WMV a Formato AVI Gratuito Online Con Convertidor De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-de-archivos-mp3-a-mp4-gratuita-y-facil-con-movavi-online/"><u>Conversión De Archivos MP3 a MP4 Gratuita Y Fácil Con Movavi Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-the-undetermined-dx-fault-in-lol/"><u>Demystifying the Undetermined DX Fault in LoL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-your-files-from-ape-to-wav-format-with-movavi/"><u>Free Online Converter: Change Your Files From APE to WAV Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-flv-to-mpeg-using-movavis-tools/"><u>Free Online Converter: Convert FLV to MPEG Using Movavi's Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mp4-to-gif-converter-movavi-guide/"><u>Free Online MP4 to GIF Converter - Movavi Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-identity-in-gmail-the-ultimate-guide-to-using-an-email-alias/"><u>How to Establish a New Identity in Gmail: The Ultimate Guide to Using an Email Alias</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 13 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mov-mxf-movavi/"><u>MOV 形式到MXF：免費線上轉換器 - 運用 Movavi 解決方案</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-installazione-e-conversione-gratuita-di-ts-file-online/"><u>Movavi: Installazione E Conversione Gratuita Di TS File Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-tu-fotografia-raw-en-jpeg-con-facilidad-y-gratuitamente-mediante-movavi/"><u>Transforma Tu Fotografía RAW en JPEG Con Facilidad Y Gratuitamente Mediante Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-audio-aac-en-video-wmv-gratuitement-en-ligne-avec-movavi-guide-complet-de-conversion/"><u>Transformez Vos Fichiers Audio AAC en Vidéo WMV Gratuitement en Ligne Avec Movavi - Guide Complet De Conversion</u></a></li>
+</ul></div>
 

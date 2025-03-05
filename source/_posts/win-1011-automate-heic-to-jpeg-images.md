@@ -1,7 +1,7 @@
 ---
 title: "Win 10/11: Automate HEIC to JPEG Images"
-date: 2024-08-16T01:23:52.356Z
-updated: 2024-08-17T01:23:52.356Z
+date: 2025-02-27T23:22:52.548Z
+updated: 2025-03-04T22:53:13.299Z
 tags:
   - windows10
   - windows11
@@ -71,9 +71,6 @@ Now it's time to convert images with FoneTool:
 3. Press the**Add Photos** button, select some images, and click**Open** .
 4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
 7. Press the**Start Converting** option.
@@ -83,16 +80,10 @@ Now it's time to convert images with FoneTool:
  It’s worth exploring some of the other handy tools FoneTool has to offer beyond its image conversion utility. You can transfer images from mobile to PC by connecting your iPhone and clicking**Get Started** for iPhone to PC on the Phone Transfer tab. Click the**+** button to choose files and press the**Start transfer** option.
 
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
@@ -101,16 +92,10 @@ Now it's time to convert images with FoneTool:
 1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 6. Then set a value in the**Quality** box.
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
@@ -121,9 +106,6 @@ Now it's time to convert images with FoneTool:
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Make iPhone Photos More Accessible on Windows
 
  Converting HEIC images to JPEG format will enable you to open, view, and edit them with a much wider variety of Windows software. If you have lots of them, it’s best to utilize a batch conversion tool for converting HEIC files to JPEG format. You can quickly convert masses of HEIC images in Windows 11 and 10 with CopyTrans HEIC, FoneTool, and HEIC to JPEG Free Online Converter.
@@ -134,8 +116,6 @@ Now it's time to convert images with FoneTool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,8 +123,24 @@ Now it's time to convert images with FoneTool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-constructing-characters-settings-and-stories/"><u>[New] Constructing Characters, Settings & Stories</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-revolutionizing-live-streams-discover-top-5-innovations-for-2024/"><u>[New] Revolutionizing Live Streams Discover Top 5 Innovations for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-ipad-speech-recording-tools-3/"><u>[Updated] 2024 Approved Elite iPad Speech Recording Tools #3</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-superior-hd-visual-capture-and-recorders/"><u>[Updated] 2024 Approved Superior HD Visual Capture and Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726223515996-oggwmv-movavi/"><u>網路上無需付費，遞送Ogg格式到WMV - 利用Movavi轉檔工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-flv-movavi/"><u>網路直接 MP4 自由轉換成 FLV - 使用Movavi媒體編輯工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3ogvmovavi/"><u>在線自由轉換MP3到OGV的方法：介紹Movavi 影片編解碼器</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-edge-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola Edge 2023 to iPod | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-showdown-a-head-to-head-comparison-of-iphone-15-plus-and-pro-max/"><u>IPhone Showdown: A Head-to-Head Comparison of iPhone 15 Plus and Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jp2tiff-movavi/"><u>JP2/TIFFファイルの無料オンライン変換サービス - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mp4-in-ogg-voorbeelden-lijst-de-efficientste-gratis-converteren-online-door-movavi/"><u>MP4 in Ogg Voorbeelden Lijst - De Efficiëntste Gratis Converteren Online Door Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-gratuite-wma-in-3gp-verwisseling-met-movavi-vrijetjes/"><u>Online Gratuite WMA-In 3GP Verwisseling Met Movavi - Vrijetjes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/recommended-frame-rates-for-professional-slow-motion-videos/"><u>Recommended Frame Rates for Professional Slow-Motion Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-aiff-en-format-wma-sans-frais-sur-movavi-en-ligne/"><u>Transformez Vos Fichiers AIFF en Format WMA Sans Frais Sur Movavi en Ligne</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-ogv-in-wmv-senza-costi-il-guida-completa-di-movavi/"><u>Trasforma I Tuoi File OGV in WMV Senza Costi: Il Guida Completa Di Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/zuckerberg-offers-a-digital-bitcoin-goat-parody/"><u>Zuckerberg Offers: A Digital Bitcoin-Goat Parody?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225366597-mp2ogg-movavi/"><u>무료 인터넷 바이너리 전체 MP2/OGG 변환기 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Settings to Block Discord Initial Launch
-date: 2025-02-11T00:10:21.332Z
-updated: 2025-02-16T00:45:28.706Z
+date: 2025-02-26T21:46:49.737Z
+updated: 2025-03-04T19:05:36.048Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stop Discord From Launching at Startup on Windows
 
 Follow the below steps to prevent Discord from launching at startup:
@@ -39,17 +35,9 @@ Follow the below steps to prevent Discord from launching at startup:
 4. Turn the toggle next to**Open Discord** to the left to turn it off.  
 ![Disbaling Open Discord at Startup Option in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disbaling-Open-Discord-at-Startup-Option-in-Discord-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The above steps will prevent Discord from launching at startup. Just like Discord, you can also[add or remove other startup programs](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) at any time.
 
  Sadly, the quest to prevent Discord from launching at startup doesn't end here. If Discord's Update process is allowed to run at startup in Task Manager, it may still look for updates and launch. It is, therefore, imperative to disable that as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Stop Discord From Searching for Updates at Startup on Windows
 
@@ -61,17 +49,9 @@ Follow the below steps to prevent Discord from launching at startup:
 4. Right-click on it and select**Disable** .  
 ![Disabling Discord Update Process in Windows Startup Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-Discord-Update-Process-in-Windows-Startup-Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Following the above steps will prevent Discord from launching at startup and looking for updates. However, ensure you disable the Discord-related Update process in the Task Manager, not any other process. You may get into more trouble if you stop the Windows-related update process.
 
  Do not perform any actions if you do not see any Update process in Task Manager's Startup tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Discord Stop Launching at Startup and Checking for Updates
 
@@ -94,18 +74,17 @@ Follow the below steps to prevent Discord from launching at startup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-practices-integrating-timers-into-live-streaming-software/"><u>[Updated] 2024 Approved Best Practices Integrating Timers Into Live Streaming Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secrets-to-effective-vr-game-playback/"><u>[Updated] 2024 Approved Secrets to Effective VR Game Playback</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-make-a-ken-burns-effect-in-camtasia-9/"><u>2024 Approved How to Make a Ken Burns Effect in Camtasia 9?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfecting-synchronized-recording-webcam-plus-display-techniques/"><u>2024 Approved Perfecting Synchronized Recording Webcam + Display Techniques</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/conquering-the-skies-a-thorough-examination-of-the-blade-blh4100-rc-helicopter-your-ultimate-guide-to-ready-to-fly-fun/"><u>Conquering the Skies: A Thorough Examination of the Blade BLH4100 RC Helicopter - Your Ultimate Guide to Ready To Fly Fun</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-conversations-with-chatgpt-crafting-a-bot-that-reflects-your-unique-voice/"><u>Customizing Conversations with ChatGPT: Crafting a Bot that Reflects Your Unique Voice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-changing-nat-type-in-win11-and-10/"><u>Detailed Walkthrough: Changing NAT Type in Win11 & 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-event-viewer-problems/"><u>Diagnosing and Fixing Event Viewer Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-cc-errors-a-step-by-step-guide/"><u>Fixing Windows 11 CC Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-microphone-modifications-for-vtubers/"><u>Mastering Microphone Modifications for VTubers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-desktop-spaces-optimal-size-in-win11/"><u>Perfecting Desktop Spaces: Optimal Size in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restarting-non-working-outlook-automated-filters-in-windows/"><u>Restarting Non-Working Outlook Automated Filters in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-server-stumbled-error-in-windows-11-and-11-store/"><u>Steps to Overcome Server Stumbled Error in Windows 11 & 11 Store</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>[Updated] Channel Transformation Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxgidll-gone-win11s-solution-path-explored/"><u>Dxgi.dll Gone? Win11's Solution Path Explored</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-windows-10-secrets-and-shortcuts-for-2024/"><u>Essential Windows 10 Secrets & Shortcuts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-detect-windows-proxies/"><u>How to Correctly Detect Windows Proxies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-resolving-unauthorized-file-saves-in-win/"><u>Mastering the Art of Resolving Unauthorized File Saves in Win</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinterest-video-extraction-top-5-free-tools-ranked-for-2024/"><u>Pinterest Video Extraction Top 5 Free Tools Ranked for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-stashing-zips-integrating-extracts-into-images-on-pcs/"><u>Securely Stashing Zips: Integrating Extracts Into Images on PCs</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-transferring-images-from-your-iphone-8-7-or-6s-and-computer-to-icloud-effortlessly/"><u>Step-by-Step Guide: Transferring Images From Your iPhone (8, 7, or 6S) & Computer to iCloud Effortlessly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-fujitsu-scansnap-ix1400-reviewed-optimal-scanning-technology-for-home-offices-and-small-enterprises/"><u>The Fujitsu ScanSnap iX1400 Reviewed: Optimal Scanning Technology for Home Offices and Small Enterprises</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12-pro-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12 Pro 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-chrome-profiles-a-guide-to-windows-errors/"><u>Unblocking Chrome Profiles: A Guide to Windows Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-ip-camera-software-2023s-top-picks-for-secure-monitoring/"><u>Updated In 2024, Best Free IP Camera Software 2023S Top Picks for Secure Monitoring</u></a></li>
 </ul></div>
 

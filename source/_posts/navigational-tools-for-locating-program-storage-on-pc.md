@@ -1,7 +1,7 @@
 ---
 title: Navigational Tools for Locating Program Storage on PC
-date: 2025-02-08T21:48:19.735Z
-updated: 2025-02-16T02:39:20.852Z
+date: 2025-03-01T18:20:35.050Z
+updated: 2025-03-05T02:20:29.448Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![shortcut properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-target.jpg)
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
 
  The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other[conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
@@ -61,16 +57,8 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -84,14 +72,6 @@ To find where a program is located using the File Explorer:
 2. Navigate to**This PC** and click on the drive where Windows is installed (typically the C Drive).  
 ![program files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/program-files-explorer.jpg)
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
 
@@ -114,16 +94,24 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-professional-editors-guide-fcps-top-10-plugins/"><u>[New] Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-peeking-into-instagram-stories-what-viewers-dont-know/"><u>[Updated] 2024 Approved Peeking Into Instagram Stories What Viewers Don’t Know</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-search-filters-on-instagram/"><u>[Updated] In 2024, How to Search Filters on Instagram</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-14-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 14? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/password-pitfalls-the-top-choices-of-4-out-of-every-5-people-online/"><u>Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-fetching-ip-and-mac-addresses-windows-wise/"><u>Quick Guide: Fetching IP & MAC Addresses, Windows-Wise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-unlocking-telnet-on-wins-os-x/"><u>Step-by-Step Guide: Unlocking Telnet on Wins OS X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-autonomous-restarts-win11-strategy/"><u>Stop Autonomous Restarts: Win11 Strategy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-screech-start-scroll-mouse-adjustment-guide/"><u>Stop Screech, Start Scroll: Mouse Adjustment Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-6-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 6 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-empty-directory-error-code-x80070091/"><u>Troubleshooting Windows' Empty Directory Error Code X80070091</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-youtube-cards-and-markup-tips/"><u>[New] Mastering YouTube Cards & Markup Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bite-sized-tips-for-aspiring-video-editors/"><u>[Updated] In 2024, Bite-Sized Tips for Aspiring Video Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-science-behind-youtube-video-upload-cycles-and-their-impact-on-engagement/"><u>[Updated] In 2024, The Science Behind YouTube Video Upload Cycles and Their Impact on Engagement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-scale-up-visuals-without-diminishing-clarity/"><u>[Updated] Scale Up Visuals Without Diminishing Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-gpsvc-wait-time-on-pcs/"><u>Demystifying GPSVC Wait Time on PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-hacks-navigate-through-18-key-shortcuts-on-apples-ios-platform-with-ease/"><u>Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-download-to-use-chrome-in-windows-11-world/"><u>From Download to Use: Chrome in Windows 11 World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-audacitys-unresponsive-error-in-win-oses/"><u>Guiding Through Audacity's Unresponsive Error in Win OSes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23plus-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy S23+ Lock Screen Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-fix-windows-operating-pause-issues/"><u>How to Stop and Fix Windows Operating Pause Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X7 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-microsofts-artificomedial-intelligence-hub/"><u>Navigating Through Microsoft's Artificomedial Intelligence Hub</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-xs-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone XS Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgianest-compact-crafting-classic-gaming-memories/"><u>NostalgiaNest Compact: Crafting Classic Gaming Memories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-tracking-your-internet-data-use/"><u>Step-by-Step Guide: Tracking Your Internet Data Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-cmd-as-standard-operating-environment/"><u>Streamlining CMD as Standard Operating Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-rectify-type-error-code-x80049dd3-on-pc/"><u>Swift Solutions to Rectify Type Error Code X80049DD3 on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-the-windows-package-manager-wpm/"><u>Understanding and Using the Windows Package Manager (WPM)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-of-silent-sleep-in-w10w11-machines/"><u>Unlock the Secrets of Silent Sleep in W10/W11 Machines</u></a></li>
 </ul></div>
 

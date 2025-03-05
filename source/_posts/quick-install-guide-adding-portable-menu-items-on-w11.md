@@ -1,7 +1,7 @@
 ---
 title: "Quick Install Guide: Adding Portable Menu Items on W11"
-date: 2025-02-13T21:23:42.674Z
-updated: 2025-02-16T00:22:13.560Z
+date: 2025-02-26T19:00:34.063Z
+updated: 2025-03-04T21:13:37.232Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Portable Software Menu With SyMenu
 
@@ -64,10 +60,6 @@ Now it's time to get SyMenu up and running:
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
@@ -79,10 +71,6 @@ Now it's time to get SyMenu up and running:
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
@@ -106,17 +94,9 @@ Now it's time to get SyMenu up and running:
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
 5. Click**Finish** with the Launch LiberKey checkbox selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
@@ -125,10 +105,6 @@ Now it's time to get SyMenu up and running:
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
@@ -150,10 +126,6 @@ Now it's time to get SyMenu up and running:
 
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make Your Portable Apps More Accessible on Windows
 
  A SyMenu or LiberKey software menu gives you an entirely new way to manage and launch portable apps on Windows PCs. You can make all your portable software more directly accessible from the system tray area with LiberKey and SyMenu. That menu will also be truly portable since you can utilize it from a USB stick on different PCs.
@@ -173,24 +145,16 @@ Now it's time to get SyMenu up and running:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-exquisite-innovations-in-desktop-tech-for-2024/"><u>[Updated] Exquisite Innovations in Desktop Tech for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs/"><u>[Updated] In 2024, Visionaries at Work A Detailed Review of Top 3D Modeling Programs</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-workspace-aesthetics-animated-backdrops-for-windows-11/"><u>Elevate Workspace Aesthetics: Animated Backdrops for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-associating-your-win-key-with-microsoft-logins/"><u>Guide: Associating Your Win Key With Microsoft Logins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-domain-users-through-windows-11-biometrics/"><u>Guiding Domain Users Through Windows 11 Biometrics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-current-windows-password-error-in-win11win11/"><u>How to Fix 'Current Windows Password' Error in Win11/Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-se-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone SE In Different Conditionsin</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-creme-de-la-creme-of-fluid-interactive-games/"><u>In 2024, The Crème De La Créme of Fluid Interactive Games</u></a></li>
-<li><a href="https://win-webster.techidaily.com/professionelle-seagate-festplattenklonen-losung-schnelles-kopieren-auf-leistungsstarke-ssds/"><u>Professionelle Seagate Festplattenklonen Lösung - Schnelles Kopieren Auf Leistungsstarke SSDs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-invisible-pc-in-widows-remoting/"><u>Remedying Invisible PC in Widows Remoting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-unique-screen-savers-in-win11/"><u>Setting Up Unique Screen Savers in Win11</u></a></li>
-<li><a href="https://win-able.techidaily.com/sims-4-latency-problem-solutions-on-pc-professional-strategies-you-must-try/"><u>Sims 4 Latency Problem Solutions on PC? Professional Strategies You Must Try</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamline-your-in-game-communication-pioneering-tips-for-vocal-modifications-pubg-for-2024/"><u>Streamline Your In-Game Communication Pioneering Tips for Vocal Modifications (PUBG) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-security-by-tackling-pin-troubles-in-win10win11/"><u>Streamline Your PC Security by Tackling Pin Troubles in Win10/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-initiating-administrator-level-command-prompt-in-w11/"><u>The Essential Guide to Initiating Administrator-Level Command Prompt in W11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-list-of-free-mkv-to-mp4-conversion-software-compatible-with-windows-and-macos/"><u>Ultimate List of Free MKV-to-MP4 Conversion Software Compatible with Windows & macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-melody-mix-up-how-to-tune-your-facebook-videos-with-songs/"><u>[New] In 2024, Melody Mix-Up How to Tune Your Facebook Videos with Songs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridging-devices-and-desktops-how-to-operate-google-home-features-from-your-pc/"><u>Bridging Devices and Desktops: How to Operate Google Home Features From Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critical-review-do-windows-11s-gadgets-merit-attention/"><u>Critical Review: Do Windows 11'S Gadgets Merit Attention?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-office-activation-on-windows-apps/"><u>Fixing Failed Office Activation on Windows Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004192507-fixing-valheims-pc-performance-stop-freezing-and-stuttering-issues/"><u>Fixing Valheim's PC Performance: Stop Freezing & Stuttering Issues!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/launching-at-optimal-times-a-podcast-guide/"><u>Launching at Optimal Times A Podcast Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026561850-pc/"><u>PCゲームのスクリーンレコーディングを最速で行う方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-removing-the-persistent-win11-error-code/"><u>Swiftly Removing the Persistent Win11 Error Code</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Moto G04</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-rectify-non-displaying-searches-in-win-1011/"><u>Tips to Rectify Non-Displaying Searches in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-addressing-high-dpi-display-problems/"><u>Understanding and Addressing High-DPI Display Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Control Settings: Fast Entry Pathways on Windows"
-date: 2025-02-12T19:45:24.633Z
-updated: 2025-02-15T22:37:47.302Z
+date: 2025-03-02T00:00:19.853Z
+updated: 2025-03-04T19:33:43.666Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access the Control Panel via the Windows Start Menu Search Bar
 
  One of the best ways to access Windows features is through the Start Menu search bar. So, let's show you how to use this tool to access the Control Panel:
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 2. Type **Control Panel** in the search bar.
 3. Click the **Control Panel icon** when it appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Access the Control Panel via the Run Command Dialog Box
 
  The Run command dialog box helps you quickly search for the apps on your PC. Here's how you can use it to access the Control Panel:
@@ -58,14 +50,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 2. Type **Control Panel** and then click **OK**.
 
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Access the Control Panel via the Windows Start Menu
 
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Finally, type **Control Panel** in the search box and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
  File Explorer's address bar makes it easy for you to access the software programs on your device. So, let's take you through the process of using this tool to access the Control Panel:
@@ -102,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 2. Navigate to **File Explorer’s address bar**, type **Control Panel**, and then press **Enter**.
 
 ![Opening the Control Panel Via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-File-Explorers-Address-Bar.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
@@ -159,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Access the Control Panel Using a Desktop Shortcut
 
  Do you have a Desktop shortcut for the Control Panel? If so, then click on it to easily access the Control Panel!
@@ -176,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
 
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Pin the Control Panel to Your Taskbar or Start Menu
 
@@ -213,14 +181,14 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cost-effective-obs-tuning-steps/"><u>[New] 2024 Approved Cost-Effective OBS Tuning Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unleash-potential-with-latest-windows-10-apps-and-games-for-2024/"><u>[Updated] Unleash Potential with Latest Windows 10 Apps and Games for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-boundaries-custom-font-use-in-after-effects-for-2024/"><u>Breaking Boundaries Custom Font Use in After Effects for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-laughs-and-lightheartedness/"><u>In 2024, IPhone Laughs & Lightheartedness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-integrating-advanced-run-command/"><u>Maximizing Windows 11: Integrating Advanced Run Command</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/professional-video-grabber-high-res-recordings/"><u>Professional Video Grabber High-Res Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-win-10-and-11-networks-with-telnet-easily/"><u>Tailoring Win 10 & 11 Networks with Telnet Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-system-accessibility-context-menu-enhancement-in-win1011/"><u>Upgrade System Accessibility: Context Menu Enhancement in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-active-windows-sound-services/"><u>Winning Back Active Windows Sound Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quality-control-vll-approach-to-apps/"><u>[New] Quality Control VLL Approach to Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-find-hotspots-for-online-video-dialogue/"><u>[Updated] Find Hotspots for Online Video Dialogue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximize-fun-mp4-extractor-for-fb-videos/"><u>[Updated] In 2024, Maximize Fun MP4 Extractor for FB Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721415282261-become-an-in-demand-bug-hunter-join-openais-reward-scheme-today/"><u>Become an In-Demand Bug Hunter; Join OpenAI’s Reward Scheme Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-dismantling-error-0x80070570-healing-files-in-windows-11/"><u>Deciphering and Dismantling Error 0X80070570: Healing Files in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-or-non-existent-dll-in-windows-7810/"><u>Fixing Missing or Non-Existent DLL in Windows 7/8/10</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fortnite-chapter-3-season-4-masterpieces-unveiled-by-yl-software-get-your-wallpaper-collection-now/"><u>Fortnite Chapter 3 Season 4 Masterpieces Unveiled by YL Software – Get Your Wallpaper Collection Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-your-route-to-windows-starting-spot/"><u>Quick Guide: Your Route to Windows Starting Spot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-and-slim-revamp-with-windows-11-tiny/"><u>Simple & Slim: Revamp with Windows 11 Tiny</u></a></li>
 </ul></div>
 

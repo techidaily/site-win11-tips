@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Confirming Disk Type – HDD or NVMe?
-date: 2025-02-10T17:36:18.499Z
-updated: 2025-02-16T01:39:20.130Z
+date: 2025-02-25T21:15:53.764Z
+updated: 2025-03-05T02:50:56.562Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check if You Have an HDD or SSD Using the Task Manager
 
  To determine whether you have an HDD or SSD using the Task Manager, follow these steps:
@@ -39,21 +35,9 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 4. Check details under**Disk 0** and**Disk 1** (if you have more than one connected) to confirm whether the disks installed are SSDs or HDDs.  
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose**Disk 0** or**Disk 1** —the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
 
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
 
@@ -74,24 +58,17 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-joyful-journeys-in-cinema-summers-top-10-for-families/"><u>[New] In 2024, Joyful Journeys in Cinema Summer's Top 10 for Families</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-troubleshooting-stuttering-video-on-photo-booth-app-for-2024/"><u>[Updated] Troubleshooting Stuttering Video on Photo Booth App for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-altering-terminal-preference/"><u>Essential Steps for Altering Terminal Preference</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expediting-windows-ram-cache-deletion-process/"><u>Expediting Windows RAM Cache Deletion Process</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-hack-launching-command-line-tools-directly-from-windows-folder-structure/"><u>Expert Hack: Launching Command Line Tools Directly From Windows Folder Structure</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-p55-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel P55 5G Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-manage-your-laptops-energy-efficient-features/"><u>How to Manage Your Laptop's Energy Efficient Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-command-prompt-a-guide-to-user-management/"><u>Navigating Command Prompt: A Guide to User Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-pcs-bluetooth-link-with-these-9-essential-tips-for-win-11/"><u>Restore Your PC's Bluetooth Link with These 9 Essential Tips for Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-installation-craft-a-focused-fast-bootable-win-11-drive/"><u>Streamline Your Installation: Craft a Focused, Fast Bootable Win 11 Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-restoration-of-your-windows-application-performance/"><u>Swift Restoration of Your Windows Application Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tecnicas-simples-de-adicionar-subtitulos-ao-seu-filme-guia-detalhado/"><u>Técnicas Simples De Adicionar Subtítulos Ao Seu Filme - Guia Detalhado.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tidy-up-your-windows-past-with-easy-techniques/"><u>Tidy Up Your Windows Past with Easy Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audacity-sound-output-issues-with-these-5-simple-techniques/"><u>Troubleshoot Audacity Sound Output Issues with These 5 Simple Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-magic-of-end-screens-for-vimeo-content-for-2024/"><u>Unveiling the Magic of End Screens for Vimeo Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-successful-gmaps-integration-in-windows/"><u>Unveiling the Secrets of Successful GMaps Integration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-context-menu-incorporating-copy-and-move-commands-into-folder-options-win-11/"><u>Upgrade Context Menu: Incorporating Copy & Move Commands Into Folder Options (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-needed-parts-not-found-error-in-win11/"><u>Eliminating the 'Needed Parts Not Found' Error in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-endurance-and-style-highly-recommended-13-inch-notebook-choice/"><u>Experience Unparalleled Endurance and Style Highly Recommended 13-Inch Notebook Choice!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a79-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A79 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-high-usage-by-user-mode-services-in-windows-environments/"><u>Mitigating High Usage by User-Mode Services in Windows Environments</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-stop-motion-software-for-windows-and-macos-this-year/"><u>New In 2024, Top-Rated Stop Motion Software for Windows and macOS This Year</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nikon-j5-setting-new-standards-in-high-resolution-video-production/"><u>Nikon J5 Setting New Standards in High-Resolution Video Production</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-quickly-curtail-user-access-in-windows-11/"><u>Step-by-Step: Quickly Curtail User Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-experience-with-startup-settings-mastery/"><u>Tailoring Your Windows Experience with Startup Settings Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-rectifying-onedrives-invalid-tag-on-a-pc/"><u>Tips for Rectifying OneDrive’s Invalid Tag on a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-11s-hdr-features-through-practical-tips/"><u>Understanding Windows 11’S HDR Features Through Practical Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove the Background of an Image Using Paint or Paint 3D
-date: 2024-08-16T01:25:18.682Z
-updated: 2024-08-17T01:25:18.682Z
+date: 2025-03-01T16:39:36.361Z
+updated: 2025-03-04T17:48:45.993Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 * [How to Remove the Background of an Image Using Microsoft Paint](#how-to-remove-the-background-of-an-image-using-microsoft-paint)
 * [How to Remove the Background of an Image Using Paint 3D](#how-to-remove-the-background-of-an-image-using-paint-3d)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Paint and Paint 3D on Windows 11 have a built-in feature to remove the background of an image with a single click.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  In this article, we show you how to use Microsoft Paint or Paint 3D to remove a background from an image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Update Microsoft Paint or Paint 3D App From the Microsoft Store
 ![Microsoft Paint app in Microsoft Store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-in-microsoft-store-on-windows-11.jpg)
 
@@ -55,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![Microsoft Paint App With a Bird Image and Remove Background Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/microsoft-paint-app-with-a-bird-image-and-remove-background-option-selected-in-windows-11-2.jpg)
 2. In the **Command bar**, click the **Remove background** option. Microsoft Paint uses AI to process and detect the image elements and remove the background.  
 ![Microsoft Paint App Showing an Image Without Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-app-showing-an-image-without-background.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. You can also use the selection tool to specify only part of the image to remove and then click the **Remove background** option.
 4. To save the image, go to **File > Save as**, then choose the **PNG** or **JPEG** format. Enter a name for the file and click **Save**. The Paint app will save the file with a transparent background.
 
@@ -73,22 +64,13 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![Paint 3D App With the Magic Select Option Selected In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-option-selected-in-windows-11.jpg)
 2. Click the **Magic select** option in the toolbar.  
 ![Paint 3D App With the Magic Select Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-cutout-selection-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Adjust the focus area to fit around the area of the image you want to retain. Even if you want to keep a large part of the image, a slight adjustment is necessary for the app to determine the background.
 4. Click **Next**.  
 ![Paint 3D App Main Object Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-main-object-cutout-selection-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 5. Preview the cutout to see if the image isolation is accurate. If not, use the **Add** or **Remove** option in the top-right corner to refine your selection further.
 
 1. Click **Done**.  
 ![Paint 3D App Delete Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-delete-background-canvas-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Now, select the cutout and drag it to the side of the canvas.
 3. Using the selection tool, click and drag over the canvas and press **Delete** to remove the background.
 4. Now select the **Canvas** option in the toolbar.  
@@ -99,8 +81,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  The AI-powered Paint and Paint 3D app in Windows 11 may not produce perfect results. Especially if the image has a busy background. However, both do a nice job and produce consistent backgrounds. They also save you from the hassle of owning and using a more sophisticated image editing tool for quick edits.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -108,5 +88,26 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-cutting-edge-captures-top-10-online-video-recorders/"><u>[New] 2024 Approved Cutting-Edge Captures Top 10 Online Video Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>[New] 2024 Approved Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-best-gif-maker-applications-for-creative-freedom/"><u>[Updated] In 2024, The Best GIF Maker Applications for Creative Freedom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-transparent-perspective-reviewing-recordcasts-strengths/"><u>[Updated] In 2024, Transparent Perspective Reviewing RecordCast's Strengths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2png-movavi/"><u>網上無限制CR2改成PNG - 運用Movavi格式轉換工具</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-on-windows-11-diagnosing-and-fixing-microphone-problems-for-optimal-audio-performance/"><u>AirPods on Windows 11: Diagnosing and Fixing Microphone Problems for Optimal Audio Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambiar-archivos-de-ape-a-formato-m4a-online-sin-coste-movavi/"><u>Cambiar Archivos De APE a Formato M4A Online Sin Coste: Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-files-from-ogg-to-wmv-for-free-with-our-web-utility-by-movavi/"><u>Convert Your Files From OGG to WMV for Free with Our Web Utility by Movavi.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-dolby-speaker-connectivity-challenges-on-a-windows-abook-pc/"><u>Expert Tips to Overcome Dolby Speaker Connectivity Challenges on a Windows Abook PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transform-flac-files-into-wav-format-with-ease-movavi/"><u>Free Online Conversion: Transform FLAC Files Into WAV Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-mp4-files-into-wma-format-with-movavi/"><u>Free Online Converter: Transforming MP4 Files Into WMA Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mkv-format-conversion-effortless-by-movavi/"><u>Free Online MKV Format Conversion - Effortless by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-convertidor-de-archivos-mpeg-a-aiff-en-linea-con-movavi-ejecute-la-migracion-gratis/"><u>Gratuito Convertidor De Archivos MPEG a AIFF en Línea Con Movavi - Ejecute La Migración Gratis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-civi-3-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Civi 3?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-adding-tunes-to-your-pc-with-windows-media-player-insights-from-yl-computing/"><u>Step-by-Step Guide: Adding Tunes to Your PC with Windows Media Player - Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tig-welding-is-characterized-by-its-control-which-allows-for-precise-and-clean-welds/"><u>TIG Welding Is Characterized by Its Control, Which Allows for Precise and Clean Welds.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-seus-filmes-do-m2ts-para-formato-mkv-gratuitamente-via-o-movavi-conversor-online-seguro-e-facil-de-usar/"><u>Transforme Seus Filmes Do M2TS Para Formato MKV Gratuitamente via O Movavi - Conversor Online Seguro E Fácil De Usar!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-oma-en-mp3-sans-frais-solution-simple-avec-movavi/"><u>Transformez Vos Fichiers OMA en MP3 Sans Frais - Solution Simple Avec Movavi</u></a></li>
+</ul></div>
 

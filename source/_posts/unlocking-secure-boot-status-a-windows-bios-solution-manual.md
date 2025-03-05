@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secure Boot Status: A Windows BIOS Solution Manual"
-date: 2024-08-16T01:25:55.072Z
-updated: 2024-08-17T01:25:55.072Z
+date: 2025-02-28T00:41:18.669Z
+updated: 2025-03-04T19:49:08.910Z
 tags:
   - windows10
   - windows11
@@ -69,18 +69,12 @@ To restore BIOS Security settings to factory defaults:
 2. Open the**Security** tab using the arrow keys.
 3. Use the down arrow keys and select**Restore Security settings to factory defaults** .  
 ![restore bios factory settings default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Read the description in the**Security Feature Reset Request** dialog. Here you'll need to enter a pass code to complete the reset request.
 5. So, enter the shown**pass code** and press**Enter** .  
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 4\. Update BIOS
 ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
 
@@ -88,9 +82,6 @@ To restore BIOS Security settings to factory defaults:
 
  A BIOS update is recommended if your motherboard or laptop manufacturer recommends it. Any updates will be available via the laptop or motherboard manufacturer's websites.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prepare Your Computer for a BIOS Update
 
  Before you update your BIOS, you'll need to [suspend BitLocker protection](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/) . You may also need to [temporarily turn off Windows Security protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and third-party antivirus.
@@ -100,14 +91,6 @@ To restore BIOS Security settings to factory defaults:
  Unlike other driver and software feature updates, updating your BIOS can be tricky. You can update BIOS from within BIOS, where the BIOS Setup Utility can check your laptop manufacturer's website for BIOS updates. This option, however, is not available for all computers.
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the [HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
@@ -117,9 +100,6 @@ To restore BIOS Security settings to factory defaults:
 
 ## 5\. Load the BIOS Defaults Settings
 ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 
@@ -131,21 +111,15 @@ To load BIOS defaults settings:
 4. Select**Save Changes** and**Exit** .
 5. Boot into**BIOS** again and check if the secure boot option is restored.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Fixing the Grayed Out Secure Boot Option in BIOS
 
  Secure Boot in BIOS is greyed out if the administrator password is not set. In other instances, incorrect BIOS security settings and outdated BIOS can cause the issue. As a last resort, try to restore BIOS settings to factory defaults to restore Secure Boot in BIOS.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,8 +128,17 @@ To load BIOS defaults settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-around-youtubes-restrictions/"><u>[New] 2024 Approved Navigating Around Youtube's Restrictions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-implementing-look-up-tables-luts-to-elevate-design-work/"><u>[Updated] 2024 Approved Implementing Look-Up Tables (LUTs) to Elevate Design Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mov-wav-movavi/"><u>網路上無需付費 MOV到 WAV 自動更換 - MOVAVI 電影音頻轉換器</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tips-for-gif-creation/"><u>Essential Tips for GIF Creation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/expand-and-organize-your-hard-drive-space-with-simple-techniques-tips-by-yl-software/"><u>Expand and Organize Your Hard Drive Space with Simple Techniques - Tips by YL Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/iphone/"><u>IPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-multi-media-suite-by-movavi-your-trustworthy-digital-tool/"><u>Secure Multi-Media Suite by Movavi: Your Trustworthy Digital Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-vs-cable-tv-understanding-the-key-distinctions/"><u>Streaming vs Cable TV: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-videos-effortlessly-convert-flv-to-swf-using-moveaveys-web-tool-at-no-cost/"><u>Transform Your Videos Effortlessly: Convert FLV to SWF Using Moveavey's Web Tool at No Cost</u></a></li>
+</ul></div>
 

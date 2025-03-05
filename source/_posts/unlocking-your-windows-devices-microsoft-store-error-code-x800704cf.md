@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Windows Devices: Microsoft Store Error Code X800704CF"
-date: 2024-08-16T01:25:56.143Z
-updated: 2024-08-17T01:25:56.143Z
+date: 2025-02-28T19:06:11.102Z
+updated: 2025-03-04T17:01:41.179Z
 tags:
   - windows10
   - windows11
@@ -37,18 +37,12 @@ thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893b
 
  Windows Store App is also a troubleshooting tool that could be useful for addressing error 0x800704CF. That one might fix issues with the Microsoft Store app. So, consider running that troubleshooter as well if the others don't provide a fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 2\. Repair and Reset the Microsoft Store App
 
  Windows has two troubleshooting options for fixing Microsoft Store when it’s not working right. Those Repair and Reset options can resolve all kinds of app bugs and corruption errors. So, those options could feasibly resolve error 0x800704CF for some users. Check out our guide about [how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this resolution.
 
 ![The Reset and Repair buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 3\. Set a Different DNS Server
 
  Changing DNS server settings is a resolution that’s worked for some users who’ve needed to fix error 0x800704CF. To apply this solution, change your PC’s DNS server to Google via the Control Panel. Our guide for [how to change your DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) includes step-by-step instructions for how to do that along with the required Google DNS addresses.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893b
 3. Input the Netsch.exe command and hit**Enter** :  
 `netsh winhttp reset proxy`  
 ![The remove proxy command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-proxy-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart Windows 11 or 10 after executing the command.
 
 ## 5\. Disable the Microsoft Network Component Setting Client
@@ -78,20 +69,10 @@ thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893b
 3. Click**OK** to access the Network Connections Control Panel applet.
 4. Right-click your internet network adapter to select a**Properties** option for it.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 5. Deselect the**Client for Microsoft Networks** checkbox.  
 ![The Client for Microsoft Networks checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/client-for-microsoft-network-option.jpg)
 6. Select**OK** to save the new property setting, and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall the Network Adapter Driver
 
  Error 0x800704CF can occur because of a network adapter driver issue. If your PC’s network driver is faulty, reinstalling it could be the potential solution for you. Try reinstalling your PC’s network adapter driver like this:
@@ -99,9 +80,6 @@ No advertising on the website.
 1. Use one of the many [ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) and expand the**Network adapters** category.
 2. Then right-click your PC’s internet network adapter to select an**Uninstall** **device** option for it.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-context-menu-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Select the**Delete the driver** (or**Attempt to remove the driver**) checkbox.
 4. ![The Delete the driver software for this device checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-window.jpg)  
  Click**Uninstall** inside the confirmation dialog window.
@@ -117,18 +95,6 @@ No advertising on the website.
 
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml&}`
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Your PC’s Network
 
  Another potential cause of error 0x800704CF is misconfigured network settings. To address such a potential cause, you can reset your PC’s network components to default settings. Doing so also reinstalls network adapters.
@@ -142,15 +108,9 @@ No advertising on the website.
  You might need to fix error 0x800704CF because of an issue with your current user account. Some Windows troubleshooting tools could feasibly resolve that user account glitch. However, setting up and migrating to a new user account is an alternative troubleshooting method that you can try.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To apply this solution, check out our post for [resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Microsoft Store Error 0x800704CF Sorted on Your PC
 
  Error 0x800704CF can be a taxing issue to resolve in Windows. It can seemingly arise because of networking, the Microsoft Store app, and Windows account issues, which makes troubleshooting that issue a bit of a slog. However, the troubleshooting methods outlined above will probably get error 0x800704CF sorted on most users’ PCs.
@@ -161,8 +121,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,8 +128,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[New] 2024 Approved Becoming a Confident Content Creator YouTube's Top Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fabricate-funny-face-filters-giphy-style/"><u>[New] Fabricate Funny Face Filters Giphy Style</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expert-strategies-for-managing-facebook-lives-in-two-screens/"><u>[New] In 2024, Expert Strategies for Managing Facebook Lives in Two Screens</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-master-the-art-of-striking-gopro-time-lapse-videos/"><u>[New] Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-high-quality-360-cameras-for-youtube-and-facebook-coverage/"><u>2024 Approved High-Quality 360° Cameras for YouTube & Facebook Coverage</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/avoiding-instagrams-false-facade-for-a-solid-stature/"><u>Avoiding Instagram's False Facade for a Solid Stature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001075724-bypassing-the-black-hurdle-on-nba-2k21-before-the-new-year-rolls-in/"><u>Bypassing the Black Hurdle on NBA 2K21 Before the New Year Rolls In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-tu-f4v-a-un-video-mov-en-internet-de-forma-gratuita-como-usar-el-servicio-de-movavi-para-conversion-perfecta/"><u>Cambia Tu F4V a Un Video MOV en Internet De Forma Gratuita: Cómo Usar El Servicio De Movavi Para Conversión Perfecta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-3gp-vers-format-swf-avec-movavi/"><u>Conversion Gratuite De Fichiers 3GP Vers Format SWF Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-ogg-files-to-m4a-format-no-cost-with-movavis-web-service/"><u>Convert OGG Files to M4A Format - No Cost with Movavi's Web Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-turning-wmv-into-m4a-audio-files-with-ease/"><u>Free Online Conversion: Turning WMV Into M4A Audio Files with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-convertir-archivos-de-audiovideo-ogg-a-avi-con-movavi-online-ahora/"><u>Gratis Convertir Archivos De Audio/Video OGG a AVI Con Movavi Online - ¡Ahora!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tech-trends-the-essential-compilation-by-toms-hardware/"><u>Navigating Tech Trends: The Essential Compilation by Tom's Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/necekane-rysy-tykani-jak-opravit-videovy-hledat/"><u>Nečekané Rysy Týkání - Jak Opravit Videový Hledat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rmvb-avi-movavi/"><u>RMVB AVI型式優質影片線上全部付文件 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformar-videos-a-formato-avi-con-cualidades-intactas-y-gratuito-en-internet/"><u>Transformar Videos a Formato AVI Con Cualidades Intactas Y Gratuito en Internet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-avi-in-mp4-gratuitamente-online-usando-movavi-metodo-facile-e-veloce/"><u>Trasforma I Tuoi AVI in MP4 Gratuitamente Online Usando Movavi - Metodo Facile E Veloce</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-persistent-crashes-in-r-type-final-2-on-pc-systems/"><u>Ultimate Solutions for Persistent Crashes in R-Type Final 2 on PC Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-3gpp-movavi/"><u>오픈소스 MP4 표지킷 3GPP 바이트 단위로 쉽게 변환: Movavi</u></a></li>
+</ul></div>
 

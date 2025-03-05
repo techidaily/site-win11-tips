@@ -1,7 +1,7 @@
 ---
 title: Reigniting Stalled WSReset Utility in Windows Systems
-date: 2025-02-15T01:50:48.619Z
-updated: 2025-02-15T22:12:15.627Z
+date: 2025-03-02T00:06:22.414Z
+updated: 2025-03-04T23:34:27.556Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix WSReset.exe Not Working on Windows
 
@@ -55,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
 
  If you use Windows 10 version, the process will be slightly different. Press **Win + R**, type **ms-settings:troubleshoot**, and hit Enter. In the Settings menu, click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**.
 
 ![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
 
@@ -114,18 +102,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![Clear the Microsoft Store Cache via the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-the-microsoft-store-cache-via-the-registry.jpg)
 10. Right-click on it and select **Delete**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
 12. Close the Registry Editor and restart your PC.
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Microsoft Store
 
@@ -155,22 +135,20 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-the-mobile-landscape-start-your-entrepreneurial-or-personal-youtube-channel/"><u>[New] 2024 Approved Navigating the Mobile Landscape Start Your Entrepreneurial or Personal YouTube Channel</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-audio-visual-storytelling-with-iphone/"><u>[New] In 2024, The Art of Audio-Visual Storytelling with iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>[New] In 2024, The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-key-elements-to-successful-mobile-app-design/"><u>[Updated] 2024 Approved Key Elements to Successful Mobile App Design</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-emerald-error-in-nba-2k21-effective-fixes-explored/"><u>Beat the Emerald Error in NBA 2K21: Effective Fixes Explored</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Pattern Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-excel-a-step-by-step-guide-to-utilizing-the-filter-feature/"><u>Mastering Microsoft Excel: A Step-by-Step Guide to Utilizing the Filter Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-spreadsheet-techniques-to-change-series-names-in-excel/"><u>Mastering Your Spreadsheet: Techniques to Change Series Names in Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfect-your-data-presentation-with-effective-spell-check-functions-in-excel/"><u>Perfect Your Data Presentation with Effective Spell Check Functions in Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/printing-excel-sheets-made-easy-how-to-show-gridlines-with-rowcolumn-labels/"><u>Printing Excel Sheets Made Easy - How to Show Gridlines with Row/Column Labels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-data-with-ease-mastering-pivot-table-updates-in-ms-excel/"><u>Revamp Your Data with Ease - Mastering Pivot Table Updates in MS Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-steps-mastering-the-selection-of-cell-ranges-in-microsoft-excel/"><u>Simple Steps: Mastering the Selection of Cell Ranges in Microsoft Excel</u></a></li>
-<li><a href="https://fox-http.techidaily.com/starting-an-online-platform-for-consumer-goods-reviews/"><u>Starting an Online Platform for Consumer Goods Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adding-and-utilizing-microsoft-office-extensions/"><u>Step-by-Step Guide: Adding & Utilizing Microsoft Office Extensions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-crafting-personalized-excel-templates/"><u>Step-by-Step Guide: Crafting Personalized Excel Templates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-hats-of-2024-the-ultimate-guide-to-project-expansion-boards/"><u>Top Raspberry Pi HATs of 2024 - The Ultimate Guide to Project Expansion Boards</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-how-to-fix-the-error-when-installing-your-graphics-card-driver-tips-from-yl-computing/"><u>Troubleshooting: How to Fix the 'Error' When Installing Your Graphics Card Driver - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[New] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-amp-up-your-pixel-with-top-download-links/"><u>[Updated] Amp Up Your Pixel with Top Download Links</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-call-of-duty-warzone-pc-sound-issues-fixes-and-hacks-in-224/"><u>Boosting Call of Duty Warzone PC Sound Issues? Fixes and Hacks in 2#24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-11-efficiency-fixing-slowdowns-instantly/"><u>Enhance Windows 11 Efficiency - Fixing Slowdowns Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unwanted-hotkeys-during-typing-sessions/"><u>Fixing Unwanted Hotkeys During Typing Sessions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-opening-the-control-panel/"><u>Mastering Windows: Opening the Control Panel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-vs-microsoft-exploring-the-top-ten-distinctive-features-of-chatgpt-and-bing-ai-chatbot-compared/"><u>OpenAI Vs. Microsoft: Exploring the Top Ten Distinctive Features of ChatGPT & Bing AI Chatbot Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-the-unseen-masterful-recovery-of-off-screen-applications-in-win-1011-6-tips/"><u>Recovering the Unseen: Masterful Recovery of Off-Screen Applications in Win 10/11 (6 Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-authentication-failures/"><u>Remedying Windows Authentication Failures</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-reflecting-your-pc-display-on-a-tv-screen/"><u>Step-by-Step Tutorial on Reflecting Your PC Display on a TV Screen</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ultimate-guide-to-securing-your-images-how-to-apply-watermarks-with-flipbuilders-simple-tools/"><u>Ultimate Guide to Securing Your Images: How To Apply Watermarks With FlipBuilder's Simple Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicating-docx-to-pdf-challenges-with-easy-steps-on-win-11-os/"><u>Uncomplicating Docx to PDF Challenges with Easy Steps on Win 11 OS</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unlocking-knowledge-eliminating-ebook-drm-on-chapter-17-for-free-reading/"><u>Unlocking Knowledge: Eliminating eBook DRM on Chapter 17 for Free Reading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-errors-navigating-and-resolving-o365-glitches/"><u>Win 11 Errors: Navigating and Resolving O365 Glitches</u></a></li>
 </ul></div>
 

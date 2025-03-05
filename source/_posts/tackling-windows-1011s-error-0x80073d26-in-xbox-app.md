@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11'S Error 0X80073D26 in Xbox App
-date: 2025-02-12T23:07:09.976Z
-updated: 2025-02-16T02:07:20.251Z
+date: 2025-03-02T20:02:04.749Z
+updated: 2025-03-05T00:36:49.568Z
 tags:
   - windows10
   - windows11
@@ -36,31 +36,15 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![The Run button for the Windows App Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-app-store-troubleshooter.jpg)
 5. Apply all troubleshooting suggestions provided within Windows Store Apps window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
 
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair and Reset the Microsoft Store App
 
  Accumulated and corrupted Microsoft Store cache data is a potential cause for error 0x80073D26\. Resetting the Microsoft Store app via Settings or the Command Prompt will clear the app’s data. Try applying both methods in this guide to resetting Microsoft Store. Also, select the **Repair** option for the Microsoft Store just above its **Reset** button in Settings to see if that resolves the issue.
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
 
@@ -98,10 +82,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
@@ -109,10 +89,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ### Repair System Files
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
@@ -144,10 +120,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
 
  It’s very likely the potential resolutions covered in this guide will fix error 0x80073D26, as some of them are widely confirmed to work. Hopefully, you can get this error fixed and get back into gaming.
@@ -164,22 +136,24 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-ios-gif-tools-for-iphones/"><u>[New] 2024 Approved The Ultimate Guide to iOS GIF Tools for iPhones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-guide-to-editing-videos-directly-on-youtube-with-sony-vegas/"><u>[New] In 2024, The Ultimate Guide to Editing Videos Directly on YouTube with Sony Vegas</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>[Updated] In 2024, Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-online-facebook-downloader-mp3/"><u>[Updated] In 2024, Online Facebook Downloader MP3</u></a></li>
-<li><a href="https://win-hot.techidaily.com/adjusting-font-settings-easily-a-guide-by-yl-computing-your-trusted-source-in-typography/"><u>Adjusting Font Settings Easily: A Guide by YL Computing - Your Trusted Source in Typography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-video-quality-chrome-and-youtube-optimization/"><u>Elevating Video Quality: Chrome and YouTube Optimization</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-drivers-compatible-with-windows-7810/"><u>Get the Latest Epson GT S50 Drivers Compatible with Windows 7/8/10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-texting-made-simple-learn-to-send-voice-messages-today/"><u>IPhone Texting Made Simple: Learn to Send Voice Messages Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mafia-the-last-chapter-launch-confirmed-after-speculations-clear-up/"><u>Mafia: The Last Chapter Launch Confirmed After Speculations Clear Up</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-default-view-configurations-in-windows/"><u>Reinstating Default View Configurations in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-non-transferring-usb-cases-in-the-windows-environment/"><u>Remedying Non-Transferring USB Cases in the Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sneaky-storage-concealing-drives-on-windows-os/"><u>Sneaky Storage: Concealing Drives on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80071a90/"><u>Step-by-Step Fix for Windows Error 0X80071A90</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-login-processes/"><u>Streamlining Windows 11 Login Processes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-smart-7-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Smart 7 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-secrets-to-flawless-subtitle-display-on-windows-11/"><u>Uncover the Secrets to Flawless Subtitle Display on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-greyed-out-bin-fixes-on-win11/"><u>Undoing Greyed Out Bin Fixes on Win11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-content-creators-arena-vs-beta-studio-evolutionary-path/"><u>[New] 2024 Approved Content Creator's Arena Vs. Beta Studio Evolutionary Path</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cutting-through-steps-posting-tiktok-videos-on-twitter-for-2024/"><u>[New] Cutting Through Steps Posting TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-critical-considerations-when-buying-a-windows-laptop/"><u>Guide to Critical Considerations When Buying a WIndows Laptop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-huawei-nova-y91-phone-by-drfone-android/"><u>How to Unlock a Network Locked Huawei Nova Y91 Phone?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>In 2024, Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-obs-studio-showdown-with-bandicam-the-ultimate-test/"><u>In 2024, OBS Studio Showdown with Bandicam The Ultimate Test</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-14-pro-max-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 14 Pro Max in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-high-resource-demand-in-device-to-device-interaction-windows/"><u>Lowering High Resource Demand in Device-to-Device Interaction Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-tasks-essential-cmd-command-knowledge/"><u>Mastering Windows Tasks: Essential CMD Command Knowledge</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-spin-flip-and-rotate-the-top-online-video-rotation-services/"><u>New Spin, Flip, and Rotate The Top Online Video Rotation Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-simple-facial-masking-in-photos-for-2024/"><u>Quick & Simple Facial Masking in Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x00000709/"><u>Resolving Windows Error Code 0X00000709</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synching-gmail-with-outlook-app-for-windows-users/"><u>Synching Gmail with Outlook App for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-time-out-top-strategies-to-jumpstart-windows-installation/"><u>Tackling the Time-Out: Top Strategies to Jumpstart Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-pc-hurdles-steadying-cpu-load-in-rm-toolkit/"><u>Troubleshoot PC Hurdles: Steadying CPU Load in RM Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-speakers-in-windows-1011/"><u>Troubleshooting Silent Speakers in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-the-secrets-of-windows-flexible-fax-interface/"><u>Unveil the Secrets of Windows' Flexible Fax Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mpgmpeg-1-mkv/"><u>무료 MPG/MPEG-1를 사용하여 MKV 형식으로 바꾸기: 모바이비 - 구현 방법</u></a></li>
 </ul></div>
 

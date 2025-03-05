@@ -1,7 +1,7 @@
 ---
 title: Integrating Comics Into Your Win11 Lifestyle
-date: 2025-02-11T22:26:02.507Z
-updated: 2025-02-15T19:06:05.292Z
+date: 2025-02-27T16:01:13.383Z
+updated: 2025-03-04T21:13:53.544Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 ![The Add folder to library button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-folder-to-library.jpg)
 7. Click the**Add local folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Next, select the Comic Books folder previously set up that includes some comics.
 9. Press the**Select Folder** button.
 10. Now you’ll see some thumbnail images for the comics in the selected folder inside the**Library** tab. Click a comic you want to read there to open in Cover.  
@@ -62,27 +58,15 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
 ![The Night Mode option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-night-mode-option.jpg)
 
  As you’re limited to a 25-comic library in Cover, you’ll probably need to erase some comics you’ve read to view new ones at some stage. To do that, open a comic’s source folder in File Explorer. Right-click a comic file in that folder and select**Delete** . Then click the**See more** button at the top right of the Cover app to select**Refresh** library.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Read Comic Books With YACReader
 
@@ -108,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
@@ -119,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
  YACReader’s**Show go to flow** option is one of its more unique features. Pressing that button brings up a box that displays page thumbnail previews you can flick through and open pages with. That’s a useful feature for selecting specific pages in a comic.
 
 ![YACReader's page flow feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-page-flow-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Page flow has five transition effect presets you can choose in the Options window. Click**Options** on the right side of YACReader’s toolbar. Select the**Page Flow** tab, and choose one of the five preset options. You can also tweak each preset by clicking**Show advanced settings** and dragging the bar slider options. Press the**Save** button and restart YACReader to apply a new preset.
 
@@ -140,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
  You can read comics on those websites by scrolling down their pages in your browser or clicking the next/previous page buttons. However, the page view options for comics on websites are more limited than those in YACReader and Cover. Nor can you select to bookmark pages. So, most users will probably prefer to download and read comics in Cover and YACReader.
 
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
 
@@ -164,21 +136,22 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>[New] 2024 Approved Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-arcade-alpha-check-in-gamers-thoughts/"><u>[Updated] ARCADE ALPHA CHECK-IN Gamers' Thoughts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>2024 Approved The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/asus-zephyrus-g14-uncovered-a-flawless-merge-of-productivity-and-high-end-gaming/"><u>Asus Zephyrus G14 Uncovered - A Flawless Merge of Productivity and High-End Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-winerror-misconfigured-file-history-settings/"><u>Correcting WinError: Misconfigured File History Settings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-the-hp-deskjet-3050-windows-compatible-printing-drivers/"><u>Easy Guide to Downloading the HP Deskjet 3050 Windows-Compatible Printing Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-apex-legends-crashes-with-w11-fixes/"><u>Eliminating Apex Legends Crashes with W11 Fixes</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/enhance-your-system-with-a-windows-11-pro-upgrade-discover-the-top-two-techniques/"><u>Enhance Your System with a Windows 11 Pro Upgrade: Discover the Top Two Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/experience-improved-flow-with-the-latest-fixes-to-cyberpunk-2077s-lag-issues/"><u>Experience Improved Flow with the Latest Fixes to Cyberpunk 2077'S Lag Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-altering-keyboard-layout-on-windows-11/"><u>Expert Tips for Altering Keyboard Layout on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-the-unexpected-windows-device-dropout/"><u>Handling the Unexpected Windows Device Dropout</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-easily-update-your-windows-with-corsair-void-pro-drivers-download-now/"><u>How to Easily Update Your Windows with Corsair Void Pro Drivers - Download Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-window-placement-on-windows-os-defeat-overscan/"><u>Improve Window Placement on Windows OS: Defeat Overscan</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setup-a-new-baseline-for-touch-input-on-your-win-11-pc/"><u>Setup a New Baseline for Touch Input on Your Win 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-7-best-free-volume-boosters-for-windows/"><u>The 7 Best Free Volume Boosters for Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxvideo-artificial-intelligence-supported-environments-for-winxvideos-ai-technology/"><u>Winxvideo Artificial Intelligenceのサポートされる環境 - Supported Environments for WinxVideo's AI Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-moments-on-facebook-beyond-the-screen/"><u>[New] Capturing Moments on Facebook Beyond the Screen</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cutting-the-chaff-skilled-techniques-for-cropping-videos-for-instagram/"><u>[New] Cutting the Chaff Skilled Techniques for Cropping Videos for Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/achieve-viral-fame-crafting-engaging-instagram-unboxing-videos/"><u>Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/comprehensive-morphvox-modification-handbook-for-2024/"><u>Comprehensive MorphVOX Modification Handbook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-the-chaos-reconnect-lost-nexus-on-steam/"><u>Controlling the Chaos: Reconnect Lost Nexus on Steam</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/corrected-driver-verification-process-including-iomgr-regulations-compliance/"><u>Corrected Driver Verification Process Including IOmgr Regulations Compliance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrective-measures-to-handle-vanishing-msvcp140dll/"><u>Corrective Measures to Handle Vanishing MSVCP140.dll</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-errors-during-iphone-image-upload-to-windows/"><u>Guidelines for Fixing Errors During iPhone Image Upload to Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-portable-apps-into-windows-desktop/"><u>Integrating Portable Apps Into Windows Desktop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-iphone-12-pro-max-worth-it-exploring-the-power-of-going-big/"><u>Is the iPhone 12 Pro Max Worth It? Exploring the Power of Going Big</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-nuances-of-custom-windows-snapping-via-powertoys/"><u>Navigating the Nuances of Custom Windows Snapping via PowerToys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-apart-the-mini-yet-powerful-in-depth-analysis-of-asus-rog-nuc-970-pc/"><u>Taking Apart The Mini Yet Powerful: In-Depth Analysis Of Asus ROG NUC 970 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ten-techniques-to-restore-vanished-windows-data/"><u>Ten Techniques to Restore Vanished Windows Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-inaccessible-window-writable-solution-reopen-your-notepad-efficiently/"><u>The Inaccessible Window' Writable Solution: Reopen Your Notepad Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-mastering-the-art-of-desk-icon-space-adjustment-on-winos/"><u>Title: Mastering the Art of Desk Icon Space Adjustment on WINOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-the-secrets-to-effortless-youtube-sharing-on-fb-groups/"><u>Unveiling the Secrets to Effortless YouTube Sharing on FB Groups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-actions-made-fast-with-cut-paste-shortcuts/"><u>Windows Actions Made Fast with Cut-Paste Shortcuts</u></a></li>
 </ul></div>
 

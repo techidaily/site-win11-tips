@@ -1,7 +1,7 @@
 ---
 title: Resolving Deactivated Office Alerts in Windows
-date: 2024-08-16T01:25:35.590Z
-updated: 2024-08-17T01:25:35.590Z
+date: 2025-02-28T01:25:08.167Z
+updated: 2025-03-04T20:52:05.169Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ You can fix this by disabling offline mode in Outlook:
 2. Click the option that says**Work Offline** to disable it.  
 ![Send / Receive Tab in Outlook App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disable-Work-Offline-in-Outlook-App-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Outlook's In-App Notification Settings
 
  If Outlook fails to send notifications even when it is online, you should check Outlook’s in-app notification settings to make sure email alerts aren't disabled.
@@ -78,14 +75,7 @@ Follow these steps to check Outlook’s notification settings:
 2. Click on**Battery saver** to expand it.
 3. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6\. Check Outlook's Rules
 
  The rules in Outlook allow you to specify how different types of emails should be handled. If you have previously set any notification rules in the Outlook app, this may cause them to not show. If unsure, you can go through Outlook’s rules to disable any rules related to notifications.
@@ -96,13 +86,7 @@ Here's how you can access Outlook's rules:
 2. In the**Info** tab, select the**Manage Rules & Alerts** option.
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Clear the Outlook Cache
 
  Outlook, like most apps, saves cache files on your computer to improve performance and reduce loading times. However, once this cache gets old or corrupted, it hurts more than it helps. Thankfully, you can get rid of the Outlook cache data fairly easily.
@@ -113,9 +97,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 2. Type**%localappdata%\\Microsoft\\Outlook** in the Open field and press**Enter** .
 3. In the**RoamCache** folder that appears,[select all the files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) and click the trash icon at the top to delete them.  
 ![RoamCache Folder in File Explorer Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Delete-Outlook-Cache-Data-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Restart Outlook after this and check if the notifications are working now.
 
@@ -126,9 +107,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 1. Open Outlook on your PC and head over to**File > Office Account** .
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
 
@@ -142,9 +120,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
 ## 10\. Repair the Microsoft Office Suite
 
@@ -155,9 +130,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 3. Locate and select Microsoft Office on the list. Then, click the**Change** button at the top.
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Microsoft-Office.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
 
@@ -167,14 +139,11 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,8 +152,19 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-cutting-edge-hexadrones-leaderboard-for-2024/"><u>[New] Cutting-Edge HexaDrones Leaderboard for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-daily-deeds-for-digital-diaries-tips-on-virtual-journeys-for-2024/"><u>[Updated] Daily Deeds for Digital Diaries Tips on Virtual Journeys for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-one-mans-quest-with-3d-tech-3dr-analysis-for-2024/"><u>[Updated] One Man's Quest with 3D Tech '3DR' Analysis for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approach-recall-the-sensory-distribution-of-the-ulnar-nerve-in-the-hand/"><u>Approach: Recall the Sensory Distribution of the Ulnar Nerve in the Hand.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guardian-logitech-camera-update/"><u>Guardian Logitech Camera Update</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-bifrost-betrayal-gods-at-war/"><u>In 2024, Bifrost Betrayal Gods at War</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-a-smooth-experience-with-the-windows-11-photos-app/"><u>In 2024, Steps for a Smooth Experience with the Windows 11 Photos App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4vavimovavi/"><u>M4V與AVI間自由過渡：Movavi影片格式變更器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviflvmpeg/"><u>Movaviで気軽に行うFLVとMPEGファイル間の自由配布変換サービス</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-depths-of-vlc-player-capabilities/"><u>Navigating the Depths of VLC Player Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-selecting-premium-webcam-recording-tools-for-microsofts-latest-os-windows-11/"><u>The Ultimate Guide to Selecting Premium Webcam Recording Tools for Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 15 Pro Max</u></a></li>
+</ul></div>
 

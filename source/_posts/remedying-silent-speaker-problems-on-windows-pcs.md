@@ -1,7 +1,7 @@
 ---
 title: Remedying Silent Speaker Problems on Windows PCs
-date: 2025-02-15T00:11:58.613Z
-updated: 2025-02-16T00:15:18.165Z
+date: 2025-03-02T02:16:45.578Z
+updated: 2025-03-05T02:49:16.280Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Playing Audio Troubleshooter
 
  Windows has a Playing Audio troubleshooter that’s there to help you resolve sound-related issues. So, try running that troubleshooter first to see if it offers any potential fixes for the volume control slider not working. You can open and run the Playing Audio troubleshooter like this:
@@ -40,15 +36,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 ![The Run option for the Playing Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playing-audio-troubleshooter.jpg)
 5. Then select to apply all fixes offered within the Playing Audio troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan and Repair System Files
 
@@ -80,14 +68,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 ![The Automatic option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/automatic-option.jpg)
 6. Press**Apply** and**OK** to set the new Windows Audio service options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the Scale Setting
 
  Changing the scale is a slightly curious potential fix for the volume control slider not working. However, some users have said that setting the display scale to 125 percent fixed volume control not working for them. So, try changing the**Scale** setting like this:
@@ -96,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 2. Click**Display** to access the**Scale** option.
 3. Select the**125%** option on the**Scale** drop-down menu. Or change the**Scale** setting to a different**100%** or**150** value if 125% is already selected.  
 ![The Scale option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-scale-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update the Audio Device Driver
 
@@ -124,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 8. Click**Yes** to install the selected audio driver.
 
 9. Exit Device Manager and restart your desktop/laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Your PC’s Audio Device Driver
 
@@ -156,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-setup.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Resetting Windows is a similar troubleshooting method to an in-place upgrade that will restore the platform to default settings. However, you can’t select to preserve all the apps you’ve installed within the "Reset this PC" tool. This article about[factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) tells you how to utilize the "Reset this PC" utility.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
@@ -183,24 +151,19 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-boosting-views-with-analytics-in-youtube-strategy/"><u>[New] 2024 Approved Boosting Views with Analytics in YouTube Strategy</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-pixel-playfulness-harnessing-funny-lenses-in-snapchat-for-2024/"><u>[New] Pixel Playfulness Harnessing Funny Lenses in Snapchat for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mjolnirs-legacy-new-era-dawned/"><u>[Updated] Mjolnir's Legacy New Era Dawned</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-no-cost-screen-recording-tricks-for-pc-users/"><u>[Updated] No-Cost Screen Recording Tricks for PC Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-secret-storytelling-a-step-by-step-guide/"><u>[Updated] Snapchat’s Secret Storytelling A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detect-signs-is-it-time-for-windows-clean-slate/"><u>Detect Signs: Is It Time for Windows Clean Slate?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsofts-virtual-reality-hangout-altspacevr-set-to-disappear-insights-from-zdnet/"><u>Microsoft's Virtual Reality Hangout, AltspaceVR, Set to Disappear – Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-ringsilent-switch-problem-alternative-ways-to-manage-volume-control-effectively/"><u>Overcome Your iPhone Ring/Silent Switch Problem - Alternative Ways to Manage Volume Control Effectively</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/srt-to-sub-shift-expert-strategies-and-actions/"><u>SRT to SUB Shift Expert Strategies & Actions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-gaps-between-cells-text-and-borders-in-excel-spreadsheets/"><u>Step-by-Step Guide: Adjusting Gaps Between Cells, Text, and Borders in Excel Spreadsheets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-creating-a-pie-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Creating a Pie Chart Using Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-strikethrough-text-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Implementing Strikethrough Text Feature in Microsoft Excel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-serious-issue-with-reliance-on-artifice-intelligence-for-content-authenticity-checks/"><u>The Serious Issue with Reliance on Artifice Intelligence for Content Authenticity Checks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-amazing-tricks-and-tasks-achievable-using-siri-on-your-mac/"><u>Top 11 Amazing Tricks and Tasks Achievable Using Siri on Your Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-9-essential-excel-text-manipulation-techniques-using-microsoft-office/"><u>Top 9 Essential Excel Text Manipulation Techniques Using Microsoft Office</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unifying-ms-office-suite-with-your-zoho-online-platform-a-step-by-step-guide/"><u>Unifying MS Office Suite with Your Zoho Online Platform: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-with-google-sheets-top-14-capabilities-missed-in-microsoft-excel/"><u>Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/work-on-excel-powerpoint-and-word-online-doc-editing-anywhere/"><u>Work on Excel, PowerPoint & Word Online Doc Editing Anywhere</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-essential-guide-for-cost-free-google-meet-management/"><u>[New] The Essential Guide for Cost-Free Google Meet Management</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elevating-your-interview-game-skills-and-tactics/"><u>[Updated] 2024 Approved Elevating Your Interview Game Skills & Tactics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-action-cameras-face-off-gopro-hero-4-vs-ghost-s-drifting/"><u>[Updated] In 2024, Action Cameras Face Off GoPro Hero 4 Vs. Ghost-S Drifting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-seeking-outtop-8-android-apps-for-cost-effective-video-tile-creation/"><u>2024 Approved Seeking Outtop 8 Android Apps for Cost-Effective Video Tile Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-blue-screen-error-tackling-iomap64-syscall-failures/"><u>Clearing Up Blue Screen Error: Tackling IOMap64 Syscall Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-frustration-resurrect-panes-easy-steps-6-ways-to-restore-lost-windows-on-win-1011/"><u>Cut the Frustration, Resurrect Panes! Easy Steps (6 Ways) to Restore Lost Windows on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-exceptional-windows-images/"><u>Cutting-Edge Techniques for Exceptional Windows Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-convert-your-instagram-followers-into-earnings/"><u>How to Convert Your Instagram Followers Into Earnings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>In 2024, Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leverage-disk-efficiency-windows-11-defrag-tips/"><u>Leverage Disk Efficiency: Windows 11 Defrag Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-android-performance-via-wsl-optimization-techniques/"><u>Maximizing Android Performance via WSL Optimization Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premier-tools-to-record-your-pc-screenshots-for-2024/"><u>Premier Tools to Record Your PC Screenshots for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-selection-top-video-editors-for-webcams-for-2024/"><u>Ultimate Selection Top Video Editors for Webcams for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-the-creators-of-the-chinese-great-wall-with-expertise-from-yl-computing-and-yl-software/"><u>Unveiling the Creators of the Chinese Great Wall with Expertise From YL Computing and YL Software</u></a></li>
 </ul></div>
 

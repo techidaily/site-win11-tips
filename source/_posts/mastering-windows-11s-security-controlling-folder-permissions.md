@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11'S Security: Controlling Folder Permissions"
-date: 2025-02-11T20:18:09.212Z
-updated: 2025-02-15T23:53:15.404Z
+date: 2025-02-26T18:14:00.133Z
+updated: 2025-03-04T18:30:56.564Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn on Controlled Folder Access With PowerShell
 
  Windows PowerShell gives you an alternative method to enable and disable controlled folder access by executing commands. You can turn on controlled folder access with PowerShell as follows:
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 5. You can disable controlled folder access by executing this command:  
 
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable Controlled Folder Access With Group Policy Editor
 
@@ -86,15 +78,7 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click the Configure Controlled folder access window’s**OK** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
@@ -152,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
 3. Click**Save** to add the**Turn on Control folder access** registry file to the desktop.
@@ -176,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
 4. Click**Yes** to erase that key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Controlled Folder Access Exceptions
 
  The problem with controlled folder access is that it can stop legitimate apps from accessing required files when they need to. That can be an especially big issue for Windows gaming since untrusted games often can’t save progress with controlled folder access enabled. In-game settings can also reset when that feature is turned on.
@@ -191,10 +167,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 3. Press the**\+ Add an allowed app** button.  
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
@@ -220,20 +192,24 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-harmonizing-with-instagram-a-songwriters-legal-framework/"><u>[New] Harmonizing with Instagram A Songwriter’s Legal Framework</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[Updated] 2024 Approved Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-infinix-note-30-vip-racing-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Note 30 VIP Racing Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-2024s-5-premier-free-offline-race-simulators/"><u>Discover the Ultimate Selection: 2024'S 5 Premier Free Offline Race Simulators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-xc10100bf-from-your-windows/"><u>Eliminating XC10100BF From Your Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-develop-a-trusted-window-icon-for-safe-hardware-disconnect-in-win11/"><u>How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-9015-updated-driver-downloads-at-no-cost/"><u>HP OfficeJet Pro 9015 - Updated Driver Downloads at No Cost!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-cultivate-community-interest-with-collaborative-lists/"><u>In 2024, Cultivate Community Interest With Collaborative Lists</u></a></li>
-<li><a href="https://win-community.techidaily.com/leading-software-solutions-for-quickly-erasing-words-in-photographs/"><u>Leading Software Solutions for Quickly Erasing Words in Photographs</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-window-tweaking-using-alomware-suite/"><u>Master the Art of Window Tweaking Using AlomWare Suite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-redeeming-a-non-functional-spotify-app/"><u>Quick Guide: Redeeming a Non-Functional Spotify App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-functionality-of-the-absent-windows-update/"><u>Regain Functionality of the Absent Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-non-transferring-usb-issues-in-windows-os/"><u>Resolving Non-Transferring USB Issues in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-permanent-display-settings-for-desks/"><u>Windows 11: Permanent Display Settings for Desks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-streaks-tips-to-sharpen-your-cs-go-fps/"><u>Winning Streaks: Tips to Sharpen Your CS GO FPS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cognitive-conundrums-top-11-gk-video-hubs/"><u>[Updated] Cognitive Conundrums Top 11 GK Video Hubs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-get-more-views-with-youtube-shorts/"><u>[Updated] How to Get More Views with YouTube Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-immerse-yourself-in-the-world-of-apples-ios-vr-titles/"><u>[Updated] In 2024, Immerse Yourself in the World of Apple's iOS VR Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-overlocking-visuals-enabledisable-windows-spotlight/"><u>Control Overlocking Visuals: Enable/Disable Windows' Spotlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-most-lightweight-browser-ram-optimizers/"><u>Discovering the Most Lightweight Browser Ram Optimizers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-plus-install-hp-drivers-hassle-free-in-minutes/"><u>Download + Install HP Drivers Hassle-Free in Minutes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-system-restore-error-0x80042306-in-windows/"><u>How to Fix the System Restore Error 0X80042306 in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-moto-g13-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Moto G13 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-lsa-unavailable-alert-in-os/"><u>How to Overcome LSA Unavailable Alert in OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-quickly-get-your-favorite-films-on-popcorn-time-a-beginners-tutorial/"><u>How to Quickly Get Your Favorite Films on Popcorn Time: A Beginner's Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/league-of-legends-stability-enhanced-effortless-bug-fix-strategies/"><u>League of Legends Stability Enhanced: Effortless Bug Fix Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win11s-gif-resizing-challenge-within-discord/"><u>Navigating Win11's GIF Resizing Challenge Within Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/newcomers-niche-rapid-folder-formation-in-win11/"><u>Newcomer's Niche: Rapid Folder Formation in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-video-converters-for-tweeting-videos/"><u>Premier Video Converters for Tweeting Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-converting-cr2-photos-into-windows-friendly-jpeg/"><u>Quick Tips for Converting CR2 Photos Into Windows-Friendly JPEG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-deactivated-volume-shadow-copies-on-pcs/"><u>Reinstating Deactivated Volume Shadow Copies on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-usb-experience-with-windows-fixes/"><u>Revamp Your USB Experience with Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-amd-195-installation-hiccups/"><u>Troubleshooting AMD 195 Installation Hiccups</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728494127127-404/"><u>ウェブページにアクセスできない: 404エラー発生の対処方法</u></a></li>
 </ul></div>
 

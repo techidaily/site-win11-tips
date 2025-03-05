@@ -1,7 +1,7 @@
 ---
 title: "Dive Deep: The Ultimate Win11 Mouse Properties Guide"
-date: 2024-08-16T01:25:06.448Z
-updated: 2024-08-17T01:25:06.448Z
+date: 2025-02-28T00:21:40.015Z
+updated: 2025-03-04T22:35:07.630Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Using the Control Panel
 
  Before the Settings app came into the picture, Control Panel organized all the Windows tools under one shed. So, you can open the Mouse Properties applet using the Control Panel. Here’s how to do it:
@@ -54,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using the Run Dialog Box
 
  Windows Run Dialog Box can launch Windows tools and open folder locations if you enter the appropriate short codes or file names. You can launch the Control Panel version of Mouse Properties using the Run dialog box. Here’s how to do it:
@@ -74,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 3. Press the **Enter** key to access the System32 folder.
 4. Go to the search bar, type **main.cpl**, and press the **Enter** key.  
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
 ## 6\. Using Task Manager
@@ -89,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 3. The Mouse Properties window will launch.
 4. Close the Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Using Command Prompt
 
  For terminal lovers, the GUI option sounds exhaustive for opening any app. So, you can open the Mouse Properties window from the command prompt. Here’s how:
@@ -99,15 +87,9 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 1. Press **Win + R** to launch the Run dialog box. Type **cmd** in the text box and press the **Enter** key to open the Command Prompt.
 2. Type **control /name Microsoft.Mouse** in the terminal and press the **Enter** key.  
 ![Open Mouse Properties Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-cmd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Mouse Properties will open in a new window.
 4. Type **exit** and press Enter to close the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Using PowerShell
 
  You can use the **start-process** cmdlet in PowerShell to launch an app or Windows tools. You don’t need to run [PowerShell with administrator privileges](https://www.makeuseof.com/windows-11-powershell-administrator/) for this method. Repeat the following steps:
@@ -117,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 ![Open Mouse Properties Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-powershell.jpg)
 3. Mouse Properties tool will open in a new window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Using a Desktop Shortcut
 
  A desktop shortcut is a quicker way to adjust mouse settings, especially when there are multiple users on one Windows 11 PC. You can create the shortcut either by visiting the System32 folder or create an empty shortcut and mapping the address of the Mouse Properties tool to it. Here’s how to do it with the latter:
@@ -130,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 4. A new blank shortcut will appear on the desktop and the **Create Shortcut** window will open.
 5. Paste the following path in the text box and click on the **Next** button: **"C:\\Windows\\System32\\main.cpl"**  
 ![Open Mouse Properties Using Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now, type the name of the shortcut. We named it **Mouse Settings**. Click on the **Finish** button.
 7. You can double-click on the shortcut and adjust mouse settings.
 
@@ -145,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 3. Locate the **Shortcut key** option. Now, press **Ctrl + Shift +** any key to create a custom keyboard shortcut. We used the “**M**” key, so our final combination becomes **Ctrl + Shift + M**.
 4. Click on the **Apply** button and then click on the **OK** button.  
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
 ## Gain Absolute Control Over Your Mouse on Windows
@@ -158,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,5 +138,22 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-psychology-behind-catchy-titles-in-haul-videos/"><u>[New] The Psychology Behind Catchy Titles in Haul Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-turning-twitter-video-into-engaging-customizable-gifs/"><u>2024 Approved Turning Twitter Video Into Engaging Customizable GIFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-mp3-a-formato-oggv-online-e-gratuito-con-movavi/"><u>Cambia MP3 a Formato OGGV Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversor-de-audio-gratuito-e-simples-metodo-rapido-para-transformar-arquivos-ogg-em-mp3-com-o-movavi/"><u>Conversor De Áudio Gratuito E Simples: Método Rápido Para Transformar Arquivos OGG Em MP3 Com O Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-avi-files-to-wmv-format-for-free-a-comprehensive-guide-using-the-online-movavi-video-converter/"><u>Convert AVI Files to WMV Format for Free: A Comprehensive Guide Using the Online Movavi Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-raw-to-jpeg-image-converter-simple-and-fast/"><u>Efficient RAW to JPEG Image Converter - Simple and Fast</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy F04</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-find-n3-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Find N3 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/strategic-insights-for-optimal-tech-upgrades-for-2024/"><u>Strategic Insights for Optimal Tech Upgrades for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-22-video-editing-tutorial-applications-discover-the-ultimate-tools/"><u>Top 22 Video Editing Tutorial Applications - Discover the Ultimate Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-aifc-files-to-aiff-format-for-free-using-movavis-online-tool/"><u>Transform AIFC Files to AIFF Format for Free - Using Movavi's Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformar-video-3gpp-a-mov-directamente-desde-la-web-por-nada-tecnica-facil-con-movavi/"><u>Transformar Video 3GPP a MOV Directamente Desde La Web Por Nada, Técnica Fácil Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-libre-de-raw-a-ligne-claire-avec-movavi/"><u>Transformation Libre De RAW À Ligne Claire Avec Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/trouble-using-iphone-vpn-discover-7-effective-solutions/"><u>Trouble Using iPhone VPN? Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-through-the-excellent-windowed-and-mac-compatible-daws-top-10-selection-for-2024/"><u>Updated Navigating Through the Excellent Windowed & Mac Compatible DAWs - Top 10 Selection for 2024</u></a></li>
+</ul></div>
 

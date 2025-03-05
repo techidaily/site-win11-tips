@@ -1,7 +1,7 @@
 ---
 title: Easing Up Microsoft Store Restrictions on Windows 11
-date: 2024-08-16T01:23:06.132Z
-updated: 2024-08-17T01:23:06.132Z
+date: 2025-02-28T22:30:27.983Z
+updated: 2025-03-05T02:21:30.686Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
  Windows will now search for any possible issues with the store apps. Once it finishes the process, it will provide troubleshooting instructions, so make sure to follow them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Switch to a Different Account
 
  There’s a chance that Microsoft Store restrictions are impacting only the account you’re currently using. If you’re looking for a workaround, you could [switch user accounts](https://www.makeuseof.com/windows-11-switch-user-accounts/) .
 
  But if this didn’t fix the problem, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Reset Microsoft Store
 
  You might be dealing with restricted actions in Microsoft Store due to outdated or corrupted cache files. Fortunately, there are multiple [ways to reset Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) and fix the issue.
@@ -58,13 +52,7 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 6. Restart your computer.
 
 ![Disabling or Enabling the Microsoft Store using the LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-or-Enabling-the-Microsoft-Store-using-the-LGPE.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check Registry Editor
 
  If you’re using Windows Home, there’s a chance the Group Policy is missing on your computer. However, you can edit the Registry to unblock the Microsoft Store.
@@ -74,30 +62,16 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
  Restart your computer and check if the Microsoft Store is now unblocked.
 
 ![Clicking the “RemoveWindowsStore” value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Clicking-the-“RemoveWindowsStore”-value-in-the-Registry-Editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Unblock the Microsoft Store on Windows
 
  Hopefully, you’ve unblocked the Microsoft Store and can now install new apps on your computer. While it’s usually overlooked, there are a lot of useful apps that you can get for free through the store.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,8 +80,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/evolutionary-techniques-mastering-visual-arts-with-the-top-10-free-youtube-tutorials/"><u>[New] Revolutionary Techniques Mastering Visual Arts with the Top 10 Free YouTube Tutorials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-start-with-simple-understanding-facebook-metrics-for-newbies-for-2024/"><u>[New] Start with Simple Understanding Facebook Metrics for Newbies for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-static-to-sprightly-bouncing-text-animations/"><u>[Updated] In 2024, From Static to Sprightly Bouncing Text Animations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-mixing-on-youtube-music/"><u>2024 Approved The Art of Mixing on YouTube Music</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211426497-9781631528415-a-delightful-little-book-on-aging/"><u>A Delightful Little Book On Aging | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-absence-in-task-managers-startups/"><u>Correcting Absence in Task Manager's Startups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-icons-reinstatement-in-win-11/"><u>Effortless Icons Reinstatement in Win 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-chatbot-scripting-skills-with-our-selection-of-top-web-utilities/"><u>Elevate Your Chatbot Scripting Skills with Our Selection of Top Web Utilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-management-console-fixing-failed-snap-creations/"><u>Mastering Windows Management Console: Fixing Failed Snap Creations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-and-stable-fps-fluctuations-tackled-in-latest-cyberpunk-2077-update/"><u>Smooth and Stable: FPS Fluctuations Tackled in Latest Cyberpunk 2077 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-memory-error-in-vmware-windows-environments/"><u>Troubleshooting 'Memory Error' In VMware Windows Environments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-10-camcorders-for-shaky-hand-free-footage/"><u>Ultimate 10 Camcorders for Shaky-Hand Free Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-old-games-save-in-picture-space-a-w11-guide/"><u>Unleash Old Games, Save in Picture Space: A W11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-quick-solutions-to-windows-1011-update-error-codes/"><u>Unlocking Quick Solutions to Windows 10/11 Update Error Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-fix-unblocking-inaccessible-networks/"><u>Win Fix: Unblocking Inaccessible Networks</u></a></li>
+</ul></div>
 

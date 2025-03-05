@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Guide to Creating a PermaDelete Tool: Windows Desktop Trash"
-date: 2025-02-14T02:45:41.623Z
-updated: 2025-02-15T19:07:51.578Z
+date: 2025-03-01T21:47:38.074Z
+updated: 2025-03-04T21:15:58.077Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
  The Recycle Bin is based on the standard file deletion method. It enables users to delete files either by emptying the bin or bypassing it by pressing the**Shift + Delete** hotkey. Users can also select a**Don’t move files to the Recycle Bin** option for standard file deletion.
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
@@ -91,15 +83,7 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
@@ -114,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -140,24 +120,18 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-powerpoint-tips-adding-and-capturing-speech-sounds/"><u>[New] PowerPoint Tips Adding and Capturing Speech Sounds</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-ultimate-path-to-tiktok-fun-for-macbook-owners/"><u>[New] The Ultimate Path to TikTok Fun for MacBook Owners</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-emulate-video-success-gaining-youtube-confidence-skills/"><u>[Updated] 2024 Approved Emulate Video Success Gaining YouTube Confidence Skills</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tips-and-tricks-to-streamline-your-zoom-meetings-for-2024/"><u>[Updated] Tips & Tricks to Streamline Your Zoom Meetings for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-infusing-creative-edge-in-your-youtube-trailer-production/"><u>2024 Approved Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-magic-6-pro-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Magic 6 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-mystery-of-windowed-objects/"><u>Decoding the Mystery of Windowed Objects</u></a></li>
-<li><a href="https://win11.techidaily.com/decreasing-power-drain-windows-extender-optimization/"><u>Decreasing Power Drain: Windows Extender Optimization</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unveiling-instagram-reels-10-surprising-insights/"><u>In 2024, Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intervening-persistent-reboot-into-windows-cmos-setup/"><u>Intervening Persistent Reboot Into Windows CMOS Setup</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-virtual-face-maker-websites/"><u>New 2024 Approved Free Virtual Face Maker Websites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-ethernet-offline-issue/"><u>Overcoming Windows Ethernet Offline Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/productive-peaks-with-top-windows-apps-for-organization/"><u>Productive Peaks with Top Windows Apps for Organization</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/screencapture-the-leading-digital-saves-list/"><u>ScreenCapture The Leading Digital Saves List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-security-self-updating-windows-with-new-amd-drivers/"><u>Simplify Security: Self-Updating Windows with New AMD Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sync-windows-machines-powerful-video-conversion-synergy-with-tdarr-technology/"><u>Sync Windows Machines: Powerful Video Conversion Synergy with Tdarr Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-worlds-seamlessly-connect-your-winpc-and-galaxy/"><u>Uniting Worlds: Seamlessly Connect Your WinPC and Galaxy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-your-powerpoint-slides-fixing-their-prints-on-windows/"><u>Unleashing the Full Potential of Your PowerPoint Slides: Fixing Their Prints on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-error-buster-restore-connection-with-mbs-server-link/"><u>Win 10/11 Error Buster: Restore Connection with MB's Server Link</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-galleryguide-adjusting-post-dimensions-in-instagram/"><u>[New] 2024 Approved GalleryGuide Adjusting Post Dimensions in Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-shareable-instagram-stories-that-spread-like-wildfire/"><u>[New] Crafting Shareable Instagram Stories That Spread Like Wildfire</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cloud-storage-pricing-comparison-2024-and-best-price/"><u>[Updated] Cloud Storage Pricing Comparison 2024 and Best Price</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-expert-tips-for-shifting-gender-identity-in-digital-imagery/"><u>[Updated] In 2024, Expert Tips for Shifting Gender Identity in Digital Imagery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-scriptural-ringtone-selections-for-faith/"><u>[Updated] Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhome-explained-the-gateway-to-cutting-edge-w11/"><u>DevHome Explained: The Gateway to Cutting-Edge W11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-and-limitations-of-the-asus-x441ba-big-laptop-reviewed/"><u>Exploring the Features and Limitations of the Asus X441BA - Big Laptop Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-cover-video-widthheight-recommendation/"><u>Facebook Cover Video Width/Height Recommendation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-misspelled-words-restoring-functionality-to-outlooks-proofreading-tools/"><u>Fixing Misspelled Words: Restoring Functionality to Outlook's Proofreading Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-microsoft-office-activation-failure/"><u>Strategies to Overcome Microsoft Office Activation Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-text-editor-to-a-dark-screenplay/"><u>Transform Your Text Editor to a Dark Screenplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-uac-dynamics-from-an-admins-perspective/"><u>Transforming Windows UAC Dynamics From an Admin's Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-xc0f1103f-in-geforce-experience-win-1011/"><u>Unraveling Error XC0F1103F in GeForce Experience Win 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafted Canvas in Windows: Desk Decor Tutorials"
-date: 2024-08-16T01:23:00.392Z
-updated: 2024-08-17T01:23:00.392Z
+date: 2025-03-04T03:15:55.642Z
+updated: 2025-03-05T01:10:08.465Z
 tags:
   - windows10
   - windows11
@@ -39,24 +39,15 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 Now you can get scribbling on the Windows desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
@@ -65,9 +56,6 @@ Now you can get scribbling on the Windows desktop.
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
@@ -81,9 +69,6 @@ Now you can get scribbling on the Windows desktop.
 2. Press the**Download** button to bring up a couple of location options. Pick the one closest to your location and download the file.
 3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
@@ -103,10 +88,6 @@ Now you can get scribbling on the Windows desktop.
  Click the**Pens** tab on the**Options** window, and select the checkboxes for additional pens. You can also configure the pens’ colors and widths from that tab by clicking the palette boxes and**Width** drop-down menus for them.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
@@ -120,8 +101,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,8 +108,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/nlocking-channel-mastery-with-studio-power-ups-for-2024/"><u>[New] Unlocking Channel Mastery with Studio Power-Ups for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-voice-modification-tools-for-mobile-devices-for-2024/"><u>[Updated] Best Voice Modification Tools for Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-empowering-your-editing-skills-free-luts-and-their-use-in-obs-studio/"><u>2024 Approved Empowering Your Editing Skills Free LUTs & Their Use in OBS Studio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunctions-on-pc-heres-the-fix/"><u>Audio Malfunctions on PC? Here's the Fix!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watchs-battery-durability-with-these-8-optimized-settings-revealed/"><u>Boost Your Apple Watch's Battery Durability with These 8 Optimized Settings Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-vmfreeze-ups-vmware-guide/"><u>Clearing Up Windows VMfreeze-Ups: VMware Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-the-comprehensive-resource-for-w11-enthusiasts/"><u>DevHome: The Comprehensive Resource for W11 Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dynamic-desktop-decoration-integrating-spotlight-images-for-wallpapers/"><u>Dynamic Desktop Decoration: Integrating Spotlight Images for Wallpapers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-gaming-potential-with-advanced-amd-radeon/"><u>Elevate Your PC's Gaming Potential With Advanced AMD Radeon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unresponsive-windows-bluetooth-speaker-controls/"><u>Eliminating Unresponsive Windows Bluetooth Speaker Controls</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/erfahren-sie-vom-besten-hevc-videokonverterencoder-fur-hochwertige-h2-65-aufnahmen-unter-windows-11-and-mac-os-x/"><u>Erfahren Sie Vom Besten HEVC-Videokonverter/Encoder Für Hochwertige H.2 65-Aufnahmen Unter Windows 11 & Mac OS X</u></a></li>
+<li><a href="https://win-net.techidaily.com/guia-paso-a-paso-transferir-datos-de-hdd-a-ssd-en-computadoras-con-windows-preinstalado/"><u>Guía Paso a Paso: Transferir Datos De HDD a SSD en Computadoras Con Windows Preinstalado</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quicken-slow-excel-processes-on-windows-machines/"><u>How to Quicken Slow Excel Processes on Windows Machines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g24-power-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G24 Power to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-g2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo G2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-your-phone-calls-into-windows-11-via-intel-unison/"><u>Integrating Your Phone Calls Into Windows 11 via Intel Unison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-open-disk-space-on-windows-1011/"><u>Step-by-Step to Open Disk Space on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-silent-microphone-issues/"><u>Understanding and Fixing Silent Microphone Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-pro-key-exclusive-price-drops-await/"><u>Unlock Windows 11 Pro Key: Exclusive Price Drops Await</u></a></li>
+</ul></div>
 

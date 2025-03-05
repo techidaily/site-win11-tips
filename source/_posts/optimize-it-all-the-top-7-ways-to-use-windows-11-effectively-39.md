@@ -1,7 +1,7 @@
 ---
 title: "Optimize It All: The Top 7 Ways to Use Windows 11 Effectively (39)"
-date: 2025-02-14T22:00:16.929Z
-updated: 2025-02-15T17:51:52.890Z
+date: 2025-02-26T02:15:51.531Z
+updated: 2025-03-04T22:31:25.196Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 ![List of installed apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/list-of-installed-apps-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make Windows apps easier to locate, it is sensible to first get rid of unnecessary software and [remove bloatware from your PC](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/). This will make searching for apps easier, and it will benefit your memory usage.
 
  To view a complete list of all apps and programs installed on your machine, hit **Windows + I** to open the settings page. Click **Apps**, then select **Installed Apps**. Now, you can view an alphabetical list of installed apps on your device. To remove an app, hit the three dots beside any app and select **Uninstall**.
 
  To change the list order, you can use the **Sort By** feature beneath the search bar. Apps can be sorted by their name, size, or by their installation date. If you have multiple drives, you can also filter results based on which drives apps are located in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pin Programs to the Taskbar
 
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Create Desktop Shortcuts
 
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
@@ -74,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ## 4\. Use the Run Dialog
 
 ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Not all apps are easy to find, especially if you’re a developer. The Run dialogue is a powerful tool to locate programs that are harder to find on your Windows 11 device.
 
@@ -96,18 +80,10 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![Tutorial 5 Step 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-2.jpg)
 3. In File Explorer, right-click the file and select **Properties**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
@@ -125,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  You can use the Quick Access menu to [access the task manager on Windows 11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and open a bunch of other frequently used apps. There are also some useful extra tools you can access via the Quick Access menu. You can hit the **Desktop** option to minimize all apps. You’ll also find power options, including **Sleep** and **Shut Down**.
 
  For even faster access, you can hit the underlined letter on your keyboard to open that program. (Note, this only works when using the keyboard shortcut method to open the Quick Access Menu). The Quick Access menu is a great way to access a wide range of useful apps with only the keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Switch Between Apps Faster
 
@@ -158,24 +130,24 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-choreographed-battle-top-5-martial-arts-video-game-list/"><u>[New] Choreographed Battle Top 5 Martial Arts Video Game List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-mastering-audio-transitions-audacity-guide/"><u>[New] Mastering Audio Transitions Audacity Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-hot-off-the-tiktok-menu-top-dishes-and-challenges/"><u>[Updated] Hot Off the TikTok Menu Top Dishes & Challenges</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-the-secrets-to-stellar-igtv-footage-capture/"><u>[Updated] Unveiling the Secrets to Stellar IGTV Footage Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-new-username-assignments-in-windows-11-edition/"><u>Conquering New UserName Assignments in Windows 11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-the-install-failed-disconnect-for-win-11-discord/"><u>Correcting the 'Install Failed' Disconnect for Win 11 Discord</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-solutions-correcting-directx-issues-in-fifa-19-games/"><u>Effortless Solutions: Correcting DirectX Issues in FIFA 19 Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-notifications-game-on-windows-11/"><u>Elevate Your Notifications Game on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-driver-failure-error-on-windows-11-pc/"><u>Eliminating Driver Failure Error on Windows 11 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-amazon-echo-studio-leading-the-pack-a-comprehensive-review-of-todays-best-smart-speakers-zdnet/"><u>Is Amazon Echo Studio Leading the Pack? A Comprehensive Review of Today's Best Smart Speakers - ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-to-the-code-how-to-fix-keystrokes-in-win10/"><u>Key to the Code: How to Fix Keystrokes in Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-hurdles-restoring-access-to-notepad/"><u>Navigating Through Windows' Hurdles: Restoring Access to Notepad</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-boot-up-roadblocks-in-windows-10-a-step-by-step-solution-to-unlocking-your-system-with-f8-safe-mode/"><u>Overcoming Boot-Up Roadblocks in Windows 10: A Step-by-Step Solution to Unlocking Your System with F8 Safe Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-system-hurdle-windows-c0000022-resolution-guide/"><u>Overcoming System Hurdle: Windows C0000022 Resolution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-error-code-0xc1900101-in-windows-11-update/"><u>Remedying Error Code 0XC1900101 in Windows 11 Update</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-conquering-the-pc-version-of-pokemon-unite/"><u>Step-by-Step Tutorial: Conquering the PC Version of Pokémon Unite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-stuck-on-size-errors-in-win11-discord-with-ease/"><u>Troubleshooting Stuck-On-Size Errors in Win11 Discord with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-alter-twitter-video-headline-image/"><u>[New] 2024 Approved Alter Twitter Video Headline Image</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagrams-video-talk-essentials/"><u>[New] 2024 Approved Navigating Instagram's Video Talk Essentials</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-prospects-of-the-future-top-10-tiktok-game-creators/"><u>[New] 2024 Approved Prospects of the Future Top 10 TikTok Game Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-game-on-log-it-galaxy-phone-playthroughs/"><u>[Updated] 2024 Approved Game on, Log It! Galaxy Phone Playthroughs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-luts-techniques-for-movie-visuals-enhancement/"><u>[Updated] 2024 Approved Luts Techniques for Movie Visuals Enhancement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-clarity-in-photos-the-ultimate-iphone-and-android-editors/"><u>[Updated] Finding Clarity in Photos The Ultimate iPhone & Android Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-snapshot-sophistication-expert-advice-on-editing-magic/"><u>2024 Approved Snapshot Sophistication Expert Advice on Editing Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-about-to-expire-message-in-win11/"><u>Circumventing the 'About To Expire' Message in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-package-could-not-be-registered-errors-in-win-os/"><u>Counteracting 'Package Could Not Be Registered' Errors in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-media-experience-no-cost-players-reviewed/"><u>Elevate Your Media Experience: No-Cost Players Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-visual-communication-through-motion-for-2024/"><u>Fundamentals of Visual Communication Through Motion for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-access-to-the-insider-builds-in-windows-11/"><u>How to Prevent Access to the Insider Builds in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-open-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Open Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-steps-for-windows-repair-utility/"><u>Navigating the Steps for Windows Repair Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-classics-a-win-11-reboot-plan/"><u>Reclaiming Classics: A Win 11 Reboot Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-desktop-icon-look-in-windows/"><u>Restoring Desktop Icon Look in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turbocharge-firefox-in-minutes-10-quick-adjustments-for-a-5x-speed-boost/"><u>Turbocharge Firefox in Minutes: 10 Quick Adjustments for a 5X Speed Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-consequences-of-disabling-windows-11-notifications/"><u>Understanding the Consequences of Disabling Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-untimely-sse-windows-issues/"><u>Unraveling Untimely SSE Windows Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secret Menu Secrets: Win11's Hidden Item Magic"
-date: 2025-02-08T19:19:02.384Z
-updated: 2025-02-15T21:03:54.260Z
+date: 2025-03-01T02:27:32.177Z
+updated: 2025-03-04T23:17:15.207Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 5. Unzip (extract) the **hidden\_files\_context\_menu** ZIP file. We have a guide that includes instructions for [unzipping ZIP archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
 ![The Extract Compressed (Zipped) Folder tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extraction-utility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Open the extracted hidden\_files\_context\_menu folder.
 2. Double-click the **Add hidden files** **context menu** command registry script file.  
 ![The registry script's folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-folder.jpg)
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
 
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
 
@@ -74,23 +66,11 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
 
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 
@@ -108,19 +88,18 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-screen-capture-snapchat-stories-effectively/"><u>[New] 2024 Approved How to Screen Capture Snapchat Stories Effectively</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>[New] In 2024, Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-most-effective-10-sound-recorders-for-spotify-fans-for-2024/"><u>[New] The Most Effective 10 Sound Recorders for Spotify Fans for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-10-standout-educational-websites-for-self-paced-learning/"><u>[Updated] 10 Standout Educational Websites for Self-Paced Learning</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-your-vocal-image-for-instagrams-dynamic-features/"><u>2024 Approved Crafting Your Vocal Image for Instagram’s Dynamic Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-home-screenscape-at-will/"><u>Customizing Your Windows Home Screenscape at Will</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic-5-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic 5 Pro Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-a-deep-dive-into-dev-drive-for-coders/"><u>Leveraging Windows 11: A Deep Dive Into Dev Drive for Coders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-multiscreen-glow-best-windows-brightness-controls/"><u>Master Your Multiscreen Glow: Best Windows Brightness Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-finding-lost-files-on-pc/"><u>Mastering the Art of Finding Lost Files on PC</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/three-methods-to-test-windows-11-status/"><u>Three Methods to Test Windows 11 Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-retail-landscapes-microsofts-ai-hub/"><u>Transforming Retail Landscapes: Microsoft’s AI Hub</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-chuckle-chipmunks-robotic-jokesters/"><u>[Updated] 2024 Approved Chuckle Chipmunks Robotic Jokesters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-speedy-stories-top-10-rapid-release-games-on-tablets-pcs/"><u>2024 Approved Speedy Stories Top 10 Rapid Release Games on Tablets, PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-tech-to-preserve-classroom-interactions-for-2024/"><u>Best Tech to Preserve Classroom Interactions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elite-selection-of-windows-based-nintendo-switch-imitations/"><u>Elite Selection of Windows-Based Nintendo Switch Imitations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-common-windows-error-0x80072f8f-0x20000/"><u>Fixing Common Windows Error: 0X80072f8f-0x20000</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-proplus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 11 Pro+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-cameras-offering-uninterrupted-capture/"><u>In 2024, Best Cameras Offering Uninterrupted Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-tricks-how-to-program-precise-text-reminders-and-alerts/"><u>IPhone Tricks: How to Program Precise Text Reminders & Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-system-resources-boosting-android-studio-on-windows/"><u>Leveraging System Resources: Boosting Android Studio on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-assurance-on-your-pc/"><u>Mastering Connectivity Assurance on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-chrome-time-discreprancies-windows/"><u>Navigate Through Chrome Time Discreprancies (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-cloud-storage-onedrive-from-microsoft-id-on-pcs/"><u>Separate Cloud Storage (OneDrive) From Microsoft ID on PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tutorial-securing-the-latest-toshiba-printer-drivers-on-your-pc-with-windows-os/"><u>Tutorial: Securing the Latest Toshiba Printer Drivers on Your PC with Windows OS</u></a></li>
 </ul></div>
 

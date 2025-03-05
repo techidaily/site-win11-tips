@@ -1,7 +1,7 @@
 ---
 title: The Shaded World of Microsoft's Simple Scribbler
-date: 2024-08-16T01:23:45.002Z
-updated: 2024-08-17T01:23:45.002Z
+date: 2025-02-27T03:19:31.073Z
+updated: 2025-03-04T20:12:07.554Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 
  So, the new dark mode will help it blend in with the rest of the UI and also bring it on par with other built-in image and video editing apps like Photos and ClipChamp. Photos app received an overhaul with useful features like [slideshow and Spot Fix](https://www.makeuseof.com/slideshow-spot-fix-feature-photos-app-windows-11/) which reduce the dependency on third-party apps.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Get the Microsoft Paint App With Dark Mode
 
  Microsoft’s Paint app version 11.2304.17.0 supports dark mode and contains other improvements and feature additions. If you are a Windows Insider participant ([Dev or Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/)) keep an eye out for new updates in your respective channels.
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
  But if you don’t want to wait, you can directly download the aforementioned version of Paint from the Store.Rg-adguard website.
 
 ![Downloading New Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/downloading-new-paint-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Firstly, go to the official Microsoft Store webpage for the Paint app. Copy the webpage URL and visit the [Store.Rg-adguard website](https://store.rg-adguard.net/). Paste the link in the search box and select the Fast or Slow option.
 
@@ -57,13 +51,7 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
  2\. You can also force the Paint app to use dark mode settings even when the system-wide theme is light or custom. Open the Paint app and click on the **gear** icon in the top-right corner. Currently, you will only see one setting - to change the **App theme**. Select the **Dark** option to enable dark mode.
 
 ![enable Dark mode in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-dark-mode-in-paint-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Major Improvements With the Dark Mode Paint App
 
  Apart from the dark mode support, the Paint app has had another pestering issue that lingered for decades. The zoom feature doesn’t have a drop-down list with some default zoom sizes.
@@ -77,23 +65,14 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
  Go to the bottom right area in the Paint app and click on the **Fit to window** button. The image will be zoomed in or out to fit the Paint display window.
 
 ![New Fit to window Feature in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-fit-to-window-feature-in-paint-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Other major improvements include some changes to the Image Properties section in the app and accessibility support.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Go Dark in Paint
 
  Dark Mode support in the Paint app is great news for all Windows users. No more eye-gouging white color glare whenever you open the app. Despite being in the Insider channel, we expect that Microsoft will soon roll out the updated version of Paint to the stable channel as well. But it still has a long way ahead to become a full-fledged image editing app.
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,5 +81,22 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[New] In 2024, A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-audio-silencing-for-clearer-videographies-freepremium/"><u>[New] In 2024, Audio Silencing for Clearer Videographies (Free/Premium)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-smiles-to-text-where-to-find-amusing-tones-in-2024/"><u>[New] Smiles to Text Where to Find Amusing Tones, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>[Updated] Bright Ideas in Film Setup Secrets to Perfect Lighting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-communication-intel-unison-and-windows-11-collaboration/"><u>Cutting-Edge Communication: Intel Unison and Windows 11 Collaboration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-7-windows-photo-org-systems/"><u>Discover the Top 7 Windows Photo Org Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-cross-device-communication-via-nearby/"><u>Empowering Cross-Device Communication via Nearby</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-vivo-x100-pro-by-fonelab-android-recover-music/"><u>How to recover old music from your Vivo X100 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-system-usability-icon-addition-to-desktop-space/"><u>Improving System Usability: Icon Addition to Desktop Space</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-a2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo A2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-av1-vs-vp9-which-video-codec-wins/"><u>In 2024, AV1 Vs. VP9 Which Video Codec Wins?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-proplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 9 Pro+ Lock Screen Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-photo-import-glitches-with-ios-devices-on-windows/"><u>Overcoming Photo Import Glitches with iOS Devices on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-eradicating-screen-lag-with-extra-displays/"><u>Quick Fixes: Eradicating Screen Lag with Extra Displays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211031652-wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here!</u></a></li>
+</ul></div>
 

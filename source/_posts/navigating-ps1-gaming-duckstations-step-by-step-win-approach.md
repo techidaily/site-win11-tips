@@ -1,7 +1,7 @@
 ---
 title: "Navigating PS1 Gaming: Duckstation’s Step-by-Step WIN Approach"
-date: 2025-02-14T22:08:26.149Z
-updated: 2025-02-15T16:31:54.426Z
+date: 2025-03-02T03:30:11.774Z
+updated: 2025-03-04T23:11:04.247Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,6 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Main Window Before Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-main-window-before-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Duckstation, like many other PlayStation emulators, requires the console's original BIOS for full compatibility with its titles. We won't go over how to get it in this guide, but the official and legal way is to "dump" your own PlayStation console's BIOS.
 
  However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on[how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
@@ -83,10 +79,6 @@ Duckstation's installation differs depending on the platform:
 * **Start Fullscreen** : Have your games launch in fullscreen mode, similar to most "normal" Windows games, rather than as a floating window.
 * **Pause On Focus Loss** : will auto-pause a game when Duckstation's window "loses its focus". This way, enemies won't keep shooting at you while you're checking an incoming email.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Console
 
  It's best to leave those settings alone "globally" and only change them per game. They can improve some games while breaking others. Fortunately, Duckstation allows you to save different game configurations.
@@ -104,27 +96,15 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Settings Emulation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-emulation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. **Emulation Speed** : Choose the "normal" NTSC/PAL setting with**100%** speed, or a different percentage to slow down or speed up Duckstation. Leave it at 100% for maximum compatibility.
 2. **Fast Forward Speed** and**Turbo Speed** : Using these features may cause some games to run too fast for you. That is why you can control from here how fast those alternative speed modes go.
 3. **Enable Rewinding** : By borrowing the core mechanic of the Prince of Persia games, "time rewinding," Duckstation can help you "undo" missteps in difficult-to-beat games. This is accomplished by continuously saving the emulator's state as you play, every Xth frame and for Y frames - the values you can tweak for that option. It is up to you to decide how Rewind should work by striking a balance between granularity and RAM requirements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Display
 
  On the Display page, you'll find the options defining how Duckstation will "show a game's graphics on the screen".
 
 ![Duckstation Settings Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-display.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. **Renderer** : For most games and modern GPUs, leave it at**Hardware (Vulkan)** . If a game glitches or you have an older GPU, try**Hardware (OpenGL)** or**Hardware (D3D12)** . Try the**Hardware (D3D11)** option for even older GPUs. If you still face issues with them, fall back to the most compatible but slowest option,**Software** .
 2. **Aspect Ratio** : For purists,**Auto (Game Native)** is the best option because it does not introduce distortion. Other options allow you to have a game's graphics "cover" your entire monitor, but this usually results in "stretched" and more pixelated or blurry visuals.
@@ -135,10 +115,6 @@ Duckstation's installation differs depending on the platform:
  This is the first set of options for improving the appearance of games.
 
 ![Duckstation Settings Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-enhancements.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. **Internal Resolution Scale** : The 1x value will render a game at its native resolution. Select**5x** for HD monitors,**6x** for 1440p displays, and**9x** for true 4K displays.
 2. **Texture Filtering** : Enhance the appearance of "surfaces" in 3D games.
@@ -151,15 +127,7 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Settings Post Processing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-post-processing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We'll skip this section because it's a matter of personal preference. Feel free to experiment with all the available shaders by clicking the plus button and trying them out one by one. Or you could skip them entirely.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Controller Setup
 
@@ -192,24 +160,20 @@ Duckstation's installation differs depending on the platform:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-uncovering-asmr-truths-for-viewers/"><u>[Updated] 2024 Approved Uncovering ASMR Truths for Viewers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cinematic-chronicles-reviewing-high-fidelity-recorders-for-2024/"><u>[Updated] Cinematic Chronicles Reviewing High-Fidelity Recorders for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unlock-seamless-video-conversion-youtube-to-dailymotion/"><u>[Updated] Unlock Seamless Video Conversion YouTube to Dailymotion</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-scrutinizing-high-dynamic-range-insights-from-luminance/"><u>2024 Approved Scrutinizing High Dynamic Range Insights From Luminance</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-oneplus-nord-n30-se-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on OnePlus Nord N30 SE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-time-before-next-login-after-failure-in-win-1011/"><u>Customizing Time Before Next Login After Failure in Win 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-and-join-youtubes-latest-minigame-testing/"><u>Discover & Join YouTube's Latest Minigame Testing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-for-zebra-zp450-driver-software-download-and-installation-steps/"><u>Easy Update Guide for Zebra ZP450 Driver Software - Download & Installation Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hiding-the-language-indicator-in-a-smokescreen-on-win11/"><u>Hiding the Language Indicator in a Smokescreen on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-the-requires-privilege-error-error-0x80070522-on-pcs/"><u>How To Address the “Requires Privilege” Error (Error 0X80070522) on PCs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-total-environmental-immersion-in-media-creation/"><u>In 2024, Total Environmental Immersion in Media Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726219555922-movavi/"><u>Movavi 소품화 제공 - 모든 기술을 안전하게 사용</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-uninstalling-and-reinstalling-store-games/"><u>Overcoming Challenges: Uninstalling and Reinstalling Store Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-bsod-interrupt-exception-troubleshoot/"><u>Preventing BSOD: Interrupt Exception Troubleshoot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-pc-7-tricks-to-revitalize-windows-update/"><u>Reclaim Your PC: 7 Tricks to Revitalize Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-control-command-efficiency-on-windows-11/"><u>Reclaiming Control Command Efficiency on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconfigure-win11s-subnet-settings/"><u>Reconfigure Win11's Subnet Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-fix-proc-invocation-failures-in-malwarebytes-software/"><u>Strategies to Fix Proc Invocation Failures in Malwarebytes Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/alculating-clickers-contribution-to-youtube-earnings/"><u>[New] Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-encompassing-expense-elucidation-beginning-a-podcast/"><u>2024 Approved All-Encompassing Expense Elucidation Beginning A Podcast</u></a></li>
+<li><a href="https://discover-best.techidaily.com/boost-your-site-with-cookiebot-technology-experience-next-level-analytics-and-conversion-optimization/"><u>Boost Your Site with Cookiebot Technology – Experience Next-Level Analytics and Conversion Optimization</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s23plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy S23+ Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-how-to-use-google-photos/"><u>In 2024, How to Use Google Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-double-effect-wonders-for-tiktoks/"><u>In 2024, Step-by-Step Guide Double Effect Wonders for TikToks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-scripts-error-resolution-made-easy/"><u>Mastering Windows Scripts: Error Resolution Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-sluggish-windows-apps-for-seamless-web-linkage/"><u>Revitalize Sluggish Windows Apps for Seamless Web Linkage</u></a></li>
+<li><a href="https://windows11.techidaily.com/shaping-windows-11-square-it-off/"><u>Shaping Windows 11: Square It Off</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-missing-device-driver-warning-during-upgrade/"><u>Solutions for Missing Device Driver Warning During Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-efficiency-top-strategies-for-mastering-windows-file-organization/"><u>Streamlined Efficiency: Top Strategies for Mastering Windows File Organization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-most-effective-ios-email-clients-of-2024-our-favorites/"><u>The Most Effective iOS Email Clients of 2024: Our Favorites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-try-outlook-update/"><u>Why Windows Users Should Try Outlook Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-setup-made-easy-enable-hyper-v-now/"><u>Win11 Setup Made Easy: Enable Hyper-V Now</u></a></li>
 </ul></div>
 

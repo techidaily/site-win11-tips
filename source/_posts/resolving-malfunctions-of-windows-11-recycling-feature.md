@@ -1,7 +1,7 @@
 ---
 title: Resolving Malfunctions of Windows 11 Recycling Feature
-date: 2025-02-14T00:18:09.086Z
-updated: 2025-02-16T02:56:02.486Z
+date: 2025-03-02T20:15:39.081Z
+updated: 2025-03-04T17:48:55.588Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Resetting the Recycle Bin using Command Prompt can effectively fix the "The Recycle Bin on C:\\ is corrupted" error on Windows. Use the command "rd /s /q C:\\$Recycle.bin" to delete all files and restore the Recycle Bin to default settings.
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  Fortunately, it is possible to resolve this error message without formatting your drive and losing critical data. Here, we show you how to fix the Windows 10 or 11 error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Reset Recycle Bin Using the Command Prompt
 
  Resetting the Recycle Bin is one of the most effective ways to fix issues with it. Doing so allows Windows to empty the Recycle Bin and restore it to its default settings, resolving any issues.
@@ -95,19 +87,11 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform a System Restore
 
  Recent changes made to your system may have led to the Recycle Bin corrupted error on your Windows 10 or 11 PC. If the error message has only started appearing recently, you can consider [using system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state when it worked fine.
 
  Once you restore Windows to its previous state, the errors shouldn't persist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Rid of Annoying Recycle Bin Corrupted Errors
 
@@ -202,10 +186,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 `rd /s /q C:\$Recycle.bin`  
 ![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
 
 **/s** \- Recursively deletes all the files and folders in the Recycle Bin, including subdirectories.
@@ -215,10 +195,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  If you are getting the Recycle Bin corrupted error for a drive other than the C drive, replace the letter "C:" in the above command with the letter of the drive causing the error.
 
  Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run a CHKDSK Scan
 
@@ -233,10 +209,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 `chkdsk /r e:`  
 ![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
 
  Restart your PC after running the CHKDSK scan, then check if the error still occurs.
@@ -247,10 +219,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Scan for Malware
 
  If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
@@ -258,10 +226,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 ![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Perform a System Restore
 
@@ -318,10 +282,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
 
  Restart your PC after running the CHKDSK scan, then check if the error still occurs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the SFC and DISM Scans
 
@@ -362,24 +322,20 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-high-speed-film-gatherer-for-timelapse-top5/"><u>[New] High-Speed Film Gatherer for Timelapse #Top5</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-x5-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/addressing-the-rising-issue-of-burnout-among-coders-corporate-solutions-explored-zdnet/"><u>Addressing the Rising Issue of Burnout Among Coders - Corporate Solutions Explored | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/drive-efficiency-forward-hotkeys-for-fast-clicking/"><u>Drive Efficiency Forward: Hotkeys for Fast Clicking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fix-guide-for-win1011s-corrupted-bin-errors/"><u>Essential Fix Guide for WIN10/11's Corrupted Bin Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/full-hd-classics-unlocked-the-perfect-scummvm-techniques-for-windows-users/"><u>Full HD Classics Unlocked: The Perfect ScummVM Techniques for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-when-outlook-fails-to-launch-normally/"><u>Guiding Users When Outlook Fails to Launch Normally</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-competent-is-chatgpt-in-handling-complex-arithmetic-puzzles/"><u>How Competent Is ChatGPT in Handling Complex Arithmetic Puzzles?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unleash-creativity-video-art-and-live-streaming-with-vlc-webcam-capabilities/"><u>In 2024, Unleash Creativity Video Art & Live Streaming with VLC Webcam Capabilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-into-system32-folder-of-win11/"><u>Journey Into System32 Folder of Win11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-communication-on-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web of Communication on Leading Platforms: Facebook, Twitter, Instagram, and Youtube.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-win-11-edge-security-using-ms-defender-application-guard/"><u>Optimize Win 11 Edge Security Using MS Defender Application Guard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/override-standard-user-restrictions-now/"><u>Override Standard User Restrictions Now</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solutions-for-classpnpsys-errors-on-windows-10-and-7/"><u>Solutions for CLASSPNP.SYS Errors on Windows 10 and 7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-definitive-guide-to-srt-editing-on-mac/"><u>The Definitive Guide to SRT Editing on Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-optimal-performance-by-taming-high-cpu-demands/"><u>Unleashing Optimal Performance by Taming High CPU Demands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-chatgpt-enterprise-what-does-it-offer-and-how-is-it-different/"><u>What Is ChatGPT Enterprise, What Does It Offer, and How Is It Different?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-0xc0000005-fix-a-step-by-step-guide/"><u>WinError 0Xc0000005 Fix: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/chromatic-coherence-helper/"><u>Chromatic Coherence Helper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-and-correcting-windows-security-missteps/"><u>Confronting and Correcting Windows Security Missteps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafty-tricks-for-extracting-network-info-in-windows-ps/"><u>Crafty Tricks for Extracting Network Info in Windows PS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766794967-digiarty-software-inc/"><u>Digiarty Software, Inc. のプライバシーガイドライン - セキュリティとデータ保護に関する公式方針</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-scout-for-empty-folders-delete-them-in-windows/"><u>Efficiently Scout for Empty Folders, Delete Them in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-woes-issue-fixed/"><u>Epson Printer Woes, Issue Fixed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-addressing-error-0x800700e1-on-windows-11/"><u>Guidelines for Addressing Error 0X800700E1 on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-pova-5-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Pova 5 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>In 2024, Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/lightened-screen-entry-for-2024/"><u>Lightened Screen Entry for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-locating-missing-gpeditmsc-error/"><u>Mastering the Art of Locating Missing Gpedit.msc Error</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-connectivity-made-simple-with-the-clearstream-eclipse-antenna-review/"><u>Next-Level Connectivity Made Simple with the ClearStream Eclipse Antenna Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-java-installer-glitches-on-pc/"><u>Steps to Resolve Java Installer Glitches on PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-11-budget-friendly-recorders-for-vloggers-for-2024/"><u>Top 11 Budget-Friendly Recorders for Vloggers for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725284401205-winxvideo-ai/"><u>최고의 비디오 품질을 위해 Winxvideo AI를 사용하여 비디오를 강화하는 기술</u></a></li>
 </ul></div>
 

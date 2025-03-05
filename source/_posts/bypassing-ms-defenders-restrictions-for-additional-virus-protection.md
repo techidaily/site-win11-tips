@@ -1,7 +1,7 @@
 ---
 title: Bypassing MS Defender's Restrictions for Additional Virus Protection
-date: 2024-08-16T01:24:59.154Z
-updated: 2024-08-17T01:24:59.154Z
+date: 2025-03-02T00:45:56.184Z
+updated: 2025-03-04T22:07:44.142Z
 tags:
   - windows10
   - windows11
@@ -34,27 +34,15 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 2. In the Windows Security window, click on **Virus & threat protection**.
 3. Scroll down to **Virus & threat protection settings** and click on **Manage settings**.  
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After disabling Tamper Protection, see if your third-party antivirus works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Add an Exclusion for the File to Windows Defender
 
  Another method is to add third-party antivirus to the exclusions list in Windows Defender. This will prevent Microsoft Defender from scanning and blocking the antivirus program. This method allows you to run both security tools simultaneously.
@@ -65,19 +53,8 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 2. In the left sidebar, you will find the **Privacy & security** option. Click on it.
 3. Next, click on **Windows Security** and open **Virus & threat protection**. This will take you to the Windows Security page.  
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
@@ -103,8 +80,6 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
  So how do you fix this? Let's check it out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,5 +87,26 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/0-must-watch-historical-channels-for-students/"><u>[New] 10 Must-Watch Historical Channels for Students</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-gratis-i-file-aiff-in-formato-m4r-online-con-convertitore-audiovideo-movavi/"><u>Cambia Gratis I File AIFF in Formato M4R Online Con Convertitore Audiovideo - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-video-mkv-a-formato-mp4-online-sin-coste-herramientas-de-movavi/"><u>Convertir Video MKV a Formato MP4 Online Sin Coste: Herramientas De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-tga-images-into-bmp-format/"><u>Free Online Converter: Transforming TGA Images Into BMP Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-converteer-3gp-naar-jpeg-efficient-beeldcodeconverting-met-movavi/"><u>Gratis Online Converteer 3GP Naar JPEG: Efficiënt Beeldcodeconverting Met Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-wma-in-aac-omzetten-via-onlinemiddel-professioneel-resultaat-movavi/"><u>Gratis WMA in AAC Omzetten Via Onlinemiddel - Professioneel Resultaat Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-swf-filament-naar-format-m4v-omzetten-leergids-van-movavi-online/"><u>Gratuit SWF-Filament Naar Format M4V Omzetten: Leergids Van Movavi Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Tecno</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-gionee-f3-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Gionee F3 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pure-harmony-for-win-software/"><u>In 2024, Pure Harmony for WIN Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-techniques-for-capturing-ps3-gaming-moments/"><u>In 2024, Top Techniques for Capturing PS3 Gaming Moments</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-realtek-rtl81-(datetime)wireless-driver-for-windows-11-and-7-free-download/"><u>Install Realtek RTL81 <DateTime>Wireless Driver for Windows 11 & 7 – Free Download</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secrets-to-composing-compelling-video-blogging-plots-for-2024/"><u>Secrets to Composing Compelling Video Blogging Plots for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-video-conversion-free-webm-and-mkv-transformers-at-movavis-digital-library/"><u>Streamline Video Conversion: Free Webm and MKV Transformers at Movavi's Digital Library</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-12plus-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme 12+ 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-top-9-replacement-editing-software-for-windows-users-seeking-an-alternative-to-final-cut-pro/"><u>The Top 9 Replacement Editing Software for Windows Users Seeking an Alternative to Final Cut Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y77t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y77t Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-votre-contenu-video-mkv-en-audio-mp3-sur-internet-gratuitement-techniques-de-convertisseur-video/"><u>Transformez Votre Contenu Vidéo MKV en Audio MP3 Sur Internet Gratuitement - Techniques De Convertisseur Vidéo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-roblox-downtimes-distinguishing-between-platform-issues-and-personal-connection-snags/"><u>Understanding Roblox Downtimes - Distinguishing Between Platform Issues and Personal Connection Snags</u></a></li>
+</ul></div>
 

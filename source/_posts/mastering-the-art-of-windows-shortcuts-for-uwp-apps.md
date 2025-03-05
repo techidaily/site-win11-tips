@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Windows Shortcuts for UWP Apps
-date: 2025-02-09T21:10:11.860Z
-updated: 2025-02-15T22:07:16.952Z
+date: 2025-02-25T18:18:04.221Z
+updated: 2025-03-04T20:54:34.204Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,7 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![The Create shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-shortcut-option.jpg)
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -88,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
 
  You can select to pin UWP apps to the taskbar with their desktop shortcuts. To do so, right-click the UWP app’s desktop shortcut and select**Show more options** \>**Pin to taskbar** . Then you can open the app from the taskbar instead.
@@ -109,14 +97,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 3. Press a key to set up a**Ctrl** +**Alt** keyboard shortcut.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/shortcut-key-box.jpg)
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
 
@@ -137,14 +117,18 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-jabra-talk-45-clarity-and-battery-stamina/"><u>Comprehensive Review of Jabra Talk 45: Clarity and Battery Stamina</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-the-system32-folder-in-windows-11/"><u>How to Open the System32 Folder in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-profits-with-windows-11-a-closer-look/"><u>Making Profits with Windows 11 - A Closer Look</u></a></li>
-<li><a href="https://os-tips.techidaily.com/preserving-the-jailbreak-effective-methods-for-reviving-a-jailbroken-iphone-without-data-loss/"><u>Preserving the Jailbreak: Effective Methods for Reviving a Jailbroken iPhone Without Data Loss</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-your-dns-cache-on-windows-10-and-11/"><u>Step-by-Step Guide: Clearing Your DNS Cache on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-off-windows-11s-hyper-v-service/"><u>Switching Off Windows 11'S Hyper-V Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essence-of-windows-cab-files-and-execution-procedures/"><u>The Essence of Windows Cab Files & Execution Procedures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-benefits-of-using-chatgpt-for-web-development/"><u>Top 4 Benefits of Using ChatGPT for Web Development</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-21-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of 21</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturafx-firefox-add-ons-for-2024/"><u>[Updated] CapturaFX FireFox Add-Ons for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-satirical-graphics-memes-made-easy-by-kapwing/"><u>[Updated] Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally/"><u>2024 Approved Unveiling the Secrets An Overview of Using EZ Grabber Professionally</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reap-the-benefits-of-bulk-directories-with-ease-in-windows-latest-os/"><u>Reap the Benefits of Bulk Directories with Ease in Window's Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-successfully-deploy-store-bought-programs/"><u>Steps to Successfully Deploy Store-Bought Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-savvy-reestablishing-server-link-with-7-fixes-for-obs-studio/"><u>Sync Savvy: Reestablishing Server Link with 7 Fixes for OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-create-failed-issue-in-windows/"><u>Understanding and Overcoming Create Failed Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-index-configuration/"><u>Understanding Windows Index Configuration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-full-playback-potential-view-anything-on-apple-tv-using-vlc-methods/"><u>Unlock Full Playback Potential: View Anything on Apple TV Using VLC Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-latest-printing-driver-for-your-epson-wf-2650-on-windows-systems/"><u>Update to the Latest Printing Driver for Your Epson WF-2650 on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-upgradation-made-easy-setting-up-win11-on-vmware-player/"><u>Windows Upgradation Made Easy: Setting up Win11 on VMware Player</u></a></li>
 </ul></div>
 

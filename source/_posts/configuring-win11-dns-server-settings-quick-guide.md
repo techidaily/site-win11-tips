@@ -1,7 +1,7 @@
 ---
 title: Configuring Win11 DNS Server Settings Quick Guide
-date: 2025-02-11T00:55:57.932Z
-updated: 2025-02-15T20:11:17.866Z
+date: 2025-02-26T23:06:47.506Z
+updated: 2025-03-04T17:44:37.668Z
 tags:
   - windows10
   - windows11
@@ -41,25 +41,13 @@ Repeat the following steps to disable the DNS client service:
 ![Disable the DNS Client Service Using Registry Editor-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-1.jpg)
 5. Close the Registry editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
 7. Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.  
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
 
@@ -79,10 +67,6 @@ Repeat the following steps to disable the DNS client service:
 
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
  It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to "Disabled". Here’s how to do it:
@@ -93,10 +77,6 @@ Repeat the following steps to disable the DNS client service:
 3. After you see the “The operation completed successfully.” message, type "exit" and press**Enter** to close the Command Prompt window.  
 ![Disable the DNS Client Service Using CMD-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-cmd-1.jpg)
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tweak Your DNS Client Service Easily
 
@@ -117,21 +97,18 @@ Repeat the following steps to disable the DNS client service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/astery-in-migrating-youtube-videos-to-igtv-platform-for-2024/"><u>[New] Mastery in Migrating YouTube Videos to IGTV Platform for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-overuse-signal-fixing-chatgpt-on-windowed-systems/"><u>Easing Overuse Signal: Fixing ChatGPT on Windowed Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-impossible-roblox-app-failures/"><u>Eliminating Impossible Roblox App Failures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-drivers-compatible-with-win7-8-and-10-download-now/"><u>Free Logitech RX250 Drivers: Compatible with Win7, 8 & 10 – Download Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-dism-your-windows-11-image-salvation/"><u>Leveraging Dism: Your Windows 11 Image Salvation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-file-management-on-windows-with-altwindirstat/"><u>Master the Art of File Management on Windows with altWinDirStat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-lsa-not-available-alert-in-windows/"><u>Mitigating LSA Not Available Alert in Windows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/pinnacle-performance-the-best-8k-camera-technology-for-2024/"><u>Pinnacle Performance The Best 8K Camera Technology for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/rapid-laptop-battery-drainage-causes-and-solutions-expert-tips-by-yl-computing/"><u>Rapid Laptop Battery Drainage: Causes and Solutions - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-screens-harmony-uncover-hidden-apps-and-windows-in-windows-11/"><u>Restore Your Screen's Harmony: Uncover Hidden Apps & Windows in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/samsung-galaxy-ai-growth-leads-surpassing-google-in-latest-tech-innovation-rankings/"><u>Samsung Galaxy AI Growth Leads, Surpassing Google in Latest Tech Innovation Rankings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamlessly-connecting-wi-fi-and-ethernet-in-one-operating-system/"><u>Seamlessly Connecting Wi-Fi & Ethernet in One Operating System</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-captioning-in-fcpx-a-beginners-guide-to-adding-subtitles/"><u>Updated 2024 Approved Captioning in FCPX A Beginners Guide to Adding Subtitles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-comprehensive-guide-to-hp-laptops-screen-recording-features/"><u>[New] In 2024, A Comprehensive Guide to HP Laptop's Screen Recording Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-are-earnings-linked-to-assessing-merchandise/"><u>[Updated] Are Earnings Linked to Assessing Merchandise?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-getting-acquainted-with-discords-innovations/"><u>[Updated] In 2024, Getting Acquainted with Discord's Innovations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maintaining-youtube-like-video-quality-on-twitter-for-2024/"><u>[Updated] Maintaining YouTube-Like Video Quality on Twitter for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/elevate-your-digital-workspace-with-uplifting-pixels-premium-solitude-themes-from-yl-softwares-portfolio/"><u>Elevate Your Digital Workspace with Uplifting Pixels: Premium Solitude Themes From YL Software's Portfolio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-developers-playground-windows-11s-enhanced-dev-drive/"><u>Exploring Developer's Playground: Windows 11'S Enhanced Dev Drive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pioneering-portable-cd-devices-of-the-year-2024/"><u>Pioneering Portable CD Devices of the Year 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-paudio-with-audacity-software/"><u>Realigning Windows PAudio with Audacity Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-previous-windows-backup-standards/"><u>Restoring Previous Windows Backup Standards</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316649-9781401951931-secrets-of-the-lost-mode-of-prayer/"><u>Secrets of the Lost Mode of Prayer | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-tackling-the-absent-gpeditmsc-in-windows/"><u>Strategies for Tackling the Absent Gpedit.msc in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-popularity-of-subpar-rear-projection-televisions-a-look-back-at-our-misguided-longing/"><u>The Popularity of Subpar Rear-Projection Televisions: A Look Back at Our Misguided Longing</u></a></li>
 </ul></div>
 

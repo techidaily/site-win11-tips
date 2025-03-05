@@ -1,7 +1,7 @@
 ---
 title: How To Configure Windows Sandbox in Win 11 Easily
-date: 2025-02-09T16:41:20.696Z
-updated: 2025-02-15T18:30:50.117Z
+date: 2025-02-27T03:08:49.138Z
+updated: 2025-03-04T19:18:56.586Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Windows Sandbox in Windows 11
 
@@ -54,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Install Windows Sandbox Using PowerShell
 
 ![enable windows sandbox powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can use the Enable WindowsOptionalFeature command in PowerShell to install Windows Sandbox in Windows. This method is useful if you find the sandbox option greyed out or unable to install it from the Windows Feature dialog.
 
@@ -90,10 +78,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 `dism /online /Enable-Feature /FeatureName: "Containers-DisposableClientVM" -All`
 4. Wait for the process to complete. Once done, press**Y** and**Enter** to restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Windows Sandbox
 
 ![Windows Sandbox Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-Sandbox-Open.jpg)
@@ -103,10 +87,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
  Upon its launch, Windows Sandbox looks like a lightweight version of your Windows machine. You can copy files from your host system or download them from the Internet using the built-in web browser. Any actions you perform in the sandbox will not affect your host system.
 
  Once the testing is complete, close the Sandbox and click**OK** to confirm the action. Unlike a VM, Sandbox will delete all the data (including apps and files) upon exit. So, you'll get a clean, isolated environment running the same Windows OS build as your host machine each time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Up and Use Windows Sandbox in Windows 11
 
@@ -129,20 +109,22 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ilmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar/"><u>[New] Filmora Simplified Guide to an Engaging YouTube Anime Subscriber Bar</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-integrate-insta-tweet-and-snap-a-comprehensive-guide/"><u>[New] Integrate Insta, Tweet & Snap A Comprehensive Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-tweet-talent-social-medias-10-gems/"><u>[Updated] In 2024, Top Tweet Talent Social Media’s 10 Gems</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/best-free-tools-for-stunning-self-shooting-product-images-slash-your-costs/"><u>Best Free Tools for Stunning Self-Shooting Product Images: Slash Your Costs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dng-jpeg-movavi/"><u>DNG 장인 이미지를 원격 공유와 관련하여 비용 없는 JPEG로의 매끄러운 전환 – Movavi</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-mini-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 mini Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-setups-mastering-the-invisible-menu-features/"><u>Stealthy Setups: Mastering the Invisible Menu Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automated-file-deletion-on-windows/"><u>The Ultimate Guide to Automated File Deletion on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-to-emulate-macos-the-top-5-approaches/"><u>Transforming Windows to Emulate macOS: The Top 5 Approaches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-modern-standby-a-critical-analysis/"><u>Unveiling Modern Standby: A Critical Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-easy-to-use/"><u>Updated 6 Essential Video Dubbing Tools for PC Users (Free and Easy to Use)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgraded-performance-ahead-steps-to-amplify-virtual-memory-in-windows-11/"><u>Upgraded Performance Ahead: Steps to Amplify Virtual Memory in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-should-i-do-if-i-cant-upgrade-my-pc-to-windows-11/"><u>What Should I Do If I Can't Upgrade My PC to Windows 11?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-do-if-windows-wont-show-notification-badges-on-taskbar-icons/"><u>What to Do if Windows Won’t Show Notification Badges on Taskbar Icons</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-parrot-prowess-in-bebop-an-in-depth-critique/"><u>[New] 2024 Approved Parrot Prowess in Bebop – An In-Depth Critique</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>[Updated] In 2024, High Definition Recording Mastering Live Footage Using Logitech Cam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-12-wildlife-wonders-for-your-android-device/"><u>[Updated] In 2024, Top 12 Wildlife Wonders for Your Android Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-syncing-platforms-for-video-upload/"><u>[Updated] Syncing Platforms for Video Upload</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-iphone-images-jpeg-png-guided-conversion-to-pdfs/"><u>2024 Approved From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-hotkeys-fastest-car-drivers-for-windows/"><u>Explore Hotkeys: Fastest Car Drivers for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-cab-structures-in-microsofts-windows-environment/"><u>Exploring CAB Structures in Microsoft's Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-javas-game-world-what-catches-our-eye/"><u>Exploring Java's Game World: What Catches Our Eye</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-for-heic-image-conversion/"><u>Optimizing Windows for Heic Image Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-steams-file-lock-up-predicament-on-pc/"><u>Solving Steam's File Lock-Up Predicament on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-run-task-manager-as-admin-in-win11/"><u>Step-by-Step to Run Task Manager as Admin in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reset-blank-login-windows-1011/"><u>Strategies to Reset Blank Login Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-browsing-safety-with-aguard-feature-on-windows-11/"><u>Streamline Your Browsing Safety with Aguard Feature on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-common-onedrive-crashes-on-pc/"><u>Swift Solutions to Common OneDrive Crashes on PC</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-ransomware-a-comprehensive-overview-by-malwarefox/"><u>Understanding Ransomware: A Comprehensive Overview by MalwareFox</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/video-recording-titans-obs-studio-vs-fraps-face-off/"><u>Video Recording Titans OBS Studio vs Fraps Face-Off</u></a></li>
 </ul></div>
 

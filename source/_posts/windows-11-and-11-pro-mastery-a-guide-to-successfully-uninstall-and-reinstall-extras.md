@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 & 11 Pro Mastery: A Guide to Successfully Uninstall and Reinstall Extras"
-date: 2024-08-16T01:24:52.819Z
-updated: 2024-08-17T01:24:52.819Z
+date: 2025-03-01T17:50:55.324Z
+updated: 2025-03-04T21:38:35.902Z
 tags:
   - windows10
   - windows11
@@ -54,9 +54,6 @@ Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best [ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset the Windows Update Components
 
  Windows Update Components include all the services, tasks, and programs that work together to make sure your Windows system is up-to-date and secure.
@@ -92,24 +89,14 @@ Follow these steps to run the update troubleshooter on Windows:
 1. Press**Win + I** to launch the Settings app.
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Follow the prompts to complete the troubleshooting process.
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try [installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. Update Windows to the Latest Version
 
  If the issue with optional feature installation is related to outdated system files, you may be able to fix it by updating Windows to the latest version.
@@ -137,9 +124,6 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -155,9 +139,6 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows PowerShell (Admin)** or**Terminal (Admin)** .
 3. Type the following command and press**Enter** :  
 Get-WindowsOptionalFeature -Online ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
@@ -169,22 +150,15 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Get Back the Windows Optional Features
 
  Hopefully, the issue with optional features not installing on your system should be fixed now. In any case, it is important to keep your system up-to-date and to follow best practices for maintaining your computer properly to help prevent issues like this from occurring.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,8 +167,26 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ranked-the-best-7-android-adblockers-for-screen-freedom/"><u>[New] 2024 Approved Ranked The Best 7 Android AdBlockers for Screen Freedom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unleashing-potential-a-guide-for-solitary-showrunners/"><u>[New] 2024 Approved Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-zoom-methods-for-chromebook-efficiency-for-2024/"><u>[New] Innovative Zoom Methods for Chromebook Efficiency for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-iphone-slow-motion-camera-video/"><u>[New] IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[Updated] 2024 Approved Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-the-art-of-film-editing-a-comprehensive-guide-to-final-cut-pro/"><u>[Updated] In 2024, Mastering the Art of Film Editing A Comprehensive Guide to Final Cut Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-monetizing-video-how-much-does-a-single-streamer-earn/"><u>[Updated] In 2024, Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-quick-and-simple-guide-how-to-convert-your-files-into-wav-format/"><u>1. Quick and Simple Guide: How to Convert Your Files Into WAV Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/as-15-paginas-de-captura-de-tela-mais-eficazes-entenda-o-que-e-um-captura-tela/"><u>As 15 Páginas De Captura De Tela Mais Eficazes - Entenda O Que É Um Captura-Tela!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comparing-streaming-software-obs-vs-shadowplay-for-2024/"><u>Comparing Streaming Software OBS vs ShadowPlay for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-gratuita-online-trasforma-il-tuo-file-wmv-in-formato-mp4-con-i-migliori-servizi-di-conversione-video/"><u>Conversione Gratuita Online: Trasforma Il Tuo File WMV in Formato MP4 Con I Migliori Servizi Di Conversione Video</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transforming-gifs-into-mpeg-format-with-ease-movavi/"><u>Free Online Conversion: Transforming GIFs Into MPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-konverter-videi-emb-a-aac-movavi-koda/"><u>Gratis Online Konverter: Vídei EMB a AAC - Movavi Koda</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personnalisation-des-liens-affilies-avec-movavi-une-strategie-doptimisation-efficace-pour-le-referencement/"><u>Personnalisation Des Liens Affiliés Avec Movavi : Une Stratégie D'optimisation Efficace Pour Le Référencement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/photo-magic-expert-tricks-for-a-brighter-whiter-smile-in-photography/"><u>Photo Magic: Expert Tricks for a Brighter, Whiter Smile in Photography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-fixing-frequent-crashes-in-manor-lords-for-desktop-users/"><u>Solutions for Fixing Frequent Crashes in Manor Lords for Desktop Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-16-premium-free-subtitle-extraction-platforms-featuring-movavi-software-solutions/"><u>Ultimate List of 16 Premium-Free Subtitle Extraction Platforms Featuring Movavi Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-movie-maker-vs-movavi-video-editor-which-is-better-for-your-editing-needs/"><u>Windows Movie Maker Vs. Movavi Video Editor: Which Is Better for Your Editing Needs?</u></a></li>
+</ul></div>
 

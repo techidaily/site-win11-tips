@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsigned Windows Update Files Errors
-date: 2025-02-12T02:25:37.689Z
-updated: 2025-02-15T18:06:11.262Z
+date: 2025-03-01T19:00:53.751Z
+updated: 2025-03-05T02:43:41.614Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
 6. Click **Start** (inside the properties windows) to run the Windows Update service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Save the settings by pressing the **Apply** and **OK** buttons.
 8. Double-click the **Background Intelligent Transfer Service** to view its settings.
 9. Select a **Manual** startup option.
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 11. Then click on the **Apply** and **OK** options to set that service’s options.
 
  If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset Components for Windows Updates
 
@@ -86,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  Security apps typically include options for disabling antivirus protection on their system tray context menus. Right-click your security app’s icon in Windows 11’s system tray area to find and select its option for temporarily disabling the antivirus shield. Then, return to the Settings app to see if error 0x800b0109 still happens with the antivirus shield disabled.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Erase the Windows Update Key
 
@@ -109,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
 
  If error 0x800b0109 still isn’t fixed after applying the potential resolutions above, try going around it by manually downloading the affected update from [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx). Then, you can install the update with an MSU file downloaded from there.
@@ -125,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![The update history in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-history4.jpg)
 4. Note down the KB code for your recently failed Windows update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
 
 ## 8\. Apply an In-Place Windows Upgrade
@@ -138,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  The good thing about an in-place upgrade is that it won’t eradicate your installed software or user files. This [how-to perform an in-place upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) guide tells you how to apply this potential solution for Windows 11\. The steps are quite similar for Windows 10, but you’ll need to download its ISO with the Media Creation Tool available on this [Microsoft page](https://www.microsoft.com/en-gb/software-download/windows10).
 
 ![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Windows Updated Again
 
@@ -161,19 +137,22 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-foundation-principles-of-tale-telling/"><u>[New] Foundation Principles of Tale-Telling</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-innovative-interaction-integrating-watch-with-macos-for-2024/"><u>[New] Innovative Interaction Integrating Watch with MacOS for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-simplify-your-marine-movie-projects-top-7-hacks-for-2024/"><u>[Updated] Simplify Your Marine Movie Projects Top 7 Hacks for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-swiftly-freeze-action-in-your-iphone-photography-journey-for-2024/"><u>[Updated] Swiftly Freeze Action in Your iPhone Photography Journey for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-pioneers-designing-the-online-avengers-landscape/"><u>2024 Approved Pioneers Designing the Online Avengers Landscape</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comprehensive-guide-to-counter-wow-bug-519/"><u>Comprehensive Guide to Counter WoW Bug #519</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prevent-windows-from-immediate-bios-access/"><u>How to Prevent Windows From Immediate BIOS Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-performance-resolving-windows-11-stuttering/"><u>Jumpstart Performance: Resolving Windows 11 Stuttering</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-the-windows-11-challenge-instal-clipchamp-effortlessly/"><u>Overcome the Windows 11 Challenge: Instal ClipChamp Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-oppo-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Oppo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-zip-archives-in-image-files-win11/"><u>Sneaky Storage Solutions: ZIP Archives in Image Files (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/square-up-your-windows-interface/"><u>Square Up Your Windows Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-intel-unison-app-that-wont-work-in-win11/"><u>Troubleshooting the Intel Unison App that Won't Work in Win11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/which-pro-stream-software-reigns-supreme-vmix-vs-wirecast-for-2024/"><u>Which Pro-Stream Software Reigns Supreme? VMix Vs. Wirecast for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-karma-demystified-a-comprehensive-look/"><u>[New] GoPro Karma Demystified A Comprehensive Look</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-art-of-video-blending-using-modes-mastery/"><u>[New] In 2024, The Art of Video Blending Using Modes Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-speed-shots-and-stills-quicktime-techniques-for-samsung-users/"><u>[Updated] 2024 Approved Speed Shots & Stills Quicktime Techniques for Samsung Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-of-snapping-finding-missing-private-images/"><u>[Updated] Secrets of Snapping Finding Missing Private Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>[Updated] Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-3450-driver-updates-made-simple-for-optimal-graphics-card-functioning/"><u>AMD Radeon 3450 Driver Updates Made Simple for Optimal Graphics Card Functioning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gateway-to-apps-in-windows-11-navigating-effortlessly/"><u>Gateway to Apps in Windows 11: Navigating Effortlessly</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-6-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 6 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigate-to-8-elite-free-3d-vids-software-companies-for-2024/"><u>Navigate to 8 Elite Free 3D Vids Software Companies for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-failure-mfc71udll-missing/"><u>Resolving Windows Failure: Mfc71u.dll Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-frozen-photoapp-win11-edition-photoshop-not-opening/"><u>Reviving Frozen PhotoApp, Win11 Edition (Photoshop) Not Opening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-username-changes-in-the-latest-windows/"><u>Step-by-Step UserName Changes in the Latest Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-read-locked-windows-files-a-guide/"><u>Taming Read-Locked Windows Files: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-windows-odbc-management-toolkit/"><u>The Essential Windows ODBC Management Toolkit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-disk-control-explore-4-opening-steps-in-windows-disk-editor/"><u>Unlock Disk Control: Explore 4 Opening Steps in Windows Disk Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-stunning-graphics-with-driver-refresh-in-win1011/"><u>Unlock Stunning Graphics with Driver Refresh in WIN10/11</u></a></li>
 </ul></div>
 

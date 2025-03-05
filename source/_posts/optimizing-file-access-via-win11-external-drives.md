@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2025-02-10T22:47:51.051Z
-updated: 2025-02-15T17:20:25.612Z
+date: 2025-02-26T17:04:27.779Z
+updated: 2025-03-05T00:15:57.720Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,6 @@ Follow the sets below to enable network discovery on Windows:
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
  Select**Private networks** if you are connected to a trusted network, such as your home network. But if you're connected to an unfamiliar network, you should select the**Public networks** option.
@@ -74,10 +70,6 @@ Here's what you need to do to use File Explorer for mapping:
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
@@ -100,10 +92,6 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use Command Prompt for Mapping
 
  Just like you used PowerShell earlier, you can use the Windows Command Prompt tool to map a network drive.
@@ -120,10 +108,6 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disconnect a Mapped Network Drive
 
  Disconnecting the network drive is a no-brainer if you no longer need access to the files on it.
@@ -136,10 +120,6 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
 
@@ -162,18 +142,18 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts/"><u>[New] In 2024, Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-great-debate-should-you-go-for-obs-or-bandicam/"><u>[Updated] In 2024, The Great Debate Should You Go for OBS or Bandicam?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-engagement-choosing-your-fb-video-direction/"><u>[Updated] Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-perfect-your-yt-content-mastery-of-windows-movie-maker-for-2024/"><u>[Updated] Perfect Your YT Content Mastery of Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>2024 Approved Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-software-failure-amd-195-for-windows/"><u>Correcting Software Failure: AMD 195 for Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crystal-carousel-at-the-olympics/"><u>Crystal Carousel at the Olympics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-achieve-optimal-security-with-ms-defender-aguard-on-windows-11s-edge/"><u>Easily Achieve Optimal Security with MS Defender Aguard on Windows 11'S Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enablingdisabling-tpm-support-in-virtualbox-70/"><u>Enabling/Disabling TPM Support in VirtualBox 7.0</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2020) With or Without Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-employ-chatgpt-as-an-editing-assistant/"><u>Is It Feasible to Employ ChatGPT as an Editing Assistant?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-get-help-issue/"><u>Resolving Windows 11 'Get Help' Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016209429-resolving-your-lenovo-pcs-audio-problems-effortlessly/"><u>Resolving Your Lenovo PC's Audio Problems Effortlessly!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[New] 2024 Approved From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-video-appeal-with-these-20-best-thumbnail-fonts/"><u>[Updated] 2024 Approved Boost Video Appeal with These 20 Best Thumbnail Fonts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exploring-proficiency-uncovering-the-best-5-online-title-creators/"><u>[Updated] Exploring Proficiency Uncovering the Best 5 Online Title Creators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-font-power-boosters-secrets-to-stellar-video-thumbnails-for-2024/"><u>[Updated] Font Power Boosters Secrets to Stellar Video Thumbnails for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-read-only-mode-for-windows-folders/"><u>Deactivating Read-Only Mode for Windows Folders</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-numeric-key-icons-into-win11s-systray/"><u>Implementing Numeric Key Icons Into Win11's SysTray</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-14-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi 14 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/instrucciones-faciles-de-seguir-para-limpiar-y-reparar-tu-pc-en-windows-11-sin-coste-gratis/"><u>Instrucciones Fáciles De Seguir Para Limpiar Y Reparar Tu PC en Windows 11 Sin Coste (GRATIS)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-motorola-edge-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Edge 2023 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-setbacks-when-altering-windows-11-defaults/"><u>Overcoming Common Setbacks When Altering Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-word-docs-converting-to-pdfs-with-windows-11/"><u>Streamline Your Word Docs: Converting to PDFs with Windows 11</u></a></li>
 </ul></div>
 

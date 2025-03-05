@@ -1,7 +1,7 @@
 ---
 title: "Maximizing PIN Security: Windows 11 Pin Length Enhancement"
-date: 2025-02-14T23:56:21.826Z
-updated: 2025-02-15T17:38:39.737Z
+date: 2025-02-28T16:23:00.651Z
+updated: 2025-03-05T01:30:17.866Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg)
 5. Type **PassportForWork** in the new key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
 2. Enter **PINComplexity** inside the key’s text box to set that name.
 3. Right-click the **PINComplexity** key to select **New** \> **DWORD (32-bit) Value**.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
 3. You can also set a maximum PIN length. To do so, right-click **PINComplexity** again and select the **DWORD (32-bit) Value** option on the **New** submenu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type **MaximumPINLength** into the DWORD’s text box.  
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
@@ -66,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
@@ -102,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Extend Your Windows PIN to Make It More Secure
 
  Extending the minimum PIN length for logging in to Windows with one of the methods above is a good security measure. The longer your Windows Hello PIN is, the more secure your PC will be. However, an overly long PIN will be harder to remember. So, don’t make your PIN too long!
@@ -124,22 +104,18 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-podcast-perfection-elite-webcam-selection-guide-for-2024/"><u>[New] Podcast Perfection Elite Webcam Selection Guide for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-accelerate-footage-leading-android-apps/"><u>[Updated] Accelerate Footage Leading Android Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-from-visionary-to-victory-channel-command-school/"><u>2024 Approved From Visionary to Victory Channel Command School</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/acesse-as-melhores-dicas-e-foruns-educacionais-no-portal-de-aprendizagem-movavi/"><u>Acesse as Melhores Dicas E Fóruns Educacionais No Portal De Aprendizagem Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-apples-finest-ipad-pro-11-inch-model-2018-release/"><u>Comprehensive Review of Apple's Finest: IPad Pro 11-Inch Model (2018 Release)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-ui-context-menu-with-disk-space-insight-tool/"><u>Enhancing Windows UI: Context Menu with Disk Space Insight Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enrich-windows-11-notepad-through-synergistic-tech/"><u>Enrich Windows 11 Notepad Through Synergistic Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-page-not-rendered-in-ms-marketplace/"><u>How to Rectify Page Not Rendered in MS Marketplace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-microsoft-defender-blocking-third-party-antivirus-software-on-windows/"><u>How to Stop Microsoft Defender Blocking Third-Party Antivirus Software on Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-2023s-undisclosed-video-download-tools-1-8-rankings/"><u>In 2024, 2023'S Undisclosed Video Download Tools #1-8 Rankings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-this-non-adobe-windows-errors/"><u>Overcoming 'This Non-Adobe' Windows Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-file-transfers-on-win11-pcs-1/"><u>Strategies to Improve File Transfers on WIN11 PCs (1)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-dusk-drawers-of-microsoft-paint/"><u>The Dusk Drawers of Microsoft Paint</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-meizu-21-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Meizu 21 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-insights-what-patch-wxx-brings-to-windows-11/"><u>Upgrade Insights: What Patch W.x.x Brings to Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-effortless-audio-volume-reduction-in-garageband/"><u>[New] In 2024, Effortless Audio Volume Reduction in Garageband</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtube-video-edits-with-adobe-premiere/"><u>[New] Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-junior-road-rules-and-racer-revelry/"><u>[Updated] 2024 Approved Junior Road Rules & Racer Revelry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cinematic-narratives-mastering-screenplays/"><u>[Updated] Cinematic Narratives Mastering Screenplays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-iphone-upgrade-guide-key-differences-between-iphone-16-and-15-for-new-buyers-techradar/"><u>Apple iPhone Upgrade Guide: Key Differences Between iPhone 16 & 15 for New Buyers | TechRadar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-uptime-failure-error-code-0x80246007-on-win11/"><u>Conquering Uptime Failure: Error Code 0X80246007 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-effective-windows-troubleshooting/"><u>Eliminating Not Found: Effective Windows Troubleshooting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-adjust-frame-rate-on-your-story-feed-in-instagram-for-2024/"><u>How to Adjust Frame Rate on Your Story Feed in Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overview-reverting-custom-energy-settings-in-windows/"><u>Overview: Reverting Custom Energy Settings in WIndows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-user-profile-service-failure-during-login-tips-and-tricks-for-windows-10-and-11/"><u>Solving 'User Profile Service' Failure During Login: Tips & Tricks for Windows 10 and 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/student-friendly-durability-tested-on-asus-chromebook-c202sa-review/"><u>Student-Friendly Durability Tested on Asus Chromebook C202SA Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-smart-8-plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Smart 8 Plus without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-blue-screen-deciphered-with-microsoft-help/"><u>Windows 11 Blue Screen Deciphered with Microsoft Help</u></a></li>
 </ul></div>
 

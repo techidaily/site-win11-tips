@@ -1,7 +1,7 @@
 ---
 title: "Mastering Sound Levels: Windows 11'S Volume Mixer Guide"
-date: 2025-02-08T17:23:58.698Z
-updated: 2025-02-15T23:44:24.229Z
+date: 2025-02-27T04:02:53.882Z
+updated: 2025-03-04T16:49:08.581Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Do You Need a Volume Mixer in Action Center?
 
  The present state of volume settings in Windows 11 is quite lackluster. You can only adjust the volume of the system and cycle between multiple audio devices. For opening any other settings, even something as trivial as a volume mixer: you need to dive deep into system sound settings.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  It is baffling how Microsoft missed something so crucial in Windows 11\. These missing volume settings gave rise to apps like[EarTrumpet](https://apps.microsoft.com/store/detail/9NBLGGH516XP?hl=en-us&gl=US&ranMID=24542&ranEAID=nOD%2FrLJHOac&ranSiteID=nOD%5FrLJHOac-kFXVOqcgmh%5FMcUkQutiXeg&epi=nOD%5FrLJHOac-kFXVOqcgmh%5FMcUkQutiXeg&irgwc=1&OCID=AID2200057%5Faff%5F7593%5F1243925&activetab=pivot%3Aoverviewtab&ranMID=43674&ranEAID=RIg0ReKk7DI&ranSiteID=RIg0ReKk7DI-SCKmwfBirhtH6ExPZ%5FEJzQ&epi=RIg0ReKk7DI-SCKmwfBirhtH6ExPZ%5FEJzQ&irgwc=1&OCID=AID2200057%5Faff%5F7795%5F1243925&tduid=%28ir%5F%5Fwdc06dt9wokfbgsgxdjh3vgezv2x6gcmodrafe9c00%29%287795%29%281243925%29%28RIg0ReKk7DI-SCKmwfBirhtH6ExPZ%5FEJzQ%29%28%29&irclickid=%5Fwdc06dt9wokfbgsgxdjh3vgezv2x6gcmodrafe9c00) which offered rich sound customization settings. Along with that, you can even access the old volume mixers, adjust the sound levels of each app, and map shortcuts.
 
 ![Old Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/old-volume-settings-in-action-center.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, Microsoft is slowly identifying such missing features in Windows 11 and is adding an inbuilt solution for it. Recently,[Microsoft began testing an RGB lighting feature](https://www.makeuseof.com/enable-rgb-lighting-controls-windows-11/) that will eliminate the need for third-party customization apps. So, it is pretty clear that Microsoft wants to reduce the reliance on third-party apps for vital system features and tweaks.
 
@@ -70,20 +62,8 @@ vivetool /enable /id:42106010
 ![Enabling New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-new-volume-settings-in-action-center.jpg)
 8. Restart your system to allow the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Log in and press**Win + A** to open Action Center. You will notice a new volume mixer icon next to the volume bar. Click on it to reveal the complete sound settings. Both the Spatial Audio and volume mixer will be present inside.  
 ![New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-volume-settings-in-action-center.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Adjust Your Volume Like A Pro on Windows 11
 
@@ -104,14 +84,21 @@ vivetool /enable /id:42106010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-ultimate-vlog-stability-devices-for-smooth-screensavers-for-2024/"><u>[New] Ultimate Vlog Stability Devices for Smooth Screensavers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[Updated] 2024 Approved Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>[Updated] 2024 Approved Spark Interest 10 Innovative Highlight Ideas to Try Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-microsofts-conversational-ai/"><u>Disabling Microsoft's Conversational AI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-tools-for-international-peak-level-mouse-usage/"><u>Discover the Ultimate Tools for International, Peak-Level Mouse Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-to-windows-ready-website-apps/"><u>Easy Steps to Windows-Ready Website Apps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/end-credits-designed-for-you-free-top-6-suggestions-for-2024/"><u>End Credits Designed for You Free Top 6 Suggestions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-working-taskbar-elements-in-windows/"><u>Fixing Non-Working Taskbar Elements in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>[New] M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>[New] Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>[New] Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-textual-terminals/"><u>[New] Tailoring Textual Terminals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-compose-better-yi-4k-footage-must-have-accessories-for-2024/"><u>[Updated] Compose Better YI 4K Footage Must-Have Accessories for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/beginners-booklet-on-backdrops-and-blending/"><u>Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conceal-ctrl-invisible-control-panel-in-1011-edition/"><u>Conceal CTRL: Invisible Control Panel in 10/11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-steps-to-rectify-management-tool-inaccessibility-in-windows-11/"><u>Decoding Steps to Rectify Management Tool Inaccessibility in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-defender-a-guide-to-third-party-virus-protection/"><u>Disabling Defender: A Guide to Third-Party Virus Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-task-management-positioning-this-pc-on-screen/"><u>Elevate Task Management: Positioning 'This PC' On Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-cannot-find-gpeditmsc-in-windows-with-ease/"><u>Fixing Cannot Find Gpedit.msc in Windows with Ease</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 12 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-gear-use-through-windows-widgets/"><u>Navigating Your Gear Use Through Windows Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-dotnet-a-complete-windows-guide-max-156/"><u>Reviving DotNet: A Complete Windows Guide (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-no-media-found-error-on-hard-drive-windows/"><u>Stop 'No Media Found' Error on Hard Drive Windows</u></a></li>
 </ul></div>
 

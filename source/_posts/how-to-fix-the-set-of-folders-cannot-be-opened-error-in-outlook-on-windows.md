@@ -1,7 +1,7 @@
 ---
 title: How to Fix “The Set of Folders Cannot Be Opened” Error in Outlook on Windows
-date: 2024-08-16T01:23:17.773Z
-updated: 2024-08-17T01:23:17.773Z
+date: 2025-03-01T23:33:31.491Z
+updated: 2025-03-04T20:23:29.950Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
  If the basic checks and fixes do not resolve the error, it's time to move on to serious troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 2\. Check for Add-In Interference
 
  The add-in interference is the leading cause of Outlook not launching and presenting the "the set of folders cannot be opened" error, as reported by numerous users on various online forums. Running Outlook in Safe mode is the best way to confirm that since it launches the app without add-ins and other elements.
@@ -42,17 +39,11 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
  Press **Win + R,** type **"Outlook.exe /safe"** and hit **Enter** to launch Outlook in safe mode.
 
 ![Run Outlook in Safe Mode by Running a Command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-run-outlook-in-safe-mode-by-running-a-command-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the app launches without an error, the add-in interference must have been the culprit. Therefore, stay in safe mode and turn off any interfering add-ins. Here's how:
 
 1. Go to the **File** tab and select **Options**.  
 ![Select Options in the File Tab of Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-options-in-the-file-tab-of-outlook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Go to the **Add-ins** tab in the left menu.
 3. Select **"COM Add-ins"** from the **Manage** menu, then click **Go**.  
 ![Click on the Go Button After Selecting the COM Add-ins Option From the Manage Dropdown Menu in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-click-on-the-go-button-after-selecting-the-com-add-ins-option-from-the-manage-dropdown-menu-in-outlook.jpg)
@@ -66,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 2. Click on the **View by** dropdown menu and select **Large icons**.
 3. Go to **Mail (Microsoft Outlook)**.  
 ![Go to Mail Option in the Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-go-to-mail-option-in-the-windows-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Data Files...** button.
 5. Select the OST file location and click **Open File Location...**  
 ![Click the Open File Location Button After Selecting the OST File in the Data Files Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-click-the-open-file-location-button-after-selecting-the-ost-file-in-the-data-files-tab.jpg)
@@ -99,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
  Misconfigured navigation pane settings or corrupted XML files, which store the navigation pane settings, can also prevent Outlook from opening and presenting the error. To eliminate this possibility, you should reset the navigation pane in Outlook that will reset the configuration to its default settings. Press **Win + R**, type **"outlook.exe /resetnavpane"** and hit **Enter**.
 
 ![Run a Command to Reset the Navigation Pane in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-run-a-command-to-reset-the-navigation-pane-in-outlook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, relaunch Outlook. If resetting the navigation pane doesn't work, you should delete the XML file manually. To do this, press **Win + R**, type **"%localappdata%\\Microsoft\\Outlook"** and hit **Enter**. After that, delete any XML files you find in this folder.
 
@@ -116,11 +101,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 2. Locate the **ScanPST.exe** file and run it.
 3. Click **Browse**, paste the path from the error window into the **Inbox Repair** tool, and click Start.  
 ![Click Start After Pasting the Path From the Error Window into the Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-click-start-after-pasting-the-path-from-the-error-window-into-the-inbox-repair-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. Then, click the **Repair** button to complete the repair.
 
  If you can't locate the Outlook folder in the path mentioned above, see our [guide on repairing the PST file](https://www.makeuseof.com/repair-pst-without-scanpst/) for the exact path.
@@ -137,23 +117,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Upon installation, launch the tool and click the **"I agree"** button.
 5. Select **Outlook** from the list of applications and click **Next**.  
 ![Click Next After Selecting Outlook From the List of Apps in the Microsoft Support and Recovery Assistant Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-click-next-after-selecting-outlook-from-the-list-of-apps-in-the-microsoft-support-and-recovery-assistant-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then, follow the on-screen instructions to carry out the repair.
 
  If any underlying problem with the Outlook client contributed to this issue, running this tool will most likely resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Run Outlook on Windows Without a Hitch
 
  Running into irritating errors when launching the Outlook client can hinder our productivity. Hopefully, you now better understand what causes the "the set of folders cannot be opened" error. In addition, by carefully applying the fixes listed above, you should be able to fix the error and launch Outlook successfully.
 
  Likewise, using an incompatible version of Outlook or the same email address in multiple mail apps may also result in an error. Here are some fixes you should apply to resolve the issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,5 +134,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-win11s-leading-free-screen-capture-software-ranked-1-5/"><u>[New] In 2024, Win11's Leading Free Screen Capture Software Ranked #1-5</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-amplify-your-vlog-presence-with-tubebuddys-tools/"><u>[Updated] 2024 Approved Amplify Your Vlog Presence with TubeBuddy's Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-a-combined-video-narrative-on-iphone/"><u>[Updated] Crafting a Combined Video Narrative on iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials-for-2024/"><u>[Updated] Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-social-surge-amass-1k-on-ig-each-month-for-a-million-dream-for-2024/"><u>[Updated] The Ultimate Social Surge Amass 1K on IG Each Month for a Million Dream for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-poco-x5-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Poco X5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluating-windows-11s-restricted-environment-advantages/"><u>Evaluating Windows 11’S Restricted Environment Advantages</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/expert-solutions-for-windows-boot-issues-on-your-laptop-fixes-and-tips-by-yl-software-professionals/"><u>Expert Solutions for Windows Boot Issues on Your Laptop – Fixes and Tips by YL Software Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-unblocking-shared-printers-in-1011-os/"><u>Guide to Unblocking Shared Printers in 10/11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-box-customization-havens-on-the-internet/"><u>In 2024, Best Box-Customization Havens on the Internet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>In 2024, Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-lockscreensaver-delay/"><u>Mastering Windows Lock/Screensaver Delay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-permission-based-saves-windows-edition/"><u>Navigating Through Permission-Based Saves: Windows Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-photography-with-darktable-the-premier-open-source-raw-image-editor-for-mac-and-linux/"><u>Revolutionize Your Photography with Darktable: The Premier Open-Source Raw Image Editor for Mac & Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-typing-mastering-windows-11s-language-options/"><u>Transform Your Typing: Mastering Windows 11'S Language Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-data-flow-addressing-usb-issues-on-windows-pcs/"><u>Unblocking Data Flow: Addressing USB Issues on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0x80073712/"><u>Understanding and Resolving Error 0X80073712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-productivity-with-these-5-windows-folder-hacks/"><u>Unlock Productivity with These 5 Windows Folder Hacks</u></a></li>
+</ul></div>
 

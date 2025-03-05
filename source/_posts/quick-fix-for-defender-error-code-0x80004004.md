@@ -1,7 +1,7 @@
 ---
 title: Quick FIX for Defender Error Code 0X80004004
-date: 2025-02-13T20:49:38.582Z
-updated: 2025-02-16T02:58:46.663Z
+date: 2025-03-02T23:11:46.501Z
+updated: 2025-03-05T02:49:15.834Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 * The real-time protection feature which monitors the files and processes to protect your system might fail to function.  
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
 
 * **Interference from other antivirus software** \- if you have installed another third-party security program on the system, it might be interfering with the processes of Microsoft Defender, leading to the problem.
@@ -61,10 +57,6 @@ Here is how you can do that:
 ![Access Defender properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-defender-properties.jpg)
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
@@ -84,17 +76,9 @@ Here is how you can do that:
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
@@ -103,10 +87,6 @@ Here is how you can do that:
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
@@ -133,21 +113,19 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-the-action-screen-recorder-roundup-for-2024/"><u>[New] Capturing the Action Screen Recorder Roundup for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essential-guide-to-storing-with-adobe-including-what-not-to-miss-elsewhere-for-2024/"><u>[Updated] Essential Guide to Storing with Adobe, Including What Not To Miss Elsewhere for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sharpen-your-viewing-experience-mastering-camera-focus-online/"><u>[Updated] Sharpen Your Viewing Experience Mastering Camera Focus Online</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-creativity-opening-ms-paint-on-win11/"><u>Jumpstart Creativity: Opening MS Paint on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-password-required-avoidance-on-windows-11/"><u>Mastering the Art of 'Password Required' Avoidance on Windows 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/raw-jpg-movavi/"><u>RAW 파일을 JPG로 쉽게 전환: Movavi에서 비용 없는 인터넷 기술 – 시작하기 위한 지침</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-reset-count-for-lockouts-after-logon-errors-in-windows-11-pro/"><u>Redefining Reset Count for Lockouts After Logon Errors in Windows 11 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/refreshing-windows-paperwork-handler/"><u>Refreshing Windows Paperwork Handler</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/shanghai-welcomes-taipei-mayor-jiang-wanan-at-the-twin-cities-forum-no-plans-for-a-summit-with-chinas-taiwan-affairs-office-chief-song-tao-insights-from-yl-26/"><u>Shanghai Welcomes Taipei Mayor Jiang Wan'an at the Twin Cities Forum; No Plans for a Summit with China’s Taiwan Affairs Office Chief Song Tao - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-handling-missing-powershell-on-windows/"><u>Strategies for Handling 'Missing PowerShell' On Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-insiders-guide-to-transforming-psp-into-a-zx-spectrum-lookalike/"><u>The Insider's Guide to Transforming PSP Into a ZX Spectrum Lookalike</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-ultimate-programming-laptops-features-and-reviews-techradar/"><u>Top 5 Ultimate Programming Laptops - Features & Reviews | TechRadar</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-strategies-for-seamless-dvd-transfer-to-plex-step-by-step-process-unveiled/"><u>Top Strategies for Seamless DVD Transfer to Plex - Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-your-spoken-language-into-written-communication-using-whisper-on-windows/"><u>Turning Your Spoken Language Into Written Communication Using Whisper on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreezing-steam-directory-access-fixes-for-windows-11/"><u>Unfreezing Steam Directory Access: Fixes for Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>[New] 2024 Approved Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-tickle-your-needs-with-these-top-15-humorous-youtube-vids/"><u>[New] 2024 Approved Tickle Your Needs with These Top 15 Humorous YouTube Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpting-soundscapes-the-fading-trick/"><u>2024 Approved Sculpting Soundscapes The Fading Trick</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combat-monitor-refresh-rate-glitches/"><u>Combat Monitor Refresh Rate Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-workflow-essential-tips-for-organizing-windows-folders/"><u>Enhance Your Workflow: Essential Tips for Organizing Windows Folders</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-m6-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco M6 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-professional-tips-top-10-text-effects/"><u>In 2024, Professional Tips Top 10 Text Effects</u></a></li>
+<li><a href="https://os-tips.techidaily.com/locate-your-ipad-model-details-through-its-unique-identifiers-an-easy-walkthrough/"><u>Locate Your iPad Model Details Through Its Unique Identifiers – An Easy Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-misalignment-of-dual-apps-on-pc/"><u>Overcoming Misalignment of Dual Apps on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-for-text-modification-in-the-snipping-app/"><u>Pro Tips for Text Modification in the Snipping App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-connectivity-woes-solutions-for-attempt-errors/"><u>Sidestep Connectivity Woes: Solutions for 'Attempt' Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-classic-diablo-combat/"><u>Unraveling the Mystery of Classic Diablo Combat</u></a></li>
+<li><a href="https://facebook.techidaily.com/winning-back-your-money-requesting-a-refund-on-facebook/"><u>Winning Back Your Money: Requesting a Refund on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-elevating-valorant-gameplay/"><u>Winning Strategies: Elevating Valorant Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Correcting Windows 11' Writable Memory Protection
-date: 2024-08-16T01:24:04.178Z
-updated: 2024-08-17T01:24:04.178Z
+date: 2025-03-01T19:45:37.018Z
+updated: 2025-03-05T02:13:22.376Z
 tags:
   - windows10
   - windows11
@@ -48,18 +48,12 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 2. Click the small arrow beside the **Display adapters** category.
 3. Right-click your PC’s GPU and select **Uninstall device**.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-device-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Select a checkbox option for deleting the driver and click **Uninstall**.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option3.jpg)
 5. Click on **Action > Scan for hardware changes** to reinstall the graphics driver.
 
  If the **Scan for hardware** changes option doesn’t reinstall the GPU’s driver, download the latest driver package for your graphics card from the [Intel](https://www.intel.com/content/www/us/en/download-center/home.html), [AMD](https://www.amd.com/en/support), or [NVIDIA](https://www.nvidia.com/download/index.aspx) websites. Double-click on the downloaded driver package file to open its setup window and select the installation option there.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Lower Your Monitor’s Refresh Rate
 
  Some users have said on forums that lowering the frame rate can resolve the “Video driver crashed” error. So, that might be worth trying if your monitor has a higher maximum refresh rate. You can reduce the frame rate by lowering a monitor’s refresh rate as follows:
@@ -72,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  If you can access in-game settings, you might also be able to select a lower frame rate option from there. Look through an affected game’s graphical settings menu to see if it includes an FPS option for selecting lower or higher frame rates.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reduce an Affected Game’s Graphical Quality Settings
 
  The “Video driver crashed” error can sometimes occur when a game’s graphical settings are set too high. That’s more likely on lower-spec PCs with poorer GPUs that can’t handle higher graphics settings so well.
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  There will probably be numerous in-game graphical options you can adjust. Lower the screen, texture, and shadow resolution settings that are included in many games. Then, select to apply the new graphical settings and restart the game.
 
 ![A game's Graphics Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/graphics-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  Alternatively, you can try selecting a lower graphics preset option instead. Most games have three or more graphics presets that generally change graphical settings. Selecting a lower-quality preset will automatically reduce various graphics options.
 
@@ -104,16 +92,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 4. If a **TDRDelay** DWORD already exists, you can skip to step six. If not, right-click **GraphicsDrivers** in Registry Editor’s left sidebar and select the **New** and **DWORD (32-bit) Value** options from the context menu.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-dword-32-bit-value-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Input **TDRDelay** for the key’s title.
 6. Double-click on the **TDRDelay** registry entry.
 7. Delete the current number and enter **8** in the **Value data** box.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-edit-dword-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Select **OK** to finish.
 
  Restart the PC after applying this registry tweak. Then, try playing games or videos to see if this error still occurs.
@@ -126,8 +108,6 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,5 +115,26 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-10-ways-free-and-paid-to-record-skype-calls-on-windows-and-mac/"><u>[New] 2024 Approved 10 Ways [Free & Paid] to Record Skype Calls on Windows & Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques/"><u>[Updated] Cementing Your Place in YouTube by Mastering Creative Studio Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>[Updated] In 2024, Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/202362024/"><u>2023年度人気！動画画像分割手法ベストセレクション6つ（2024年版）</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726224076280-rmvb-mpeg-movavi/"><u>免費移動電影 RMVB到 MPEG 在线转换 - 使用 Movavi 软件</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/chromium-allows-steel-to-resist-rapid-deterioration-in-corrosive-environments/"><u>Chromium Allows Steel to Resist Rapid Deterioration in Corrosive Environments.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargas-gratuitas-para-convertir-archivos-aiff-a-wma-sin-problemas-guia-de-movavi/"><u>Descargas Gratuitas Para Convertir Archivos AIFF a WMA Sin Problemas: Guía De Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-instagram-imagery-with-striking-borders-for-2024/"><u>Elevate Your Instagram Imagery with Striking Borders for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-minecraft-load-failures-a-step-by-step-solution/"><u>Expert Tips for Fixing Minecraft Load Failures - A Step-by-Step Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-factors-driving-the-transition-to-electric-vehicles/"><u>Exploring the Factors Driving the Transition to Electric Vehicles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-mp4-audio-files-to-flv-format-with-ease/"><u>Free Online Conversion: Change MP4 Audio Files to FLV Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-convert-3gp-files-to-mpeg-with-movavi/"><u>Free Online Conversion: Convert 3GP Files to MPEG with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225145348-movavi-m4a/"><u>Movaviのお使いレコード: 弾かずにオンラインでM4Aファイルを変換してください</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-a-aiff-trasformare-i-formati-di-file-audio-gratuitamente-con-mediahuman-converter/"><u>MP4 a AIFF: Trasformare I Formati Di File Audio Gratuitamente Con MediaHuman Converter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-downloads-updated-graphics-drivers-for-amd-radeon-compatible-with-windows-e7/"><u>Official Downloads: Updated Graphics Drivers for AMD Radeon - Compatible with Windows E7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-15-editors-headlines-of-2024-a-comprehensive-guide/"><u>Top 15 Editor's Headlines of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-chansons-mp3-en-format-wma-sans-frais-a-laide-du-service-de-convertisseur-en-ligne-de-movavi/"><u>Transformez Vos Chansons MP3 en Format WMA Sans Frais À L'aide Du Service De Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/visual-storytelling-editing-techniques-for-educators-for-2024/"><u>Visual Storytelling Editing Techniques for Educators for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi 13T Pro | Dr.fone</u></a></li>
+</ul></div>
 

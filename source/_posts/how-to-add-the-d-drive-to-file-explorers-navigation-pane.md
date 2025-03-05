@@ -1,7 +1,7 @@
 ---
 title: "How to Add the D: Drive to File Explorer's Navigation Pane"
-date: 2025-02-12T01:05:22.786Z
-updated: 2025-02-16T02:40:52.206Z
+date: 2025-02-27T01:40:09.163Z
+updated: 2025-03-04T21:52:41.922Z
 tags:
   - windows10
   - windows11
@@ -23,29 +23,17 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before You Proceed…
 
  We are going to [create a Registry file](https://www.makeuseof.com/windows-registry-file-guide/) to add the D: drive to the Navigation Pane. This file will make changes to the Windows registry, and you need to be careful [not to mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/). A slip-up could make Windows unusable.
 
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
 
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -86,19 +74,11 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
 
@@ -129,20 +109,24 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-internet-ranking-the-best-7-android-adblockers-now-for-2024/"><u>[Updated] Effortless Internet Ranking the Best 7 Android AdBlockers Now for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-obs-tutorial-broadcasting-on-youtube-from-home/"><u>[Updated] In 2024, OBS Tutorial Broadcasting on Youtube From Home</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-secrets-to-designing-impactful-igtv-thumbnails/"><u>[Updated] Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blending-youtube-audio-features-into-video-projects/"><u>Blending YouTube Audio Features Into Video Projects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-device-efficiency-surface-computers-firmware-update-processes/"><u>Enhancing Device Efficiency: Surface Computers' Firmware Update Processes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-giggle-grind-exploring-twitters-comedy-gold/"><u>In 2024, Giggle Grind Exploring Twitters' Comedy Gold</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-windows-11-microsofts-controversial-release-or-a-step-forward-exploring-public-sentiment-and-features/"><u>Is Windows 11 Microsoft's Controversial Release or a Step Forward?: Exploring Public Sentiment and Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-windows-11-creators-edition-exploring-the-insider-preview-v1503/"><u>Latest Updates on Windows 11 Creator's Edition: Exploring the Insider Preview V1503</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-energy-spike-during-intense-gaming-on-windows/"><u>Minimizing Energy Spike During Intense Gaming on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-deleted-default-energy-management-in-win-11/"><u>Reinstating Deleted Default Energy Management in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/relocating-qbittorrent-on-windows-a-comprehensive-instructional-walkthrough/"><u>Relocating qBittorrent on Windows: A Comprehensive Instructional Walkthrough</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-overcoming-frame-rate-drops-and-boosting-gameplay-in-lost-ark/"><u>Resolved: Overcoming Frame Rate Drops and Boosting Gameplay in Lost Ark</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-office-tasks-with-powerful-windows-shortcuts/"><u>Speed Up Office Tasks With Powerful Windows Shortcuts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-insiders-guide-to-perfected-picture-hues/"><u>The Insider's Guide to Perfected Picture Hues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-endless-unlocked-windows-experience/"><u>Tips for Endless Unlocked Windows Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-essential-insights-for-aspiring-editors-into-final-cut-pro/"><u>[Updated] 2024 Approved Essential Insights for Aspiring Editors Into Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-name-magic-ideas-for-impactful-titles-for-2024/"><u>[Updated] Channel Name Magic Ideas for Impactful Titles for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-designing-eye-catching-instagram-post-previews/"><u>[Updated] In 2024, Designing Eye-Catching Instagram Post Previews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/agriculture-amalgamations-best-friendly-farmers-game-roster-for-2024/"><u>Agriculture Amalgamations Best Friendly Farmer's Game Roster for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-methods-to-convert-fbx-format-to-obj-perfect-for-3d-printer-readiness/"><u>Easy Methods to Convert .fbx Format to .obj - Perfect for 3D Printer Readiness</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-online-workshop-title-author-for-2024/"><u>Expert Online Workshop Title Author for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-slime-rancher-2-from-crashing-on-your-pc-a-step-by-step-guide/"><u>Fixes for Preventing Slime Rancher 2 From Crashing on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-re-register-microsoft-store-apps-on-windows-11-and-11/"><u>How to Re-Register Microsoft Store Apps on Windows 11 & 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-leading-5-underwater-filters-for-gopro-videos/"><u>In 2024, Leading 5 Underwater Filters for Gopro Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-list-highest-calibre-ds-emulation-on-pc/"><u>Master List: Highest Calibre DS Emulation on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-computers-reimagined-windows-11-with-to-go-and-rufus-masterclass/"><u>Old Computers Reimagined: Windows 11 with To Go and Rufus Masterclass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-optimizing-battery-usage-in-windows-systems/"><u>Secrets to Optimizing Battery Usage in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-setup-for-new-win-11-users-via-double-clicked-apks/"><u>Simplified Setup for New Win 11 Users via Double-Clicked APKs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-wsl-save-time/"><u>Skip WSL, Save Time!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-reading-comics-on-win11/"><u>Step-by-Step Walkthrough: Reading Comics on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-disk-management-visualize-and-maximize-with-altwindirstat/"><u>Strategic Disk Management: Visualize & Maximize with AltWinDirStat</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlock-the-power-of-animation-infusing-life-into-your-ig-story-texts-for-2024/"><u>Unlock the Power of Animation Infusing Life Into Your IG Story Texts for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ai-music-forerunners-crafting-harmonies-for-a-new-era/"><u>Updated 2024 Approved The AI Music Forerunners Crafting Harmonies for a New Era</u></a></li>
 </ul></div>
 

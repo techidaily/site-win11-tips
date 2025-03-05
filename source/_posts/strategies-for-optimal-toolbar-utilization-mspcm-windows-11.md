@@ -1,7 +1,7 @@
 ---
 title: Strategies for Optimal Toolbar Utilization, MSPCM Windows 11
-date: 2025-02-15T00:48:27.769Z
-updated: 2025-02-15T22:37:17.327Z
+date: 2025-03-02T18:26:18.225Z
+updated: 2025-03-04T19:29:44.698Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
  You get a better overall design, with a vertical menu and multiple subsections, including a new Toolbox section. Let’s explore these features in detail.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s New in the Microsoft PC Manager App?
 
  The Microsoft PC Manager app is still in beta. The previous app versions had two major sections: **Cleanup** and **Security**. But the update brings a new **Home** section in the app that neatly lays out all useful settings in tiles. It supports light and dark modes and adapts to the default system theme.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
  Apart from the aesthetic touch-ups, you get four discrete sections: **Protection**, **Storage**, **Apps**, and **Toolbox**. You can restore the taskbar appearance and default apps within the **Protection** section.
 
 ![New Tools in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/new-tools-in-microsoft-pc-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Storage** section has improved Files Cleanup tools, which include a revamped large file identifier tool. Earlier, you could only preview the files in Files Explorer, but now the app opens a new sub-page for the Large Files section with multiple filters and scan options.
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
  The last section is the Toolbox section, using which you can access multiple Windows tools, display a floating toolbar on the screen, and add custom links.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable the Toolbar on the Desktop
 
  You must [install the latest version of the Microsoft PC Manager app](https://www.makeuseof.com/windows-11-pc-manager-install/) (3.8.2.0) from the [official Microsoft PC Manager website](https://pcmanager.microsoft.com/). But if you face difficulty downloading or installing the app, you can also download it from [Techspot](https://www.techspot.com/downloads/7506-microsoft-pc-manager.html), a trustworthy site.
@@ -67,19 +55,11 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
 ![Enable Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/enable-toolbar-in-microsoft-pc-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the floating toolbar on your screen, you can now minimize the Microsoft PC Manager app. Click and drag the toolbar to any side of the screen to pin it to that position. If you don’t do that, it will appear on top of all the open apps.
 
 ![Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/toolbar-in-microsoft-pc-manager.jpg)
 
  When you hover over the toolbar position, it will automatically appear. Click the Boost button to clear the memory or launch any tools. You can even add custom links to websites in the toolbar and then launch them in Edge directly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Customize the Toolbar
 
@@ -94,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 5. If you want to remove a tool’s icon from the toolbar, click the **minus (-)** icon.  
 ![Add or remove tools in the Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/add-or-remove-tools-in-the-toolbar-in-microsoft-pc-manager.jpg)
 6. Lastly, click on the desktop to close the toolbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can hide the toolbar without closing the Microsoft PC Manager app in the background. Hover over the toolbar to open it and click on **Settings**. Then click on **Hide toolbar** to hide it on your desktop. However, you will have to access the **Toolbox** section in the Microsoft PC Manager app to unhide the toolbar.
 
@@ -191,10 +167,6 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
 ![Enable Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/enable-toolbar-in-microsoft-pc-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the floating toolbar on your screen, you can now minimize the Microsoft PC Manager app. Click and drag the toolbar to any side of the screen to pin it to that position. If you don’t do that, it will appear on top of all the open apps.
 
 ![Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/toolbar-in-microsoft-pc-manager.jpg)
@@ -215,17 +187,9 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 ![Add or remove tools in the Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/add-or-remove-tools-in-the-toolbar-in-microsoft-pc-manager.jpg)
 6. Lastly, click on the desktop to close the toolbar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can hide the toolbar without closing the Microsoft PC Manager app in the background. Hover over the toolbar to open it and click on **Settings**. Then click on **Hide toolbar** to hide it on your desktop. However, you will have to access the **Toolbox** section in the Microsoft PC Manager app to unhide the toolbar.
 
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A User-Friendly Toolbar for PC Maintenance
 
@@ -250,10 +214,6 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
  You can move or permanently delete one or multiple files directly from this window without opening File Explorer. The **Deep Scan** option is still there, and you can even access [Storage Sense](https://www.makeuseof.com/windows-11-storage-sense-guide/) from the Microsoft PC Manager app. The App Management section doesn’t have anything new. You can end processes, manage startup apps, and directly access the Microsoft Store.
 
  The last section is the Toolbox section, using which you can access multiple Windows tools, display a floating toolbar on the screen, and add custom links.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the Toolbar on the Desktop
 
@@ -305,22 +265,17 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-revised-interview-guidelines-for-captivating-listeners/"><u>[New] Revised Interview Guidelines for Captivating Listeners</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ultimate-video-guide-to-hairstyles-for-2024/"><u>[New] Ultimate Video Guide to Hairstyles for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[Updated] 2024 Approved Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-professional-filmmakers-pick-is-it-filmora-or-democreator-for-2024/"><u>[Updated] Professional Filmmakers' Pick Is It Filmora or Democreator for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combining-macos-and-windows-apps-for-maximum-efficiency/"><u>Combining macOS and Windows Apps for Maximum Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-unleashed-powertoys-batch-rename-feature/"><u>Efficiency Unleashed: PowerToys' Batch Rename Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-latest-features-how-apples-airpods-pro-and-max-stack-up-against-each-other-insights-from-zdnet/"><u>Exploring the Latest Features: How Apple's AirPods Pro and Max Stack Up Against Each Other - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-stranded-message-error-on-windows-1011-xbox-app/"><u>Fixing the ‘Stranded’ Message Error on Windows 10/11 Xbox App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-completely-uninstall-wsl-on-windows-10-and-11/"><u>How to Completely Uninstall WSL on Windows 10 & 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x100-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X100 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/innovative-zooctorial-conceptual-kits-for-2024/"><u>Innovative Zooctorial Conceptual Kits for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-playnite-for-a-comprehensive-gaming-library/"><u>Optimizing Playnite for a Comprehensive Gaming Library</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-code-0x80d03801-ms-store/"><u>Steps to Correct Error Code 0X80D03801 MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-thumbnails-size-easily/"><u>Tailoring Windows Thumbnails Size Easily</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-blockchain-visuals-with-yls-expert-strategies/"><u>Understanding Blockchain Visuals with YL's Expert Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-6-fast-tips-for-overcoming-ppt-save-failures/"><u>Winning Strategies: 6 Fast Tips for Overcoming PPT Save Failures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2022-speed-skating-spectacle-for-2024/"><u>[New] 2022 Speed Skating Spectacle for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-playtime-registration-and-logout-tutorials/"><u>[New] Playtime Registration & Logout Tutorials</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlocking-youtube-secrets-sharing-videos-in-google-wallet-for-2024/"><u>[New] Unlocking YouTube Secrets Sharing Videos in Google Wallet for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-247-real-time-follower-analysis/"><u>[Updated] 24/7 Real-Time Follower Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-your-youtube-content-basic-premiere-pro-edits/"><u>[Updated] Enhancing Your YouTube Content Basic Premiere Pro Edits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamlining-multiple-youtube-videos-into-one/"><u>[Updated] Streamlining Multiple YouTube Videos Into One</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/it-master/"><u>ArtEdit Master</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealment-crafting-masterfully-hiding-zip-within-windows-11-images/"><u>Concealment Crafting: Masterfully Hiding ZIP Within Windows 11 Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-huawei-nova-y91-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Huawei Nova Y91 Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrate-windows-copilot-using-vivetool-guide/"><u>Integrate Windows Copilot Using ViveTool Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-file-management-incorporating-new-commands-into-windows-11-menus/"><u>Tailoring File Management: Incorporating New Commands Into Windows 11 Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-bypass-driver-sie-and-use-unsigned-on-pcs/"><u>Techniques to Bypass Driver SIE and Use Unsigned On PCs</u></a></li>
 </ul></div>
 

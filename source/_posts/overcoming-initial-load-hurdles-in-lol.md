@@ -1,7 +1,7 @@
 ---
 title: Overcoming Initial Load Hurdles in LOL
-date: 2024-08-16T01:25:28.180Z
-updated: 2024-08-17T01:25:28.180Z
+date: 2025-03-02T16:01:54.700Z
+updated: 2025-03-05T00:47:55.986Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  If you encounter a specific error when you launch the game, then you should search for solutions specific to that error. Since every error has a different solution, applying the same fixes covered in this article may not fix all of them.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Apply Preliminary Checks
 
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
@@ -49,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  If the above fixes don't help, start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Wait It Out
 ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
 
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
  The League of Legends is a server-dependent multiplayer game. To play the game, your device needs to be connected to the internet. If you're not connected to the internet, or the connection itself is unstable, the game may not launch or run correctly. Therefore, make sure your device has an active internet connection.
 
 ![router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-router.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
@@ -93,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Delete the Config and Logs Folders
 
  Files in the Logs folder contain information about errors and problems you encounter in the game. Likewise, the Config folder contains information regarding game configuration and settings. The issue under discussion can be caused by interference by these files. Therefore, you should delete the aforementioned folders.
@@ -117,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 2. Navigate to the **Game Overlay** tab on the left.
 3. Turn off the toggle next to **Enable in-game overlay**.  
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
 
@@ -127,15 +112,9 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 2. Navigate to the **Registered Games** tab on the left.
 3. Click the **monitor icon** next to League of Legends.  
 ![Disable Discord Overlay for a Specific Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-discord-overlay-for-a-specific-game-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
@@ -146,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  If none of the above fixes solve your problem and the game doesn't open, you may need to reinstall it. Before you begin the installation process, you should uninstall the existing installation. Once you have uninstalled it, you can reinstall the game after downloading it from the official website, just as you did the first time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Get Back to Playing League of Legends on Windows
 
  When League of Legends does not open, frustration may set in. If your system meets the minimum game requirements and you aren't experiencing any specific errors, the fixes above should fix the problem, and you should be able to play the game. When none of the fixes work, reinstall the game.
@@ -157,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,5 +140,26 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-youtubes-revenue-model-one-million-viewer-focus/"><u>[New] In 2024, Understanding YouTube's Revenue Model One Million Viewer Focus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-routes-converting-pinners-videos-into-music-files/"><u>[New] Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-raw-footage-to-high-quality-mpeg-youtube-conversion-techniques-for-2024/"><u>[Updated] From Raw Footage to High-Quality MPEG YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortless-free-capture-of-your-android-world/"><u>[Updated] In 2024, Effortless Free Capture of Your Android World</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmv-and-wav-movavi/"><u>線上免費 WMV & WAV 間的影片轉換 – 運用 Movavi 轉換器技術</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726223861570-pcx-jpg-movavi/"><u>移動科技：免費 PCX 到 JPG 格式範例，以 Movavi 工具進行測試</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enregistrez-vos-moments-avec-ease-une-approche-complete-pour-videosur-mac-par-movavi-en-2024/"><u>Enregistrez Vos Moments Avec Ease: Une Approche Complète Pour Vidéosur Mac Par Movavi en 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x6-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco X6 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenlose-online-dts-aac-umwandlung-mit-movavi-perfekt-fur-filme-und-musik/"><u>Kostenlose Online DTS AAC Umwandlung Mit Movavi - Perfekt Für Filme Und Musik</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-batch-conversion-heic-to-jpeg-in-windows-11/"><u>Mastering the Art of Batch Conversion: Heic to JPEG in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mlb-the-show-19-game-review-striking-graphics-paired-with-unanticipated-roleplay-elements/"><u>MLB The Show 19 Game Review: Striking Graphics Paired with Unanticipated Roleplay Elements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-free-online-il-tuo-strumento-preferito-per-la-conversione-in-gif/"><u>Movavi Free Online - Il Tuo Strumento Preferito per La Conversione in GIF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-convertidor-de-video-f4v-a-formatos-sin-costo-usar-online-gratis/"><u>Movavi: Convertidor De Vídeo F4V a Formatos Sin Costo - Usar Online Gratis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviwebp/"><u>Movaviの使いやすいオンラインWEBPファイル変換サービス - 完全無料</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rmvb-avi/"><u>RMVB파일을 AVI로 제공: 원격 응용 방르솔렛 - 무료</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-icloud-notes-with-linux-a-comprehensive-guide-zdnet/"><u>Syncing iCloud Notes with Linux: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/unlock-your-audio-potential-free-focusrite-scarlett-2i2-software-for-windows-users/"><u>Unlock Your Audio Potential - Free Focusrite Scarlett 2I2 Software for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp43gp-moovavis/"><u>오픈소스 내 MP4/3GP를 원격으로 무용화하는 방법 - Moovavis</u></a></li>
+</ul></div>
 

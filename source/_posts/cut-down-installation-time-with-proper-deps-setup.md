@@ -1,7 +1,7 @@
 ---
 title: Cut Down Installation Time with Proper Deps Setup
-date: 2024-08-16T01:24:05.229Z
-updated: 2024-08-17T01:24:05.229Z
+date: 2025-02-26T23:11:41.855Z
+updated: 2025-03-04T18:19:09.445Z
 tags:
   - windows10
   - windows11
@@ -48,9 +48,6 @@ Close
  You can download Microsoft Visual C++ Redistributable from the [Microsoft Learn webpage](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). You need to download the version that suits your operating system (x86/32-bit or x64/64-bit). Once downloaded, proceed with the installation, the process is straightforward.
 
 ![Microsoft Visual C++ Redistributable download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/05-microsoft-visual-c-redistributable-download-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
 ![Microsoft Visual C++ Redistributable download choose architechture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/06-microsoft-visual-c-redistributable-download-choose-architechture.jpg)
 
@@ -58,24 +55,15 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install and Configure Python / win32api on Windows
 
  Python is another dependency for VirtualBox. You can download it from the official [Python website](https://www.python.org/downloads/).
 
 ![Download Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/08-download-python-win32api-for-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  Once downloaded, start the installation. You need to check **Add python.exe to PATH**, and complete the installation. When added to PATH, Python packages and scripts can be accessed from any directory. Complete the installation.
 
 ![Install Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/09-install-python-win32api-for-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, configure Python for Win32 extensions. It provides access to Windows APIs from Python. To do this, open the Command Prompt or PowerShell as administrator and run the command:
 
@@ -85,9 +73,6 @@ Close
 
  Your computer has now met all the dependencies to install VirtualBox.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Error Free Installation of VirtualBox on Windows
 
  Start the installation of VirtualBox, and it will complete without any errors. Browse the following images for reference:
@@ -99,20 +84,10 @@ Close
 ![Install VirtualBox in WIndows network interfaces warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/13-install-virtualbox-in-windows-network-interfaces-warning.jpg)
 
 ![Install VirtualBox in WIndows ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/14-install-virtualbox-in-windows-ready-to-install.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![VirtualBox in WIndows installation complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/15-virtualbox-in-windows-installation-complete.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 ![VirtualBox manager in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/16-virtualbox-manager-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -124,8 +99,6 @@ Close
 
  Visual C++ Redistributable is a straightforward installation, it is not the same case with Python as it requires configuring as well. The good thing is it is easy to do.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,5 +106,24 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>[New] Amplifying Visuals Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-audio-to-video-conversion-convert-your-wav-recordings-into-avi-gratis/"><u>Effortless Audio-to-Video Conversion: Convert Your WAV Recordings Into AVI - Gratis!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225931223-flvflac-movavi/"><u>FLV至FLAC免費線上轉化工具 – 靠Movavi快速切換音效</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-webp-images-to-tiff-format-with-movavi/"><u>Free Online Conversion - Change Webp Images to Tiff Format with Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-moveavi-conversion-avchd-versus-mp4-en-ligne/"><u>Gratuit Moveavi Conversion AVCHD versus MP4 en Ligne</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/keyboard-detox-transforming-a-dusty-habit-into-a-cleansing-ritual-life-hacks-from-zdnet/"><u>Keyboard Detox: Transforming a Dusty Habit Into a Cleansing Ritual | Life Hacks From ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavitod/"><u>Movaviのワンクリックで簡単TOD変換サービス - 無料</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/moverse-sin-costo-entre-formatos-ogg-y-wav-online-usando-el-servicio-de-movavi/"><u>Moverse Sin Costo Entre Formatos OGG Y WAV Online Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/passa-file-video-avi-al-codec-audio-ad-alta-qualita-flac-servizio-di-conversione-on-line-free-movavi/"><u>Passa File Video AVI Al Codec Audio Ad Alta Qualità FLAC, Servizio Di Conversione On-Line Free - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/savor-playtime-the-essential-guide-to-high-quality-offline-ios-games/"><u>Savor Playtime – The Essential Guide to High-Quality Offline iOS Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-solutions-for-starting-up-your-macbook-pro-again/"><u>Simple Solutions for Starting Up Your MacBook Pro Again</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-viewing-the-complete-dragon-ball-series-chronologically/"><u>Step-by-Step Guide: Viewing the Complete Dragon Ball Series Chronologically</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/systemwiederherstellungs-schlussel-von-asus-authentische-schlussel-zum-ausfuhren-der-systemreparatur-auf-ihrem-laptop-oder-desktop/"><u>Systemwiederherstellungs-Schlüssel Von Asus: Authentische Schlüssel Zum Ausführen Der Systemreparatur Auf Ihrem Laptop Oder Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-13-free-web-based-audio-recording-tools-the-ultimate-list/"><u>Top 13 Free Web-Based Audio Recording Tools: The Ultimate List</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/unveiling-the-powerful-performance-of-the-samsung-q60r-series-for-gamers-a-comprehensive-review/"><u>Unveiling the Powerful Performance of the Samsung Q60R Series for Gamers - A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4b-flac-movavi/"><u>제공 대기 중: M4B FLAC 파일을 무료로 온라인 상호 연결 위치에서 변환하는 방법 - Movavi</u></a></li>
+</ul></div>
 

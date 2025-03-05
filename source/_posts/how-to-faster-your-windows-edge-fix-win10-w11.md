@@ -1,7 +1,7 @@
 ---
 title: "How to Faster Your Windows Edge: Fix (Win10, W11)"
-date: 2024-08-16T01:25:16.076Z
-updated: 2024-08-17T01:25:16.076Z
+date: 2025-02-26T18:32:29.311Z
+updated: 2025-03-04T22:27:07.745Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
  Before doing any troubleshooting steps below, make sure that your internet connection works properly. Often, an intermittent connection can slow down your browser. If you’ve established that there are no network-related issues, you can proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Relaunch Microsoft Edge
 
  When we say relaunch, we don’t just mean close the browser and open it again. Most times, exiting a program doesn’t completely stop it from running. They’re just left running in the background. To ensure that the program is completely closed, you need to stop any processes related to it on your Task Manager. Here’s how:
@@ -34,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 1. Press and hold **Ctrl** + **Shift** + **Esc** keys to open Task Manager.
 2. Look for Microsoft Edge from the list. Click it and press **End Task**. This will completely close the app.  
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Launch Microsoft Edge and see if it works okay.
 
 ### 2\. Update Edge
@@ -60,14 +54,8 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 3. On the Settings page, click **Start, home, and new tabs** from the left-side navigation.
 4. Under the **New tab page** section, disable the **Preload the new tab page for a faster experience** option.
 5. ![Preload the new tab page feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/preload-pages-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch Microsoft Edge and check if it works faster.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
@@ -89,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Clear Cache and Cookies
 
  Sometimes, cookies and cache cause a slow Microsoft Edge on Windows 10 and 11\. If the browser has a lot of them, it can affect its speed. Luckily, the fix is easy. You only need to delete them, and you’re good to go. However, deleting the data can log you out of some websites you frequently visit. If this is the case, don’t panic. All you need to do is to log in again.
@@ -109,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
  Check your browser and see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Disable Browser Extensions
 
  Since you can use all Chromium extensions on Edge, it can be tempting to install many of them on your browser. However, some of them can cause your app to slow down, especially if it’s outdated or not supported anymore. Unfortunately, there’s no way for you to check which extension might cause the issue. Here’s to manually check which extension is slowing down your browser:
@@ -119,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 1. Open the Edge browser and click the **three-dots** menu. Then click **Extensions**.
 2. From the Extensions page, manually disable all the extensions you have installed by switching the button off found on the right side of each extension.
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
 4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
@@ -135,16 +114,10 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
  Restart your browser and check if this solution improved its performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Repair Microsoft Edge
 
  Microsoft has incorporated a repair feature for some of Windows' built-in apps. And, fortunately, Edge is one of them. So, if you had no luck removing the browser cache or disabling the extension, you should [repair Microsoft Edge](https://www.makeuseof.com/windows-11-microsoft-edge-not-working-repair/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Better Browsing With Microsoft Edge
 
  Microsoft Edge has improved significantly since it was first introduced. That’s why more and more users are now using this app as their default browser. Like other browsers, it can sometimes experience issues that can affect your experience. However, don’t be discouraged. There are various fixes to different issues you encounter on Edge.
@@ -153,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -162,5 +133,26 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[New] In 2024, How to Monetize Your YouTube Shorts Simple Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-banishing-bogus-buddies-from-instagram-social-structure/"><u>[Updated] Banishing Bogus Buddies From Instagram Social Structure</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargue-y-convierte-archivos-ogv-a-formatos-wmv-sin-coste-alguno-con-movavi/"><u>Descargue Y Convierte Archivos OGV a Formatos WMV Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/el-mejor-administrador-de-imagenes-para-windows-10-opciones-top-rated/"><u>El Mejor Administrador De Imágenes Para Windows 10: Opciones Top Rated</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-essentials-of-mov-and-mp4-video-types-what-sets-them-apart/"><u>Exploring the Essentials of MOV and MP4 Video Types - What Sets Them Apart?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-s24-ultra-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy S24 Ultra FRP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-12-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 12 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloses-online-umwandeln-von-ogg-in-ogv-mit-movavi-media-converter/"><u>Kostenloses Online-Umwandeln Von OGG in OGV Mit Movavi Media Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-guide-to-no-cost-wma-to-aiff-file-conversions-on-the-web/"><u>Movavi's Guide to No-Cost WMA to AIFF File Conversions on the Web</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nsvmp3-movavi/"><u>NSV到MP3無成本上線即可 - 以Movavi進行轉換方便多了</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/omzetten-van-flv-videofilen-tot-mp4mov-veilige-gratis-online-instellingen/"><u>Omzetten Van FLV Videofilen Tot MP4/MOV: Veilige, Gratis Online Instellingen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/premiere-rush-not-your-cup-of-tea-try-these-4-alternatives-for-2024/"><u>Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/score-amazing-savings-on-samsung-gadgets-before-time-runs-out-this-prime-day/"><u>Score Amazing Savings on Samsung Gadgets Before Time Runs Out This Prime Day!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/silencing-background-noise-in-obs-feeds/"><u>Silencing Background Noise in OBS Feeds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-9-fotogehend-organisatiesoftware-de-allerbeste-keurmerkvolle-lijst/"><u>Top 9 Fotogehend Organisatiesoftware - De Allerbeste Keurmerkvolle Lijst</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-the-triggers-behind-the-1894-1895-sino-japanese-conflict-insights-from-history/"><u>Understanding the Triggers Behind the 1894-1895 Sino-Japanese Conflict: Insights From History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-202/"><u>동영상 줄이기 기술에서 시대를 전환하는 데 도움이 되는 10가지 권장 프로그: 202</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-aiff-flac/"><u>무료 Movavi 사용자 지정: AIFF 파일에서 FLAC로 원형 바꾸기 온라인</u></a></li>
+</ul></div>
 

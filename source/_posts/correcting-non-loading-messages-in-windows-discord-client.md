@@ -1,7 +1,7 @@
 ---
 title: Correcting Non-Loading Messages in Windows Discord Client
-date: 2024-08-16T01:24:03.060Z
-updated: 2024-08-17T01:24:03.060Z
+date: 2025-03-02T03:32:42.429Z
+updated: 2025-03-04T19:14:25.165Z
 tags:
   - windows10
   - windows11
@@ -27,16 +27,8 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 2\. Rule Out Any Internet Issues
 ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  A weak or unstable internet connection could be the cause of this error. Therefore, ensure you have an active internet connection when you try to access Discord. You can also run other apps on your device to ensure your internet is working.
 
@@ -57,9 +49,6 @@ The powerful video editing program for your Windows PC</a>
 
  If changing the network works in resolving the issue, the problem is with your ISP. In such a case,[change the DNS](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) to see if it fixes the problem. If that doesn't work, you should inform your ISP or switch to another provider.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check for Channel-Specific Issues
 
  After confirming that Discord systems are operational, the internet is working fine, and there is no temporary glitch, you should rule out channel-specific issues. For that, try switching to another channel on the same server. If the problem occurs across all channels on the same server, check that you haven't been banned.
@@ -72,25 +61,10 @@ The powerful video editing program for your Windows PC</a>
 2. Right-click on the channel or server where the error occurred.
 3. Click on**Mute Server** or**Mute Channel** , depending on where your messages aren't being loaded, then select**Until I turn it back on** .  
 ![Muting Server For an Indefinite Time in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Wait a few minutes.
 5. Right-click on the same server or channel, and select**Unmute Channel** or**Unmute Server** .  
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Mark Messages as Read
 
  Marking messages as read in the channel or server is another helpful fix for stuck messages. It has a good chance of loading messages that failed to deliver for some reason. Follow these steps to mark messages as read:
@@ -98,14 +72,8 @@ The powerful video editing program for your Windows PC</a>
 1. Launch Discord.
 2. Right-click the channel or server where the messages are stuck and click on**Mark As Read** .  
 ![Clicking on the Mark As Read to Auto Read the Stuck Messages in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 3. Wait for the app to load messages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
 
  If the message appears on every server and every channel, there's a small chance you may have been temporarily banned from Discord. This usually happens when you overload the Discord API with repetitive actions, such as spamming reactions.
@@ -116,10 +84,6 @@ The powerful video editing program for your Windows PC</a>
 
 ## 9\. Enable or Disable a VPN
 ![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  If you encounter the error when accessing Discord for the first time from a new location, Discord might be blocked in that area. Likewise, you may encounter the error under discussion if your IP address is banned by Discord.
 
@@ -137,9 +101,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Find the cache folders, namely**Cache, Code Cache,** and**GPU Cache** .
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
 
@@ -158,9 +119,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To double-check if the problem lies within your chosen client or not, try connecting to Discord via a different one. If it doesn't work in one client but works in another, you should [uninstall Discord](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) from your device and install it again to fix the problem. If the problem is with the web version, try [clearing the cookies and cache](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) and see if that fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 13\. Report the Problem to Discord Support as a Last Resort
 
  If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the [Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to [Discord via Twitter](https://twitter.com/discord) .
@@ -177,8 +135,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,8 +142,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-syncing-twitter-and-snapchat-for-sharing-videos/"><u>[Updated] 2024 Approved Syncing Twitter & Snapchat for Sharing Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-the-freshly-released-apple-iphone-specs-and-insights-unveiled/"><u>All About the Freshly Released Apple iPhone - Specs and Insights Unveiled!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-tracks-with-movavi-quick-and-free-online-m4a-mp3-file-changer/"><u>Convert Your Tracks with Movavi: Quick & FREE Online M4A MP3 File Changer!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-audio-transformation-convert-your-mka-downloads-to-mp3-at-no-cost-movavis-expertise-guaranteed/"><u>Effortless Audio Transformation: Convert Your MKA Downloads to MP3 at No Cost - Movavi's Expertise Guaranteed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-experience-with-easy-cap-drivers-safe-and-effortless-download/"><u>Enhance Your Experience with Easy CAP Drivers - Safe & Effortless Download!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/geautomatiseerde-avi-asf-omwandling-gratuite-online-oplossing-met-movavi/"><u>Geautomatiseerde AVI-ASF Omwandling: Gratuite Online Oplossing Met Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-discord-setup-mistakes-in-win-11/"><u>Guide to Correcting Discord Setup Mistakes in Win 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-x50-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor X50</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-your-apple-watch-battery-near-its-end-find-out-with-our-unexpected-discovery/"><u>Is Your Apple Watch Battery Near Its End? Find Out With Our Unexpected Discovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-plus-performants-outils-dajout-de-sous-titres-sans-depense-en-2024-votre-guide-exclusif/"><u>Les Plus Performants Outils D'Ajout De Sous-Titres Sans Dépense en 2024 - Votre Guide Exclusif</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-audio-visual-recording-in-windows-1011-learn-these-4-key-methods-now/"><u>Mastering the Art of Audio-Visual Recording in Windows 10/11 - Learn These 4 Key Methods Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onderliggende-voornemen-beoefening-movavi-hoelang-hebben-we-nog-een-kans/"><u>Onderliggende Voornemen Beoefening Movavi: Hoelang Hebben We Nog Een Kans?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/premier-10-drone-teams-for-cinematic-mastery-for-2024/"><u>Premier 10-Drone Teams for Cinematic Mastery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reconstruir-y-mejorar-calidad-de-imagen-hasta-4k-8k-o-10k-con-la-inteligencia-artificial-de-winxvideo/"><u>Reconstruir Y Mejorar Calidad De Imagen Hasta 4K, 8K O 10K Con La Inteligencia Artificial De WinxVideo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-raw-photos-into-jpegs-for-free-with-moveavis-conversion-tool/"><u>Transform RAW Photos Into JPEGs for Free with Moveavi's Conversion Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformar-seus-arquivos-m4v-em-gravacoes-de-audio-wav-gratuito-com-o-conversor-on-line-da-movavi/"><u>Transformar Seus Arquivos M4V Em Gravações De Áudio WAV Gratuito Com O Conversor On-Line Da Movavi!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/under-100-budget-friendly-action-cams-top-choices-guide/"><u>Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkvavi/"><u>ダイナミックなオンライン動画フォーマット変更 - 今すぐMKVをAVIに自由に変換！</u></a></li>
+</ul></div>
 

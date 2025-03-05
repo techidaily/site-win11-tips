@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Grammarly Feature with Simple Steps
-date: 2025-02-12T02:06:35.608Z
-updated: 2025-02-15T19:42:24.583Z
+date: 2025-02-28T01:20:46.203Z
+updated: 2025-03-04T17:43:45.437Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  The best part is that you can troubleshoot most of these issues quickly. So, review the steps below and get your Grammarly app working on your Windows computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Troubleshoot Using General Fixes
 
  There are [many reasons to use Grammarly](https://www.makeuseof.com/reasons-use-grammarly-as-content-writer/) to improve your writing. However, it might sometimes run into issues, particularly on Windows.
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  Grammarly's Windows client offers limited settings to adjust. However, you can manage two crucial settings to resolve most Grammarly issues: block list and Grammarly startup settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Clear the Grammarly Block List
 
  Sometimes, Grammarly may stop working on specific websites or apps. This issue mainly occurs when you add them to the block list unknowingly.
@@ -91,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 2. Click **Settings** in the bottom left corner of the window.  
 ![Grammarly App Windows Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-homescreen.jpg)
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
 
@@ -121,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Clear Grammarly's AppData Folder
 
  Each application on Windows, including Grammarly, has its own AppData folder. This folder is where the application stores necessary files and data. While this is perfectly normal, these stored files can occasionally become corrupted, leading to various errors.
@@ -141,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  Clearing the AppData folder will erase any locally saved information associated with the Grammarly app. For instance, any websites you have on Grammarly's block list and any personalized settings will reset. So, back up or note them down before deleting its AppData folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Repair Microsoft .NET Framework
 
  The .NET Framework is a toolkit containing many development-related tools for Windows developers. Now, how is this related to the Grammarly app?
@@ -158,14 +138,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 3. Click the **Next** button to proceed with the setup.  
 ![Microsoft NET Framework Tool Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microsoft-net-framework-tool-setup.jpg)
 4. Finally, click the **Finish** button once the repair is complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Grammarly App
 
@@ -201,18 +173,19 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-shining-a-light-top-photo-illumination-hacks/"><u>[New] In 2024, Shining a Light Top Photo Illumination Hacks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expertly-choosing-the-best-screen-snipers-on-windows/"><u>[Updated] Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-free-and-fast-guide-to-detecting-fraudulent-accounts-among-instragrammers-for-2024/"><u>[Updated] Free & Fast Guide to Detecting Fraudulent Accounts Among Instragrammers for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/codec-comparison-are-we-better-with-av1-or-vp9/"><u>Codec Comparison Are We Better With AV1 or VP9?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-method-to-delete-wsl/"><u>Comprehensive Method to Delete WSL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-out-delays-for-administrator-level-terminals/"><u>Cut Out Delays for Administrator-Level Terminals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-controlled-folder-access-in-windows-10-and-11/"><u>How to Enable Controlled Folder Access in Windows 10 & 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speeding-up-browsing-with-microsoft-edge-on-win10w11/"><u>Speeding Up Browsing with Microsoft Edge on Win10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-up-synergy-launching-sticky-notes-with-windows-logon/"><u>Start-Up Synergy: Launching Sticky Notes with Windows Logon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unboxing-the-stars-latest-laptops-from-ifa-2023/"><u>Unboxing the Stars - Latest Laptops From IFA 2023</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unveiling-excellent-video-creatives/"><u>Unveiling Excellent Video Creatives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-a-dive-into-ar-sticker-technology-and-alternatives-for-2024/"><u>[Updated] A Dive Into AR Sticker Technology and Alternatives for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-conquer-the-crowd-reach-your-goal-of-1k-insta-admirers-monthly/"><u>[Updated] In 2024, Conquer the Crowd Reach Your Goal of 1K Insta Admirers Monthly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beyond-siri-how-apple-is-mirroring-microsofts-bing-with-its-latest-ai-innovation-insights/"><u>Beyond Siri: How Apple Is Mirroring Microsoft's Bing with Its Latest AI Innovation - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-quick-and-easy-context-menu-alert-for-auto-check-system-updates/"><u>Creating a Quick & Easy Context Menu Alert for Auto-Check System Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-integration-tutorial-how-to-set-up-chatgpt-extensions/"><u>Easy Integration Tutorial: How to Set Up ChatGPT Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-social-media-game-by-integrating-chatgpt-into-your-content-strategy/"><u>Elevate Your Social Media Game by Integrating ChatGPT Into Your Content Strategy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-upgraded-lenovo-thinkpad-2-in-1-a-game-changer-in-durability-and-speed-for-it-pros-gadget-zone/"><u>Experience the Upgraded Lenovo ThinkPad 2-in-1: A Game-Changer in Durability and Speed for IT Pros | Gadget Zone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-deactivate-windows-shutdown-timer/"><u>How to Deactivate Window's Shutdown Timer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-turbo-speed-photo-browser-for-windows-10/"><u>In 2024, Turbo Speed Photo Browser for Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-ms-store-failures-error-0x80072f17-resolution/"><u>Navigating MS Store Failures: Error 0X80072f17 Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quality-audio-boosters-the-ultimate-free-windows-list/"><u>Quality Audio Boosters: The Ultimate Free Windows List</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-fixed-prevent-total-war-warhammer-iii-from-crashing-on-windows-computers/"><u>Resolved Issue: [FIXED] Prevent TOTAL WAR: WARHAMMER III From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-adjusting-icons-distance-on-windows-1110/"><u>Title: Adjusting Icons' Distance on Windows 11/10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-have-fitness-logging-apps-for-your-training/"><u>Top 10 Must-Have Fitness Logging Apps for Your Training</u></a></li>
 </ul></div>
 

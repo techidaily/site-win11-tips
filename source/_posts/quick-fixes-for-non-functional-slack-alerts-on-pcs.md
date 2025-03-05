@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functional Slack Alerts on PCs
-date: 2025-02-08T18:46:05.451Z
-updated: 2025-02-16T01:57:12.527Z
+date: 2025-02-26T19:45:11.886Z
+updated: 2025-03-05T01:53:28.687Z
 tags:
   - windows10
   - windows11
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Restart button in Shut Down Windows prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before trying any complex solutions, make sure to restart your computer at least once. This will eliminate any bug or glitch that might be causing the issue.
 
  To restart, press the **Alt + F4** hotkey, choose **Restart** from the drop-down menu, and click **OK.** After the restart, request a colleague to send you a message on Slack and check whether you receive its notification on your system. If the notification still doesn't come through, proceed to the next solution on the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check the Slack Server Status
 
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Disable the toggle next to **Do not disturb**.  
 ![Do not disturb toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/do-not-disturb-toggle.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Additionally, you can add Slack as an exception to the Do not disturb mode. This way, you'll still receive Slack notifications even if your computer is in this mode. Here’s how to do that:
 
 1. Navigate to Settings > System > Notifications.
@@ -109,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Now, Windows will show all the notifications from Slack in its notification center.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Change Slack Settings
 
  Another potential reason for the issue could be incorrect Slack settings. You'll have to correctly configure Slack settings to receive its message notifications on your computer.
@@ -124,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Choose **Notifications** from the left sidebar and select **Direct messages, mentions &** **keywords**. You can choose **All new messages** if you want to get notified about the messages from all channels.  
 
 ![Direct messages, mentions & keywords option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-messages-mentions-keywords-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Furthermore, you must resume notifications if you have put them on pause. To do that, click your profile icon, hover your cursor to **Pause notifications**, and click **Resume notifications.**
 
@@ -151,15 +131,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Click **Yes** on the confirmation prompt.  
 ![Yes option to reset Slack data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/yes-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, Slack will restart automatically, and you will have to sign in to your workspace again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix Slack Notifications Not Working on Windows
 
@@ -179,24 +151,18 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[New] 2024 Approved Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unlock-full-potential-of-streaming-with-dual-display-on-netflix-for-2024/"><u>[New] Unlock Full Potential of Streaming with Dual Display on Netflix for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>[Updated] 2024 Approved Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723809009233-cant-find-that-elusive-document-on-your-pc-master-these-tips-to-easily-locate-any-file/"><u>Can't Find That Elusive Document on Your PC? Master These Tips to Easily Locate Any File</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-folder-size-evaluation-using-powershell-commands/"><u>Demystifying Folder Size Evaluation Using PowerShell Commands</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iently-incorporate-youtube-playlists-for-engaging-pages/"><u>Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-alternatives-to-cortana-in-windows-10/"><u>Exploring Alternatives to Cortana in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-portable-windows-devices/"><u>Five Portable Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-error-code-0x80073cf3-on-win11/"><u>Fixing Microsoft Store Error Code 0X80073CF3 on Win11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mov-to-gif-conversion-guide-unveiling-3-easy-techniques-including-2-cost-free-solutions/"><u>MOV to GIF Conversion Guide: Unveiling 3 Easy Techniques, Including 2 Cost-Free Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-advanced-sound-switching-techniques-for-2024/"><u>Navigating Advanced Sound-Switching Techniques for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-15-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-correctly-address-error-0x8024002e-in-windows-updates/"><u>Step-by-Step Guide: How to Correctly Address Error 0X8024002E in Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-system-5-must-have-pc-tools/"><u>Streamline Your System: 5 Must-Have PC Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-realign-windows-desktop-elements/"><u>Swiftly Realign Windows Desktop Elements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-concealreveal-windows-security-zones/"><u>Tactics to Conceal/Reveal Windows Security Zones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-path-related-issues-in-windows-os/"><u>Troubleshooting Path-Related Issues in Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-ai-writers-comparing-gpt-and-bert-features/"><u>Unraveling AI' Writers: Comparing GPT and BERT Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clearer-anonymity-discreet-faces-deletion-for-2024/"><u>Clearer Anonymity Discreet Faces Deletion for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-default-snipping-tool-trigger-by-pressing-prtscn-in-win-11/"><u>Disable Default Snipping Tool Trigger by Pressing PrtScn in Win 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-resolution-in-rainbow-six-siege-detailed-steps-to-fix-the-notorious-3-0x0001000b-issue/"><u>Error Resolution in Rainbow Six Siege: Detailed Steps to Fix the Notorious 3-0X0001000B Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-guide-to-efficient-messaging-in-mozilla-thunderbird-email-client/"><u>Expert Guide to Efficient Messaging in Mozilla Thunderbird Email Client</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fast-track-to-finding-your-phones-imei-offline-a-step-by-step-guide/"><u>Fast Track to Finding Your Phone's IMEI Offline – A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fifa-19s-triumph-a-deep-dive-into-its-status-as-the-ultimate-soccer-simulation-game/"><u>FIFA 19'S Triumph: A Deep Dive Into Its Status as the Ultimate Soccer Simulation Game</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/gopro-studio-secrets-building-professional-time-lapses-for-2024/"><u>GoPro Studio Secrets Building Professional Time Lapses for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-device-lockup-in-win11s-sleep/"><u>How to Overcome Device Lockup in Win11's Sleep?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-microscopic-views-in-teams/"><u>In 2024, Mastering the Microscopic Views in Teams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovative-tools-revolutionize-communication-and-learning-memojis-on-facetime-scanning-tech-for-academia-and-canine-behavior-insights-explore-the-latest-fro27/"><u>Innovative Tools Revolutionize Communication & Learning: Memojis on FaceTime, Scanning Tech for Academia & Canine Behavior Insights - Explore the Latest From the ABBYY Blog</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modern-standby-in-windows-os-a-critical-take/"><u>Modern Standby in Windows OS: A Critical Take</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-anatomy-of-windows-os-update-process/"><u>The Anatomy of Windows OS Update Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-e8024002e-in-windows/"><u>Troubleshooting Error E:8024002E in Windows</u></a></li>
 </ul></div>
 

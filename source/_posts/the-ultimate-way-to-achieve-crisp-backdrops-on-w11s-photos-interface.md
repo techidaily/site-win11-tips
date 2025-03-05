@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Way to Achieve Crisp Backdrops on W11's Photos Interface
-date: 2025-02-12T21:51:51.235Z
-updated: 2025-02-16T01:54:51.857Z
+date: 2025-02-26T03:02:45.329Z
+updated: 2025-03-04T23:14:24.896Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is the Background Blur Feature in the Photos App?
 
@@ -52,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
 2. Click and drag the mouse on the area to select it for applying the blur effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
 4. If you want to deselect a part of the image from the blur effect, click on the **Deselect area** option.  
@@ -73,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 7. Now, click on the **Save a copy** button.
 8. Type a name and click on the **Save** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Photos Background Blur Feature Any Good?
 
  We tried it with multiple images and the feature did a good job of identifying the background area to blur. You get control over the blur intensity and can also select more areas or deselect some of them to exclude from the effect. The automatic selection feature is enough in most cases.
@@ -86,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
 
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easily Blur the Backgrounds in Your Photos
 
@@ -107,21 +87,20 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensible-list-best-games-music-found-online/"><u>[New] Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-instant-access-to-top-notch-hd-footage-on-fb/"><u>[New] In 2024, Instant Access to Top-Notch HD Footage on FB</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/pload-mastery-understanding-and-using-correct-video-sizes-on-youtube-for-2024/"><u>[New] Upload Mastery Understanding and Using Correct Video Sizes on YouTube for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y28-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y28 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-and-iphone-showdowns-the-ultimate-tetris-challenge/"><u>Android and iPhone Showdowns: The Ultimate Tetris Challenge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensively-integrating-dolby-atmos-into-windows-1111/"><u>Comprehensively Integrating Dolby Atmos Into Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-extended-support-changes-the-game-for-windows-11-computers/"><u>How Extended Support Changes the Game for Windows 11 Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-mouse-acceleration-in-windows-11-and-11/"><u>How to Turn Off Mouse Acceleration in Windows 11 & 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>In 2024, Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-sony-xperia-5-v-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Sony Xperia 5 V Is Unlocked</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-portaudio-error-in-audacity-windows-11-and-11-devices/"><u>Overcoming PortAudio Error in Audacity, Windows 11 & 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-cure-onedrive-synch-problems-with-windows-11/"><u>Quick Remedies to Cure OneDrive Synch Problems with Windows 11</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-setting-up-your-printers-drivers-tech-support-by-xyz/"><u>Step-by-Step Guide: Setting Up Your Printer's Drivers - Tech Support by XYZ</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-conversation-a-guide-to-engaging-dialogues-in-chatgpt-roleplaying/"><u>The Art of Conversation: A Guide to Engaging Dialogues in ChatGPT Roleplaying</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triggering-the-credential-manager-in-windows-11-os/"><u>Triggering the Credential Manager in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-windows-11-s-mode-and-should-you-use-it/"><u>What Is Windows 11 S Mode, and Should You Use It?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expedited-pitch-modification-tools-repository/"><u>[Updated] In 2024, Expedited Pitch Modification Tools Repository</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-errors-for-wow-updates/"><u>Clearing Windows Errors for WoW Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-change-cr2-files-to-jpg-using-windows/"><u>Efficiently Change CR2 Files to JPG Using Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-14-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 14 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-your-brand-making-money-with-vids/"><u>In 2024, Building Your Brand Making Money with Vids</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-a05s-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel A05s?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-guide-free-realtek-pcie-fe-card-drivers-on-windows-11-devices/"><u>Installation Guide: Free Realtek PCIe-FE Card Drivers on Windows 11 Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ioss-leading-edge-the-top-5-emulators-for-psp-games-for-2024/"><u>IOS's Leading Edge The Top 5 Emulators for PSP Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-update-efficiency-after-error-0xca00a009/"><u>Restoring Windows Update Efficiency After Error 0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-pairing-of-airpods-with-windows-os/"><u>Seamless Pairing of AirPods with Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicated-system-management-in-w11-via-shortcut-buttons-guide/"><u>Uncomplicated System Management in W11 via Shortcut Buttons Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-potential-8-study-approaches-for-windows-aficionados/"><u>Unlock Potential: 8 Study Approaches for Windows Aficionados</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-typing-troubles-heres-how-to-eliminate-keyboard-delay/"><u>Windows 10 Typing Troubles? Here's How to Eliminate Keyboard Delay!</u></a></li>
 </ul></div>
 

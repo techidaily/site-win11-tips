@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Windows 11 GPO Control
-date: 2025-02-15T01:27:07.431Z
-updated: 2025-02-15T18:25:37.512Z
+date: 2025-02-27T16:00:47.244Z
+updated: 2025-03-04T19:43:49.748Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 2. Type **edit group policy** or **gpedit** in the search box and select the first result that appears.  
 ![Open Group Policy Editor Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you receive [the "Windows cannot find gpedit.msc" error](https://www.makeuseof.com/fix-cannot-find-gpeditmsc-error-in-windows/), you may be using the Home edition of Windows 11\. In that case, you must use a workaround or upgrade to Windows 11 Pro to access the Local Group Policy Editor.
 
 ## 2\. Open Local Group Policy Editor via the Run Command
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 1. Press **Win + R** to open the Run dialog box.
 2. Type **gpedit.msc** in the text box and click **OK** or press **Enter** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor Using Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Open Local Group Policy Editor via File Explorer
 
@@ -82,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 1. Open the **Start menu,** thenclick the **gear icon**, or use the **Win + I** keyboard shortcut to open the Settings app.
 2. Type **edit group policy** in the search box and select the first result that appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Open Local Group Policy Editor Using Windows Copilot
 
  Windows Copilot, Microsoft’s new AI assistant, can also help you launch the Local Group Policy Editor quickly on Windows 11\.
@@ -95,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 3. Click **Yes** to confirm.  
 ![Open Local Group Policy Editor Using Windows Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-local-group-policy-editor-using-windows-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Open Local Group Policy Editor From the System32 Folder
 
  Another way to open the Local Group Policy Editor is to use its executable (.exe) file in [the Windows System32 folder](https://www.makeuseof.com/tag/windows-system32/). Here’s how you can go about it.
@@ -107,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 2. Navigate to the following folder: **C: > Windows > System32**.
 3. Locate and double-click the **gpedit.msc** file to launch the Local Group Policy Editor.  
 ![Open Group Policy Editor Using System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-system32-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Open Local Group Policy Editor Using Task Manager
 
@@ -130,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 2. Type **gpedit.msc** in the console and hit **Enter** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor Using Command Prompt or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-command-prompt-or-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Like using Command Prompt? Here are some [fun Command Prompt tricks](http://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
 ## 10\. Create a Desktop Shortcut to Open Local Group Policy Editor Quickly
@@ -146,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 `%windir%\System32\gpedit.msc`
 4. Type **Local Group Policy Editor** inside the name box and hit **Finish**.  
 ![Create a Desktop Shortcut for Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-a-desktop-shortcut-for-group-policy-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now double-click the Group Policy Editor desktop shortcut to open it quickly.
 
@@ -171,22 +143,17 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-stepwise-mastery-of-green-screen-techniques-in-kinemaster/"><u>[New] 2024 Approved Stepwise Mastery of Green Screen Techniques in Kinemaster</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-checklist-for-adding-effective-on-screen-captions-to-your-videos-for-2024/"><u>[New] The Ultimate Checklist for Adding Effective On-Screen Captions to Your Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-multimedia-artists-cyber-meeting-room/"><u>2024 Approved Multimedia Artists' Cyber Meeting Room</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-webcam-software-compatible-with-windows-11-8-and-7/"><u>Download Logitech Brio Webcam Software Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gaming-mastery-on-windows-11-top-strategies-for-peak-performance-and-fun/"><u>Gaming Mastery on Windows 11: Top Strategies for Peak Performance and Fun</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-turn-onoff-windows-11-highlight-effect/"><u>Guide to Turn On/Off Windows 11 Highlight Effect</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-load-drivers-without-sie-compliance-on-pcs/"><u>How to Load Drivers Without SIE Compliance on PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unstick-scrollbar-fix-for-excel-on-pc/"><u>How to Unstick Scrollbar: Fix for Excel on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y100-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y100 5G Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-put-a-halt-on-surprise-youtube-videos/"><u>In 2024, Put a Halt on Surprise YouTube Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-hiding-personal-info-on-windows-login/"><u>Securely Hiding Personal Info on Windows Login</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-darkened-screens-while-gaming-on-win/"><u>Strategies to Prevent Darkened Screens While Gaming on WIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-o365-cloud-synchronization-hiccups-windows/"><u>Tackling O365 Cloud Synchronization Hiccups (Windows)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-limits-of-turing-test-in-todays-ai-lands-market/"><u>The Limits of Turing Test in Today's AI Lands Market</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-file-disappearance-top-8-methods/"><u>Troubleshooting File Disappearance: Top 8 Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-video-editing-power-filmora-for-youtube-trailers/"><u>[New] Video Editing Power Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-free-vimeo-tutorial-to-craft-engaging-videos/"><u>[Updated] 2024 Approved Free Vimeo Tutorial to Craft Engaging Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>[Updated] In 2024, Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-animated-magic-with-movie-maker-software/"><u>2024 Approved Unveiling Animated Magic with Movie Maker Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guaranteeing-winrar-compression-validity-with-corrected-sums/"><u>Guaranteeing WinRAR Compression Validity with Corrected Sums</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-avoid-steam-startup-triggers/"><u>How to Avoid Steam Startup Triggers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-application-couldnt-start-error-xc000003e-in-win11/"><u>How to Unblock The Application Couldn't Start: Error Xc000003e in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-grandiose-know-it-all-challenges-online/"><u>In 2024, Grandiose KNOW-It All Challenges Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-troubles-heres-a-list-of-solutions-to-rescue-ineffectual-shortcuts-in-windows/"><u>Keyboard Troubles? Here's a List of Solutions to Rescue Ineffectual Shortcuts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-procedure-elevating-to-virtualbox-version-70-on-windows-11/"><u>Stepwise Procedure: Elevating to VirtualBox Version 7.0 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-pixel-density-on-win11/"><u>Tweaking Pixel Density on Win11</u></a></li>
 </ul></div>
 

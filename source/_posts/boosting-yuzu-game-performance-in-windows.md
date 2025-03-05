@@ -1,7 +1,7 @@
 ---
 title: Boosting Yuzu Game Performance in Windows
-date: 2024-08-16T01:23:58.868Z
-updated: 2024-08-17T01:23:58.868Z
+date: 2025-02-27T17:25:28.406Z
+updated: 2025-03-05T02:37:19.481Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 
  Using the official documentation provided by your GPU manufacturer can help you optimize the GPU for maximum performance. Once you've done that, don't forget to [update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) before applying other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change Graphics Preference for Yuzu Emulator in Settings App
 
  Windows allows users to select the graphics preference for individual apps if they want the best experience. Thus, to increase the FPS, you should set the graphics performance of the Yuzu emulator to high. Here's how you can change the graphics preference in Windows Settings:
@@ -42,14 +39,8 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 3. In the right pane, go to the **Display** settings.
 4. Click on **Graphics** under **Related settings**.  
 ![Clicking on the Graphics Option under Related Settings in Display Menu in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Graphics-Option-under-Related-Settings-in-Display-Menu-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 5. Choose the **Desktop app** from the **Add an app** dropdown and click the **Browse** button.  
 ![Clicking on the Browse Button after Choosing Desktop App from the Add an App Dropdown Menu Under Graphics Tab in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Clicking-on-the-Browse-Button-after-Choosing-Desktop-App-from-the-Add-an-App-Dropdown-Menu-Under-Graphics-Tab-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 6. Go to the location where the Yuzu emulator's executable file resides, which is usually as follows:  
 `C:/Users/<your username>/AppData/Roaming/Microsoft/Windows/Start Menu/Programs`
 7. Once you select it, you'll see the emulator's executable file appear in your list of installed apps.
@@ -60,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 
  If you're using the Yuzu emulator on Windows 10, follow the instructions in our [guide on choosing the preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to adjust the graphics preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset Your Emulator's Settings to Their Defaults
 
  Have you recently altered the emulator's settings and noticed sluggish performance? If you've, you should reset the Yuzu emulator settings. Here's how:
@@ -70,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 1. Launch the Yuzu emulator.
 2. Go to the **Emulation** tab and select **Configure**.  
 ![Clicking on the Configure Option in the Dropdown of the Emulation Tab of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Clicking-on-the-Configure-Option-in-the-Dropdown-of-the-Emulation-Tab-of-Yuzu-Emulator-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Navigate to the **General** tab on the left.
 4. In the right pane, click **Reset All Settings**.  
 ![Clicking on the Reset All Settings Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-reset-all-settings-option-in-general-settings-of-yuzu-emulator-app.jpg)
@@ -104,10 +88,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. In the **Region** dropdown menu, choose the region closest to you.
 5. Then click **OK**.  
 ![Clicking on the OK Button after Choosing the Region in the Region Dropdown Menu in the System Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-ok-button-after-choosing-the-region-in-the-region-dropdown-menu-in-the-system-settings-of-yuzu-emulator-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  If you have selected the closest region, switch to another region and see how it affects game performance. Choose the one that provides you with the best performance.
 
@@ -120,10 +100,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the left sidebar, go to the **General** tab.
 4. Set the **Limit Speed Percent** value to **100%**, which is the default. Additionally, you can increase it further to see how it impacts the game's performance or uncheck the option entirely.  
 ![Increasing the Speed Limit by Clicking on the Limit Speed Percent Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/increasing-the-speed-limit-by-clicking-on-the-limit-speed-percent-option-in-general-settings-of-yuzu-emulator-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 ## 8\. Change the Accuracy Level
 
@@ -138,10 +114,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. From the **Accuracy Level** dropdown, choose **Normal**.  
 ![Changing the Accuracy Level to Normal in Yuzu Emulator Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/changing-the-accuracy-level-to-normal-in-yuzu-emulator-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 9\. Change Graphics API Settings
 
  There are two API settings available in Yuzu; OpenGL and Vulkan. While most games perform exceptionally well with Vulkan selected in the API settings and your dedicated graphics card set as the Device, some perform better with OpenGL. Hence, switch the API to see if it improves performance.
@@ -153,9 +125,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. In the left sidebar, go to the **Graphics** tab.
 4. Select your desired **API** from the dropdown menu.  
 ![Switching the API from the Dropdown in Graphics Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/switching-the-api-from-the-dropdown-in-graphics-settings-of-yuzu-emulator-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
 ## 10\. Disable Audio
 
@@ -167,17 +136,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Select **null** in the dropdown menus for **Output Engine**, **Input Device**, and **Output Device**.
 5. Furthermore, drag the **Volume** slider to the extreme left to **0%**.  
 ![Dragging the Volume Slider to Left after Selecting Null in the Dropdown Menus of Output Engine Input Device and Output Device Options in Audio Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/dragging-the-volume-slider-to-left-after-selecting-null-in-the-dropdown-menus-of-output-engine-input-device-and-output-device-options-in-audio-settings-of-yuzu-emulator-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Speed Up Yuzu Emulator on Windows
 
  Laggy emulators ruin our leisure time. Hopefully, by making the changes mentioned in the article, you should be able to speed up the Yuzu emulator. If the emulator continues to lag, switch to another Nintendo Switch emulator. As alternatives, Ryujinx and Cemu are the best choices.
 
  Therefore, if the bad performance of the Yuzu emulator spoils your gaming experience, we'll show you how to speed it up and play games at a decent frame rate.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -186,5 +150,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-vr-games-for-oculus-users-of-all-ages-for-2024/"><u>[New] Essential VR Games for Oculus Users of All Ages for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmatched-4k-experience-the-premier-top-eight-list/"><u>[New] Unmatched 4K Experience The Premier Top Eight List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-navigating-through-gopros-burst-recording-options/"><u>[Updated] In 2024, Navigating Through GoPro's Burst Recording Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gif-to-swf-convertisseur-en-ligne-une-utilite-de-movavi/"><u>Gratuit GIF-to-SWF Convertisseur en Ligne: Une Utilité De Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/harmonizing-linguistics-effective-learning-through-melodies/"><u>Harmonizing Linguistics: Effective Learning Through Melodies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-iphone-x-vs-galaxy-comparing-facial-authentication-systems/"><u>In 2024, IPhone X Vs. Galaxy Comparing Facial Authentication Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-drivers-for-geforce-rtx-3080-ti-win-1187-compatibility-and-download-info/"><u>Latest NVIDIA Drivers for GeForce RTX 3080 Ti: Win 11/8/7 Compatibility and Download Info</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mov-to-mxf-conversion-tool-fast-and-secure-file-format-change-online-free-service/"><u>MOV to MXF Conversion Tool - Fast & Secure File Format Change Online, Free Service</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/obtaining-trustedinstaller-approval-a-guide-for-windows-10-users/"><u>Obtaining TrustedInstaller Approval: A Guide for Windows 10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ridimensionamento-gratuito-mp4-a-3g2-con-movavi-conversione-video-facile-e-rapida/"><u>Ridimensionamento Gratuito MP4 a 3G2 Con Movavi - Conversione Video Facile E Rapida</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-high-quality-streaming-audio-devices-reviewed-by-movavi/"><u>Top 10 High-Quality Streaming Audio Devices - Reviewed by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-15-mark-banners-free-software-options-the-best-of-the-year/"><u>Top 15 Mark Banners Free Software Options : The Best of the Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmawmv-movavi/"><u>WMAおよびWMVファイルの自由なオンライン変換 - Movavi</u></a></li>
+</ul></div>
 

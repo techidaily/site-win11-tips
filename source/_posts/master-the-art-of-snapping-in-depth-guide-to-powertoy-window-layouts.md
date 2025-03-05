@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Snapping: In-Depth Guide to PowerToy Window Layouts"
-date: 2024-08-16T01:26:22.376Z
-updated: 2024-08-17T01:26:22.376Z
+date: 2025-03-01T02:56:16.140Z
+updated: 2025-03-04T18:19:46.104Z
 tags:
   - windows10
   - windows11
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Customize FancyZones Settings in PowerToys
 
  In addition to creating personalized snap layouts,[PowerToys offers multiple options](https://www.makeuseof.com/tag/windows-10-powertoys/) to customize zone appearance, modify window behavior, exclude specific apps, and more. Let’s see how to use them.
@@ -62,57 +59,28 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
  Open PowerToys and navigate to the**FancyZones** tab. In the**Zone appearance** section, you can customize the look of zones by adjusting colors, opacity, and other aspects.
 
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
 ![Customize Window Behavior in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-window-behavior-in-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  If you’re accustomed to using**Win + arrow key** shortcut to snap windows on your computer, you can configure PowerToys to override Windows Snap. For that, enable the toggle next to**Override Windows Snap** and then use the Win + arrow keys to arrange your windows.
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
 
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Multitask Better With Custom Snap Layouts on Windows 11
 
  If the default snap layout options do not meet your needs, you can always use PowerToys to create custom snap layouts. However, that is not the only thing you can do with PowerToys. You can use it to rename files, resize images in bulk, keep your computer awake, and do a variety of other things.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,8 +89,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/utting-edge-creativity-top-editors-for-online-sharing/"><u>[New] Cutting-Edge Creativity Top Editors for Online Sharing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording-for-2024/"><u>[Updated] From Beginner to Expert The Ultimate Guide to HP Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-adversities-in-digital-self-expression/"><u>2024 Approved Overcoming Adversities in Digital Self-Expression</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selective-online-shopping-destinations-fancy-wrapped-gifts/"><u>2024 Approved Selective Online Shopping Destinations Fancy Wrapped Gifts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-images-with-win11s-photos-building-slideshows-and-perfecting-spots/"><u>Effortless Images with Win11's Photos: Building Slideshows & Perfecting Spots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-errors-in-windows-11s-trash-functionality/"><u>Fixing Errors in Windows 11'S Trash Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-utorrent-sync-troubles-on-pcs/"><u>Guiding Through uTorrent Sync Troubles on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 10 & 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-simplified-guide-to-crafting-effective-instagram-loops/"><u>In 2024, Simplified Guide to Crafting Effective Instagram Loops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-issues-resolved-rehab-your-keystrokes-in-win10/"><u>Keyboard Issues Resolved: Rehab Your Keystrokes in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-hardware-usage-visibility-through-windows-panels/"><u>Optimize Hardware Usage Visibility Through Windows Panels</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-to-transform-rmvb-files-into-mp4-format-a-comprehensive-guide/"><u>Simple Steps to Transform RMVB Files Into MP4 Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-ea-servers-not-connecting-errors/"><u>Strategies to Rectify EA Servers Not Connecting Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-generation-of-ai-testing-5-cutting-edge-methods-that-challenge-the-turing-standard/"><u>The Next Generation of AI Testing: 5 Cutting-Edge Methods That Challenge the Turing Standard</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-poco-c51-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Poco C51 Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

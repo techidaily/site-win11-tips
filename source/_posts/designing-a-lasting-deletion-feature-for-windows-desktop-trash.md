@@ -1,7 +1,7 @@
 ---
 title: Designing a Lasting Deletion Feature for Windows Desktop Trash
-date: 2024-08-16T01:23:05.107Z
-updated: 2024-08-17T01:23:05.107Z
+date: 2025-03-02T03:32:56.687Z
+updated: 2025-03-04T17:03:12.134Z
 tags:
   - windows10
   - windows11
@@ -47,18 +47,12 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 8. Click the**X** close button on the "Free File Wiper – Help" window.
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
  To permanently delete something with the shredder app, bring up Explorer, left-click a file, and then drag it onto the Free File Wiper bin desktop icon. A warning prompt will appear that says you won’t be able to recover the file after wiping it. Select**Yes** if you’re sure about permanently erasing the file.
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
@@ -68,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
@@ -83,25 +74,16 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 6. Now open the 8GadgetPack software.
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
@@ -121,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,8 +110,24 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/aximize-visibility-resizing-your-youtube-images-effectively/"><u>[New] Maximize Visibility Resizing Your YouTube Images Effectively</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-screenplay-central-user-feedback-summary/"><u>[New] Screenplay Central - User Feedback Summary</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/350-sportier-android-alternative-to-pixel-watch-exceptional-performance-and-extended-battery-life-revealed-zdnet/"><u>$350 Sportier Android Alternative to Pixel Watch: Exceptional Performance and Extended Battery Life Revealed | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-windows-feedback-for-essential-alerts-only/"><u>Customize Windows Feedback for Essential Alerts Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-red-x-signal-in-file-explorer/"><u>Dissecting the Red “X” Signal in File Explorer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-steps-for-integrating-streamlabs-in-obs-mac/"><u>Essential Steps for Integrating Streamlabs in OBS (Mac)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-slash-30-off-get-your-hands-on-the-high-performance-anker-prise-737-power-bank-now/"><u>Exclusive Offer: Slash $30 Off - Get Your Hands on the High-Performance Anker Prise 737 Power Bank Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-stuttering-distortion-and-sound-irregularities-in-windows-operating-systems-guide/"><u>How to Eliminate Stuttering, Distortion & Sound Irregularities in Windows Operating Systems [Guide]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-modify-system-security-settings-in-windows-11/"><u>How To Modify System Security Settings in WIndows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-itel-p55plus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Itel P55+ Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-instant-integration-linking-local-files-with-cclouddrives/"><u>Initiating Instant Integration: Linking Local Files with C:/CloudDrives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multitasking-why-16gb-ram-is-a-must-have/"><u>Mastering Multitasking: Why 16GB RAM Is a Must-Have</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-step-by-step-fixes-for-a-non-functional-google-meet-camera/"><u>Resolved: Step-by-Step Fixes for a Non-Functional Google Meet Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-misidentified-gaming-feature-within-discord-windows-edition/"><u>Resolving Misidentified Gaming Feature Within Discord, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rewriting-windows-script-policy-top-4-strategies-for-enabling-ps-loading/"><u>Rewriting Windows Script Policy: Top 4 Strategies for Enabling PS Loading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-account-lockout-interval-post-unsuccessful-logins-win-11-pro/"><u>Tailoring Account Lockout Interval Post Unsuccessful Logins, Win 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
+</ul></div>
 

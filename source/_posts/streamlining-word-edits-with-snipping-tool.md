@@ -1,7 +1,7 @@
 ---
 title: Streamlining Word Edits with Snipping Tool
-date: 2025-02-10T03:34:51.997Z
-updated: 2025-02-15T19:15:24.731Z
+date: 2025-02-26T22:52:05.006Z
+updated: 2025-03-04T18:31:19.062Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
 
  The Text Actions feature in the Snipping Tool is available for Windows Insider users in the Canary and Dev channels. So, if you are in either of these channels, update your Windows Insider PC to the latest available build. If aren’t in the Windows Insider program, you can enroll your device by signing up for the Windows Insider program.
@@ -55,15 +51,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Paste all the copied text in the Notepad and save it for later.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
 
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Our Observations on the Snipping Tool
 
  Having a native OCR feature in Windows 11 is great, and it works fine in the Snipping Tool. We tried the feature with multiple languages like Spanish and Hindi, and the tool was able to identify text from a screenshot. However, you would have to open the file or image every time and capture a screenshot of it using the Snipping Tool. Only after that can you use the Text Actions feature.
@@ -86,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Copy Text From Screenshots in a Snap
 
@@ -107,20 +87,15 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[New] 2024 Approved Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ensuring-profit-tracking-on-your-channel/"><u>[Updated] 2024 Approved Ensuring Profit Tracking on Your Channel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exhilarating-circuit-trials-selecting-the-top-5-titles/"><u>[Updated] 2024 Approved Exhilarating Circuit Trials Selecting the Top 5 Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>[Updated] In 2024, Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-center-your-portal-to-windows-printer-administration/"><u>Command Center: Your Portal to Windows Printer Administration</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/does-your-ipad-need-an-upgrade-to-keep-up-with-modern-devices/"><u>Does Your iPad Need an Upgrade to Keep Up with Modern Devices?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-12-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 mini When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/itunes-dvd/"><u>ITunes対応 DVDコンバートガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/map-out-windows-location-for-snaps/"><u>Map Out Windows Location for Snaps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-previously-erased-sleep-mode-profiles/"><u>Reclaiming Previously Erased Sleep Mode Profiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-create-file-failed-with-code-32-in-windows-error-30005/"><u>Resolving Create File Failed With Code 32 in Windows Error 30005</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-invalid-network-path/"><u>Resolving Windows Error: Invalid Network Path</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits-for-2024/"><u>Revolutionizing Video Revenue A Conducive Guide to Youtube Profits for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-alternative-windows-pdf-viewer/"><u>Setting Alternative Windows PDF Viewer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-search-bar-glitches-with-11-fixes/"><u>Troubleshooting Window's 11 Search Bar Glitches with 11 Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>[New] From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-arcade-affordability-bar-reviews/"><u>[Updated] ARCADE AFFORDABILITY BAR Reviews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exclusive-guide-to-affordable-premium-video-editors/"><u>[Updated] In 2024, Exclusive Guide to Affordable, Premium Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-setup-the-top-quality-4k-dslr-mounts-guide/"><u>[Updated] Premium Setup The Top-Quality 4K DSLR Mounts Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-ensure-smooth-java-installation-on-windows/"><u>Guidelines to Ensure Smooth Java Installation on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-windows-11s-0x800f0922-upgrade-issue/"><u>Immediate Fixes for Windows 11'S 0X800f0922 Upgrade Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-outlook-app-running-slow-on-windows-try-these-fixes/"><u>Is the Outlook App Running Slow on Windows? Try These Fixes</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/most-effective-free-versioning-backup-applications-for-optimal-data-management/"><u>Most Effective FREE Versioning Backup Applications for Optimal Data Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-router-control-panel-without-web-interfaces/"><u>Restoring Router Control Panel without Web Interfaces</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-v-purse-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor V Purse to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

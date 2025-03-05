@@ -1,7 +1,7 @@
 ---
 title: "Insight Into CAB Files: Their Purpose Within the Windows Domain"
-date: 2024-08-16T01:25:21.777Z
-updated: 2024-08-17T01:25:21.777Z
+date: 2025-02-28T19:23:39.791Z
+updated: 2025-03-04T20:28:29.533Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 1. Navigate to the CAB file location on your computer.
 2. Right-click the CAB file, and choose **Copy as path**.  
 ![Copy as path option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/copy-as-path-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
@@ -59,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
  That's it. PowerShell will install the content of the CAB file on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install Driver Updates From a CAB File
 
  If you have downloaded a driver update, which is a CAB file, you can install it using the following instructions:
@@ -69,29 +63,17 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 1. Double-click the CAB file to view its contents.
 2. Press **Ctrl + A** to select all the files, right-click, and choose **Extract**.  
 ![Extract option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **Browse my computer for drivers**.  
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  The Device Manager will now install the driver update on your computer.
 
@@ -101,8 +83,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -110,5 +90,18 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-exploring-free-screen-capture-software-bandicam-vs-camtasia/"><u>[New] Exploring Free Screen Capture Software Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-soundstage-shows/"><u>[Updated] Exclusive Soundstage Shows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cpu-overheating-alerts-and-remedies-essential-tips-for-protecting-your-pc/"><u>CPU Overheating Alerts & Remedies: Essential Tips for Protecting Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-collection-of-10-costless-mp3-transformers-for-apple-devices/"><u>Discover the Ultimate Collection of 10 Costless MP3 Transformers for Apple Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leveraging-azures-voice-recognition-for-advanced-solutions/"><u>Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/los-mejores-8-lugares-seguro-y-legales-para-disfrutar-de-peliculas-en-directo-con-movavi/"><u>Los Mejores 8 Lugares Seguro Y Legales Para Disfrutar De Películas en Directo Con Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-enabling-picture-in-picture-in-android-os/"><u>Step-by-Step Tutorial for Enabling Picture-in-Picture in Android OS</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-27-voice-to-text-software-solutions-an-in-depth-review-by-movavi/"><u>Top 27 Voice-to-Text Software Solutions : An In-Depth Review by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-sus-musicas-y-peliculas-de-formato-aiff-en-wmv-facilmente-con-nuestro-guia-completa-de-conversion-libre-movavi-explicado/"><u>Transforme Sus Músicas Y Películas De Formato AIFF en WMV Fácilmente Con Nuestro Guía Completa De Conversión Libre: Movavi Explicado</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wavmovavi-ai/"><u>オンラインでのWAV音声ファイルの自由な変換：Movavi AIツールの使い方</u></a></li>
+</ul></div>
 

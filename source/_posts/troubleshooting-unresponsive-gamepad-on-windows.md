@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive Gamepad on Windows
-date: 2025-02-09T20:17:30.057Z
-updated: 2025-02-15T21:43:58.405Z
+date: 2025-03-01T19:46:31.977Z
+updated: 2025-03-05T02:59:00.490Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,7 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 3. In the Game Controllers window, read the status of your controller.  
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your controller does not show up in the Game Controllers window or the status does not say **OK**, you may be experiencing a connection problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Controller
 
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 4. Tick the checkbox that reads **Apply repairs automatically** and click **Next**.  
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -101,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/). Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Your Controller’s Firmware
 
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
@@ -112,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing Controller Issues on Windows Made Easy
 
@@ -133,17 +113,18 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-facebook-streaming-on-roku-devices/"><u>[New] 2024 Approved Navigating Facebook Streaming on Roku Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-essential-techniques-for-editing-digits-in-tiktok-content/"><u>[New] In 2024, Essential Techniques for Editing Digits in TikTok Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-synthesizer-zombified-appliances/"><u>2024 Approved Humor Synthesizer Zombified Appliances</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-linguistic-transitions-mastering-windows-hotkey-combinations/"><u>Effortless Linguistic Transitions: Mastering Windows Hotkey Combinations</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-solutions-overcoming-persistent-freezing-in-call-of-duty-warzone-pc-user-guide-2am/"><u>Expert Solutions: Overcoming Persistent Freezing in Call of Duty Warzone – PC User Guide (2Am)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/gli-strumenti-piu-efficienti-per-la-pulizia-ed-il-restauro-degli-ssd-adata-guida-definitiva/"><u>Gli Strumenti Più Efficienti per La Pulizia Ed Il Restauro Degli SSD AData: Guida Definitiva</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722897130369-latest-version-of-the-ipad-discover-whats-new/"><u>Latest Version of the iPad: Discover What's New!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-file-management-folder-facelift/"><u>Mastering Windows 11 File Management: Folder Facelift</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/productivity-prodigies-unveiling-the-wins-best-software-solutions/"><u>Productivity Prodigies: Unveiling the Win's Best Software Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-management-processes-settings-and-custom-themes/"><u>Streamlining Windows 11 Management: Processes, Settings, & Custom Themes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-hot-40-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Hot 40 Phones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium/"><u>[New] 2024 Approved Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-slow-motion-elegance-in-focus-complete-slomo-insight-2024/"><u>[New] Slow Motion Elegance in Focus Complete SloMo Insight, 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-efficiency-in-social-media-sharing-tweets-with-snapchat/"><u>2024 Approved Efficiency in Social Media Sharing Tweets with Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversations-demystified-exploring-the-8-problematic-areas-of-gpt/"><u>AI Conversations Demystified: Exploring the 8 Problematic Areas of GPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/connecting-beyond-boundaries-uncovering-six-key-metaverse-aspects-in-fb/"><u>Connecting Beyond Boundaries: Uncovering Six Key Metaverse Aspects in FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-surreptitious-software-without-tools/"><u>Eliminate Surreptitious Software Without Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-windows-11-active-directory-printer-fails/"><u>How to Rectify Windows 11 Active Directory Printer Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovating-interaction-connect-winpc-and-galaxy-phones-flow/"><u>Innovating Interaction - Connect WinPC and Galaxy Phones Flow</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-problems-with-onlinevideoconvertercom-accessibility/"><u>Step-by-Step Guide to Resolving Problems with OnlineVideoConverter.com Accessibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-veiled-virtuoso-guide-to-silent-commands-win11-edition/"><u>The Veiled Virtuoso Guide to Silent Commands, Win11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-operational-ancestry-assessment/"><u>Windows Operational Ancestry Assessment</u></a></li>
 </ul></div>
 

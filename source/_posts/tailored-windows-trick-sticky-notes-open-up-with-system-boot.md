@@ -1,7 +1,7 @@
 ---
 title: "Tailored Windows Trick: Sticky Notes Open-Up With System Boot"
-date: 2024-08-16T01:25:44.026Z
-updated: 2024-08-17T01:25:44.026Z
+date: 2025-03-01T20:55:39.095Z
+updated: 2025-03-05T03:19:58.213Z
 tags:
   - windows10
   - windows11
@@ -50,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 ![Create Basic Task in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-basic-task-in-task-scheduler.jpg)
 3. In the first step, give your task a name and click **Next**.  
 ![Startup Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-sticky-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 4. Now select **When I log on** as the trigger and click **Next** at the bottom.  
 ![Create Basic Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-basic-task-wizard.jpg)
 5. Choose **Start a program** in the Action window and click **Next**.  
 ![Start a program in Action tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-action-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In the **Program/script** field, type the path below:  
 C:\Windows\System32\cmd.exe
 7. In the Add arguments (optional) field, copy and paste the following command:  
@@ -67,20 +61,9 @@ C:\Windows\System32\cmd.exe
 8. Click **Next** and review all the settings.
 9. Now click **Finish** to save your work.  
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/finish-task-wizard.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Task Scheduler will now run Sticky Notes each time you log in. This way, Sticky Notes launches automatically at startup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Tweak the Registry Editor
 
  If you're comfortable editing the Windows registry, you can tweak it to open Sticky Notes at startup. This method requires knowledge of how the Registry Editor works and caution when editing it. If done incorrectly, it can cause serious system errors. It's best to [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing anything.
@@ -94,23 +77,15 @@ C:\Windows\System32\cmd.exe
 Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspace\Notes
 5. Double-click the **LaunchOnNextUserSession** key on the right.  
 ![Tweak Registry Editor to Open Sticky Notes at Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tweak-registry-editor-to-open-sticky-notes-at-startup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Change the Value data from 0 to **1** in the Edit DWORD (32-bit) Value window and click **OK**.  
  If you can't find the **LaunchOnNextUserSession** key, right-click on the **Notes** folder and select **New > DWORD (32-bit) Value**. Name the newly created key “LaunchOnNextUserSession” and assign it the Value data of **1**.
 7. Close the Registry Editor and restart your computer to save the changes. Sticky Notes should now open at startup.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Now Starts With Sticky Notes Open
 
  This article outlines several ways to open Sticky Notes at startup in Windows. If you want an easier solution, leave Sticky Notes open when you shut down your computer; it will launch automatically when Windows starts. If not, add Sticky Notes to the startup folder. If you want more control over when Sticky Notes launches, use Task Scheduler or tweak the Registry Editor.
 
  Well, there's good news for you: Sticky Notes can launch at startup in Windows. This article illustrates how to set up and use Sticky Notes at startup.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,5 +94,24 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/-quick-guide-to-purging-watched-youtube-videos-for-2024/"><u>[New] A Quick Guide to Purging Watched YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cost-effective-action-cams-unveiled/"><u>[New] Cost-Effective Action Cams Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-preservation-in-audio-how-ffmpeg-handles-originality/"><u>[New] Preservation in Audio How FFmpeg Handles Originality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ps3-game-viewers-guide-filming-your-playtime/"><u>[Updated] 2024 Approved The PS3 Game Viewer's Guide Filming Your Playtime</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crescendo-collection-leading-sites-for-skype-tone-downloads-for-2024/"><u>[Updated] Crescendo Collection Leading Sites for Skype Tone Downloads for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screensnappers-journey-navigating-the-latest-recorders/"><u>[Updated] In 2024, ScreenSnapper's Journey Navigating the Latest Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g73-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G73 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swf-mpeg/"><u>線上無限制 SWF 改編成 MPEG - 動視高效能格式化器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuita-de-archivos-wmv-a-m4v-en-linea-con-movavi/"><u>Conversión Gratuita De Archivos WMV a M4V en Línea Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-images-to-tiff-format-movavis-online-tool/"><u>Free Conversion of PPM Images to TIFF Format - Movavi's Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-veillez-transformer-des-fichiers-videos-en-mov-en-wma-enligne-movavi-solutions/"><u>Gratuit Veillez Transformer Des FICHIERS VIDEOS en MOV en WMA Enligne - Movavi Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-se-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone SE for Free</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-best-free-screen-recorders-for-macos-complimentary-download-options-movavi-guide/"><u>Top 12 Best Free Screen Recorders for macOS - Complimentary Download Options | Movavi Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/topos-player-and-videosnack-los-mejores-clientes-de-torrents-y-visualizadores/"><u>Topos Player & VideoSnack: Los Mejores Clientes De Torrents Y Visualizadores</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-ogv-a-mp4-para-video-en-linea-facil-de-usar-por-parte-de-movavi-descubra-como-hacerlo-hoy/"><u>Transformación Gratuita OGV a MP4 Para Vídeo en Línea Fácil De Usar Por Parte De Movavi: Descubra Cómo Hacerlo Hoy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asf-avi/"><u>オンラインで簡単にASFファイルを変換してみませんか？ - AVIフォーム式無料コンバータ</u></a></li>
+</ul></div>
 

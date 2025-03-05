@@ -1,7 +1,7 @@
 ---
 title: Innovative Use of Android Phones as Webcams on Windows 11 PCs
-date: 2024-08-16T01:25:20.746Z
-updated: 2024-08-17T01:25:20.746Z
+date: 2025-03-03T17:37:47.894Z
+updated: 2025-03-05T01:18:30.424Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d592
 
  Not satisfied with the webcam on your Windows 11 computer or don't have one at all? There's no need to worry, as you can use your Android phone's front or rear camera as a webcam on your Windows 11 PC with the help of Microsoft's Phone Link app. Let’s see how.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Use an Android Phone as a Webcam on Windows 11
 
  Before we start, let’s go over some prerequisites for using your Android phone as a webcam on Windows 11\.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d592
 * The latest version of the **Link to Windows** app on both your phone and computer.
 * Your phone must be running **Android 9.0 or higher**. Not sure which version your phone is on? Check out [how to tell which version of Android you have](https://www.makeuseof.com/what-version-of-android/) and find out.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## How to Configure Windows 11 to Use Your Android’s Camera as a Webcam
 
  To start, you need to [set up the Phone Link app on your Windows 11 PC](https://www.makeuseof.com/microsoft-your-phone-app-guide/) and connect it to the Android phone you want to use as a webcam. Once you’ve done that, follow these steps to allow Windows 11 to wirelessly use your Android phone’s camera as a webcam:
@@ -47,13 +41,7 @@ thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d592
 3. Click the **Manage devices** button.
 4. Under the **My devices** section, enable the toggle next to **Use as a connected camera**.  
 ![Configure Windows 11 to Use Android as Webcam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/configure-windows-11-to-use-android-as-webcam.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Your Android Phone as a Webcam on Windows 11
 
  Once everything is set up, you can start using your Android phone as a webcam in any app on your Windows 11 PC. You can also [test the camera output in Windows](https://www.makeuseof.com/test-webcam-microphone-before-meeting/) by opening the **Settings** app and navigating to **Bluetooth & devices > Camera > Windows Virtual Camera**.
@@ -69,16 +57,9 @@ Close
  You can use your Android as a webcam in any video conferencing app, like Microsoft Teams, Google Meet, Zoom, and others. Once you're done using your phone as a webcam, simply close the camera controls window and select **Disconnect** to confirm.
 
 ![Disconnect Android Camera From Windows 11 Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/disconnect-android-camera-from-windows-11-computer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  In our experience, the camera performance was excellent across different applications, and there was no lag despite the wireless connection. Once you’ve set up the feature, using your Android device as a webcam is as straightforward as changing the default camera device in your video conferencing application, provided both devices are connected through Phone Link.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Does This Compare to Apple’s Continuity Camera Feature?
 
  At first glance, Microsoft's new feature allowing the use of an Android device as a webcam on Windows seems quite similar to [Apple’s Continuity Camera](https://www.makeuseof.com/what-is-apples-continuity-feature/) feature. However, there are some notable differences.
@@ -87,8 +68,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Not satisfied with the webcam on your Windows 11 computer or don't have one at all? There's no need to worry, as you can use your Android phone's front or rear camera as a webcam on your Windows 11 PC with the help of Microsoft's Phone Link app. Let’s see how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -96,5 +75,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-become-proficient-at-note-management-through-mematic/"><u>[Updated] Become Proficient at Note Management Through Mematic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enhancing-team-coordination-through-thoughtful-office-spaces/"><u>[Updated] In 2024, Enhancing Team Coordination Through Thoughtful Office Spaces</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-fixed-youtube-shorts-lacking-in-sight/"><u>[Updated] In 2024, Fixed YouTube Shorts Lacking in Sight</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-free-transformation-of-mp4-videos-into-ogv-using-movavis-software/"><u>A Step-by-Step Guide: Free Transformation of MP4 Videos Into OGV Using Movavi's Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analisis-completo-de-freemake-video-converter-funcion-coste-y-datos-adicionales/"><u>Análisis Completo De Freemake Video Converter - Función, Coste Y Datos Adicionales</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-votre-fichier-swf-en-mov-avec-laide-de-moovavi-sans-frais-en-ligne-gratuit/"><u>Convertissez Facilement Votre Fichier SWF en MOV Avec L'aide De Moovavi, Sans Frais - En Ligne Gratuit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortando-videos-para-mac-una-guia-sencilla-con-movavi/"><u>Cortando Videos Para Mac - Una Guía Sencilla Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exklusive-videoausschnitte-erstellen-fuhren-sie-ihre-videomontage-mit-unserem-tutorial-durch/"><u>Exklusive Videoausschnitte Erstellen - Führen Sie Ihre Videomontage Mit Unserem Tutorial Durch!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-e-wma-para-mp4-ferramenta-ampla-do-movavi/"><u>Gratuito Online: Conversor De Vídeo WMV E WMA Para MP4 - Ferramenta Ampla Do Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-enhanced-windows-11-latest-driver-version/"><u>GTX 970 Enhanced: Windows 11 Latest Driver Version</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-7-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 7 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-video-files-for/"><u>New Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-free-conversion-transforming-m4a-files-into-mpeg-format-with-ease/"><u>Online Free Conversion: Transforming M4A Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-youtube-business-channels-to-create-one-easily-for-2024/"><u>Top 10 YouTube Business Channels to Create One Easily for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-screen-recording-apps-explore-the-best-tools-by-movavi/"><u>Top 12 Screen Recording Apps: Explore the Best Tools by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-3gp-in-formato-wav-senza-costi-movavi/"><u>Trasforma I File 3GP in Formato WAV Senza Costi - Movavi</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G04</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-full-potential-the-benefits-of-leaving-usb-debugging-active-on-your-android-device/"><u>Unlocking the Full Potential: The Benefits of Leaving USB Debugging Active on Your Android Device</u></a></li>
+</ul></div>
 

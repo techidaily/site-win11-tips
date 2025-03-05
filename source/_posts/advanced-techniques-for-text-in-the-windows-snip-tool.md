@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques for Text in the Windows Snip Tool
-date: 2024-08-16T01:24:55.939Z
-updated: 2024-08-17T01:24:55.939Z
+date: 2025-03-03T16:00:26.696Z
+updated: 2025-03-04T19:19:11.946Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
 
  The Text Actions feature in the Snipping Tool is available for Windows Insider users in the Canary and Dev channels. So, if you are in either of these channels, update your Windows Insider PC to the latest available build. If aren’t in the Windows Insider program, you can enroll your device by signing up for the Windows Insider program.
@@ -43,21 +40,12 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 2. Now, pick any of the screen capture dimension options and capture the screenshot.
 3. Switch to the Snipping Tool window which will show the screenshot. Click on the **Text Actions** icon.  
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 7. Paste all the copied text in the Notepad and save it for later.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How to Redact Text in the Snipping Tool
 
  Apart from the text identification and copy feature, you can also redact text in the Snipping Tool. Redacting a text means excluding some types of texts which contain sensitive information. Currently, you only get two redact options in the tool; email addresses and phone numbers.
@@ -68,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Our Observations on the Snipping Tool
 
  Having a native OCR feature in Windows 11 is great, and it works fine in the Snipping Tool. We tried the feature with multiple languages like Spanish and Hindi, and the tool was able to identify text from a screenshot. However, you would have to open the file or image every time and capture a screenshot of it using the Snipping Tool. Only after that can you use the Text Actions feature.
@@ -79,16 +64,11 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -97,5 +77,22 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/color-depth-from-rgb-to-srgb/"><u>Color Depth From Rgb to Srgb</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-beautiful-ai-appraisal-insights-on-costs-capabilities-and-comparable-tools/"><u>Comprehensive Beautiful AI Appraisal: Insights on Costs, Capabilities & Comparable Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-an-inviting-subscribe-icon-for-youtube-videographers/"><u>Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cut-down-chaos-learning-background-erasure-with-photopea/"><u>Cut Down Chaos Learning Background Erasure with Photopea</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-itel-p55-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P55 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finnish-innovator-challenges-apple-with-groundbreaking-vr-headset-for-professionals-a-deep-dive-into-the-latest-market-disruptor-zdnet/"><u>Finnish Innovator Challenges Apple with Groundbreaking VR Headset for Professionals: A Deep Dive Into the Latest Market Disruptor - ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-lost-to-found-screen-saving-fulfilled/"><u>From Lost to Found - Screen Saving Fulfilled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-facile-davi-a-mp3-le-meilleur-convertisseur-de-fichiers-video-vers-audio/"><u>Guide Facile D'AVI À MP3 : Le Meilleur Convertisseur De Fichiers Vidéo Vers Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloze-online-raw-to-wav-konvertor-voorlopige-wijzigingen-met-movavi/"><u>Kostenloze Online RAW-to-WAV Konvertor - Voorlopige Wijzigingen Met Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-complimentary-web-based-tool-for-mp3-to-flac-transformation-high-quality-hassle-free-upgrades/"><u>Movavi's Complimentary Web-Based Tool for MP3 to FLAC Transformation: High-Quality, Hassle-Free Upgrades!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-17-free-alternatives-to-adobe-premiere-pro-by-movavi-comprehensive-guide/"><u>Top 17 Free Alternatives to Adobe Premiere Pro by Movavi: Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-choice-top-mp4-players-unveiled-for-2024/"><u>Ultimate Choice Top MP4 Players Unveiled for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-flac-aac/"><u>영구 이미지, 오디오 최적화: 원격 컴퓨터에서 Movavi를 사용한 FLAC AAC 무료 변환</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Security, Enlarge Pins: Best Practices in Windows 11/11"
-date: 2024-08-16T01:23:57.756Z
-updated: 2024-08-17T01:23:57.756Z
+date: 2025-02-25T21:21:53.085Z
+updated: 2025-03-05T02:28:17.050Z
 tags:
   - windows10
   - windows11
@@ -57,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Extend the PIN Length With Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes options for setting minimum and maximum PIN lengths. So, you don’t need to manually edit the registry to set a minimum PIN length if you can access Group Policy Editor. This is how to extend Windows Hello’s PIN length with Group Policy Editor:
@@ -69,32 +66,17 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 3. Double-click on **Computer Configuration** in the left sidebar.
 4. Next, double-click **Administrative Templates** to extend it.  
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Select **Apply** and **OK** to set the new PIN length policy.
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Extend Your Windows PIN to Make It More Secure
 
  Extending the minimum PIN length for logging in to Windows with one of the methods above is a good security measure. The longer your Windows Hello PIN is, the more secure your PC will be. However, an overly long PIN will be harder to remember. So, don’t make your PIN too long!
@@ -103,8 +85,6 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,5 +92,26 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-tips-for-enabling-grid-on-google-meet/"><u>[New] Tips for Enabling Grid on Google Meet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-embrace-laughter-and-sorrow-with-these-top-10-meme-igs-for-2024/"><u>[Updated] Embrace Laughter and Sorrow with These Top 10 Meme IGs for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-creating-humor-making-funny-parody-videos/"><u>[Updated] In 2024, Creating Humor Making Funny Parody Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-start-guide-to-editing-with-snapseed/"><u>[Updated] Quick Start Guide to Editing with Snapseed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-uncovering-vidmas-video-recording-features/"><u>[Updated] Uncovering Vidma's Video Recording Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-pathway-to-popular-youtube-thumbnails-mac-edition/"><u>2024 Approved The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviweb-png/"><u>無料で使えるMovaviのWeb-ベースPNG画像編集・変換ツール - 詳しく見てみませんか？</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-i-file-wma-in-formato-webm-gratuitamente-su-internet-guida-rapida-di-movavi/"><u>Cambia I File WMA in Formato WebM Gratuitamente Su Internet: Guida Rapida Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-mov-files-to-ogg-format-for-free-online-expert-results-with-movavi/"><u>Convert MOV Files to OGG Format for Free Online - Expert Results with MOVAVI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decouvrez-les-top-5-techniques-pour-retirer-des-objets-de-votre-photographie-en-2024/"><u>Découvrez Les Top 5 Techniques Pour Retirer Des Objets De Votre Photographie en 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-e-importar-archivos-ogv-como-mp4-sin-coste-con-la-herramienta-online-de-convertir-video/"><u>Descargar E Importar Archivos OGV Como MP4 Sin Coste Con La Herramienta Online De Convertir Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/geevensamenvoeging-waardevollen-gratuite-programmas-en-apps-voor-beste-resultaten-online-of-desktop-gebruikers/"><u>Geevensamenvoeging Waardevollen Gratuite Programma's en Apps Voor Beste Resultaten, Online of Desktop-Gebruikers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-a79-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo A79 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-double-delight-maximizing-the-use-of-netflixs-floating-window/"><u>In 2024, Double Delight Maximizing the Use of Netflix's Floating Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/moviva-la-solucion-perfecta-para-cambiar-tu-video-swf-al-formato-avi-rapidamente-y-sin-gastar-dinero/"><u>MoviVa: La Solución Perfecta Para Cambiar Tu Vídeo SWF Al Formato AVI Rápidamente Y Sin Gastar Dinero.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-drones-for-sale-today/"><u>Top-Tier Drones for Sale Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-tu-fotografia-raw-a-png-de-manera-gratuita-y-facil-con-la-ayuda-de-movavi/"><u>Transforma Tu Fotografía RAW a PNG De Manera Gratuita Y Fácil Con La Ayuda De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ts-extension-wat-het-doel-en-de-werkvogels-verder-buigbaar-zijn/"><u>TS Extension - Wat Het Doel En De Werkvogels Verder Buigbaar Zijn</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-split-screen-video-creators-for-mobile-phones/"><u>Updated Top-Rated Split Screen Video Creators for Mobile Phones</u></a></li>
+</ul></div>
 

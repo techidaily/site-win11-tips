@@ -1,7 +1,7 @@
 ---
 title: Integrating Numeric Keys Status Into Win11's SysTray
-date: 2025-02-10T23:53:07.158Z
-updated: 2025-02-16T03:29:01.492Z
+date: 2025-02-28T19:05:47.329Z
+updated: 2025-03-04T16:04:20.249Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you should see Caps and Num Lock key indicators in the Windows system tray area, which are enabled within the software’s settings by default after installation. The **1** icon is the Num Lock indicator, and the **a** status indicator is for Caps Lock. The **a** indicator becomes a capital **A** when Caps Lock is on. The **1** indicator has a white or black background when Num Lock is on.
 
 ![Caps and Num Lock system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/traystatus-indicator.jpg)
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With AddLEDs
 
@@ -76,19 +68,11 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
 
  AddLEDs has a few settings with which you can change the color scheme of its system tray indicators. Right-click one of the indicators and move the cursor over Icon Indicators to view those options. Then you can select color scheme options like **Transparent**, **Black/White**, **Blue/Red/Green**, **Green/Red**, and **Red/Blue**.
 
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
@@ -108,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
 
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To configure the indicators, right-click the Keyboard LEDs icon to select **Settings**. You can choose different colors for each indicator box by clicking the color drop-down menus for the **Led 1**, **2**, and **3** drop-down menus. Click the button drop-down menus to change the lock key indicator for each box.
 
@@ -139,22 +119,18 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-practical-methods-for-instagram-story-capture/"><u>[New] In 2024, Practical Methods for Instagram Story Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-10-globally-acclaimed-video-sensations-on-youtube/"><u>[New] Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289670936-vobmp4/"><u>優化版VOB轉為高品質MP4：最佳影片編解碼器選擇指南</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/could-chatgpt-signal-the-end-of-traditional-search-engines/"><u>Could ChatGPT Signal the End of Traditional Search Engines?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-error-0x887a0006-on-graphics-issues/"><u>Guide to Rectify Error 0X887A0006 on Graphics Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-strategies-for-tackling-directdraw-glitches-on-windows-1011/"><u>Key Strategies for Tackling DirectDraw Glitches on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-cures-9-ways-to-stop-windows-setup-from-hanging-at-verify/"><u>Quick Cures: 9 Ways To Stop Windows Setup From Hanging at Verify</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-cortana-experience-with-data-export/"><u>Reclaim Your Cortana Experience with Data Export</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-and-modernizing-clipboard-memory-usage-in-windows-11/"><u>Streamlining and Modernizing Clipboard Memory Usage in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-between-dual-windows-using-aoemi/"><u>Streamlining Data Exchange Between Dual Windows Using AOEMi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-strategies-when-windows-firewall-holds-steady/"><u>Top Strategies When Windows Firewall Holds Steady</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-photography-the-remarkable-advancements-in-smartphone-camera-technology-powered-by-artificial-intelligence-for-an-impressive-tomorrow/"><u>Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-8-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trustworthiness-of-gpt-in-health-advice-delivery/"><u>Trustworthiness of GPT in Health Advice Delivery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-fortification-7-measures-against-illicit-entry/"><u>Windows Fortification: 7 Measures Against Illicit Entry</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-new-era-of-visual-narratives-full-rotation-for-2024/"><u>[New] A New Era of Visual Narratives Full Rotation for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-picks-for-integrating-frame-elements-with-images/"><u>[New] Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits-for-2024/"><u>[Updated] Monetizing Content How Much AdSense Pays You Per Thousand Video Hits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-microsoft-teams-is-getting-faster-and-less-of-a-memory-hog/"><u>How Microsoft Teams Is Getting Faster and Less of a Memory Hog</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-wi-fi-linkage-on-windows-10-with-these-effective-corrections/"><u>Restore Wi-Fi Linkage on Windows 10 With These Effective Corrections</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-dvd-playback-tools-freie-software-zum-herunterladen-fur-windows-11-and-mac-die-sie-sicherlich-benutzen-sollten/"><u>Top-DVD-Playback-Tools: FREIE Software Zum Herunterladen Für Windows 11 & Mac, Die Sie Sicherlich Benutzen Sollten</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-hp-victus-15l-gaming-laptop-now-at-only-480-labor-day-flash-sale/"><u>Unbeatable Deal: HP Victus 15L Gaming Laptop Now at Only $480 - Labor Day Flash Sale!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/uncover-secret-data-how-to-find-hidden-files-on-your-windows-system-with-yl-computings-expert-guide/"><u>Uncover Secret Data: How to Find Hidden Files on Your Windows System with YL Computing's Expert Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-drive-space-a-guide-to-diskusage/"><u>Unlocking the Secrets of Windows' Drive Space: A Guide to DiskUsage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-of-widget-activation-in-win11/"><u>Unveiling the Process of Widget Activation in Win11</u></a></li>
 </ul></div>
 

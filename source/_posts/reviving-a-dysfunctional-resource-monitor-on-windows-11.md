@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dysfunctional Resource Monitor on Windows 11
-date: 2025-02-10T17:50:24.979Z
-updated: 2025-02-15T16:14:01.683Z
+date: 2025-03-01T01:24:47.363Z
+updated: 2025-03-05T03:40:37.547Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ So, let's move on to the solution and fix this problem.
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
@@ -62,10 +58,6 @@ To change the DPI scale to its default settings, follow these steps:
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the System File Checker
 
  If restarting your computer and changing the DPI settings didn't work, running an SFC scan can often detect and repair any corrupted system files that might be causing problems.
@@ -77,10 +69,6 @@ To do this, follow these steps:
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
@@ -107,10 +95,6 @@ sfc /scannow
 3. Now go to the right and click on**Update history** .  
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
@@ -141,17 +125,9 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
@@ -177,21 +153,22 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comparing-streaming-software-obs-vs-shadowplay/"><u>[New] 2024 Approved Comparing Streaming Software OBS vs ShadowPlay</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trending-vids-the-videoviral-phenomenon/"><u>[New] 2024 Approved Trending Vids The #VideoViral Phenomenon</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-celestial-warriors-unite-release-date/"><u>[New] Celestial Warriors Unite! Release Date</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-masterpieces-creative-buildings-guide-for-2024/"><u>[New] Minecraft Masterpieces Creative Buildings Guide for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones-for-2024/"><u>[Updated] Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-creation-at-your-fingertips-selecting-androids-top-editors/"><u>[Updated] Seamless Creation at Your Fingertips Selecting Android's Top Editors</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-secret-pathway-to-premium-pristine-pictures/"><u>In 2024, The Secret Pathway to Premium, Pristine Pictures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-chart-selection-with-filters-in-ms-excel-tips-and-tricks/"><u>Mastering Chart Selection with Filters in MS Excel: Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-excel-data-insights-a-comprehensive-guide-to-utilizing-pivot-tables/"><u>Mastering Excel Data Insights: A Comprehensive Guide to Utilizing Pivot Tables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-goal-seek-functionality-in-microsoft-excel/"><u>Mastering Goal Seek Functionality in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-time-based-sorting-in-microsoft-excel-a-comprehensive-tutorial/"><u>Mastering the Art of Time-Based Sorting in Microsoft Excel: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-frequency-formula-a-comprehensive-guide-on-utilizing-excels-countif-feature/"><u>Mastering the Frequency Formula: A Comprehensive Guide on Utilizing Excel's Countif Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-trendline-analysis-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Trendline Analysis: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-default-output-files-in-libreoffice-made-easy/"><u>Modifying Default Output Files in LibreOffice Made Easy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-the-usechatgpt-copilot-extension-and-what-can-it-do/"><u>What Is the UseChatGPT Copilot Extension and What Can It Do?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-your-podcast-entry-in-apples-catalog/"><u>[New] Perfecting Your Podcast Entry in Apple's Catalog</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earning-potential-for-creators-in-youtube-ads-for-2024/"><u>[Updated] Earning Potential for Creators in YouTube Ads for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[Updated] In 2024, Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-essentials-of-crafting-crystal-clear-vhs-graphics-online/"><u>2024 Approved The Essentials of Crafting Crystal-Clear VHS Graphics Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138583970-9781449714352-compass-points-for-daily-living/"><u>Compass Points for Daily Living | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-blue-screen-analysis-techniques-with-microsoft-on-w11/"><u>Effective Blue Screen Analysis Techniques with Microsoft on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-with-windows-11s-divine-functionality/"><u>Elevate Your PC with Windows 11'S Divine Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-browser-efficiency-youtube-stream-optimization/"><u>Enhancing Browser Efficiency: YouTube Stream Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faux-friends-how-innocent-looking-apps-tax-your-windows-11/"><u>Faux Friends: How Innocent-Looking Apps Tax Your Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-program-linkage-issue-on-windows-os/"><u>Fixing Missing Program Linkage Issue on Windows OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210355695-9781999254827-instant-kundalini/"><u>Instant Kundalini | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-resourceerror-display-of-text-in-windows-11/"><u>Overcoming ResourceError: Display of Text in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x50i-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X50i? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-expires-shortly-alert-in-windows-11/"><u>Resolving Windows Expires Shortly Alert in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reveal-every-detail-the-leading-clear-image-apps/"><u>Reveal Every Detail The Leading Clear Image Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/walkthrough-restoring-win-os-backups-to-sys-defaults/"><u>Walkthrough: Restoring Win OS Backups to Sys Defaults</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/yl-software-unveils-strategies-for-detecting-crypto-scams-safely-online/"><u>YL Software Unveils Strategies for Detecting Crypto Scams Safely Online</u></a></li>
 </ul></div>
 

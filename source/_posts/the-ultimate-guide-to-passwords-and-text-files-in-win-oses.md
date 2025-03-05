@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Passwords and Text Files in Win OSes
-date: 2025-02-11T18:31:55.813Z
-updated: 2025-02-16T01:31:03.598Z
+date: 2025-02-28T20:10:41.311Z
+updated: 2025-03-05T03:37:37.468Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Passwords to Text Files With LockNote
 
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select somewhere to save your file.
 7. Click **Save**.
 
@@ -109,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
@@ -139,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
@@ -150,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
@@ -163,14 +143,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  Double-click a text file within the archive. Then you'll be prompted to input a password for it. Enter the password you set for the ZIP to open the text file in Notepad.
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Secure Your Text Files in Windows 11/10
 
@@ -192,16 +164,24 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-adding-a-digital-clock-to-your-youtube-video-playback/"><u>[New] 2024 Approved Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] 2024 Approved Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-dissecting-top-viewed-video-dynamics-on-youtube/"><u>[Updated] 2024 Approved Dissecting Top-Viewed Video Dynamics on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-gt-3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme GT 3 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-pdf-handling-discover-these-4-essential-tips/"><u>ChatGPT's PDF Handling: Discover These 4 Essential Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-through-the-maze-of-windows-10-crash-modes/"><u>Guide Through the Maze of Windows 10 Crash Modes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-quick-assistance-on-windows-11/"><u>Initiating Quick Assistance on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-vcplusplus-redistributable-needs/"><u>Insight Into VC++ Redistributable Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-unblock-overloaded-gpt-windows-errors/"><u>Tips to Unblock Overloaded GPT Windows Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-code-0x80780119-restore-mishap/"><u>Unraveling Windows' Code 0X80780119 Restore Mishap</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-transforming-scripted-words-into-powerful-video-soundtracks/"><u>[New] 2024 Approved Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inside-outlook-what-youre-missing-as-a-story-viewer-for-2024/"><u>[New] Inside Outlook What You're Missing as a Story Viewer for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insider-tips-creating-unique-podcast-names/"><u>[New] Insider Tips Creating Unique Podcast Names</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-process-for-shaping-photos/"><u>[New] Streamlined Process for Shaping Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-projecting-film-costs-for-your-music-video/"><u>[Updated] Projecting Film Costs for Your Music Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-steps-to-resolve-0x80071a90-error/"><u>Comprehensive Steps to Resolve 0X80071A90 Error</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-clearcut-screen-capture-options-no-commercials-for-2024/"><u>Leading Clearcut Screen Capture Options (No Commercials) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lift-screen-limitations-in-windows-11-with-these-methods/"><u>Lift Screen Limitations in Windows 11 with These Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-on-winservicesexe-in-windows-os/"><u>Masterclass on WinServices.exe in Windows OS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-earning-through-vlogs-for-2024/"><u>Mastering the Art of Earning Through Vlogs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-avoid-fullscreen-frustrations/"><u>Navigate Through Windows: Avoid Fullscreen Frustrations</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>New What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-revive-wow-on-a-stuck-pc/"><u>Quick Steps to Revive WoW on a Stuck PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-original-directory-view-in-win11/"><u>Recovering Original Directory View in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-slide-show-creation-windows-11s-seven-step-methodology/"><u>Seamless Slide Show Creation: Windows 11'S Seven-Step Methodology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-rejuvenation-exploring-windows-8-restarts/"><u>System Rejuvenation: Exploring Windows' 8 Restarts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-evolution-of-copilot-key-and-its-effect-on-windows-11-users/"><u>The Evolution of Copilot Key and Its Effect on Windows 11 Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>Updated 2024 Approved Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
 </ul></div>
 

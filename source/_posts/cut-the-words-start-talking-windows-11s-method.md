@@ -1,7 +1,7 @@
 ---
 title: "Cut the Words, Start Talking: Windows 11'S Method"
-date: 2024-08-16T01:24:06.263Z
-updated: 2024-08-17T01:24:06.263Z
+date: 2025-02-25T18:14:10.171Z
+updated: 2025-03-04T18:26:07.091Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 2\. How to Start the Narrator Using a Run Command
 
  The Run command on a Windows operating system is a quick way to open an application or document. If you're using a screen reader or text-to-speech software on your Windows 11 computer, you can open it using the Run command. Here's how:
@@ -39,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 ![Open Narrator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-run-command.jpg)
 3. The narrator will now launch and begin reading aloud whatever is on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Start the Narrator via Command Prompt
 
  Windows 11 comes with a built-in screen reader called Narrator that you can use if you need a screen reader. Here's how to open it via the Command Prompt:
@@ -51,14 +44,8 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. The Narrator window will open, and you can start using the screen reader.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. How to Start the Narrator With the Windows Search Tool
 
  If you're using a screen reader because you have vision problems, you know how important it is to be able to find things quickly on your computer. The Windows Search tool can help you do just that.
@@ -69,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 You now have Narrator running on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 5\. How to Start the Narrator Through Windows PowerShell
 
  Windows PowerShell is a task-based command-line shell and scripting language designed especially for system administration. You can use this tool to launch programs installed on your computer.
@@ -92,9 +75,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 2. Click the**Accessibility** tab on the left side of the screen.
 3. Navigate to the**Vision** section and click**Narrator** .  
 ![Open Narrator Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 4. Under the Use Narrator section, switch on the**Narrator** toggle.
 
 ## 7\. How to Start the Narrator Using Control Panel
@@ -118,10 +98,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  Once you have created it, you will see a shortcut icon on your desktop. Double-click on it to start the Narrator.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 9\. How to Start Narrator Through Task Manager
 
  Windows 11 comes with a lot of useful features, and one of them is the ability to open Narrator using Task Manager. This can be helpful if you're having trouble with your computer and can't access the other methods suggested. To open Narrator using Task Manager, follow these steps:
@@ -129,9 +105,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Right-click on the taskbar and select "Task Manager" from the menu that appears. You can also use**Ctrl + Shift + Enter** to open the tool directly.
 2. In the Task Manager window, click on the**Run new task** button.  
 ![Open Narrator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Type "Narrator" in the text field and hit Enter.
 
  Close the Task Manager window and the Narrator should now be up and running.
@@ -145,9 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 That's all; your Narrator should now be ready to go.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 11\. How to Pin Narrator to the Taskbar
 
  While you can open Narrator using any of the above methods, you might find it easier to access it right from the Taskbar tray. Having it on the taskbar can make it easier and faster to access an application since it is always in view on your desktop. To do this, follow the below steps:
@@ -162,14 +132,11 @@ That's all; your Narrator should now be ready to go.
 
  The Narrator tool is easy to use and can be very helpful for those who are visually impaired or have disabilities that make using a computer difficult. If you're running Windows 11 and want to open Narrator, now you know the best ways to do so.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,8 +145,23 @@ That's all; your Narrator should now be ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hashtag-hype-unveiling-twitters-toptiktok-videos/"><u>[New] 2024 Approved Hashtag Hype Unveiling Twitter's #TopTikTok Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-engagement-techniques-for-snap-camera-on-teams/"><u>[Updated] 2024 Approved Boosting Engagement Techniques for Snap Camera on Teams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-superior-zoom-sound-quality/"><u>[Updated] In 2024, The Ultimate Guide to Superior Zoom Sound Quality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-silence-issue-fixing-audio-absence-in-obs/"><u>[Updated] Silence Issue Fixing Audio Absence in OBS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-free-online-conversion-changing-pef-format-to-png-with-ease-moveavi/"><u>1. Free Online Conversion: Changing PEF Format to PNG with Ease - Moveavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>2024 Approved How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modwma-movavi/"><u>無需付費的MOD到WMA格式線上轉化 - 利用Movavi優化</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-12-free-collages-applications-for-your-pc-with-our-expert-recommendations/"><u>Discover the Ultimate 12 Free Collages Applications for Your PC with Our Expert Recommendations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/dividing-drama-a-step-by-step-chapters-integration-on-vimeo-for-2024/"><u>Dividing Drama A Step-by-Step Chapters Integration on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/effective-ways-to-modify-tracks-tempo-on-spotify/"><u>Effective Ways to Modify Tracks Tempo on Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-m4a-audio-files-into-mp4-format-with-ease-movavi/"><u>Free Online Converter: Change M4A Audio Files Into MP4 Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-wav-format-converteren-met-raw-de-efficientheid-van-movavi/"><u>Gratuit Gebaseerd WAV-Format Converteren Met RAW: De Efficiëntheid Van Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-para-cambiar-formatos-dpx-a-png-sin-coste-mediante-movavi/"><u>Guía Paso a Paso Para Cambiar Formatos DPX a PNG Sin Coste Mediante Movavi</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy XCover 7 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-mp4-in-formato-aac-gratuitamente-con-il-servizio-di-conversione-online-di-moveavi/"><u>Trasforma I Tuoi File MP4 in Formato AAC Gratuitamente Con Il Servizio Di Conversione Online Di Moveavi</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-melody-and-motion-best-sync-videography-applications-of-the-decades-first-half/"><u>Updated In 2024, Melody and Motion Best-Sync Videography Applications of the Decades First Half</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enable the Redesigned Widgets Picker in Windows 11
-date: 2025-02-11T00:38:13.185Z
-updated: 2025-02-15T21:18:52.195Z
+date: 2025-03-03T17:23:25.069Z
+updated: 2025-03-04T17:43:13.163Z
 tags:
   - windows10
   - windows11
@@ -25,25 +25,13 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Redesigned Widgets Picker in Windows 11?
 
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
 
  Microsoft introduces new features and ideas first to Canary and Dev Insider channels. After taking feedback from Insiders, it decides whether it should release them to other Insider channels.
@@ -80,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The new Widgets picker was introduced to the Dev and Canary Channel, and it has a good chance of debuting in Beta builds and then eventually to the users running stable Windows 11\.
 
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
@@ -101,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/kyrocketing-subscribers-on-youtube-step-by-step-for-2024/"><u>[New] Skyrocketing Subscribers on YouTube Step-by-Step for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-sonoma-macos-boosting-gaming-experience-with-game-mode/"><u>Apple's Sonoma MacOS: Boosting Gaming Experience with Game Mode</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-ready-to-connect-your-ai-conversation-guide/"><u>Get Ready to Connect: Your AI Conversation Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 with IMEI Code?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mac-users-path-to-professional-audio-with-audacity/"><u>In 2024, Mac Users' Path to Professional Audio with Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-inconsistent-gestures-on-your-windows-device/"><u>Mending Inconsistent Gestures on Your Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-missing-windows-logins-with-ease/"><u>Navigating Through Missing Windows Logins with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-video-conversion-mkv-to-mp4-on-pcs/"><u>Streamlining Video Conversion: MKV to MP4 on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/telnet-configuration-made-simple-for-win11-users/"><u>Telnet Configuration Made Simple: For Win11 Users</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/top-5-strategies-for-streaming-itunes-films-directly-onto-your-television-screen/"><u>Top 5 Strategies for Streaming iTunes Films Directly Onto Your Television Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninterrupted-powertoys-experience-with-system-switch-up/"><u>Uninterrupted PowerToys Experience with System Switch-Up</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-woes-how-to-re-enable-the-hidden-enhancement-panel/"><u>Windows 11 Woes: How to Re-Enable the Hidden Enhancement Panel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-overview-and-assessment-parrots-advanced-edition/"><u>[New] 2024 Approved Overview and Assessment - Parrot's Advanced Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-class-on-cutting-unwanted-backdrops/"><u>[New] Master Class on Cutting Unwanted Backdrops</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-deciphering-and-crafting-accurate-slug-line-annotations/"><u>[Updated] 2024 Approved Deciphering and Crafting Accurate Slug Line Annotations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pantheon-of-youtubes-all-time-highest-views/"><u>2024 Approved Pantheon of YouTube's All-Time Highest Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-strategies-for-retrieving-nvidias-missing-settings/"><u>Comprehensive Strategies for Retrieving NVIDIA's Missing Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-a-frozen-chromebook-effective-methods-you-should-try/"><u>Fixing a Frozen Chromebook: Effective Methods You Should Try</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-infinix-smart-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Smart 8 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-absence-of-critical-dxgidll-in-win11/"><u>How to Restore Absence of Critical Dxgi.dll in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-overheating-essential-strategies-for-gamers-computers/"><u>Mastery Overheating: Essential Strategies for Gamers' Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-routes-to-circumvent-windows-login/"><u>Optimized Routes to Circumvent Windows Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-steam-storage-hurdles/"><u>Overcoming Windows' Steam Storage Hurdles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-fold-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Fold 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-invisible-wired-connections-windows-guide/"><u>Unmasking Invisible Wired Connections: Windows Guide</u></a></li>
 </ul></div>
 

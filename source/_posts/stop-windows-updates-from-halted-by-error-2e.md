@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Updates From Halted by Error 2E
-date: 2025-02-12T23:02:28.931Z
-updated: 2025-02-15T16:26:04.292Z
+date: 2025-02-26T01:29:19.919Z
+updated: 2025-03-04T19:27:35.577Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 Let's now see how to fix this error code on Windows:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  Restarting your computer is an easy way to resolve many Windows Update errors. By restarting, you're resetting the memory of your device and clearing out any pesky bugs that may be causing trouble with error 0x8024002e. Give it a try - after rebooting, check if the issue has been resolved.
@@ -55,10 +51,6 @@ To restart the Windows Update service, follow these steps:
 ![Restart Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-update-service.jpg)
 6. Now click**Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you have started the Windows Update service, repeat this same process with several other services provided below:
 
 * Background Intelligent Transfer Service.
@@ -68,10 +60,6 @@ To restart the Windows Update service, follow these steps:
 * Windows Installer.
 
  Once you've completed the process, check Windows Update again to see if the error is still occurring.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
 
@@ -166,19 +154,11 @@ net start cryptsvc`
 
  Wait for the process to complete and then restart your computer. After you follow these steps, check to see if the 0x8024002e error is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Apply Generic Windows Update Fixes
 
  If all else fails, it's time to try some more general fixes. These have had good track records for fixing Windows Update errors, regardless of the error code it gives you.
 
  Check out[the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving Windows Update Error 0x8024002e
 
@@ -199,20 +179,22 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-dimensions-and-edits-the-imovie-crop-enigma/"><u>[New] In 2024, Dimensions and Edits The iMovie Crop Enigma</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-essential-quick-steps-for-effective-double-take-filming/"><u>[Updated] Essential Quick Steps for Effective Double Take Filming</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-fix-shaky-gopro-videos/"><u>2024 Approved How to Fix Shaky GoPro Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-intricate-data-collection/"><u>Decoding Windows 11'S Intricate Data Collection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-fixes-to-overcome-common-windows-app-errors/"><u>Efficient Fixes to Overcome Common Windows App Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-pc-setup-sticking-gmail-on-the-windows-taskbar/"><u>Essential PC Setup: Sticking Gmail on the Windows Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-adjust-admin-managed-chromium-and-microsoft-edge-in-windows/"><u>Guidelines to Adjust Admin-Managed Chromium & Microsoft Edge in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-itel-p55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Itel P55 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-device-latency-zerodxgierror-in-win11-pcs/"><u>How to Tackle Device Latency ZeroDXGIError in Win11 PCs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-from-zero-to-trendsetter-solo-podcast-success-story/"><u>In 2024, From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco M6 Pro 4G FRP?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mobile-animation-mastery-the-best-apps-for-android-and-ios-for-2024/"><u>New Mobile Animation Mastery The Best Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/novices-companion-to-windows-accessibility-features/"><u>Novice's Companion to Windows Accessibility Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-frame-perfect-our-top-10-photo-lenses-list/"><u>[New] 2024 Approved Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>[Updated] In 2024, Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-preventing-guilty-gear-strive-pc-game-crashes/"><u>Comprehensive Fixes for Preventing Guilty Gear Strive PC Game Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determine-if-your-pc-is-able-to-run-the-latest-os/"><u>Determine If Your PC Is Able to Run the Latest OS</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-completa-para-clonar-el-sistema-de-almacenamiento-de-tu-computadora-portatil-hacia-un-ssd-reducido-o-nuevo-hdd/"><u>Guía Completa Para Clonar El Sistema De Almacenamiento De Tu Computadora Portátil Hacia Un SSD Reducido O Nuevo HDD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-vr-capabilities-in-nvidia-gpu/"><u>Guide to Switch Off VR Capabilities in Nvidia GPU</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-photo-flexibility-with-these-win-11-resizing-tactics/"><u>Maximize Photo Flexibility with These Win 11 Resizing Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-vexing-error-0x80004005-detailed-solutions-and-explanations/"><u>Overcome the Vexing Error 0X80004005: Detailed Solutions and Explanations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scribbling-on-screens-winning-notepad-alternatives-for-pc/"><u>Scribbling on Screens: Winning Notepad Alternatives for PC</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/section-2c-five-similar-questions-with-solutions/"><u>Section 2C: Five Similar Questions with Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-role-of-vcplusplus-in-software-distribution/"><u>The Role of VC++ in Software Distribution</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-honor-x50-gt-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor X50 GT Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-maximum-downloads-with-utorrent-on-windows-pcs/"><u>Unleash Maximum Downloads with uTorrent on Windows PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-your-audio-potential-pazeras-free-tool-review/"><u>Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-performance-plunge-apps-that-seem-harmlayered-but-act-otherwise/"><u>Windows 11 Performance Plunge: Apps That Seem Harmlayered but Act Otherwise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tools-for-ascertaining-your-processors-age/"><u>Windows Tools for Ascertaining Your Processor’s Age</u></a></li>
 </ul></div>
 

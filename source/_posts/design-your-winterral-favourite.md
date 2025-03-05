@@ -1,7 +1,7 @@
 ---
 title: Design Your WinTerral Favourite
-date: 2025-02-15T01:43:20.096Z
-updated: 2025-02-15T20:20:06.446Z
+date: 2025-03-02T18:59:47.040Z
+updated: 2025-03-04T19:08:30.351Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change Windows Terminal Background Image
 
  You can change the background image of Windows Terminal in three ways: using the**Default** option within the Terminal app or manually editing the settings.json file using**File Explorer** and**Run** dialog box. All three methods achieve the same result and are easy to use.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
 
  Click**Open** to confirm your selection. Now you should be able to see the selected image as the background of the terminal.
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  Once you are satisfied with the changes, click the**Save** button in order to apply them. Your custom background image should now be visible in the Windows Terminal.
 
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
 
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  This is where you can enter the path of your own image to set as the Windows Terminal background. To do this, first copy the full file path for the image you want to use, including the file name.
 
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
 
@@ -108,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 3. This will open the Local State folder containing the settings.json file. Right-click on**Settings** and select**Open with** \>**Notepad** .  
 ![Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
@@ -137,18 +117,22 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-decoding-the-clues-in-your-facebooks-unseen-activity-trail/"><u>[New] In 2024, Decoding the Clues in Your Facebook's Unseen Activity Trail</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-live-broadcast-over-the-internet-via-vlc-media-player/"><u>[Updated] 2024 Approved Mastering Live Broadcast Over the Internet via VLC Media Player</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/easy-steps-to-change-character-sounds-for-maximum-impact-no-cost/"><u>Easy Steps to Change Character Sounds for Maximum Impact (No Cost)</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/enhancing-pc-efficiency-key-hardware-upgrades-for-optimal-system-speed-insights-by-yl-technology-solutions/"><u>Enhancing PC Efficiency: Key Hardware Upgrades for Optimal System Speed - Insights by YL Technology Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-powerful-and-portable-lenovo-thinkpad-x1-with-5g-capability-expert-evaluation-by-tech-guru-at-zdnet/"><u>In-Depth Review of the Powerful and Portable Lenovo ThinkPad X1 💪 with 5G Capability | Expert Evaluation by Tech Guru at ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-commercials-just-content-a-new-era-for-win-11/"><u>No Commercials, Just Content - A New Era for Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-network-file-share-obstacles-with-geforce/"><u>Overcoming Network File-Share Obstacles with GeForce</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recover-unseen-second-screen-in-w11/"><u>Recover Unseen Second Screen in W11</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/resolving-windows-black-monitor-problem-expert-advice-by-yl-software/"><u>Resolving Windows Black Monitor Problem: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/schritt-fur-schritt-anleitung-zum-sicherung-ihres-windows-server-2008-r2-auf-eine-externe-festplatte/"><u>Schritt-Für-Schritt-Anleitung Zum Sicherung Ihres Windows Server 2008 (R2) Auf Eine Externe Festplatte</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-outlooks-0x80040610-failure-code/"><u>Steps to Rectify Outlook's 0X80040610 Failure Code</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-risks-in-turning-off-windows-11-alerts/"><u>Understanding the Risks in Turning Off Windows 11 Alerts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-max-views-max-impact-discover-best-posting-days/"><u>[New] 2024 Approved Max Views, Max Impact Discover Best Posting Days</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-insert-audio-files-into-powerpoint-sequences-for-2024/"><u>[Updated] Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-personal-youtube-broadcasting-with-minimal-subscribers/"><u>[Updated] Personal YouTube Broadcasting with Minimal Subscribers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-landscapes-with-mi-drone-4k-analysis/"><u>2024 Approved Capturing Landscapes with MI Drone 4K Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-from-everyday-snaps-to-professional-videos-the-top-9-mobile-filmmaking-gadgets/"><u>2024 Approved From Everyday Snaps to Professional Videos - The Top 9 Mobile Filmmaking Gadgets</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/5lin5yan5asx5y676yen6kab6kik5ogv77ya6kiy5oa25y2h5pwr5yqp5oyh5y2x77ym6ycz5piv5l2g6zya6kab55plusl6ygt55qe5lql5oof/"><u>不再失去重要訊息：記憶卡救助指南，這是你需要知道的事情</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-file-transfers-setting-up-a-python-server-in-windows/"><u>Easy File Transfers: Setting Up a Python Server in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-problems-on-windows-11-pc/"><u>How to Rectify Steam Problems on Windows 11 PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-comprehensive-examination-razer-kiyo-cam/"><u>In 2024, Comprehensive Examination Razer Kiyo Cam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-soundseekers-avoiding-dacast-traps/"><u>In 2024, SoundSeekers Avoiding DaCast Traps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-gaming-with-quick-and-reliable-directx-updates/"><u>Maximize Gaming with Quick & Reliable DirectX Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-phishing-detection-with-smartfilter-in-windows/"><u>Optimize Phishing Detection with SmartFilter in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-clear-and-update-windows-icons/"><u>Steps to Clear and Update Windows Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-next-frontier-unveiling-changes-to-windows-11s-explorer/"><u>The Next Frontier: Unveiling Changes to Windows 11'S Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-anywhere-advanced-powertoys-mouse-control-tips/"><u>Traverse Anywhere: Advanced PowerToys Mouse Control Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-saving-glitches-in-pubg-for-win-users/"><u>Troubleshooting Saving Glitches in PUBG for Win Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vanishing-act-hide-keys-without-disruption/"><u>Vanishing Act: Hide Keys Without Disruption</u></a></li>
 </ul></div>
 

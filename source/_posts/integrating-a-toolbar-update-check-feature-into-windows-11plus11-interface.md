@@ -1,7 +1,7 @@
 ---
 title: Integrating a Toolbar Update Check Feature Into Windows 11+11 Interface
-date: 2024-08-16T01:26:20.306Z
-updated: 2024-08-17T01:26:20.306Z
+date: 2025-03-03T18:36:32.340Z
+updated: 2025-03-05T03:10:01.535Z
 tags:
   - windows10
   - windows11
@@ -63,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  If you ever want to remove the **Check for Updates** shortcut from the context menu, open the **Shell** key in the Registry Editor again. Then right-click the **Check for Updates** key to select **Delete**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Add a Windows Update Submenu to the Context Menu With Winaero Tweaker
 
  Winaero Tweaker is a freely available customization software for Windows with which you can customize the context menu in many ways. That software has an option you can select to add a **Windows Update** submenu to the context menu, which includes a **Check for updates** shortcut. This is how you can add a **Check for updates** shortcut to the desktop’s right-click menu with Winaero Tweaker:
@@ -76,37 +73,22 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 4. Double-click the **Context menu** category within Winaero Tweaker’s left sidebar.
 5. Click on the **Windows Update** setting.  
 ![The Add Windows Update submenu to Desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-context-menu-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select the **Add Windows Update submenu to Desktop context menu** option.
 
  Now look at the new Windows Update submenu on the desktop’s context menu. Press **Shift** \+ **F10** to view the classic context menu. Move the cursor over the **Windows Update** submenu to view its options. There you can select a **Check for updates** option to bring up the **Check for updates** button.
 
 ![The Windows Update submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-windows-update-submenu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The **Windows Update** submenu also has four other shortcuts to update settings. Click **Update history** to view the installed update list. Or select **Advanced options** to bring up the additional settings for updates. The **Restart options** shortcut opens the settings for scheduling update times.
 
  Winaero Tweaker also has a customization option for adding a **Windows Update** shortcut to the Control panel. To access that option, click **Settings and** **Control Panel** \> **Add Windows Update** in Winaero Tweaker’s sidebar. Click the **Add Windows Update to Control Panel\\System and Security** checkbox to select that option.
 
 ![The Add Windows Update to Control Panel option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-control-panel-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then you’ll see a **Windows Update** shortcut within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and click the **System and Security** category. Clicking the **Windows Update** shortcut there will open the **Settings** tab with the **Check for updates** button.
 
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Keep an Eye Out For New Windows Updates
 
  So, now you can select a handy **Check for Updates** shortcut on your desktop’s context menu. That shortcut will save you from having to manually open Settings and its **Windows Update** tab whenever you need to check for updates. Instead, you can simply click the **Check for Updates** context menu option to open the update tab directly from the desktop.
@@ -115,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -124,5 +104,24 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-increase-engagement-must-try-youtube-seo-tools/"><u>[Updated] 2024 Approved Increase Engagement Must-Try YouTube SEO Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastery-techniques-for-embedding-social-media-live-videos-for-2024/"><u>[Updated] Mastery Techniques for Embedding Social Media Live Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-track-it-like-that-essential-tiktok-raps-you-cant-ignore/"><u>[Updated] Track It Like That Essential TikTok Raps You Can't Ignore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>2024 Approved No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/class-action-litigation-unfolds-for-intel-amid-cpu-reliability-controversies/"><u>Class Action Litigation Unfolds for Intel Amid CPU Reliability Controversies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crystal-clear-on-screen-discovering-the-cg318-4k-monitor/"><u>Crystal Clear on Screen Discovering the CG318-4K Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-potential-the-top-10-msistore-titles/"><u>Ignite Potential: The Top 10 MSIStore Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-seven-superior-water-tough-cams-guide/"><u>In 2024, Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-step-by-step-guide-to-crafting-youtube-splitscreen-content/"><u>In 2024, Step-by-Step Guide to Crafting YouTube Splitscreen Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-xc0351000-issue-absence-of-hyprocvisor/"><u>Methods for Fixing XC0351000 Issue - Absence of Hyprocvisor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-resolve-crashing-microsoft-teams-windows-1110/"><u>Methods to Resolve Crashing Microsoft Teams Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ms-pc-manager-woes-in-windows-heres-help/"><u>MS PC Manager Woes in Windows? Here's Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnect-your-controllers-with-steam-easily/"><u>Reconnect Your Controllers with Steam Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-critical-list-anticipating-changes-after-os-reinstall/"><u>The Critical List: Anticipating Changes After OS Reinstall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-screen-settings-for-unchanging-screens/"><u>Windows 11 Screen Settings for Unchanging Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-restricted-window-apps/"><u>Workaround for Restricted Window Apps</u></a></li>
+</ul></div>
 

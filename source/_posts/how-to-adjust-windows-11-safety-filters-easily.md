@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Windows 11 Safety Filters Easily
-date: 2025-02-11T02:13:01.353Z
-updated: 2025-02-15T18:28:43.530Z
+date: 2025-03-02T17:46:48.849Z
+updated: 2025-03-04T18:02:28.569Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  While we recommend you always turn the SmartScreen filter on, you can disable it easily from the Windows Security settings. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Turn Off SmartScreen Using Windows' Security Settings
 
  The easiest way to turn off SmartScreen is via the Windows Settings panel. You can configure all the aspects of your system security from the Windows Security panel. Here's how to do it.
@@ -131,16 +127,8 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 ![Windows Control Panel Network Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-control-panel-network-options.jpg)
 6. Scroll down to the **Security** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enable Windows defender smartscreen Internet Options Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-windows-defender-smartscreen-internet-options-windows.jpg)
 7. Uncheck the **Enable Windows Defender SmartScreen** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Click **Apply** and **OK** to save the changes.
 
@@ -194,17 +182,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![configure Windows Defender Smartscreen Gpeditor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/configure-Windows-Defender-Smartscreen-Gpeditor.jpg)
 5. To disable **SmartScreen**, select **Disabled**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. If you want to enable SmartScreen, select **Not Configured** or **Enabled**.  
 ![configure Windows Defender Smartscreen Gpeditor disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/configure-Windows-Defender-Smartscreen-Gpeditor-disable.jpg)
 7. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Close Group Policy Editor and restart your PC.
 
@@ -215,10 +195,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
  Microsoft Defender SmartScreen is part of the Windows Security solution. It helps you protect against common threats by warning against downloading or installing potentially malicious files from other computers.
 
  SmartScreen is enabled by default in Windows. However, sometimes, you may want to disable the feature if it identifies and blocks genuine apps and files as malicious. Fortunately, you can disable SmartScreen easily. Here, we show you how to disable the SmartScreen filter in Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Does Windows SmartScreen Filter Work?
 
@@ -395,10 +371,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 
  While we recommend you always turn the SmartScreen filter on, you can disable it easily from the Windows Security settings. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Turn Off SmartScreen Using Windows' Security Settings
 
  The easiest way to turn off SmartScreen is via the Windows Settings panel. You can configure all the aspects of your system security from the Windows Security panel. Here's how to do it.
@@ -446,10 +418,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![Run open Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-open-windows-security.jpg)
 3. Open the **App & browser control** tab in the left pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Next, click the **Reputation-based protection settings** link under **Reputation-based protection**.  
 ![smartscreen disabled Microsoft Edge Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smartscreen-disabled-microsoft-edge-windows-security.jpg)
 5. Toggle the switch for **SmartScreen for Microsoft Edge** to turn off Microsoft Defender SmartScreen for the Edge browser.
@@ -465,10 +433,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 4. In the right pane, right-click on the **Default value** and select **Modify**.  
 ![registry editor SmartScreen Edge Enabled default value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/registry-editor-smartscreen-edge-enabled-default-value.jpg)
 5. Type **1** in the **Value data** field and click **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![edge smartscreen disabled registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edge-smartscreen-disabled-registry-editor.jpg)
 6. You may need to restart your computer to see the changes live.
@@ -591,10 +555,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
  When you have difficulty accessing the Windows Security window, refer to our troubleshooting guide to [fix a blank Windows security screen](https://www.makeuseof.com/windows-10-security-showing-blank-white-screen/).
 
  If any of the SmartScreen filters are grayed out with the message "this setting is managed by your administrator," you must contact your administrator or try another method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Disable SmartScreen for Microsoft Edge
 
@@ -732,22 +692,20 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/earn-cinematic-techniques-with-youtube-veterans-and-novices-for-2024/"><u>[New] Learn Cinematic Techniques with YouTube Veterans and Novices for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-easy-youtube-introduction-design-tips-and-tricks-for-2024/"><u>[Updated] Easy YouTube Introduction Design Tips and Tricks for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-cutting-edge-tech-for-screen-capture-an-itop-review/"><u>2024 Approved Cutting-Edge Tech for Screen Capture An ITop Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-tips-for-seamlessly-adding-youtube-to-your-gslides-deck/"><u>2024 Approved Tips for Seamlessly Adding YouTube to Your GSlides Deck</u></a></li>
-<li><a href="https://win-web3.techidaily.com/202cwindowssd/"><u>完全指南202C：将Windows计算机上的视频数据移动到SD卡上</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-filtering-in-task-manager-and-theme-implementation-in-windows-11/"><u>Essential Guide to Filtering in Task Manager & Theme Implementation in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-the-perfect-windows-11-match-for-you-home-or-pro/"><u>Finding the Perfect Windows 11 Match for You: Home or Pro?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-full-page-capture-on-device/"><u>In 2024, Full Page Capture on Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introduction-to-administering-windows-component-tool/"><u>Introduction to Administering Windows' Component Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberate-your-laptop-slimline-windows-11/"><u>Liberate Your Laptop: Slimline Windows 11</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/maximizing-pc-speed-effective-strategies-for-clearing-up-your-hard-drive-insights-from-yl-computing/"><u>Maximizing PC Speed: Effective Strategies for Clearing Up Your Hard Drive - Insights From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microphone-trouble-in-google-meet-for-windows-users/"><u>Microphone Trouble in Google Meet for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-delayed-audio-in-windows/"><u>Overcoming Delayed Audio in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/slash-your-expenses-top-sites-for-economical-dvd-shopping-near-you/"><u>Slash Your Expenses: Top Sites for Economical DVD Shopping Near You!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-steps-unlocking-the-windows-11-folder-of-applications/"><u>Streamlined Steps: Unlocking the Windows 11 Folder of Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-stop-built-in-laptop-input-device-on-desktop/"><u>Tips to Stop Built-In Laptop Input Device on Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-the-max-length-for-chatgpts-text-output/"><u>What's the Max Length for ChatGPT's Text Output?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-cutest-10-video-compressors-available-on-google-play-for-2024/"><u>[New] Discover the Cutest 10 Video Compressors Available on Google Play for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-beyond-boundaries-recognizing-leading-women-in-digital-storytelling/"><u>[Updated] In 2024, Beyond Boundaries Recognizing Leading Women in Digital Storytelling</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[Updated] In 2024, The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-cropping-and-focus-mastery/"><u>Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-elimination-of-superfluous-software-on-win11/"><u>Effortless Elimination of Superfluous Software on Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-gt-5-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from GT 5</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-huawei-nova-y71-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Huawei Nova Y71 FRP Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-tactics-to-remove-tpm-on-modern-windows/"><u>Innovative Tactics to Remove TPM on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-audio-control-slider-problems/"><u>Overcoming Disabled Audio Control Slider Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-the-path-to-perfect-windows-registry-maintenance/"><u>Pioneering the Path to Perfect Windows Registry Maintenance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-methods-for-disabling-windows-11-security-features/"><u>Quick Methods for Disabling Windows 11 Security Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-blending-apple-maps-into-your-windows-setup/"><u>Seamlessly Blending Apple Maps Into Your Windows Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-portable-windows-preservation-guide-143-chars/"><u>The Portable Windows Preservation Guide (143 Chars)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-genius-widecam-f10er-examining-pixelation-and-sound-quality-concerns/"><u>Unveiling the Performance of Genius WideCam F10er: Examining Pixelation & Sound Quality Concerns</u></a></li>
 </ul></div>
 

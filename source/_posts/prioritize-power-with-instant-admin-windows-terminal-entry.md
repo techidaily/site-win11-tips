@@ -1,7 +1,7 @@
 ---
 title: Prioritize Power with Instant Admin Windows Terminal Entry
-date: 2025-02-09T02:23:03.374Z
-updated: 2025-02-16T03:18:10.232Z
+date: 2025-02-28T21:39:10.367Z
+updated: 2025-03-04T21:41:11.897Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Makes the Windows Terminal So Important?
 
  Windows Terminal is a modern, feature-rich application designed to easily access command line tools and shells like PowerShell, CMD, and Azure Cloud Shell. It provides a simple, easy-to-use interface that allows you to access and execute commands faster than ever before.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
  Once you complete the above steps, the terminal will open automatically in the admin terminal the next time you open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Always Open the Windows Terminal as Administrator With Desktop Shortcut
 
  If you use Windows Terminal frequently, you might want to create a desktop shortcut instead. A desktop shortcut will ensure that with one click of the mouse, you can open the terminal with full administrative rights. To[create a desktop shortcut](https://www.makeuseof.com/tag/how-to-create-desktop-shortcuts-from-anywhere-in-windows/) for Windows Terminal, follow these steps:
@@ -62,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![Create Desktop Shortcut For Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-desktop-shortcut-for-windows-terminal.jpg)  
 `%LocalAppData%\Microsoft\WindowsApps\wt.exe`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Give the shortcut a name, such as Windows Terminal.  
 ![Give the Desktop Shortcut Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/give-the-desktop-shortcut-name.jpg)
 5. Finally, click**Finish** to create the shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After creating the shortcut, you can find it on your desktop.
 
@@ -83,10 +67,6 @@ After creating the shortcut, you can find it on your desktop.
 3. Select the**Run as administrator** checkbox and click**OK** .  
 ![Set to run Windows Terminal as an administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-to-run-windows-terminal-as-an-administrator.jpg)
 4. On the Properties window, click**Apply** \>**OK** to save your changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
 
@@ -109,19 +89,20 @@ After creating the shortcut, you can find it on your desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-prime-choice-top-ps3-emulators-pc-users/"><u>[Updated] 2024 Approved The Prime Choice Top PS3 Emulators PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/darkthemetogglefornotepadw10w11/"><u>DarkThemeToggleForNotepadW10/W11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/downloadable-software-for-mac-users-rip-dvd-content-seamlessly-onto-ios-phones-like-iphone-xsxrx8/"><u>Downloadable Software for Mac Users: Rip DVD Content Seamlessly Onto iOS Phones Like iPhone XS/XR/X/8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-pc-connectivity-using-android-phones-in-windows-11/"><u>Enhancing PC Connectivity: Using Android Phones in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-optimize-gaming-experience-for-fullscreen/"><u>How to Optimize Gaming Experience for Fullscreen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-frequent-crashes-of-rocket-league-top-tips-for-gamers/"><u>How to Prevent Frequent Crashes of Rocket League - Top Tips for Gamers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-15-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-12-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 12 Pro Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-multi-device-compatibility-for-win11-notes/"><u>Mastering Multi-Device Compatibility for WIN11 Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quickly-enable-hyper-v-in-the-latest-windows-11/"><u>Quickly Enable Hyper-V in the Latest Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-routes-to-mastering-win-policy-rules/"><u>The Ultimate Routes to Mastering Win Policy Rules</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720669939084-video-customer-testimonial-recovered-thousands-of-photos-from-memory-card-with-stellar-photo-recovery/"><u>Video - Customer Testimonial: Recovered Thousands of Photos From Memory Card with Stellar Photo Recovery.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-minimization-32-top-rated-apps-to-tidy-up-videos-on-android/"><u>[New] 2024 Approved Mastering Minimization 32 Top-Rated Apps to Tidy Up Videos on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-cut-edge-video-enhancement-merging-windows-11-and-storyremix-for-creative-edits/"><u>[Updated] In 2024, Cut-Edge Video Enhancement Merging Windows 11 & StoryRemix for Creative Edits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-youtube-hacked-mastery-over-skipping-video-startup-techniques-for-2024/"><u>[Updated] YouTube Hacked Mastery Over Skipping Video Startup Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-checklist-webcammicro-pre-meeting-tips-windows/"><u>Connectivity Checklist: Webcam/Micro Pre-Meeting Tips (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-intense-cpu-consumption-fix-dropbox-in-windows/"><u>Decreasing Intense CPU Consumption: Fix Dropbox in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-nvidia-control-saving-functionality/"><u>Guidelines for Restoring Nvidia Control Saving Functionality</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-effective-is-windows-defender-in-preventing-viral-threats-unveiling-insights-yl-computing/"><u>How Effective Is Windows Defender in Preventing Viral Threats? Unveiling Insights - YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-relief-for-windows-time-management-issues/"><u>Immediate Relief for Windows Time-Management Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-limited-scope-of-windows-11-s-mode-beneficial/"><u>Is the Limited Scope of Windows 11 S Mode Beneficial?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/professional-ppt-recording-tactics-and-tricks-for-2024/"><u>Professional PPT Recording Tactics and Tricks for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-linking-your-wireless-mouse-with-pcs-or-macbooks/"><u>Step-by-Step Guide: Linking Your Wireless Mouse with PCs or Macbooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-counteract-camera-file-save-error-in-win11/"><u>Tips to Counteract Camera File Save Error in Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-picks-and-reviews-straight-from-tomcuo-hardware-critique/"><u>Top Tech Picks and Reviews Straight From Tom'cuo Hardware Critique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-locked-windows-protection-in-windows-11/"><u>Unlocking Locked Windows Protection in Windows 11</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/vibrant-edgar-brawler-visual-assets-high-res-images-and-wallpapers-from-yl-softwares-creations/"><u>Vibrant Edgar Brawler Visual Assets: High-Res Images and Wallpapers From YL Software's Creations</u></a></li>
 </ul></div>
 

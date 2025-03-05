@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2025-02-11T17:09:28.456Z
-updated: 2025-02-16T01:09:22.463Z
+date: 2025-02-28T00:15:41.387Z
+updated: 2025-03-04T18:08:46.450Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Cryptographic Services
 
  At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
@@ -70,10 +62,6 @@ To fix this, you can try restarting Cryptographic Services.
 
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
@@ -103,18 +91,10 @@ To fix this, you can try restarting Cryptographic Services.
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
@@ -164,18 +144,19 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-superior-speech-logging-apps-for-ipads-3/"><u>[New] 2024 Approved Superior Speech Logging Apps for iPads #3</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-bright-future-for-your-android-videos-a-comprehensive-plan/"><u>[New] Bright Future for Your Android Videos - A Comprehensive Plan</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>[New] In 2024, Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discovering-video-opportunities-with-google-trend-analysis-for-2024/"><u>[Updated] Discovering Video Opportunities with Google Trend Analysis for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/comparing-smartphones-android-iphone-and-symbian/"><u>Comparing Smartphones: Android, iPhone, and Symbian</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-motorola-g54-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Motorola G54 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-audio-fails-in-win11-error-0xc00d36b4/"><u>Fixing Audio Fails in Win11: Error 0XC00D36B4</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/missing-features-alert-restore-windows-11s-enhancement-settings/"><u>Missing Features Alert! Restore Windows 11'S Enhancement Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritize-time-management-top-5-pc-clock-screensavers-reviewed/"><u>Prioritize Time Management – Top 5 PC Clock Screensavers Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-problematic-programs-on-windows-11-a-guide/"><u>Removing Problematic Programs on Windows 11: A Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-bert-and-gpt-a-comparison-in-language-processing/"><u>Unveiling BERT & GPT: A Comparison in Language Processing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-vanished-settings-heres-where-to-locate-them/"><u>Win11's Vanished Settings? Here’s Where to Locate Them</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-games-adjusting-amd-graphics-on-windows-systems/"><u>Winning Games: Adjusting AMD Graphics on Windows Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-understanding-ip-in-instagram-rhythms/"><u>[Updated] In 2024, Understanding IP in Instagram Rhythms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-best-360-degree-action-cameras-you-should-use/"><u>2024 Approved 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-stunning-photos-with-color-correction/"><u>2024 Approved Craft Stunning Photos with Color Correction</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-from-live-demos-to-recordings-harness-ezvide-power/"><u>2024 Approved From Live Demos to Recordings Harness EZvide Power</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleash-potential-advanced-techniques-in-instagram-loop-creation/"><u>2024 Approved Unleash Potential Advanced Techniques in Instagram Loop Creation</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/aomei-proteccion-conozca-a-nuestro-equipo-y-los-beneficios-del-respaldo-profesional/"><u>AOMEI Protección: Conozca a Nuestro Equipo Y Los Beneficios Del Respaldo Profesional</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-data-maintenance-in-windows-10-and-11/"><u>Effortless Data Maintenance in Windows 10 & 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-steelseries-engine-version-ready-to-boost-your-pc-compatible-with-windows-11-free-download-here/"><u>Latest SteelSeries Engine Version Ready to Boost Your PC – Compatible with Windows 11, Free Download Here</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/navigating-the-nuances-of-professional-voice-over-workflow/"><u>Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lockout-resetting-windows-sign-in-options/"><u>Overcoming Lockout: Resetting Windows Sign-In Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-windows-11-context-menus/"><u>Steps to Reactivate Windows 11 Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-remedying-win-10-cc-errors/"><u>The Ultimate Guide to Remedying Win 10 CC Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-ultimate-password-solutions-on-your-pc-with-these-tools/"><u>Uncover the Ultimate Password Solutions on Your PC with These Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-clues-within-windows-blue-screen-events/"><u>Unlocking Clues Within Windows Blue Screen Events</u></a></li>
 </ul></div>
 

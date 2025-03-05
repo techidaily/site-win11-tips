@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Windows 11 Usability: Integrating an Augmented Run Toolkit"
-date: 2025-02-13T19:16:53.141Z
-updated: 2025-02-15T22:13:00.152Z
+date: 2025-03-01T16:29:02.528Z
+updated: 2025-03-04T23:05:31.930Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
 
 * Registry Editor
@@ -66,17 +62,9 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
 
@@ -105,21 +93,9 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -168,22 +144,19 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-visionary-screens-leading-4k-monitors-for-media-professionals/"><u>2024 Approved Visionary Screens Leading 4K Monitors for Media Professionals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-infinix-hot-30-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Hot 30 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-music-mixing-experience-secure-your-focusrite-scarlett-solo-on-windows-today/"><u>Enhance Your Music Mixing Experience: Secure Your Focusrite Scarlett Solo on Windows Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-new-features-in-windows-11s-yearly-update-extension/"><u>Exploring New Features in Windows 11'S Yearly Update Extension</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-everscape-ii-pc-performance-tips-and-fixes-for-continuous-play/"><u>Mastering Everscape II PC Performance: Tips and Fixes for Continuous Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-pioneers-new-assistance-pathways-without-cortana/"><u>Microsoft Pioneers New Assistance Pathways without Cortana</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-discord-load-times-in-windows-operating-system/"><u>Optimizing Discord Load Times in Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-defender-past-techniques-for-windows-cleanse/"><u>Revamp Your Defender Past: Techniques for Windows Cleanse</u></a></li>
-<li><a href="https://common-error.techidaily.com/silent-partner-in-perfectly-configured-network/"><u>Silent Partner in Perfectly Configured Network</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-getting-and-setting-up-newest-epson-drivers-for-your-pc-with-windows-os/"><u>Step-by-Step Tutorial: Getting and Setting up Newest Epson Drivers for Your PC with Windows OS</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-efficient-techniques-for-trimming-sound-recordings/"><u>The Ultimate Guide: Efficient Techniques for Trimming Sound Recordings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-solutions-to-sharpen-your-iphones-picture-clarity/"><u>Top 7 Solutions to Sharpen Your iPhone's Picture Clarity</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/toshiba-lf711u20-the-ultimate-55-inch-fire-tv-smart-led-tv-for-prime-shoppers/"><u>Toshiba LF711U20 - The Ultimate 55-Inch Fire TV Smart LED TV for Prime Shoppers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-camera-issue-saving-imagesvideos-problems/"><u>Troubleshooting Windows Camera Issue: Saving Images/Videos Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-rectifying-windows-struggling-charmap-problems/"><u>Unraveling and Rectifying Windows' Struggling CharMap Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-reactivating-windows-batch-file-operations/"><u>Unveiling Fixes: Reactivating Windows Batch File Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whats-bothering-you-common-complaints-about-windows-11/"><u>What's Bothering You? Common Complaints About Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-long-term-snappiness-keeping-streaks-uninterrupted/"><u>[New] 2024 Approved Long-Term Snappiness Keeping Streaks Uninterrupted</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-intimate-perspectives-with-team-zooms-for-2024/"><u>[Updated] Intimate Perspectives with Team Zooms for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-secrets-of-premium-instagram-image-creation/"><u>[Updated] Unlock the Secrets of Premium Instagram Image Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-virtual-world-laughter-excavating-the-best-metaverse-jokes/"><u>2024 Approved Virtual World Laughter Excavating the Best Metaverse Jokes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-hyper-v-in-windows-11-for-beginners/"><u>Enabling Hyper-V in Windows 11 for Beginners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertise-in-spotify-advertising-a-playbook-guide/"><u>Expertise in Spotify Advertising A Playbook Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-drive-found-solutions-in-windows/"><u>Lost Drive, Found Solutions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-zoom-issues-resolving-code-1132-on-windows-11/"><u>Overcoming Common Zoom Issues: Resolving Code 1132 on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silence-the-sluggishness-in-games-playing/"><u>Silence the Sluggishness in Games Playing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-edit-network-properties-in-windows-11/"><u>Steps to Edit Network Properties in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sweep-the-competition-fixing-valorant-frames-drops/"><u>Sweep the Competition: Fixing Valorant Frames Drops</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-instagrams-hidden-filter-tools-for-2024/"><u>Unlocking Instagram's Hidden Filter Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-mystery-of-windows-error-messages/"><u>Unlocking the Mystery of Windows Error Messages</u></a></li>
 </ul></div>
 

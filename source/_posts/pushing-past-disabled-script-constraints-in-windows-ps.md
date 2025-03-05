@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2025-02-09T16:12:26.193Z
-updated: 2025-02-15T17:55:54.538Z
+date: 2025-02-28T02:34:57.828Z
+updated: 2025-03-05T01:38:58.192Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Selecting the Windows PowerShell (Admin) option on the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/selecting-the-windows-powershell-admin-option-on-the-quick-access-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
 ## 2\. Change the Execution Policy in PowerShell
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -108,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "ByPass"
 
  The "ByPass" execution policy will allow you to run any PowerShell script without a hassle. But remember that it might also allow you to run buggy files. So, always configure this execution policy only when running trustworthy PowerShell files.
@@ -125,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 `Set-ExecutionPolicy ByPass -Scope LocalMachine`
 
  When you finish, close PowerShell and then restart your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
 
@@ -155,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -206,19 +186,18 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-navigating-the-legal-landscape-check-tiktok-video-compliance/"><u>[Updated] 2024 Approved Navigating the Legal Landscape Check TikTok Video Compliance</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-streamlined-iphone-snapchat-linkage-for-photographs-and-memories/"><u>[Updated] Streamlined iPhone-Snapchat Linkage for Photographs & Memories</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-odd-angle-intrigue-of-instagram-video-postings/"><u>[Updated] The Odd-Angle Intrigue of Instagram Video Postings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-audio-enhancement-toolkit/"><u>2024 Approved Expert Audio Enhancement Toolkit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpod-disappearance-solved-strategies-to-locate-your-earbuds-and-avoid-repetition-expert-advice-by-zdnet/"><u>AirPod Disappearance Solved: Strategies to Locate Your Earbuds and Avoid Repetition, Expert Advice by ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-an-invisible-button-on-taskview-bar/"><u>Crafting an Invisible Button on TaskView Bar</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dream-lenses-guide-leading-6-in-high-definition-dslrs-for-2024/"><u>Dream Lenses Guide Leading 6 in High-Definition DSLRs for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/dvdfolder-creation-on-windows-10-and-macos-using-iso-format-with-digiarty/"><u>DVD/Folder Creation on Windows 10 & MacOS Using ISO Format with DigiArtY</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-creating-slideshow-magic-and-spot-corrections-in-windows-11-photos/"><u>Expert Tips for Creating Slideshow Magic and Spot Corrections in Windows 11 Photos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuit-mp4-vers-videowebm-en-ligne-avec-movavi-conversion-rapide/"><u>Gratuit MP4 Vers VIDEO_WEBM en Ligne Avec Movavi - Conversion Rapide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-repairing-windows-service-not-responding-errors/"><u>Mastering the Art: Repairing Windows Service Not Responding Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-new-wins-setbacks-to-standard-users/"><u>Navigating Through New Wins: Setbacks to Standard Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-battle-amd-challenges-apple-on-multi-core-performance-with-the-new-ryzen-ai-9-hx-370-processor/"><u>Tech Battle: AMD Challenges Apple on Multi-Core Performance with the New Ryzen AI 9 HX 370 Processor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-quick-keyboard-shortcut-guide/"><u>Windows 11: Quick Keyboard Shortcut Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-harness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] 2024 Approved Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-potential-key-tips-for-hospitals-fb-ad-reach/"><u>[New] Unleashing Potential Key Tips for Hospitals' FB Ad Reach</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-harmonizing-visual-narratives-with-live-sounds-for-2024/"><u>[Updated] Harmonizing Visual Narratives with Live Sounds for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-strategies-for-crafting-intriguing-vlog-storylines/"><u>[Updated] In 2024, Strategies for Crafting Intriguing Vlog Storylines</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-iphones-playlist-paradise-podcast-edition/"><u>[Updated] Mastering iPhone's Playlist Paradise Podcast Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/5yplusy5lik5pya5l2z55qe5lit6iux5pah5a2x5bmv5l6g5rqq56uzic0g542y5b6x5ywn6lk76zu75b2x5yplusk576o5zyl5byp5yqh6zug5lml5a2x5bmv6loh5paz/"><u>史上最佳的中英文字幕來源站 - 獲得免費電影及美國式劇集之字幕資料</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-secure-windows-tcpip-network-configuration/"><u>Ensuring Secure Windows TCP/IP Network Configuration</u></a></li>
+<li><a href="https://fox-http.techidaily.com/humorhexagonhub-photofunniesfactory-for-2024/"><u>HumorHexagonHub PhotoFunniesFactory for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-composing-persuasive-podcast-introductions/"><u>In 2024, Composing Persuasive Podcast Introductions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-customization-in-win11-layouts/"><u>Unleash the Power of Customization in Win11 Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win-access-fixing-epic-launcher-login-gaps/"><u>Unlocking Win Access: Fixing Epic Launcher Login Gaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-overcoming-obs-studio-connection-failures/"><u>Winning Strategies: Overcoming OBS Studio Connection Failures</u></a></li>
 </ul></div>
 

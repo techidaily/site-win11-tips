@@ -1,7 +1,7 @@
 ---
 title: "Streamline File Maintenance: Utilizing Windows 11’S Auto Delete Feature"
-date: 2025-02-13T16:33:57.886Z
-updated: 2025-02-16T03:38:49.974Z
+date: 2025-02-27T02:02:34.629Z
+updated: 2025-03-04T23:21:06.255Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
  Like most things on Windows, you can use the Command Prompt here as well. A replacement for the easy pin-and-point graphical user interface, the Command Prompt works with simple text-based commands to help you perform different admin functions and fix various troubleshooting issues on Windows.
@@ -59,15 +55,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your files will be removed as quickly as soon as you hit the above commands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -97,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Similarly, in the **Add arguments** box, type in the following command:
 
 `/p "C:\path\to\folder"/s /d -30 /c "cmd /c del /q @file"`
@@ -116,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 * If the task fails, restart every.
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
@@ -141,20 +121,18 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-time-honored-top-15-in-the-world-of-stop-motion-for-2024/"><u>[New] Time-Honored Top 15 in the World of Stop-Motion for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/all-about-computers-the-definitive-guide-by-toms-hardware-team/"><u>All About Computers: The Definitive Guide by Tom's Hardware Team</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-battery-report-in-windows-11-insights-and-usage-tips/"><u>Decoding the Battery Report in Windows 11: Insights & Usage Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-webp-savings-steps-for-changing-chrome-image-format-on-windows/"><u>Eliminate WebP Savings: Steps for Changing Chrome Image Format on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-chatbot-restrictions-and-personal-repercussions/"><u>Exploring AI Chatbot Restrictions & Personal Repercussions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts/"><u>In 2024, How to Swiftly Modify and Verify Your Age in TikTok Accounts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-youtube-live-streaming-made-easy-for-newcomers-without-thousand-subscribers/"><u>In 2024, YouTube Live Streaming Made Easy for Newcomers without Thousand Subscribers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nullifying-windows-update-notifications/"><u>Nullifying Windows Update Notifications</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-update-settings-quickly/"><u>Reviving Windows Update Settings Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-nvidia-cp-unauthorized-access-on-windows/"><u>Solving Nvidia CP Unauthorized Access on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-guide-to-replace-msvcr120dll-in-windows/"><u>Step-by-Step Fix Guide to Replace MSVCR120.dll in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-vac-refusal-message-on-pc/"><u>Steps to Tackle VAC Refusal Message on PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-your-input-matters-effective-strategies-for-contributing-to-chromeos-enhancements/"><u>Why Your Input Matters: Effective Strategies for Contributing to ChromeOS Enhancements</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-maximizing-clarity-fb-messages-full-recording-process/"><u>[New] 2024 Approved Maximizing Clarity FB Messages Full Recording Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turbocharged-titans-compile-the-finest-srt-enhancements-for-pcs-and-macs/"><u>[New] Turbocharged Titans Compile the Finest SRT Enhancements for PCs & Macs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-the-art-of-guesting-on-social-tiktok-lives-for-2024/"><u>[New] Unlocking the Art of Guesting on Social TikTok Lives for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubes-earnings-explained-making-money-from-ads/"><u>[New] YouTube’s Earnings Explained Making Money From Ads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-performance-experience-windows-11-lightly/"><u>Elevate Performance: Experience Windows 11 Lightly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-update-issue-x8019/"><u>Eradicating Windows Update Issue X8019</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-quick-avi-to-gif-transformation-in-filmora/"><u>In 2024, Quick AVI to GIF Transformation in Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>In 2024, Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-info-via-powershell-in-windows/"><u>Navigating Network Info via PowerShell in Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-effortless-video-editing-microsoft-video-editor-for-windows-users/"><u>New Effortless Video Editing Microsoft Video Editor for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-corrupted-file-error-code-0x80070570-on-windows-11/"><u>Strategies to Overcome Corrupted File (Error Code 0X80070570) on Windows 11</u></a></li>
 </ul></div>
 

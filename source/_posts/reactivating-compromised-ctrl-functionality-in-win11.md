@@ -1,7 +1,7 @@
 ---
 title: Reactivating Compromised Ctrl Functionality in Win11
-date: 2025-02-11T17:53:15.606Z
-updated: 2025-02-16T03:44:17.519Z
+date: 2025-02-27T16:49:33.440Z
+updated: 2025-03-04T19:44:54.588Z
 tags:
   - windows10
   - windows11
@@ -72,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4. Click **Next**.  
 ![Hardware and Devices troubleshooter window on Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Hardware and Device troubleshooter will look for any available issues and fix them without much user input. After that, restart your computer and check for the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change Keyboard Accessibility Settings
 
@@ -91,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
 
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
 
@@ -111,25 +99,13 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 5. Click **Uninstall** to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Download the Latest Windows Update
 
  The issue may also arise from minor bugs or glitches in your current Windows version. To fix this, [manually update Windows](https://www.makeuseof.com/update-windows-manually/) to the latest build.
 
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Run SFC and DISM Scans
 
@@ -161,20 +137,18 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xtracting-youtube-videos-simplified-for-2024/"><u>[New] Extracting YouTube Videos Simplified for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-scripted-shutdown-of-stories-for-2024/"><u>[New] The Scripted Shutdown of Stories for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-speech-to-silence-creating-quality-audio-memos/"><u>[Updated] From Speech to Silence Creating Quality Audio Memos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>[Updated] In 2024, Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nighttime-narratives-in-pixels/"><u>[Updated] Nighttime Narratives in Pixels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726026970184-m4amp3/"><u>無料で使える、簡単M4AからMP3に直接変換サイトをご紹介！</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-identity-user-name-transformation/"><u>Customizing Your Windows Identity: User Name Transformation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dish-to-screen-your-recipe-video-blueprint/"><u>Dish to Screen Your Recipe Video Blueprint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-disk-space-on-win11-safely-keep-files-intact-max-156-chars/"><u>Enhancing Disk Space on Win11 Safely (Keep Files Intact, Max 156 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-rockalldlldll-not-found-or-missing-error-on-windows-pc/"><u>How to Fix Rockalldll.dll Not Found or Missing Error on Windows PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-f04-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy F04 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-zero-clutter-windows-auto-delete-feature/"><u>Navigate to Zero Clutter: Windows' Auto-Delete Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-system-call-error-in-windows-os/"><u>Overcoming System Call Error in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverting-windows-viewer-to-original-arrangement/"><u>Reverting Windows Viewer to Original Arrangement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-your-mobile-setup-with-one-click-apks-in-windows-11/"><u>Supercharge Your Mobile Setup with One Click APKs in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-harmonizing-hues-the-filmmakers-palette-guide/"><u>[Updated] 2024 Approved Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-aesthetic-all-stars-popular-instagram-filters/"><u>[Updated] In 2024, Aesthetic All-Stars Popular Instagram Filters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-seamless-tiktok-tweets-the-2023-pathway/"><u>[Updated] In 2024, Seamless TikTok Tweets The 2023 Pathway</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-collage-app-for-androidandios-for-2024/"><u>[Updated] Instagram Video Collage App for Android&iOS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-vero-authors-spotlight-at-snapchat/"><u>[Updated] Vero Authors Spotlight at Snapchat</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/itunesbpm/"><u>簡易步驟：利用iTunes管理及回復音樂BPM資料</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-executable-format-pe/"><u>Exploring Windows Executable Format (PE)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-make-word-open-email-attachments-in-read-only-by-default/"><u>Guidelines to Make Word Open Email Attachments in Read-Only by Default</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-look-for-task-managers-launch-screen-win11/"><u>New Look for Task Manager's Launch Screen (Win11)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-by-fonelab-android-recover-data/"><u>Recover lost data from Honor</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sony-ps-lx310bt-tiny-turntable-chic-design/"><u>Sony PS-LX310BT: Tiny Turntable, Chic Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trailblazing-tech-top-laptops-ifa-2023/"><u>Trailblazing Tech: Top Laptops IFA 2023</u></a></li>
 </ul></div>
 

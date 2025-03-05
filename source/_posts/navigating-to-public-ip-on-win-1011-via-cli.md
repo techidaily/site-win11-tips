@@ -1,7 +1,7 @@
 ---
 title: Navigating to Public IP on Win 10/11 via CLI
-date: 2025-02-11T23:33:30.524Z
-updated: 2025-02-16T03:16:32.086Z
+date: 2025-02-26T22:47:26.609Z
+updated: 2025-03-04T20:29:18.978Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check Your Private IP Address on Windows
 
 ![command prompt ipconfig private ip address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-ipconfig-private-ip-address.jpg)
@@ -49,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  If you need to share the output for troubleshooting purposes, you can export the output to a text file. In Command Prompt, run **ipconfig > NetworkInfo.txt** to save the output to a **NetworkInfo.text** file. By default, it is saved to the **C:\\Users\\Username** directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Get Your Public IP Address on Windows
 
 ![Command Prompt running Curl command showing Public IP Address on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-public-ip-address-curl.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unlike the private IP address, the **ipconfig** command cannot retrieve the public IP address of your ISP. Instead, you’ll need to [use the curl command-line utility to make HTTP requests](https://www.makeuseof.com/curl-how-make-http-requests/) using a third-party service, like ifconfig.me, to obtain IP address mapping information.
 
@@ -77,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  If you check your public IPv6 address again after a few hours or days—depending on the router's configuration—you may notice a different IPv6 address. Due to privacy concerns, your router dynamically assigns and changes the IPv6 address for all connected devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Online Tools to Get Your Public IP Address
 
 ![whatismyip online public ip address tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatismyip-online-public-ip-address-tool.jpg)
@@ -92,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 * **[WhatIsMyIP](https://www.whatismyip.com/)**: A simple and intuitive web service to view your public IPv4 and IPv6 addresses. In addition, it also shows your ISP’s location and name.
 * [**My External IP**](https://myexternalip.com/): A barebone web app that can detect your public IPv4 address and Port.
 * **Use a search engine**: If you don’t want to remember another website to do basic stuff, try your search engine. Type “What’s my IP” in Google or Bing search to get your public IPv4/IPv6 address quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Many Ways to Check Your Public IP Address on Windows
 
@@ -113,19 +93,19 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[New] In 2024, Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ingenious-stop-motion-cinema-ranking-the-best-15/"><u>[New] Ingenious Stop-Motion Cinema - Ranking the Best 15</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-craft-a-vibrant-youtube-experience-with-tracks-for-2024/"><u>[Updated] Craft a Vibrant Youtube Experience with Tracks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finding-top-8-free-reliable-srt-translator-picks-online/"><u>[Updated] Finding Top 8 Free, Reliable SRT Translator Picks Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-hidden-addresses-of-installed-pc-apps/"><u>Demystifying the Hidden Addresses of Installed PC Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976618334-download-and-update-your-pc-with-realtek-asio-windows-10-drivers-now/"><u>Download and Update Your PC with RealTek Asio Windows 10 Drivers Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-shaky-to-stellar-the-best-free-online-video-stabilization-tools-reviewed-for-2024/"><u>From Shaky to Stellar The Best Free Online Video Stabilization Tools Reviewed for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-brand-storytelling-through-the-eyes-of-customer-voices/"><u>In 2024, Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-cure-to-steams-online-connectivity-problems/"><u>Quick Cure to Steam's Online Connectivity Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safety-switch-stopping-windows-11-tasks/"><u>Safety Switch: Stopping Windows 11 Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-data-how-to-use-controlling-access-settings-in-windows/"><u>Securing Data: How to Use Controlling Access Settings in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-pathway-for-windows-11-emulation-on-workstation-17/"><u>The Ultimate Pathway for Windows 11 Emulation on Workstation 17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-workflows-utilize-flow-launcher-for-maximum-output/"><u>Turbocharge Workflows: Utilize Flow Launcher for Maximum Output</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-windows-canary-an-easy-to-follow-guide/"><u>Understanding Windows Canary: An Easy-to-Follow Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-century-of-sparks-the-10-most-voted-on-reddit-posts-for-2024/"><u>[Updated] A Century of Sparks The 10 Most Voted on Reddit Posts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-laptop-with-exceptional-screen-quality-a-great-find-discover-more/"><u>Affordable Laptop with Exceptional Screen Quality - A Great Find! Discover More</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-electronic-offers-during-the-2024-amazon-prime-sale-event/"><u>Best Electronic Offers During the 2024 Amazon Prime Sale Event</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-sticky-notes-placement-on-windows-desktops/"><u>Elevating Sticky Notes Placement on Windows Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-aural-immersion-with-windows-11/"><u>Enhancing Aural Immersion with Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-high-definition-with-the-affordable-sony-xbr65x850f-our-in-depth-65-inch-tv-review/"><u>Experience High Definition with the Affordable Sony XBR65X850F - Our In-Depth 65-Inch TV Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-hp-officejet-pro-e8610-printer-driver-seamless-printing-on-win11-win10-win7xp/"><u>Install HP Officejet Pro E8610 Printer Driver: Seamless Printing on Win11, Win10, Win7/XP</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/leading-audio-based-multiplayer-conversation-software-for-gamers-for-2024/"><u>Leading Audio-Based Multiplayer Conversation Software for Gamers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-resource-load-from-unrealcefsubprocess-to-enhance-pc-performance/"><u>Lowering Resource Load From UnrealCEFSubprocess to Enhance PC Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-mandatory-requirements-problem-on-win11win11/"><u>Remedying Mandatory Requirements Problem on Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-disk-differentiation-hddssd-checks-in-windows/"><u>Streamlining Disk Differentiation: HDD/SSD Checks in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-a-clearer-taskbar-w11-edition/"><u>The Path to a Clearer Taskbar: W11 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/verzerrung-von-dvd-filmen-beheben-unter-windows-10-mit-der-handbrake-software/"><u>Verzerrung Von DVD-Filmen Beheben Unter Windows 10 Mit Der Handbrake Software</u></a></li>
 </ul></div>
 

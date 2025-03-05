@@ -1,7 +1,7 @@
 ---
 title: Eliminate Windows Updates Prompts
-date: 2025-02-08T22:54:21.817Z
-updated: 2025-02-15T18:05:56.592Z
+date: 2025-02-27T20:43:07.580Z
+updated: 2025-03-05T02:09:20.043Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Windows Update Notifications via the Settings App
 
  The quickest way to disable update notifications on Windows is through the Settings app. Here are the steps for the same.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 4. Disable the toggle for**Notify me when a restart is required to finish updating** .
 5. Disable the toggle for**Get me up to date** so that Windows does not display a restart warning when an update is ready for installation.  
 ![Disable Windows Update Notifications Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should not bother you with update notifications.
 
@@ -59,10 +51,6 @@ To disable Windows update notifications using Group Policy Editor:
 5. Select the**Disabled** option.
 6. Click**Apply** followed by**OK** .  
 ![Disable Windows Update Notifications Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-group-policy-editor-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to re-enable the Windows update notifications later, follow the same steps above and set the**Display options for update notifications** policy to**Not configured** .
 
@@ -85,15 +73,7 @@ To disable Windows update notifications using Registry Editor:
 9. Click**OK** .  
 ![Disable Windows Update Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exit the Registry Editor window and restart your PC to apply the changes. Following that, Windows will not display update notifications on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Update Notifications on Windows
 
@@ -116,22 +96,24 @@ To disable Windows update notifications using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-screen-capture-bandicam-vs-camtasia-battle-for-2024/"><u>[New] Mastering Screen Capture Bandicam Vs. Camtasia Battle for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimizing-your-online-presence-leading-twitter-de-followers/"><u>[Updated] 2024 Approved Optimizing Your Online Presence Leading Twitter De-Followers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715939478478-updated-how-to-record-lol-gameplay3-methods-for-2024/"><u>[Updated] How to Record LOL Gameplay?(3 Methods) for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-key-tactics-for-identifying-potential-youtube-co-stars/"><u>[Updated] Key Tactics for Identifying Potential YouTube Co-Stars</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-quick-guide-eradicating-unwanted-youtube-downloads-on-pcmac/"><u>[Updated] Quick Guide Eradicating Unwanted YouTube Downloads on PC/Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-to-pc-unplugged-controller-setup-guide/"><u>Direct-to-PC: Unplugged Controller Setup Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-stubborn-epic-launcher-on-windows-11-pcs-guide/"><u>Disabling Stubborn Epic Launcher on Windows 11 PCs: Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fixing-authentication-in-windows-os/"><u>Essential Guide to Fixing Authentication in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-save-location-errors-in-windows-pcs/"><u>How to Correct Save Location Errors in Windows PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-sony-xperia-10-v-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209635996-9781847094285-life-crisis-the-mindful-way/"><u>Life Crisis: The Mindful Way | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unable-to-link-error-guide-for-nvidia-experience-on-windows-11/"><u>Overcoming Unable to Link Error: Guide for Nvidia Experience on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snippets-from-cinema-to-skillful-editors-arsenal-for-2024/"><u>Snippets From Cinema to Skillful Editors' Arsenal for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-keyboard-gurus-guide-to-windows-photos/"><u>The Keyboard Guru's Guide to Windows Photos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-handling-ksuserdll-not-found-error/"><u>Troubleshooting Techniques for Handling 'ksuser.dll Not Found' Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-print-management-interface/"><u>Unveiling Windows Print Management Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-disk-read-failures/"><u>Winning the Battle Against Disk Read Failures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos/"><u>[New] 2024 Approved A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[New] How To Join Someone’s Live on TikTok as a Guest</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-highest-ranking-youtube-tracker-for-popular-video-insight/"><u>[New] In 2024, Highest-Ranking YouTube Tracker for Popular Video Insight</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-music-choices-for-captivating-video-experiences/"><u>[New] Top Music Choices for Captivating Video Experiences</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-bright-ideas-effective-lighting-in-vlogging/"><u>[Updated] Bright Ideas Effective Lighting in Vlogging</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1728474442558-windows-11/"><u>详细解答：如何重新设定 Windows 11 的任务条布局</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-mac-with-windows-11-the-parallels-technique/"><u>Conquering Mac with Windows 11: The Parallels Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-setup-positioning-quick-access-tools-in-win11-interface/"><u>Effortless Setup: Positioning Quick Access Tools in Win11 Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-the-extra-speed-deactivating-mouse-accel-on-windows-11/"><u>End the Extra Speed: Deactivating Mouse Accel on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-radeon-rx-ebx-590-graphics-card-software-for-windows-pcs/"><u>Get the Latest AMD Radeon RX Ebx 590 Graphics Card Software for Windows PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-depth-insight-into-final-cut-pro-editing/"><u>In-Depth Insight Into Final Cut Pro Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-linux-side-of-windows-uninterrupted-by-win-11/"><u>Keeping Linux Side of Windows Uninterrupted by Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rearranging-onedrive-storage-in-win10/"><u>Mastering the Art of Rearranging OneDrive Storage in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-operational-failure-in-win11-code-0x0000011b/"><u>Overcoming Operational Failure in Win11 (Code 0X0000011B)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rerouting-to-reinstalled-microsoft-store-programs-on-pc/"><u>Rerouting to Reinstalled Microsoft Store Programs on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-favorite-feature-how-to-bring-back-photo-viewer-on-win11/"><u>Restore Your Favorite Feature: How to Bring Back Photo Viewer on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-in-the-stream-7-ways-to-reopen-reluctant-websites-on-win-os/"><u>Stuck in the Stream? 7 Ways to Reopen Reluctant Websites on Win OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-claude-pro-and-how-does-it-compare-to-chatgpt-plus/"><u>What Is Claude Pro and How Does It Compare to ChatGPT Plus?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-zoom-bug-fixes-capturing-clearer-photos-and-videos/"><u>WhatsApp Zoom Bug Fixes: Capturing Clearer Photos and Videos</u></a></li>
 </ul></div>
 

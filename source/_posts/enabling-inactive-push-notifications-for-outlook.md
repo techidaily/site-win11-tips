@@ -1,7 +1,7 @@
 ---
 title: Enabling Inactive Push Notifications for Outlook
-date: 2024-08-16T01:26:11.919Z
-updated: 2024-08-17T01:26:11.919Z
+date: 2025-02-25T16:50:40.475Z
+updated: 2025-03-04T16:18:33.304Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,6 @@ Follow these steps to check Outlook’s notification settings:
 3. In the**Outlook Options** window, select**Mail** from the left sidebar.
 4. Under the**Message arrival** section, enable desktop and sound alerts by checking the corresponding boxes. Then, hit**OK** to save changes.  
 ![Mail tab in Outlook Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Outlook-In-App-Notification-Settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you complete the above steps, you should start receiving Outlook notifications on Windows.
 
@@ -56,15 +53,9 @@ Follow these steps to check Outlook’s notification settings:
 3. Scroll down to the**Notifications from apps and other senders** section and select**Outlook** .
 4. Enable**Notifications** toggle for Outlook. Then, check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Optionally, you can also enable sound alerts for Outlook notifications from the same menu.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn Off Do Not Disturb
 
  Do Not Disturb is a useful feature in Windows that allows you to work in a distraction-free environment. When enabled, this feature silences notifications for all apps unless specified otherwise. To avoid any confusion, it's best to disable Do Not Disturb in Windows.
@@ -76,9 +67,6 @@ Follow these steps to check Outlook’s notification settings:
 
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Battery Saver
 
  Another reason Outlook may fail to send you notifications is if the battery saver is enabled on your laptop. If it is, apps like Outlook will fail to sync data in the background, and you may not receive notifications from Outlook unless you open the app. To avoid this, you must disable the battery saver mode on Windows by following the steps below.
@@ -87,9 +75,6 @@ Follow these steps to check Outlook’s notification settings:
 2. Click on**Battery saver** to expand it.
 3. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ## 6\. Check Outlook's Rules
 
@@ -112,9 +97,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 2. Type**%localappdata%\\Microsoft\\Outlook** in the Open field and press**Enter** .
 3. In the**RoamCache** folder that appears,[select all the files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) and click the trash icon at the top to delete them.  
 ![RoamCache Folder in File Explorer Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Delete-Outlook-Cache-Data-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Outlook after this and check if the notifications are working now.
 
@@ -138,13 +120,7 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Repair the Microsoft Office Suite
 
  Microsoft Office comes with a handy repair tool that can prove useful when Office apps fail to work correctly. You can repair the Microsoft Office suite in case the above solutions don't help. Here’s what you’ll need to do.
@@ -157,23 +133,17 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Never Miss an Outlook Notification Again
 
  Being a Microsoft product, you’d expect Outlook to work flawlessly on Windows. However, that may not always be the case. Hopefully, going through the above fixes has helped you fix Outlook’s notification issue on Windows and things are back to normal.
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,8 +152,18 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-triple-caption-magic-for-compelling-ig-videographies-for-2024/"><u>[New] Triple Caption Magic for Compelling IG Videographies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premium-recording-application-chromebook-focus/"><u>[Updated] 2024 Approved Premium Recording Application Chromebook Focus</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-making-your-own-google-cardboard-for-immersive-vr-for-2024/"><u>[Updated] Making Your Own Google Cardboard for Immersive VR for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargue-e-importe-archivos-gratis-desde-jpg-a-png-con-convertidor-de-imagenes-online-movavi/"><u>Descargue E Importe Archivos Gratis Desde JPG a PNG Con Convertidor De Imágenes Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-conversion-guide-turning-mov-files-into-wmv-format-for-both-pcs-and-macs-using-moveavi/"><u>Easy Conversion Guide: Turning MOV Files Into WMV Format for Both PCs and Macs Using Moveavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-explore-the-hd-landscape-youtube-twitters-and-more/"><u>In 2024, Explore the HD Landscape YouTube, Twitters, and More</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-10-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 10 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4a-online/"><u>Movavi: M4A 파일을 구속없이 원활한 Online 조정 - 제공 비용</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4b-m/"><u>Movavi를 사용한 무료 온라인 M4B, M</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-echo-to-audio-online-and-on-windows/"><u>New In 2024, How to Add Echo to Audio Online and on Windows</u></a></li>
+<li><a href="https://discover-great.techidaily.com/reduzierung-der-video-auflosung-fur-facebook-erfolgreiches-downscaling-von-grossformatvideos/"><u>Reduzierung Der Video-Auflösung Für Facebook: Erfolgreiches Downscaling Von Großformatvideos</u></a></li>
+</ul></div>
 

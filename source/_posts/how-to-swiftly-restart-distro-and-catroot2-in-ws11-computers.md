@@ -1,7 +1,7 @@
 ---
 title: How to Swiftly Restart Distro & Catroot2 in WS11 Computers
-date: 2025-02-13T02:36:19.456Z
-updated: 2025-02-16T00:21:10.621Z
+date: 2025-02-28T22:40:31.044Z
+updated: 2025-03-04T21:56:20.998Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,6 @@ net stop msiserver`
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
@@ -83,17 +79,9 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
@@ -101,10 +89,6 @@ net start msiserver`
 
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -126,10 +110,6 @@ net start msiserver`
 
 11. Exit FixWin and reboot your PC after selecting those options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
 
  It’s important to resolve update issues when they arise for the sake of keeping Windows updated. Resetting the catroo2 and SoftwareDistribution folders is one of the most effective troubleshooting methods for fixing Windows update errors.
@@ -146,24 +126,24 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[New] 2024 Approved Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unite-film-selections-with-playlist-accumulation/"><u>[New] Unite Film Selections with Playlist Accumulation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-download-vimeo-video-to-mp3/"><u>[Updated] In 2024, How to Download Vimeo Video to MP3</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamline-your-soundtrack-selection-for-youtube/"><u>[Updated] In 2024, Streamline Your Soundtrack Selection for YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-game-recommendations-on-win11/"><u>Disabling Game Recommendations on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-window-management-skills-using-keyboard-in-win11/"><u>Enhance Your Window Management Skills Using Keyboard in Win11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhancing-your-privacy-on-apple-music-top-4-strategies-for-discreet-enjoyment/"><u>Enhancing Your Privacy on Apple Music: Top 4 Strategies for Discreet Enjoyment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-runtime-errors-when-malwarebytes-cant-call-proc/"><u>How to Handle Runtime Errors when Malwarebytes Can't Call Proc</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g13-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G13 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>In 2024, 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-alienware-aurora-r7-high-performance-at-what-cost/"><u>In-Depth Analysis of Alienware Aurora R7: High Performance at What Cost?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pathways-to-the-system32-folder-in-win11/"><u>Pathways to the System32 Folder in Win11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-from-windows-default-browser/"><u>Reducing Resource Consumption From Windows' Default Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/starting-windows-media-player-made-simple/"><u>Starting Windows Media Player Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-file-consolidation-tool/"><u>Troubleshooting Non-Functional File Consolidation Tool</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/ultra-high-definition-desktop-scenes-full-resolution-1920x1080-graphics-by-yl-computing/"><u>Ultra-High Definition Desktop Scenes - Full Resolution 1920X1080 Graphics by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-avoid-robot-generated-windows-11-access-codes/"><u>Why Avoid Robot-Generated Windows 11 Access Codes?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-default-apps-how-to-change-them-and-what-to-do-if-you-cant/"><u>Windows 11 Default Apps: How to Change Them and What to Do If You Can't</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-broadcast-brilliance-with-cost-effective-templates/"><u>[New] 2024 Approved Broadcast Brilliance with Cost-Effective Templates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>[New] 2024 Approved Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>[Updated] 2024 Approved Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-7-3d-modeling-software-for-animation/"><u>2024 Approved 7 3D Modeling Software for Animation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-zoom-for-seamless-fb-live-broadcasts/"><u>2024 Approved Navigating Zoom for Seamless FB Live Broadcasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-streams-for-scholars-securing-the-spotify-student-price-cut/"><u>Affordable Streams for Scholars: Securing the Spotify Student Price Cut</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-rectify-non-starting-search-service/"><u>Expert Tips to Rectify Non-Starting Search Service</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-15-pro-max-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 15 Pro Max for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>In 2024, Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reconnect-lost-razer-devices-via-windows-synapse/"><u>Methods to Reconnect Lost Razer Devices via WIndows' Synapse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mute-issues-resolving-keyboard-volume-problems-in-windows/"><u>Mute Issues: Resolving Keyboard Volume Problems in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-resource-grab-taming-windows-ums-consumption-by-vanguard/"><u>Reducing Resource Grab: Taming Windows' UMS Consumption by Vanguard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-keys-triggering-without-intent/"><u>Remedying Windows Keys Triggering without Intent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/renewal-of-pre-installed-software-with-microsoft-store/"><u>Renewal of Pre-Installed Software with Microsoft Store</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-making-drag-and-drop-functional-again-on-your-pc/"><u>Step-by-Step Solutions: Making Drag & Drop Functional Again on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x80070522-clients-access-rights-enhancement/"><u>Tackling Windows Error 0X80070522: Client's Access Rights Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-run-history-loss-on-windows/"><u>Troubleshooting Run History Loss on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-power-in-windows-11-banishing-slowness/"><u>Unleash Power in Windows 11: Banishing Slowness</u></a></li>
 </ul></div>
 

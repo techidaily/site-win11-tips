@@ -1,7 +1,7 @@
 ---
 title: Remedy Missing File Thumbnails in Microsoft's Newest OS
-date: 2025-02-08T17:23:53.400Z
-updated: 2025-02-15T18:41:50.670Z
+date: 2025-02-27T01:39:12.239Z
+updated: 2025-03-04T21:53:57.083Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Allow Thumbnails to Load Properly
 
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Check for Files or Format Specific Issues
 
  There are some file types and image file formats for which Windows does not display thumbnails by default. For instance, Windows doesn't show thumbnails for files in the Photoshop Document (PSD) format, a format used for images created with Adobe Photoshop, which is a graphics design and image editing software.
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  If you are unable to see thumbnails of files in a specific format, check whether Windows can display thumbnail previews for files in that format or not. You can explore that on the official website of the software you use to create these files. If the website says that Windows OS cannot display thumbnail previews for this software's files, there isn't much you can do.
 
  Sometimes, users have to manually enable thumbnail previews in the software settings. Check if the software you use offers such a feature, and if it does, enable it, and you'll begin to see thumbnails for that software's files. However, if the software does not offer this feature, you will have to use third-party file managers to see thumbnails for its files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Close Interfering Apps
 
@@ -90,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  By using the thumbnail cache, Windows displays thumbnail images of files so that you can visually identify them. If cache files become corrupted, thumbnails can get affected. Clearing the thumbnail cache instructs Windows to rebuild the cache, which usually resolves thumbnail issues.
 
  So, if you haven't cleared it yet,[clear the thumbnail cache](https://www.makeuseof.com/windows-11-clear-thumbnail-cache/) and restart your device so Windows can rebuild it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restart File Explorer
 
@@ -113,14 +97,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -149,24 +125,21 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-high-quality-virtual-console-imitation-software-for-pc/"><u>[New] High-Quality Virtual Console Imitation Software for PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-stream-in-hd-1080p-on-facebook-for-2024/"><u>[New] How to Stream in HD 1080P on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ecological-architecture-merging-nature-and-city-planning/"><u>[Updated] 2024 Approved Ecological Architecture Merging Nature and City Planning</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>[Updated] 2024 Approved The Concealed Aspects Understanding the Unique Stories of Followers</u></a></li>
-<li><a href="https://games-able.techidaily.com/complete-guide-eradicating-your-ps5-digital-footprint/"><u>Complete Guide: Eradicating Your PS5 Digital Footprint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-approach-to-unhandled-exception-in-windows-apps/"><u>Comprehensive Approach to Unhandled Exception in Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-media-player-server-issue/"><u>Eliminating Media Player Server Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-for-google-maps-setup-on-pc/"><u>Essential Steps for Google Maps Setup on PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-pc-world-find-the-perfect-hardware-solutions/"><u>Expert Advice From Tom's PC World: Find the Perfect Hardware Solutions</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ferrari-f12-berlinetta-hd-wallpaper-collection-by-yl-computing-your-ultimate-racing-decor/"><u>Ferrari F12 Berlinetta HD Wallpaper Collection by YL Computing - Your Ultimate Racing Decor</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-voice-input-problems-on-your-iphone-discover-5-essential-steps/"><u>Fixing Voice Input Problems on Your iPhone – Discover 5 Essential Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-gamepad-that-wont-respond/"><u>Fixing Windows Gamepad that Won't Respond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-world-of-warcraft-update-stuck-on-initializing-on-windows/"><u>How to Fix a World of Warcraft Update Stuck on Initializing on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-edge-written-for-optimal-system-performance/"><u>Managing Edge' Written for Optimal System Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritizing-productivity-make-terminal-first/"><u>Prioritizing Productivity: Make Terminal First</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-inaccessible-game-sessions-due-to-steams-vac/"><u>Tackling Inaccessible Game Sessions Due to Steam’s VAC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1424542-9781780283425-the-real-messiah/"><u>The Real Messiah | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-repairing-crashes-in-forza-horizon-5-on-windows/"><u>Ultimate Guide: Preventing and Repairing Crashes in Forza Horizon 5 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-apps-to-supercharge-your-windows/"><u>Winning Apps to Supercharge Your Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-15-webcams-for-quality-youtube-live-streams-for-2024/"><u>[New] Top 15 Webcams for Quality YouTube Live Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-strategies-for-choosing-ideal-youtube-banner-dimensions/"><u>[Updated] Expert Strategies for Choosing Ideal YouTube Banner Dimensions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-lensleaks-revealing-affordable-stunning-tiktok-bgs/"><u>[Updated] LensLeaks Revealing Affordable, Stunning TikTok BGs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-uncovering-budget-friendly-video-communication-apps-pcmac-for-2024/"><u>[Updated] Uncovering Budget-Friendly Video Communication Apps PC/MAC for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-apples-latest-iphones-the-best-new-phones-if-you-missed-out-on-the-iphone-13-or-15-pro-digitalworld-today/"><u>Beyond Apple's Latest iPhones: The Best New Phones if You Missed Out on the iPhone 13 or 15 Pro | DigitalWorld Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-apple-powerhouse-in-depth-comparison-of-m3-vs-m2-macbook-air-for-tech-enthusiasts/"><u>Choosing the Right Apple Powerhouse: In-Depth Comparison of M3 vs M2 MacBook Air for Tech Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-the-common-open-package-failure-in-win-1011/"><u>Combatting the Common 'Open Package' Failure in Win 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-m14-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy M14 4G without App | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-meizu-21-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Meizu 21 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/le-migliori-applicazioni-di-modifica-foto-gratuita-selezione-del-2024/"><u>Le Migliori Applicazioni Di Modifica Foto Gratuita: Selezione Del 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-photos-package-registration-faults/"><u>Navigating Through Windows Photos Package Registration Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-keyboard-lag-on-microsofts-newest-os/"><u>Quick Fixes for Keyboard Lag on Microsoft's Newest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-creating-a-personalized-speech-to-text-app-for-windows/"><u>Quick Guide to Creating a Personalized Speech-to-Text App for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sketch-alternatives-to-procreate-for-pc-users/"><u>Sketch Alternatives to Procreate for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-free-up-space-no-more-temp-files/"><u>Unlock Windows Free Up Space, No More Temp Files!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vivetool-explained-how-to-access-next-gen-windows-tools/"><u>ViVeTool Explained: How to Access Next-Gen Windows Tools</u></a></li>
 </ul></div>
 

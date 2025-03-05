@@ -1,7 +1,7 @@
 ---
 title: Navigating the GMaps Integration Process in Windows
-date: 2024-08-16T01:24:25.827Z
-updated: 2024-08-17T01:24:25.827Z
+date: 2025-03-01T18:31:31.482Z
+updated: 2025-03-05T02:27:24.805Z
 tags:
   - windows10
   - windows11
@@ -36,23 +36,14 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Uninstall Google Maps Added via Edge
 ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
 1. Press the **Win** key and type **Google Maps**.
 2. Right-click on **Google Maps** and select **Uninstall**. Click **Yes** to confirm the action, and the app will be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Run Google Maps as a Desktop App Using Google Chrome
 
  If you use Google Chrome as your daily driver, you can use the browser to add Maps as a shortcut. Chrome’s Create shortcut feature works similarly to Edge’s install app and lets you run web apps as a desktop on your Windows computer.
@@ -63,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 2. Next, click the **three-dots menu** in the top right corner.
 3. Go to **More Tools** and select **Create Shortcut.**  
 ![creating a shortcut for google maps on google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-chrome-create-shortcut-google-maps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. In the Create shortcut dialog, select the **Open as window** option. This will open the created shortcut in a new window. You can rename the app if you want or leave it as default.
 5. Click **Create**.
 6. Once installed, the app will open a new window offering a similar set of functionalities as Google Maps’s web version.
@@ -74,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
 ### How to Uninstall a Google Maps Shortcut Added via Chrome
 ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
@@ -87,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  While web apps work well, it misses out on a few features including the ability to download offline maps. If you prefer to run the app natively on Windows, consider [using an Android emulator](https://www.makeuseof.com/lightweight-emulators-android-games-pc/) or [installing Google Play Store on Windows](https://www.makeuseof.com/windows-11-install-google-play-store/) to install the app directly from the official store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Navigate With Google Maps on Windows
 
  Installing web apps offers faster access without keeping your browser open all the time. However, it is not perfect. In this instance, the web version doesn’t support offline map downloads. So you’ll need to rely on your phone to navigate when offline.
@@ -98,8 +80,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -107,5 +87,24 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-elevate-the-way-you-learn-and-work-with-these-15-podcast-friendly-tasks/"><u>[New] Elevate the Way You Learn & Work with These 15 Podcast-Friendly Tasks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-subconversions-at-peak-discover-the-top-8-tools-for-converting-sbt-to-srt/"><u>[Updated] 2024 Approved Subconversions at Peak - Discover the Top 8 Tools for Converting SBT to SRT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-transformer-gratuitement-un-fichier-gif-en-format-m4v-avec-moviesavvy/"><u>1. Transformer Gratuitement Un Fichier GIF en Format M4V Avec MovieSavvy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-1k-sub-club-joining-the-youtube-success-circles/"><u>2024 Approved 1K Sub Club Joining the YouTube Success Circles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mpgmkv-movavi/"><u>將MPG電影文件自動轉成MKV - Movavi的無限制線上服務</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-tus-audios-desde-aif-a-m4a-gratuitamente-en-linea-usando-el-innovador-software-de-movavi-para-conversiones-rapidas-y-seguras/"><u>Cambia Tus Audios Desde AIF a M4A Gratuitamente en Línea, Usando El Innovador Software De Movavi Para Conversiones Rápidas Y Seguras.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-trp-files-to-mpeg-format-for-free-using-movavis-web-tool/"><u>Change TRP Files to MPEG Format for Free Using Movavi's Web Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-votre-nsv-en-video-mpeg-gratuite-en-ligne-guide-detaille-de-moveave/"><u>Comment Transformer Votre NSV en Vidéo MPEG Gratuite en Ligne - Guide Détaillé De Moveave</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-audios-wav-directamente-al-formato-linea-congratuito-usando-herramientas-de-movavi/"><u>Convertir Audios WAV Directamente Al Formato Línea Congratuito Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-swf-to-avi-file-transformer-ultimate-guide-with-movavi-convert/"><u>Free Online Swf to Avi File Transformer - Ultimate Guide with Movavi Convert</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-zte-nubia-z60-ultra-phone-screen-by-drfone-android/"><u>How Can We Unlock Our ZTE Nubia Z60 Ultra Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-fe-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 FE Bootloader Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/las-mejores-tacticas-para-escalar-la-claridad-de-tu-fotografia-un-ranking-top-6/"><u>Las Mejores Tácticas Para Escalar La Claridad De Tu Fotografía: Un Ranking Top-6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-compact-solar-power-banks-reviews-and-picks-for-2n3/"><u>Top Rated Compact Solar Power Banks - Reviews and Picks for 2N3!</u></a></li>
+</ul></div>
 

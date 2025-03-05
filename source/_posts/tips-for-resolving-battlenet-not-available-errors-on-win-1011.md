@@ -1,7 +1,7 @@
 ---
 title: Tips for Resolving Battle.net Not Available Errors on Win 10/11
-date: 2024-08-16T01:25:50.825Z
-updated: 2024-08-17T01:25:50.825Z
+date: 2025-02-27T22:00:27.234Z
+updated: 2025-03-04T21:21:33.360Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,8 @@ This is how you can erase those folders in Windows 11/10:
 1. First, make sure there aren’t any Battle.net background processes running by [opening Task Manager’s Process tab](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . Disable any Battle.net processes you see there by selecting them and clicking**End task** .
 2. Hold the**Windows** keyboard key and press**E** to view the Explorer file and folder manager.
 3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 5. Next, erase the Blizzard Entertainment folder.
 6. Try opening Battle.net again.
 
@@ -65,9 +59,6 @@ This is how you can erase those folders in Windows 11/10:
 3. Set the**Startup type** option to**Automatic** .
 4. Click the**Start** service button for Secondary Logon.  
 ![The Secondary Logon Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-logon-properties-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Remember to select**Apply** to save the setting.
 6. Select**OK** to exit the Secondary Logon Properties window.
 7. Click**Restart** on the Start menu in Windows 11/10.
@@ -81,9 +72,6 @@ This is how you can erase those folders in Windows 11/10:
 1. First, open WDF in the Control Panel with a method in our guide for opening the Windows Defender Firewall applet.
 2. Select the**Turn Windows Defender Firewall on or off** navigation option on the left of the applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-defender-control-panel-applet.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Turn off Windows Defender Firewall** options for both the public and private network settings.  
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
 4. Select**OK** to save the new WDF options.
@@ -97,10 +85,6 @@ This is how you can erase those folders in Windows 11/10:
 
  You can usually find options for disabling third-party antivirus software on their context menus. So, right-click an antivirus icon in the system tray and look for an option to disable or turn off its shield on the menu that opens. If that works, you’ll know what’s causing the issue. Whitelist Battle.net in your antivirus tool’s exclusion settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 6\. Disable the Proxy Server
 
  Proxy servers conflict with Battle.net’s login module, which can prevent the software from launching. Even if you can’t recall enabling a proxy server yourself, double-check the proxy server setting isn’t selected in Windows. You can disable the proxy server as follows:
@@ -111,14 +95,8 @@ This is how you can erase those folders in Windows 11/10:
 4. Click**Connections** to access network options.
 5. Next, click**LAN settings** to view a Local Area Network (LAN) window.  
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Press the**OK > Apply** buttons.
 
  Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our [Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
@@ -128,9 +106,6 @@ This is how you can erase those folders in Windows 11/10:
  Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our [guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After setting a clean boot, restart your PC and try launching Battle.net. Did that potential resolution work? If it did, clean booting likely eliminated a program or service conflicting with Battle.net. Then you can keep the boot configuration as it is or attempt to figure out what software or service caused the issue.
 
@@ -139,9 +114,6 @@ This is how you can erase those folders in Windows 11/10:
  Finally, reinstall Battle.net Launcher if all else fails. Reinstalling that software will replace its files and ensure you’re utilizing the latest version. That won’t uninstall games installed with Battle.net.
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our [guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the [Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
 
@@ -157,8 +129,6 @@ This is how you can erase those folders in Windows 11/10:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,8 +136,21 @@ This is how you can erase those folders in Windows 11/10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-generate-individual-meme-crafts-today/"><u>[Updated] 2024 Approved Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-strategies-that-accelerate-youtube-followers-acquisition/"><u>[Updated] Strategies That Accelerate YouTube Followers Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-no-cost-2d-design-programs-to-enhance-creativity-with-transparency-features-software-and-applications-year-2024/"><u>Best No-Cost 2D Design Programs to Enhance Creativity with Transparency Features (Software & Applications) – Year 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compressao-de-videos-para-e-mailes-melhores-truques-e-dicas-por-expertos/"><u>Compressão De Vídeos Para E-Mailes: Melhores Truques E Dicas Por Expertos!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-el-avi-player-para-windows-10-sin-costo-guia-completa-de-instalacion-y-uso/"><u>Descargar El AVI Player Para Windows 10 Sin Costo: Guía Completa De Instalación Y Uso</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726222140941-dts-m4v-movavi/"><u>DTS M4V를 비용 없이 웹 블로드에서 바꾸기 - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287644874-dvdpc/"><u>DVD儲存技巧：探索三大有效方法將光碟資料遷移至PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-amd-gpu-update-analysis-and-installation/"><u>In 2024, AMD GPU Update Analysis & Installation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-easy-methods-for-downloading-vimeo-clips/"><u>In 2024, Easy Methods for Downloading Vimeo Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-effective-video-narration-techniques/"><u>In 2024, The Essentials of Effective Video Narration Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantly-convert-mov-to-mkv-for-free-using-the-movavi-media-converter/"><u>Instantly Convert MOV to MKV for Free Using the Movavi Media Converter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-windows-11-unlocking-access-to-your-file-sharing-and-backup-options/"><u>Mastering Windows 11: Unlocking Access to Your File Sharing and Backup Options</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-troubleshooting-iphone-image-management-and-processing/"><u>The Ultimate Guide to Troubleshooting iPhone Image Management & Processing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slideshow-creator/"><u>현재 구매 가능: 모항감 만들기 도구 - Slideshow Creator</u></a></li>
+</ul></div>
 

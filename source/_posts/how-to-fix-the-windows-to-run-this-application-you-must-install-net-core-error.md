@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows “To Run This Application, You Must Install .NET Core” Error
-date: 2024-08-16T01:25:17.626Z
-updated: 2024-08-17T01:25:17.626Z
+date: 2025-02-27T21:04:23.916Z
+updated: 2025-03-05T02:34:40.381Z
 tags:
   - windows10
   - windows11
@@ -55,15 +55,9 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 7. Expand the **.NET Framework** options and check all the boxes within them.
 
 ![Enabling the .NET Framework Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enabling-the-net-framework-feature.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Click **OK** to save these changes, and then restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Install the Required Version of .NET Core
 
  Running into the same issue even though you've enabled the ".NET Framework" feature? If so, then that’s a sign that you need to install .NET Core.
@@ -74,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 2. Go to the [.NET Core Installation page](https://dotnet.microsoft.com/en-us/download) and download the right .NET Core installer.
 
 ![The .NET Core Installation page on the Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-net-core-installation-page-on-the-microsoft-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  From there, run the .NET Core installer executable (EXE) file and then follow the on-screen instructions.
 
@@ -92,15 +83,9 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 4. Right-click on the **Microsoft .NET Core Runtime** (or Microsoft .NET Core) and select **Repair** or **Change**.
 
 ![Clicking Change on the Microsoft .NET Core Runtime option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-change-on-the-microsoft-net-core-runtime-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 
  From there, follow the on-screen instructions to complete the repair process. This should fix any issues with the existing .NET Core installation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check the .NET Core Path Using the "Environment Variables" Feature
 
  Environment variables are named values that store data used by the operating system and other programs. For instance, the WINDIR environment variable contains the location of the Windows installation directory.
@@ -115,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 4. Click the **Environment Variables** button.
 
 ![Clicking the Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-environment-variables-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  Navigate to the **System variables** section and then follow these steps:
 
@@ -137,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 ## 5\. Ensure the App Is Compatible With Your Device
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, you might be running an app that’s incompatible with your device. In this case, that particular app will likely pop up strange error messages.
 
@@ -164,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  But before we dive into the solutions, let’s take you through how .NET Core works.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,5 +150,24 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-filming-on-the-go-what-you-need-for-2024/"><u>[New] Filming On-the-Go – What You Need for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-guide-to-identifying-the-right-discord-servers/"><u>[Updated] A Guide to Identifying the Right Discord Servers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-behind-closed-doors-of-youtube-a-discovery-manual/"><u>[Updated] Behind Closed Doors of YouTube A Discovery Manual</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-critical-steps-in-logging-live-youtube-videos-for-2024/"><u>[Updated] Critical Steps in Logging Live YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-5-sites-matching-twitters-features/"><u>2024 Approved Superior 5 Sites Matching Twitter's Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>2024 Approved Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/mp3wav-movavi/"><u>免費線上MP3到WAV的轉換 - Movavi 專業變更器搭配指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-montar-seu-primeiro-video-usando-o-criador-do-mac-tutoriais-movavi-simplificados/"><u>Como Montar Seu Primeiro Vídeo Usando O Criador Do Mac - Tutoriais Movavi Simplificados</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decouvrez-la-fabrique-dimages-de-storyboard-methode-et-procedes-pour-creer-un-effet-visuel-persuasif/"><u>Découvrez La Fabrique D'Images De Storyboard: Méthode Et Procédés Pour Créer Un Effet Visuel Persuasif!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-y-convertir-archivos-ogg-a-formato-mp3-sin-coste-guia-de-movavi/"><u>Descargar Y Convertir Archivos OGG a Formato MP3 Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-aac-to-m4a-converter-web-service-by-movavi-quick-and-easy-file-transformation/"><u>Free AAC to M4A Converter Web Service by Movavi - Quick and Easy File Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-converter-from-ts-to-mov-quick-and-easy-with-movavi/"><u>Free Converter From .TS to .MOV - Quick and Easy with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-exact-video-editing-a-step-by-step-guide/"><u>Mastering the Art of Exact Video Editing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-itel-a05s-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Itel A05s to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-photobook-creation-the-picshot-promise/"><u>Streamline Photobook Creation - The Picshot Promise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasformare-i-file-mp3-in-formato-webm-senza-costi-con-il-servizio-di-movavi/"><u>Trasformare I File MP3 in Formato WEBM Senza Costi Con Il Servizio Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m2p-mpeg-movavi/"><u>오피스용 무세금 M2P MPEG 데이터를 자동으로 변환하는 Movavi - 단순한 방법</u></a></li>
+</ul></div>
 

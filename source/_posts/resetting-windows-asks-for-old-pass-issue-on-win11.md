@@ -1,7 +1,7 @@
 ---
 title: Resetting “Windows Asks for Old Pass” Issue on Win11
-date: 2025-02-15T02:15:03.080Z
-updated: 2025-02-15T16:14:26.630Z
+date: 2025-03-02T16:18:31.999Z
+updated: 2025-03-05T01:20:34.165Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,11 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 ![The “We’ll Need Your Current Windows Password One Last Time” Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-we-ll-need-your-current-windows-password-one-last-time-error.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft requests this password to verify your access to the local administrator account. A default local administrator account is created when you set up Windows 10 or 11 devices (after purchase); however, this account isn’t generated with a password.
 
  Meanwhile, if you’re setting up after a system reset, your device will revert to the initial local admin account; it won’t create a new one. In this case, there might be an existing password or not.
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Try All of Your Commonly Used Passwords
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
@@ -77,15 +65,7 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
@@ -105,18 +85,24 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-cinema-teasers-compilation/"><u>[New] 2024 Approved Top Cinema Teasers Compilation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-be-amongst-the-few-essential-metaverse-technology/"><u>[New] In 2024, Be Amongst the Few Essential Metaverse Technology</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-timecode-conversion-tools-for-filmmaker-for-2024/"><u>Best Timecode Conversion Tools for Filmmaker for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-avoiding-already-engaged-on-windows-11/"><u>Fix: Avoiding 'Already Engaged' On Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-itel-a60-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Itel A60</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-virtual-machine-start-issues-in-wm11plusvmware/"><u>Overcoming Virtual Machine Start Issues in WM11+VMware</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rocket-league-bug-fixed-no-more-game-freezing/"><u>Rocket League Bug Fixed: No More Game Freezing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-batch-process-converting-heic-to-jpeg-in-w11/"><u>Seamless Batch Process: Converting HEIC to JPEG in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-introduction-to-bluescreenview-use/"><u>Stepwise Introduction to BlueScreenView Use</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/stream-wars-unveiled-which-wins-obs-or-twitch-for-2024/"><u>Stream Wars Unveiled Which Wins, OBS or Twitch for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-easy-guide-to-customizing-windows-11-aesthetics/"><u>The Easy Guide to Customizing Windows 11 Aesthetics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/voice-activation-unveiled-windows-11-edition/"><u>Voice Activation Unveiled: Windows 11 Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[New] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-economical-microphones-catered-to-vloggers/"><u>[New] In 2024, Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>[Updated] Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-key-components-to-successful-ad-textual-content-creation/"><u>2024 Approved Key Components to Successful Ad Textual Content Creation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-new-series-9-smartwatch-incorporates-neural-engines-and-intuitive-hand-gesture-control/"><u>Apple's New Series 9 Smartwatch Incorporates Neural Engines & Intuitive Hand Gesture Control</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-the-best-ultimate-list-of-gopro-casings-for-2024/"><u>Best of the Best Ultimate List of GoPro Casings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-safe-copyrestore-of-notebooks/"><u>Ensuring Safe Copy/Restore of Notebooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-flickering-mouse-pointer-on-windows/"><u>How to Fix the Flickering Mouse Pointer on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-leveraging-windows-11s-developer-tools/"><u>Maximizing Productivity: Leveraging Windows 11'S Developer Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/nikon-z6i-vs-d7500-in-depth-comparison/"><u>Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-route-to-uncover-graphics-card-details-window-11/"><u>Rapid Route to Uncover Graphics Card Details, Window 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recover-distorted-aac-and-divx-with-simple-tools/"><u>Recover Distorted AAC & DIVX with Simple Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-windows-original-sleepwake-patterns/"><u>Regaining Windows' Original Sleep/Wake Patterns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-boot-stability-top-strategies-to-sidestep-system-setbacks/"><u>Secure Boot Stability: Top Strategies to Sidestep System Setbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-google-on-your-w11-device/"><u>Setting Up Google on Your W11 Device</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-pro-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro screen lock without password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-enabled-three-routes-to-telnet-success/"><u>Win 10/11 Enabled: Three Routes to Telnet Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-revolution-redesign-and-upgrades-in-explorer/"><u>Windows 11 Revolution: Redesign and Upgrades in Explorer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bypassing Integrated Video on Windows 10/11
-date: 2024-08-16T01:24:58.127Z
-updated: 2024-08-17T01:24:58.127Z
+date: 2025-02-28T16:35:39.024Z
+updated: 2025-03-04T20:47:37.966Z
 tags:
   - windows10
   - windows11
@@ -32,30 +32,18 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
 
  You can disable your iGPU in the Device Manager. To do that press **Win + R** to open Windows Run. Type **devmgmt.msc** in the text box and hit the **Enter** key to [open Device Manager](https://www.makeuseof.com/windows-open-device-manager/).
 
 ![Opening device driver with windows run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/opening-device-manager-with-run.png)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Turn Off Integrated Graphics?
 
  While dedicated GPUs tend to be more powerful than iGPUs and can boost your computer's graphical performance, that is not always the case.
@@ -66,16 +54,11 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Use Your Dedicated Graphics Card When You Need It
 
  All in all, you're better off using your dedicated graphics card, especially if you are into graphically demanding applications. But if your computer doesn't have a dedicated GPU, disabling integrated graphics is not an option. The decision depends on what you're ultimately trying to achieve on your Windows computer.
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -84,5 +67,26 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-eluding-youtube-ban-protective-measures/"><u>[New] Eluding YouTube Ban Protective Measures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>[New] In 2024, Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mobile-harmony-6-essential-free-apps-to-download-youtube-tracks/"><u>[New] Mobile Harmony 6 Essential Free Apps to Download YouTube Tracks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>[New] The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-elevate-youtube-presence-ideal-release-windows/"><u>2024 Approved Elevate Youtube Presence Ideal Release Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-simple-methods-for-optimizing-your-videos-preparing-content-for-instagram-with-movavi/"><u>3 Simple Methods for Optimizing Your Videos: Preparing Content for Instagram with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225206241-flvwmv-movavi/"><u>瀏覽器上無成本FLV變WMV改變 - 實現這一過程的Movavi方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aktif-sanayi-sistemlerine-katkida-bulunan-keygen-kullanabilir-icin-bir-yapitir/"><u>Aktif Sanayi Sistemlerine Katkıda Bulunan Keygen Kullanabilir İçin Bir Yapıtır</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-transformar-m1v-en-archivo-mp4-sin-coste-mediante-herramientas-web-libres/"><u>Cómo Transformar M1V en Archivo MP4 Sin Coste Mediante Herramientas Web Libres</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-e-impresione-m4r-archivos-a-formato-mp3-gratuito-sin-costo-con-converter-movavi/"><u>Descargar E Impresione M4R Archivos a Formato MP3 Gratuito Sin Costo Con Converter - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dicas-facilmente-executaveis-desenvolva-seu-olhar-selvagem-com-fotos-expressivas/"><u>Dicas Facilmente Executáveis: Desenvolva Seu Olhar Selvagem Com Fotos Expressivas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-baldurs-gate-gameplay-hiccups-ultimate-guide-to-smooth-gaming-experience/"><u>Fix Baldur’s Gate Gameplay Hiccups: Ultimate Guide to Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-restore-functionality-of-your-windows-11-taskbar/"><u>Fixing the Issue: How to Restore Functionality of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-moegenoefening-livestreamen-met-jeldende-videoprogramma-movavi/"><u>Gratis Moegenoefening Livestreamen Met Jeldende Videoprogramma - Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-14-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 14 in the Best Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-hub-the-ultimate-guide-to-cutting-edge-technology/"><u>Inside Tom's Gear Hub: The Ultimate Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/komt-een-kostenlose-conversie-aan-ogg-adres-met-movavi-voor-online-activiteiten-afvallend-au-inlevering-gratis/"><u>Komt Een Kostenlose Conversie Aan: OGG-Adres Met Movavi Voor Online Activiteiten, Afvallend .au - Inlevering Gratis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movogv-movavi/"><u>MOV到OGV無料線上轉換 - 利用Movavi轉換工具</u></a></li>
+</ul></div>
 

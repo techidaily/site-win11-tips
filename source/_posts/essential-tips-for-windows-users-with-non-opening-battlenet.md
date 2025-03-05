@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Windows Users With Non-Opening Battle.net
-date: 2025-02-14T16:35:10.046Z
-updated: 2025-02-16T01:07:43.479Z
+date: 2025-02-28T18:02:39.106Z
+updated: 2025-03-04T21:42:29.740Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set Battle.net to Run With Admin Rights
 
@@ -79,10 +75,6 @@ This is how you can erase those folders in Windows 11/10:
 
  If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Turn Off the Windows Defender Firewall
 
  Windows Defender Firewall will block Battle.net from connecting with Blizzard services if that software isn’t permitted through it. To test if that firewall is blocking the Battle.net client, temporarily disable it in the following steps:
@@ -94,10 +86,6 @@ This is how you can erase those folders in Windows 11/10:
 
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
 4. Select**OK** to save the new WDF options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Try opening Battle.net again with the firewall disabled.
 
@@ -121,16 +109,8 @@ This is how you can erase those folders in Windows 11/10:
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
 6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
 
@@ -140,10 +120,6 @@ This is how you can erase those folders in Windows 11/10:
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After setting a clean boot, restart your PC and try launching Battle.net. Did that potential resolution work? If it did, clean booting likely eliminated a program or service conflicting with Battle.net. Then you can keep the boot configuration as it is or attempt to figure out what software or service caused the issue.
 
 ## 8\. Reinstall the Battle.net Software
@@ -151,10 +127,6 @@ This is how you can erase those folders in Windows 11/10:
  Finally, reinstall Battle.net Launcher if all else fails. Reinstalling that software will replace its files and ensure you’re utilizing the latest version. That won’t uninstall games installed with Battle.net.
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
 
@@ -179,22 +151,20 @@ This is how you can erase those folders in Windows 11/10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-6-virtual-venues-propelling-professional-connections/"><u>[New] Leading 6 Virtual Venues Propelling Professional Connections</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-secure-your-watchlist-free-playlist-extractors-roundup/"><u>[Updated] In 2024, Secure Your Watchlist Free Playlist Extractors Roundup</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-watching-with-edge-free-youtube-content-for-2024/"><u>[Updated] Streamline Your Watching with Edge-Free YouTube Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-corrupted-file-error-0x80070570-anxiety-in-windows-11/"><u>Conquering Corrupted File (Error 0X80070570) Anxiety in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-top-10-must-know-powertoy-features/"><u>Elevate Your Computer Experience: Top 10 Must-Know PowerToy Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-barriers-fix-steam-remote-play-woes/"><u>Eliminating Barriers: Fix Steam Remote Play Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-restrictions-save-permissions-fix-windows-way/"><u>Eliminating Restrictions: Save Permissions Fix Window's Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-for-endless-stuck-in-bios-during-windows-boot-up/"><u>Fixes for Endless Stuck in BIOS During Windows Boot-Up</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-storing-solution-for-sony-a7s-ii/"><u>In 2024, Best Storing Solution for Sony A7S II</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-creativity-top-10-free-quicktime-mov-editors/"><u>In 2024, Unleash Your Creativity Top 10 Free QuickTime MOV Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-for-altering-reset-counter-after-failed-logins/"><u>Method for Altering Reset Counter After Failed Logins</u></a></li>
-<li><a href="https://network-issues.techidaily.com/new-driver-release-amd-radeon-hd-6950-for-win10/"><u>New Driver Release: AMD Radeon HD 6950 for Win10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/plant-root-exudates-as-modulators-of-soil-microbiota-diversity-and-function/"><u>Plant Root Exudates as Modulators of Soil Microbiota Diversity and Function</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-protection-stick-to-single-antivirus-software-in-windows/"><u>Simplify Protection: Stick to Single Antivirus Software in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-securing-administrator-access-on-windows/"><u>Steps for Securing Administrator Access on Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro-for-2024/"><u>[New] Softening the Edges A Guide to Dimmed Audio in Logic Pro for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-internet-speech-capture-tools-for-2024/"><u>[New] Top Internet Speech Capture Tools for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamlined-strategy-to-create-your-custom-youtube-queue/"><u>[Updated] Streamlined Strategy to Create Your Custom YouTube Queue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-steps-to-erase-your-yahoo-email-address-forever/"><u>Complete Guide: Steps to Erase Your Yahoo Email Address Forever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-deadlocked-downloads-in-windows-11-3/"><u>Guide to Reviving Deadlocked Downloads in Windows 11 (3)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/hassle-free-photo-and-video-upload-ios-device/"><u>Hassle-Free Photo & Video Upload IOS Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-time-limited-window-locks/"><u>How to Prevent Time-Limited Window Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisiblity-wizards-concealing-zip-in-image-files-win11/"><u>Invisiblity Wizards: Concealing ZIP in Image Files (Win11)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/jumpstart-your-macbooks-performance-the-ssd-upgrade-way/"><u>Jumpstart Your MacBook's Performance: The SSD Upgrade Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-steams-e84-complications/"><u>Navigate Through Steam's E84 Complications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-management-hacks-for-enhanced-device-lifespan/"><u>Power Management Hacks for Enhanced Device Lifespan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-off-screen-windows-essential-techniques-for-win11/"><u>Restoring Off-Screen Windows: Essential Techniques for Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-erasing-all-messages-on-gmail-for-a-fresh-start/"><u>Step-by-Step Tutorial: Erasing All Messages on Gmail for a Fresh Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-lost-ethernet-signal-win/"><u>Steps to Restore Lost Ethernet Signal Win</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-software-refund-policy-explained-by-digiarty/"><u>WinX DVD Software Refund Policy Explained by Digiarty</u></a></li>
 </ul></div>
 

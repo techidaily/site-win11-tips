@@ -1,7 +1,7 @@
 ---
 title: Curing Empty Folder Misconraneuement in Windows 11 with #0X80070091
-date: 2025-02-14T02:46:59.741Z
-updated: 2025-02-15T17:25:16.022Z
+date: 2025-02-26T18:14:55.497Z
+updated: 2025-03-05T01:00:00.917Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Try Erasing the Folder With the Command Prompt
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
@@ -73,15 +65,7 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Modify the Affected Folder’s Permissions
 
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 3. Next, press the**Advanced** button.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
@@ -116,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
 ![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
@@ -146,20 +122,18 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-dynamic-fitness-series-ideas-to-enhance-viewer-retention/"><u>[New] 2024 Approved 5 Dynamic Fitness Series Ideas to Enhance Viewer Retention</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-discover-the-joy-of-individuality-creating-tones-and-sounds-on-android-devices/"><u>[New] 2024 Approved Discover the Joy of Individuality Creating Tones & Sounds on Android Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-quantifying-videography-storage-needs-128gb/"><u>[New] 2024 Approved Quantifying Videography Storage Needs, 128GB</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-capturing-adventures-in-high-definition-with-intova-x/"><u>[Updated] Capturing Adventures in High Definition With Intova X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-striking-gopro-time-lapse-videos/"><u>2024 Approved Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-90-gt-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-arp-cache-and-its-clearance-methods-126-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Demystifying Windows ARP Cache and Its Clearance Methods (126 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-dji-phantom-4-deep-dive-comprehensive-insights-and-reviews/"><u>In 2024, DJI Phantom 4 Deep Dive Comprehensive Insights & Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-console-permissions-in-the-microsoft-environment/"><u>Managing Console Permissions in the Microsoft Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-streamerror-fixes-in-steam-for-windows-users/"><u>Mastering StreamError Fixes in Steam for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-notepad-unresponsiveness-in-windows-os/"><u>Resolving Notepad Unresponsiveness in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restart-strategies-for-win11s-frozen-adobe-photoshop/"><u>Restart Strategies for Win11's Frozen Adobe Photoshop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-irreversibly-deleting-your-yahoo-mail-profile/"><u>The Ultimate Walkthrough for Irreversibly Deleting Your Yahoo Mail Profile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-free-roving-windows-cursors/"><u>Unraveling the Mystery of Free-Roving Windows Cursors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-easy-steps-to-change-fins-sounds-in-windows-for-2024/"><u>[Updated] Easy Steps to Change Fins' Sounds in Windows for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streamline-split-and-save-going-beyond-xsplit/"><u>[Updated] In 2024, Streamline, Split & Save Going Beyond XSplit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-step-by-step-guide-to-obs-streaming-success/"><u>2024 Approved The Step-by-Step Guide to OBS Streaming Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-principles-for-activating-windows-11s-higher-power/"><u>Guiding Principles for Activating Windows 11'S Higher Power</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-funniest-face-changes-in-photography-tools/"><u>In 2024, The Funniest Face Changes in Photography Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/is-it-necessary-to-use-tools-like-revo-uninstaller-for-software-removal/"><u>Is It Necessary to Use Tools Like Revo Uninstaller for Software Removal?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-wintoys-an-efficient-and-comprehensive-guide-to-a-versatile-window-utility/"><u>Mastering 'WinToys': An Efficient and Comprehensive Guide to a Versatile Window Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-choose-best-timeclock-saver-apps/"><u>Speed Up Your PC: Choose Best Time/Clock Saver Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/taking-views-viral-the-ultimate-guide-for-youtube-success-for-2024/"><u>Taking Views Viral The Ultimate Guide for YouTube Success for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-mac-devices-a-comprehensive-guide/"><u>Top-Ranking Mac Devices : A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-short-term-suspension-of-windows-11s-defense/"><u>Understanding Short-Term Suspension of Windows 11'S Defense</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unforgettable-haunting-adventures-in-animation-the-ultimate-list-of-kid-friendly-halloween-movies/"><u>Unforgettable Haunting Adventures in Animation: The Ultimate List of Kid-Friendly Halloween Movies</u></a></li>
 </ul></div>
 

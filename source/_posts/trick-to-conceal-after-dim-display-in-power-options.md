@@ -1,7 +1,7 @@
 ---
 title: Trick to Conceal 'After Dim Display' In Power Options
-date: 2025-02-12T23:39:06.396Z
-updated: 2025-02-16T03:38:55.427Z
+date: 2025-02-25T20:28:07.053Z
+updated: 2025-03-04T22:20:41.066Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![windows powershell in the windows search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In PowerShell, enter the following command to show the **Dim Display after** option in the Power Options menu:
 
 powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee -ATTRIB_HIDE
@@ -51,10 +47,6 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **Yes** to bypass the UAC prompt.
 
  In the address bar of the Registry Editor, copy and paste the following text into it:
@@ -65,23 +57,11 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
 
@@ -102,18 +82,16 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-banner-bliss-savor-your-complimentary-set-of-designs/"><u>[New] 2024 Approved Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-drifting-visions-slick-cam-insights/"><u>[New] Drifting Visions Slick Cam Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pro-video-cinematography-choosing-the-right-lenses-for-2024/"><u>[Updated] Pro Video Cinematography Choosing the Right Lenses for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/"><u>2024 Approved Essential Guide Video Recording with VLC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-from-dull-to-dynamic-top-11-techniques-for-enhanced-hues/"><u>2024 Approved From Dull to Dynamic Top 11 Techniques for Enhanced Hues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-hidden-patterns-in-data-usage-through-windows-diskusage-command/"><u>Discovering Hidden Patterns in Data Usage Through Windows' DiskUsage Command</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-m6-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco M6 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-print-functions-in-microsofts-security-shield/"><u>Implementing Print Functions in Microsoft's Security Shield</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-going-back-in-space-and-time-rewind-your-instagram-video/"><u>In 2024, Going Back in Space and Time Rewind Your Instagram Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-desktop-art-windows-1011-tutorials/"><u>Mastering Desktop Art: Windows 10/11 Tutorials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-windows-inbuilt-pdf-renderer/"><u>Personalizing Windows' Inbuilt PDF Renderer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-update-apple-music-now-enables-seamless-spotify-playlist-integration/"><u>Revolutionary Update: Apple Music Now Enables Seamless Spotify Playlist Integration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tcp-port-identification-on-windows-devices/"><u>TCP Port Identification on Windows Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-prime-fb-video-snatcher-and-upgrades-for-firefox/"><u>[New] Prime FB Video Snatcher & Upgrades for FireFox</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-how-to-use-picture-in-picture-on-chrome-on-all-platforms/"><u>[Updated] 2024 Approved How to Use Picture in Picture on Chrome on All Platforms</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-swift-playback-in-tiktok-enhancing-performance/"><u>[Updated] Swift Playback in TikTok Enhancing Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>2024 Approved Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-nokia-nokia72-how-it-stands-out-among-competitive-devices/"><u>Comprehensive Guide to the Nokia Nokia7.2: How It Stands Out Among Competitive Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-fichiers-au-vers-wav-service-gratuit-en-ligne-avec-movavi/"><u>Conversion De Fichiers Au Vers WAV - Service Gratuit en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-tracking-windows-conversations/"><u>Expert Strategies for Tracking Windows Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lexicon-loops-fast-definitions-in-windows-11/"><u>Lexicon Loops: Fast Definitions in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-terminals-focus-mode-engagementdisengagement/"><u>Mastery of Windows Terminal’s Focus Mode Engagement/Disengagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-simple-adding-menu-items-for-your-win11-os/"><u>Quick and Simple: Adding Menu Items for Your Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unresponsive-email-banners-in-outlook-windows/"><u>Tackling Unresponsive Email Banners in Outlook Windows</u></a></li>
 </ul></div>
 

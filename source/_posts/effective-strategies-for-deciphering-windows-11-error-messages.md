@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Deciphering Windows 11 Error Messages
-date: 2025-02-10T19:55:21.647Z
-updated: 2025-02-16T00:22:02.291Z
+date: 2025-02-28T03:43:32.952Z
+updated: 2025-03-05T02:45:14.569Z
 tags:
   - windows10
   - windows11
@@ -58,18 +58,10 @@ Here’s how to do it:
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
 6. Microsoft Error Lookup Tool will run and display the format to look up error codes along with other available parameters. Don’t close the tool yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check Error Codes Using Microsoft Error Lookup Tool
 
@@ -79,10 +71,6 @@ Here’s how to do it:
 2. Suppose you want to look up the error code 0x80070490 using the tool. So, the correct command will be:**Err 0x80070490** .  
 ![Checking an Error Code in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/checking-an-error-code-in-microsoft-error-lookup-tool.jpg)
 3. Press the enter key and the tool will display all the matching information it has about the error code. It will include the exact error string and a sentence describing the meaning. Often, it will also try to make suggestions to fix the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
 
@@ -99,10 +87,6 @@ Repeat the following steps:
 ![Exporting Error Code Lookup results in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-microsoft-error-lookup-tool.jpg)
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
@@ -112,10 +96,6 @@ Repeat the following steps:
  Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a[new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
 
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lookup Error Details With Ease
 
@@ -136,22 +116,22 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-the-power-of-livestreaming-on-youtube-regardless-of-subscriber-numbers/"><u>[New] Unlock the Power of Livestreaming on YouTube, Regardless of Subscriber Numbers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-diy-sports-highlights-a-comprehensive-guide/"><u>[Updated] 2024 Approved DIY Sports Highlights A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[Updated] In 2024, Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-most-reliable-and-fastest-mesh-wi-fi-setups-top-picks/"><u>2024'S Most Reliable and Fastest Mesh Wi-Fi Setups - Top Picks!</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-s23-tactical-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy S23 Tactical Edition Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clock-comeback-strategies-repair-missing-windows-time-service/"><u>Clock Comeback Strategies: Repair Missing Windows Time Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-solving-resource-occupied-error-in-windows-11/"><u>Deciphering and Solving Resource Occupied Error in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-aftermath-of-unsuccessful-discord-updates-on-pcs/"><u>Fixing the Aftermath of Unsuccessful Discord Updates on PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mellow-melodies-gradual-audio-decline-in-garageband-for-2024/"><u>Mellow Melodies Gradual Audio Decline in Garageband for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-seamless-drag-and-drop-experience-with-win11-fixes/"><u>Restore Seamless Drag-and-Drop Experience with Win11 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-unresponsive-menus-of-the-windows-11-os/"><u>Reviving Unresponsive Menus of the Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-your-gameplay-preventing-league-drops-on-pc/"><u>Securing Your Gameplay: Preventing League Drops on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-headphone-detection-failures-on-windows-11-systems/"><u>Solution Steps: Headphone Detection Failures on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-stabilization-nine-tricks-for-a-smooth-wwe-experience/"><u>Speedy Stabilization: Nine Tricks for a Smooth WWE Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-linux-lacks-key-features-for-top-gamers/"><u>Why Linux Lacks Key Features for Top Gamers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-process-of-verifying-your-youtube-id/"><u>[New] 2024 Approved Navigating the Process of Verifying Your YouTube ID</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>[Updated] In 2024, Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confirming-windows-11-activation-three-tactics/"><u>Confirming Windows 11 Activation: Three Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-uninstalling-edge-on-windows-11/"><u>Guide to Uninstalling Edge on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-x-flip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo X Flip Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-your-photo-8-experience-with-our-in-depth-windows-handbook/"><u>Mastering Your Photo 8 Experience with Our In-Depth Windows Handbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-failed-to-download-updates-issue-resolving-windows-error-0x800002/"><u>Overcome the 'Failed to Download Updates' Issue: Resolving Windows Error 0X80#0002</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-winerror-0xc004f050-in-upgrades/"><u>Overcoming Common WinError 0xC004F050 in Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-windows-mixer-undo-changes-to-speaker-settings/"><u>Revive Windows Mixer: Undo Changes to Speaker Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-list-for-11-windows-11-problems/"><u>The Ultimate Fix-List for 11 Windows 11 Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-eight-sources-of-graffiti-fonts-online/"><u>Top Eight Sources of Graffiti Fonts Online</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27e-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27e Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-lock-your-screens-look/"><u>Windows 11: How to Lock Your Screen's Look</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-evolution-four-alternatives-to-cortana/"><u>Windows Aid Evolution, Four Alternatives to Cortana</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-esc-issues-quick-solutions-to-restore-functionality/"><u>Windows Esc Issues: Quick Solutions to Restore Functionality</u></a></li>
 </ul></div>
 

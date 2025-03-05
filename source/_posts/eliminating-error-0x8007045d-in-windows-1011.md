@@ -1,7 +1,7 @@
 ---
 title: Eliminating Error 0X8007045D in Windows 10/11
-date: 2025-02-08T16:13:44.308Z
-updated: 2025-02-15T22:53:50.067Z
+date: 2025-02-25T17:43:56.290Z
+updated: 2025-03-04T19:59:08.551Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Main Causes of the Windows 0x8007045d Error?
 
  You'll usually encounter the 0x8007045d error while copying single or multiple files through an external source—usually a USB stick or a CD/DVD drive. Here's how the error can appear, often in a dialog box:
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
  When you're done, check and see if the 0x8007045d error persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Restart Your PC
 
  Using one of the many[ways to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) is often recommended for troubleshooting. It's one of the easiest ways to rid of strange Windows glitches, and for good reason. Put briefly, a simple restart flushes your RAM, clearing away all the programs that might be eating your memory. So make sure you restart your PC before moving to complex solutions.
@@ -67,19 +59,11 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
 
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
@@ -114,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
 
 ## Fixing the 0x8007045d Error on Your Windows PC
@@ -141,20 +121,20 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-choose-the-best-android-and-ios-timers-for-your-dream-wedding/"><u>[New] In 2024, How to Choose the Best Android & iOS Timers for Your Dream Wedding</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-insiders-guide-to-professional-gif-creation/"><u>[New] The Insider's Guide to Professional GIF Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-capturing-facebook-chats/"><u>[Updated] 2024 Approved A Comprehensive Guide to Capturing Facebook Chats</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-crafty-impostors-exposed-spotting-fabricated-followers-for-2024/"><u>[Updated] Crafty Impostors Exposed Spotting Fabricated Followers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capture-the-action-in-depth-guide-to-game-recording-on-win10/"><u>[Updated] In 2024, Capture the Action In-Depth Guide to Game Recording on Win10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailored-video-experience-creating-a-structured-watch-later-list-on-youtube/"><u>[Updated] Tailored Video Experience Creating a Structured 'Watch Later' List on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/create-captivating-photos-adding-motion-blur-in-photoshop/"><u>Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leading-overclock-utilities-and-monitors/"><u>Leading Overclock Utilities & Monitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-access-the-guide-to-group-policy-editor/"><u>Mastering Windows 11'S Access: The Guide to Group Policy Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-time-management-android-and-windows-calendar-coexistence/"><u>Mastery Over Time Management: Android and Windows Calendar Coexistence</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/preeminent-6-networks-driving-biz-innovation-for-2024/"><u>Preeminent 6 Networks Driving Biz Innovation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quashing-games-recommendations-on-win11-systems/"><u>Quashing Games Recommendations on Win11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-win11-screensaver-personalization/"><u>Step-by-Step Guide to Win11 Screensaver Personalization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-solving-windows-error-messages/"><u>Strategies for Solving Windows Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-headset-mic-noise/"><u>Understanding & Fixing Windows Headset Mic Noise</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-content-with-these-10-reaction-wonders/"><u>[New] 2024 Approved Elevate Your Content with These 10 Reaction Wonders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>[New] 2024 Approved Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-whimsical-worlds-kids-fun-game-selection/"><u>[New] In 2024, Whimsical Worlds - Kids' Fun Game Selection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-dialing-in-on-youtube-success-identifying-ranks-boosters/"><u>[Updated] Dialing in on YouTube Success Identifying Ranks Boosters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-holo-health-interventions/"><u>[Updated] Holo-Health Interventions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-bridging-fb-videos-to-home-screens-a-prospect/"><u>[Updated] In 2024, Bridging FB Videos to Home Screens A Prospect</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/10plus-must-know-tactics-for-selecting-optimal-cricket-broadcasts/"><u>10+ Must-Know Tactics for Selecting Optimal Cricket Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unite-chords-and-visuals-on-powerpoint/"><u>2024 Approved Unite Chords and Visuals on PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ease-your-program-interactions-with-context-menu-upgrades/"><u>Ease Your Program Interactions with Context Menu Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-enhanced-top-free-must-have-tools-for-windows-11/"><u>Effortlessly Enhanced: Top Free Must-Have Tools for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evanescence-of-audio-glitch-overcoming-code-0xd36b4/"><u>Evanescence of Audio Glitch: Overcoming Code 0Xd36b4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-start-menu-experience-in-windows-11/"><u>Maximize Your Start Menu Experience in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-device-recognition-failure-in-win-oses/"><u>Quick Fix for Device Recognition Failure in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-invisible-zip-file-encryption-within-pixels/"><u>The Art of Invisible ZIP File Encryption Within Pixels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-fixing-past-login-phrase-problem/"><u>Winning Back Access: Fixing Past Login Phrase Problem</u></a></li>
 </ul></div>
 

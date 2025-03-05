@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for WinError 0X80072746 in Outlook
-date: 2024-08-16T01:25:49.247Z
-updated: 2024-08-17T01:25:49.247Z
+date: 2025-03-03T19:08:06.047Z
+updated: 2025-03-04T20:57:36.405Z
 tags:
   - windows10
   - windows11
@@ -70,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 1. Launch the Mail client and click on the **gear icon** at the bottom.
 2. Choose **Manage Accounts**.  
 ![Manage accounts option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-accounts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
@@ -83,19 +80,10 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 ![Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-account.jpg)
 3. Scroll down and choose **Advanced Setup**.  
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
 ![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 5. Finally, click on **Sign in** and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update the Mail App
 
  Your Mail app might also be outdated, which is preventing it from being fully compatible with the latest email server configurations and security protocols, leading to the error at hand.
@@ -108,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 2. Choose the **Library icon** in the bottom left pane.
 3. In the following window, click on the **Get updates** button. This should display all the available updates for the installed apps. MS Store will begin to download them automatically.  
 ![The Get updates button in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-updates-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Wait for the updates to download and check if the problem is resolved.
 
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 5\. Fix Corruption Issues Within the Mail App
 
  If updating the application did not help, there are also some other fixes that can help you resolve any corruption issues within the Mail app that might be leading to the problem. This involves [repairing and resetting the Mail application](https://www.makeuseof.com/mail-app-cant-get-mail-windows/).
@@ -132,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,5 +121,21 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-novice-to-notable-launching-a-trending-solo-show/"><u>[Updated] 2024 Approved From Novice to Notable Launching a Trending Solo Show</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-hot-30i-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Hot 30i? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wavswfmovavi/"><u>免費在線WAV/SWF音訊格式變更者：Movavi 上的方便轉換器選擇</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726226973578-mp3mp4-movavi/"><u>如何快速免费地将MP3文件转换为MP4 - Movavi秘技</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ancs-renovated-marshall-aesthetic-appeal-meets-musical-grandeur/"><u>ANC's Renovated Marshall: Aesthetic Appeal Meets Musical Grandeur</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required</u></a></li>
+<li><a href="https://discover-best.techidaily.com/easy-steps-for-converting-and-watching-movie-dvds-on-roku-using-a-windowsmac-desktop/"><u>Easy Steps for Converting and Watching Movie DVDs on Roku Using a Windows/Mac Desktop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transition-adopting-windows-11/"><u>Seamless Transition Adopting Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-10-ingenious-ae-techniques-for-headline-hype/"><u>Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-free-video-editing-tools-compatible-with-windows-7/"><u>Top Free Video Editing Tools Compatible with Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-de-conversion-dvd-a-avi-comment-utiliser-le-programme-movavi-video-converter/"><u>Tutorial De Conversion DVD À AVI: Comment Utiliser Le Programme Movavi Video Converter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>Updated How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webp-jpg/"><u>WebP 그림을 JPG로 무료 강조한 웹 편집 도구 - 모바이비</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Chrome Sounds & Banners in Windows
-date: 2025-02-11T20:16:29.405Z
-updated: 2025-02-15T18:27:33.159Z
+date: 2025-02-27T22:05:53.769Z
+updated: 2025-03-04T16:08:42.434Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn Off Google Chrome Notifications From Windows Settings
 
  The Windows Settings app lets you enable or[disable notifications for each of your apps](https://www.makeuseof.com/tag/selectively-disable-app-notifications-windows-10/) separately. If you do not want to receive any notifications from Google Chrome, you can disable its notification permission on Windows. Here's how you can go about it.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -59,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 6. Under**Default behavior** , select**Don’t allow sites to send notifications** to disable Chrome notifications.  
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
 
  Not all notifications are useless. If you don't wish to disable Google Chrome notifications entirely, you can disable them for specific websites. To do so, open Google Chrome and navigate to the website for which you want to disable notifications. Click the**padlock icon** on the left of the website URL at the top. Then, toggle off the switch next to**Notifications** .
 
 ![Disable Google Chrome Notifications for a Specific Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Site.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The method outlined above is ideal if you only want to disable notifications for one or two websites. However, if you want to turn off Chrome notifications for several websites, you can visit the notifications section in Chrome settings. Here are the steps you need to follow.
 
@@ -81,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 4. Click the**Add** button next to**Not allowed to send notifications** .
 5. Enter the URL of the website for which you want to turn off notifications and click on**Add** .  
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
 
@@ -113,19 +93,18 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>2024 Approved Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-guide-to-creating-fb-slideshows/"><u>2024 Approved Step-by-Step Guide to Creating FB Slideshows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-code-fixing-windows-11-emails-html-anomalies/"><u>Decoding the Code: Fixing Windows 11 Email's HTML Anomalies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-skills-for-capturing-soundless-videography/"><u>Essential Skills for Capturing Soundless Videography</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-buzz-is-windows-11-microsofts-controversial-new-release-or-a-game-changer-for-tech-enthusiasts/"><u>Exploring the Buzz: Is Windows 11 Microsoft's Controversial New Release or a Game-Changer for Tech Enthusiasts?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-detect-and-eradicate-keygen-malware-on-pcs/"><u>How to Detect and Eradicate Keygen Malware on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-into-text-with-openais-whisper-for-windows/"><u>How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dancefloor-dynamics-top-rated-dj-video-selections/"><u>In 2024, Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-premier-mc-village-residential-plans/"><u>In 2024, Premier MC Village Residential Plans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberating-windows-dialogue-with-freedomgpt-engagement/"><u>Liberating Windows Dialogue: With FreedomGPT Engagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-failed-capture-glitches/"><u>Overcoming Windows Failed Capture Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fire-shortcuts-in-microsoft-project/"><u>Quick-Fire Shortcuts in Microsoft Project</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/scripts-that-reshape-cinematic-history-for-2024/"><u>Scripts that Reshape Cinematic History for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-split-view-failures-in-win-10/"><u>Tackling Split View Failures in Win 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-how-to-personalize-and-change-ringtones-on-your-iphone/"><u>[New] In 2024, How to Personalize and Change Ringtones on Your iPhone?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails/"><u>2024 Approved The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-and-contrasting-win11-homes-vs-advanced-professional-editions/"><u>Comparing and Contrasting Win11: Homes Vs. Advanced Professional Editions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-decode-and-securely-save-your-blu-ray-discs-with-winx-blu-ray-decrypter-software/"><u>How to Decode and Securely Save Your Blu-Ray Discs with WinX Blu-Ray Decrypter Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-translate-foreign-languages-with-hotkeys-in-windows-11-and-11/"><u>How to Translate Foreign Languages With Hotkeys in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-notetakers-choose-7-out-of-many-for-pcs/"><u>Ideal Notetakers: Choose 7 Out of Many For PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-htc-u23-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-inactive-thumbnails-in-windows-ui/"><u>Repairing Inactive Thumbnails in Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-maintain-an-operational-windows-notepad/"><u>Techniques to Maintain an Operational Windows Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-compatibility-list-for-24-laptops/"><u>The Ultimate Windows Compatibility List for '24 Laptops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-windows-audio-suite/"><u>Ultimate Windows Audio Suite</u></a></li>
 </ul></div>
 

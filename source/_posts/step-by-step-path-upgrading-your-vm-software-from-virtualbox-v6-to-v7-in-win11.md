@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Path: Upgrading Your VM Software From VirtualBox v6 to v7 in Win11"
-date: 2024-08-16T01:22:37.026Z
-updated: 2024-08-17T01:22:37.026Z
+date: 2025-03-04T01:24:36.739Z
+updated: 2025-03-05T00:43:27.424Z
 tags:
   - windows10
   - windows11
@@ -70,27 +70,18 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 2. Under the list of active extension packs, you will see the older version with a red sign. It indicates that the extension pack is incompatible with VirtualBox 7.0.
 3. Right-click on the old extension pack and select the**Uninstall** option.  
 ![Remove the Old Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/remove-the-old-extension-pack.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click on the**Remove** button to begin the uninstallation.
 5. UAC will pop up. Click on the**Yes** button to begin the uninstallation.
 
 1. Now, click on the**Install Extension Pack** button located at the top. Locate the extension pack file you downloaded previously and select it. Click on the**Open** button.
 2. VirtualBox extension pack installer will pop up. Click on the**Install** button.  
 ![Install the New Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-new-extension-pack.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Accept the**EULA** by scrolling down. Click on the**I Agree** button.
 4. UAC will pop up. Click on the**Yes** button to begin the extension pack installation.
 5. Once the extension pack installs, it will appear in the list of installed extension packs.
 
  Now, you can easily connect the USB devices to one or many virtual machines that you created using VirtualBox. Check out our guide on [how to add a USB device to VirtualBox on Windows](https://www.makeuseof.com/windows-virtualbox-add-usb/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Install the Guest Additions
 
  VirtualBox Guest Additions offers all the necessary drivers for a virtual machine. Since VirtualBox supports DirectX 11, it is advisable to install Guest Additions as it will offer drivers for all the components.
@@ -103,23 +94,13 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 4. Open the**File Explorer** app on your Windows virtual machine. You will see the guest additions CD image mounted there.
 5. Double-click to open the CD image directory. Scroll down and right-click on the**VBoxWindowsAdditions–amd64.exe** file. Select**Run as administrator** from the context menu.  
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. UAC will pop up. Click on**Yes** to continue.  
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Follows the on-screen prompts to install the Guest Additions on your system.
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
  It may take a while to install the guest additions. Once done, you can change the resolution of the virtual machine to match the display resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will the Old Virtual Machines Work With VirtualBox 7.0?
 
  Yes. VirtualBox 7.0 will run the old virtual machines that you created without any issues. But you have to install the extension pack and the guest additions otherwise it could crash or not run at all. We tried running old Windows 10 and 11 virtual machines that we created in version 6.1.32, and they worked fine.
@@ -128,14 +109,11 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,8 +122,19 @@ To install the VirtualBox 7.0 extension pack, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/irst-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos-for-2024/"><u>[New] First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-saving-your-iphone-7-display/"><u>[New] The Ultimate Guide to Saving Your iPhone 7 Display</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-instant-video-hoarders-guide-to-easy-acquisition/"><u>[Updated] 2024 Approved Instant Video Hoarder's Guide to Easy Acquisition</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-for-visuals-mastering-hd-content-postings/"><u>Facebook for Visuals: Mastering HD Content Postings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gameplay-streaming-tools-revealed-obs-or-fraps-in-2024/"><u>Gameplay Streaming Tools Revealed OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-razr-40-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone SE (2022) | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-to-stranded-error-on-windows-1011-xbox-app/"><u>Immediate Fixes to 'Stranded' Error on Windows 10/11 Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-frequent-wallpaper-alterations-in-windows/"><u>Implementing Frequent Wallpaper Alterations in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-xbox-game-pass-failures-in-windows/"><u>Strategies to Tackle Xbox Game Pass Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-everyday-scenes-to-dynamic-windows-wallpaper/"><u>Turn Everyday Scenes to Dynamic Windows Wallpaper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-fix-eradicating-the-0x80246007-update-hurdle/"><u>Win11 Fix: Eradicating the 0X80246007 Update Hurdle</u></a></li>
+</ul></div>
 

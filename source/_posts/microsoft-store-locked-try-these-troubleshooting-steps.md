@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Locked? Try These Troubleshooting Steps
-date: 2025-02-08T21:39:46.911Z
-updated: 2025-02-15T23:52:06.425Z
+date: 2025-03-02T22:10:04.074Z
+updated: 2025-03-04T20:42:58.157Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
 
@@ -70,10 +66,6 @@ To repair the Microsoft Store app on Windows:
 
  If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Correct Date and Time on Your PC
 
  Apps like Microsoft Store rely on your PC's date and time to establish a secure server connection. If your PC is set to an incorrect date or time, you might have trouble signing into the Microsoft Store. Instead of manually correcting the date and time, you can configure Windows to retrieve this information online. To do so, use these steps:
@@ -83,10 +75,6 @@ To repair the Microsoft Store app on Windows:
 3. Click on**Date & time** .
 4. Enable the toggle next to**Set time automatically** .  
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
@@ -102,10 +90,6 @@ To configure the Microsoft Store Install Service on Windows:
 6. Hit**Apply** followed by**OK** to save the changes.  
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Temporarily Disable Your VPN
 
  Although a VPN connection protects your privacy, issues with your VPN servers can sometimes prevent apps like Microsoft Store from working correctly. When this happens, you will likely encounter sign-in errors in the Microsoft Store. You can temporarily disable your VPN connection to see if that helps.
@@ -118,10 +102,6 @@ To configure the Microsoft Store Install Service on Windows:
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall Microsoft Store
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
@@ -133,10 +113,6 @@ To configure the Microsoft Store Install Service on Windows:
  Press**Win + I** to open the Settings app and navigate to the**Windows Update** tab. Click the**Check for updates** button in the right pane to look for pending updates. Download and install all the available updates, then try to sign in to Microsoft Store again.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Regain Access to the Microsoft Store on Windows
 
@@ -157,22 +133,20 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-stream-talent-twitter-live-broadcast-basics/"><u>[New] 2024 Approved Stream Talent Twitter Live Broadcast Basics</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-creative-fusion-of-images-for-joyful-existence-for-2024/"><u>[New] Creative Fusion of Images for Joyful Existence for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-how-to-zoom-videos-in-youtube/"><u>[New] In 2024, How to Zoom Videos in YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-online-media-crafter/"><u>[Updated] 2024 Approved Online Media Crafter</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prime-mp4-conversion-for-seamless-facebook-sharing/"><u>[Updated] In 2024, Prime MP4 Conversion for Seamless Facebook Sharing</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-these-top-8-cost-free-roku-streaming-options-for-a-premium-viewing-experience/"><u>Explore These Top 8 Cost-Free Roku Streaming Options for a Premium Viewing Experience!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-enigma-of-error-0x0000004e-in-win11/"><u>Fixing the Enigma of Error 0X0000004E in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-most-common-anydesk-failures/"><u>Fixing Windows' Most Common AnyDesk Failures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuito-conversor-de-arquivos-video-m4v-on-line-pela-movavi/"><u>Gratuito: Conversor De Arquivos Vídeo M4V On-Line Pela Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-tips-operating-the-toolbar-in-mspcm-win11/"><u>Key Tips: Operating the Toolbar in MSPCM Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-inaccessible-delete-switch-in-windows-11-pins/"><u>Overcoming Inaccessible Delete Switch in Windows 11 PINs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-seamless-operation-of-ps-windows-version/"><u>Restoring Seamless Operation of PS Windows Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-workday-top-9-motivations-to-switch-to-windows-outlook/"><u>Transform Your Workday: Top 9 Motivations to Switch to Windows' Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-greyed-out-pin-deletion-command-on-pc/"><u>Unlocking Greyed-Out Pin Deletion Command on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-health-5-key-steps-for-device-status-tracking/"><u>Windows 11 Health: 5 Key Steps for Device Status Tracking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-reinstate-disappearing-watch-thumbnail/"><u>[Updated] In 2024, Reinstate Disappearing Watch Thumbnail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap-for-2024/"><u>Avoid Blur and Clarity Issues Zooming Techniques with Videoleap for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comment-activer-le-menu-de-restauration-dans-les-options-avancees-de-windows-10/"><u>Comment Activer Le Menu De Restauration Dans Les Options Avancées De Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elite-weather-solutions-for-windows-enthusiasts/"><u>Elite Weather Solutions for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-lan-gaming-disruptions-a-windows-mc-guide/"><u>Fixing LAN Gaming Disruptions: A Windows MC Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-and-use-google-play-in-w11-os/"><u>How to Install and Use Google Play in W11 OS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-musicality-in-whatsapp-expressions/"><u>In 2024, Musicality in WhatsApp Expressions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation/"><u>In 2024, The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/it-experts-face-burnout-yet-possibilities-for-recovery-abound-insights-from-zdnet/"><u>IT Experts Face Burnout Yet Possibilities for Recovery Abound - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reassigning-win11s-network-identities/"><u>Reassigning Win11's Network Identities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-function-for-non-functional-win11-codes/"><u>Regaining Function for Non-Functional Win11 Codes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-tackle-the-notorious-ghost-runner-bugs-on-pcs-running-windows-ebx/"><u>Step-by-Step Fixes to Tackle the Notorious 'Ghost Runner' Bugs on PCs Running Windows Ebx</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-blueprint-to-decipher-windowsstore-access-code/"><u>The Blueprint to Decipher WindowsStore Access Code</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6s-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restart-diagnostics-policy-service/"><u>Troubleshooting Guide: Restart Diagnostics Policy Service</u></a></li>
 </ul></div>
 

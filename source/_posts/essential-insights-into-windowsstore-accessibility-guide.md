@@ -1,7 +1,7 @@
 ---
 title: Essential Insights Into WindowsStore Accessibility Guide
-date: 2024-08-16T01:24:12.150Z
-updated: 2024-08-17T01:24:12.150Z
+date: 2025-03-03T16:21:00.672Z
+updated: 2025-03-04T18:31:26.139Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  There are many ways to access the WindowsApps folder and bypass the protection to gain access to the necessary files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1\. How to Access WindowsApps via File Explorer
 
  You can easily find the WindowsApps folder in the Windows File Explorer by unhiding the respective folder first. However, to access the folder and make changes to the files—you need to gain some extra rights by changing the ownership.
@@ -64,25 +61,16 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 1. Select the **WindowsApps** folder and right-click on it.
 2. Once the context menu appears, select **Properties** from the list. You can also use a quick shortcut to open the folder properties, i.e., **Alt + Enter**.  
 ![WindowsApps Properties Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Properties-Option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Once done, click the **OK** button on the next pop-up.
 
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
@@ -91,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
 
  The File Explorer-based method is pretty complicated for a newbie. Use PowerShell to complete your job if you're looking for an easy-to-go method. Using Windows PowerShell is a pretty straightforward and automated way of doing the same thing.
@@ -111,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 `takeown /f &ldquo;C:\Program Files\WindowsApps&rdquo; /r`
 
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
 
@@ -130,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 1. Download the [Take Ownership registry](https://www.majorgeeks.com/files/details/take%5Ffull%5Fownership%5Fof%5Ffiles%5Ffolders%5Fregistry%5Fhack.html) file.
 2. Extract the zip and open the **Add Take Ownership to Context menu** registry file.  
 ![Take Ownership Registry File In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. On the next screen, click **Yes** to add it to the registry.
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
 5. Select the **WindowsApps** folder and right-click on it.
@@ -142,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
  Using one of the provided methods, you should now be able to view the hidden files and folders inside the WindowsApps folder. Now that you know everything about it, you can easily make changes to the UWP packages that are safe.
@@ -156,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -165,5 +138,19 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-avoiding-common-mistakes-in-macos-mixer-streaming/"><u>[New] Avoiding Common Mistakes in MacOS Mixer Streaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-fast-lane-to-sharing-playlists-online/"><u>[Updated] 2024 Approved The Fast Lane to Sharing Playlists Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cheapest-entry-level-4k-systems/"><u>2024 Approved Cheapest Entry-Level 4K Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>2024 Approved Unveiling Prime HDR Cameras A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-tutorial-installing-latest-webcam-software-for-windows-11-users/"><u>Comprehensive Tutorial: Installing Latest Webcam Software for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-making-slideshows-with-movavi-on-macos-systems-no-iwork-required/"><u>Easy Steps for Making Slideshows with Movavi on macOS Systems (No iWork Required)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/experts-choice-the-best-windows-pc-screen-recorders-for-2024/"><u>Expert's Choice The Best Windows PC Screen Recorders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-aac-to-mp3-converter-easy-audio-format-transformation/"><u>Movavi AAC to MP3 Converter - Easy Audio Format Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-mpe-m4a-mkv/"><u>Movavi MPE M4A 투 MKV 비즈니스 시작 무료 온라인 변환기</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-konvertieprogramma-van-af-naar-wav-zonder-ongelders-professioneel-aanpakken-met-movavi/"><u>Online Konvertieprogramma Van AF Naar WAV Zonder Ongelders - Professioneel Aanpakken Met Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overcoming-technical-hurdles-in-iphone-xs-facial-detection/"><u>Overcoming Technical Hurdles in iPhone X's Facial Detection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-notetaker-tablets-of-2024-comprehensive-reviews-and-comparisons-zdnet/"><u>Top Notetaker Tablets of 2024 - Comprehensive Reviews & Comparisons | ZDNet</u></a></li>
+</ul></div>
 

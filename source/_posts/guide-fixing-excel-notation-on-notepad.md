@@ -1,7 +1,7 @@
 ---
 title: "Guide: Fixing Excel Notation on Notepad"
-date: 2024-08-16T01:24:16.297Z
-updated: 2024-08-17T01:24:16.297Z
+date: 2025-02-28T19:36:40.953Z
+updated: 2025-03-04T22:43:56.813Z
 tags:
   - windows10
   - windows11
@@ -44,22 +44,12 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 2. Choose **Apps** from the left pane and then click on **Default apps**.
 3. In the following window, type the extension name of the targeted file under "Set a default for a file type or link type".  
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Finally, click on the **OK** button and close the Settings app.
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Check the File Extension Type
 
  The system might also be opening the file in Notepad because the file extension type is not supported by Excel.
@@ -79,17 +69,11 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 2. Edit the file name to remove any incorrect or extra characters in the extension.
 3. Enter the correct file extension after the file name, separated by a dot.  
 ![Rename the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-file-extension.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Press **Enter** to save the changes.
 5. Click **Yes** in the User Account Control prompt to proceed.
 
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use an Excel Repair Tool (if Applicable)
 
  In case you are unable to open files with Excel and are presented with an error whenever you attempt to do so, the file might be corrupted or damaged.
@@ -104,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open and Use Excel Files Properly on Windows
 
  It is not uncommon for users to encounter issues while trying to use Excel but fortunately, most of these problems are easy to fix. Hopefully, the solutions we have listed above will help you access the targeted files with Excel in no time.
@@ -115,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -124,5 +103,18 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-optimal-livestream-capture-options-for-video-artists/"><u>[New] 2024 Approved Optimal Livestream Capture Options for Video Artists</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransforming-youtube-footage-the-essentials-of-wm-maker-use-for-2024/"><u>[New] Transforming YouTube Footage The Essentials of WM Maker Use for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-archival-artwork-creative-commons-haven/"><u>[Updated] Archival Artwork Creative Commons Haven</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-the-myth-chatgpt-windows-extensions-credibility/"><u>Debunking the Myth: ChatGPT Windows Extension's Credibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-comparison-of-leading-vob-video-players-and-best-picks-for-high-definition-viewing/"><u>Expert Comparison of Leading VOB Video Players & Best Picks for High Definition Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-easily-transform-mp3-audio-to-aiff-file-type-online-at-no-cost-movavis-solution/"><u>How to Easily Transform MP3 Audio to AIFF File Type Online at No Cost: Movavi's Solution</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-starks-serenade-where-to-find-your-game-of-thrones-ringtones/"><u>In 2024, Stark's Serenade Where to Find Your Game of Thrones Ringtones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/leverage-youtube-on-instagram-stories-for-maximum-engagement-for-2024/"><u>Leverage YouTube on Instagram Stories for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-15-best-presentation-tools-and-apps-for-crafting-stunning-windows-11-slides/"><u>Top 15 Best Presentation Tools & Apps for Crafting Stunning Windows 11 Slides</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-solutions-resolving-issues-with-utorrents-connection-and-download-problems/"><u>Troubleshooting Solutions: Resolving Issues with uTorrent's Connection and Download Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webm-mov/"><u>Webmへの変換無料 - MOVファイルを簡単に変更してください</u></a></li>
+</ul></div>
 

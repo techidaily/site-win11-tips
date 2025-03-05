@@ -1,7 +1,7 @@
 ---
 title: "The Practical Playbook: Engaging & Exiting Focus Mode on Windows Terminal"
-date: 2025-02-11T02:23:38.757Z
-updated: 2025-02-16T03:31:36.418Z
+date: 2025-02-27T03:05:06.958Z
+updated: 2025-03-04T17:54:28.249Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use the Run Command
 
  You can also enter Focus Mode in Windows Terminal using the Run command. This is a great way to quickly switch between modes without adjusting the settings. Here's how to do it:
@@ -61,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 ![Use the Command Palette to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-the-command-palette-to-enable-focus-mode.jpg)
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
 
@@ -81,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 2. Select the**Actions** tab in the left pane, then click the**Add new** button.  
 ![Create a Shortcut Key to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-a-shortcut-key-to-enable-focus-mode.jpg)
 3. Next, scroll down and select**Toggle focus mode** from the option list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
 5. Finally, click**Save** to apply the changes and close the Settings window.
@@ -100,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 wt.exe /focus
 
  This will open the Windows Terminal in Focus Mode, with all tabs and title bars hidden. To switch back to normal mode, press**Ctrl + Shift + P** and select Toggle focus mode from the Command Palette.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switch to the Windows Terminal Focus Mode Quickly on Windows
 
@@ -124,16 +104,20 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-convenient-ways-to-merge-igtv-and-insta-stories/"><u>[Updated] In 2024, Convenient Ways to Merge IGTV & Insta Stories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-secrets-of-finding-exclusive-youtube-design-archives/"><u>[Updated] In 2024, Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-multitask-management-cascade-windows-with-alt-tab/"><u>Efficient Multitask Management: Cascade Windows with Alt-Tab</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-redmi-12-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Redmi 12.</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unlock-higher-views-basic-youtube-seo-explained/"><u>In 2024, Unlock Higher Views Basic YouTube SEO Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-with-finesse-your-windows-11-laptops-touch-settings/"><u>Navigate with Finesse: Your Windows 11 Laptop's Touch Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-6-best-video-converters-for-windows/"><u>The 6 Best Video Converters for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-enhance-slow-execution-of-excel-workbooks-on-windows/"><u>Tips to Enhance Slow Execution of Excel Workbooks on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-app-setup-utilizing-winstall-in-the-windows-11-landscape/"><u>Transforming App Setup: Utilizing Winstall in the Windows 11 Landscape</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/wie-man-mehrere-vmdk-disk-images-sicher-zu-einem-einzigen-image-zusammenfuhrt/"><u>Wie Man Mehrere VMDK-Disk-Images Sicher Zu Einem Einzigen Image Zusammenführt</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-the-monetization-framework-of-tseries-via-youtube/"><u>[New] Exploring the Monetization Framework of TSeries via YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-listings-the-leading-tv-streaming-houses/"><u>[Updated] Essential Listings The Leading TV Streaming Houses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>2024 Approved Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/design-a-unique-workspace-saving-windows-spotlight-images-as-wallpapers/"><u>Design a Unique Workspace: Saving Window's Spotlight Images as Wallpapers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-file-format-shifting-in-windows/"><u>Enabling Seamless File Format Shifting in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-m34-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy M34 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-s23-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy S23 FRP Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-artificial-intelligence-in-browsing-the-ultimate-list-of-etop-7-chatgpt-extensions-for-chrome/"><u>Master Artificial Intelligence in Browsing: The Ultimate List of eTop 7 ChatGPT Extensions for Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-energy-saving-on-your-laptop/"><u>Mastering the Art of Energy Saving on Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-access-issues-to-roblox-with-windows-configurations/"><u>Overcoming Access Issues to Roblox with Windows Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cure-for-warcraft-update-freeze/"><u>Quick Cure for Warcraft Update Freeze</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-integrating-airpods-into-your-macbook-air-experience/"><u>Seamlessly Integrating AirPods Into Your MacBook Air Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplifying-your-inbox-a-comprehvew-on-how-to-categorize-messages-using-gmail-labels/"><u>Simplifying Your Inbox: A Comprehvew on How to Categorize Messages Using Gmail Labels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timely-techniques-executing-ping-tasks-in-windows/"><u>Timely Techniques: Executing Ping Tasks in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-endless-file-explorer-opens/"><u>Troubleshooting Windows: Endless File Explorer Opens</u></a></li>
 </ul></div>
 

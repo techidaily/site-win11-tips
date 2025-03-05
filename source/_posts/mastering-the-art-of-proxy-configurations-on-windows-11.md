@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Proxy Configurations on Windows 11
-date: 2024-08-16T01:26:26.134Z
-updated: 2024-08-17T01:26:26.134Z
+date: 2025-03-03T22:04:34.525Z
+updated: 2025-03-05T01:58:39.682Z
 tags:
   - windows10
   - windows11
@@ -57,34 +57,14 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 1. Press **Win** key to open the Start menu, type **Internet Options** in the search bar and press **Enter**.
 2. Switch to the **Connections** tab and click **LAN settings**.  
 ![Proxy server section in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-server-section.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  You'll get the details of your proxy server in the **Proxy Server** section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Check Your Proxy Server Settings Using Different Browsers
 
  You also use your browser to view your proxy server settings. To check in Google Chrome, type **chrome://net-internals/#proxy** in the address bar and press **Enter**.
 
 ![Proxy checking command in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-checking-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  In Microsoft Edge, type **edge: //net-internals/#proxy** and hit **Enter**.
 
@@ -94,11 +74,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
  A **Connection Settings** window will crop up where you can view and configure the proxy server settings.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### 4\. Check Your Proxy Server Settings Using Command-Line Tools
 
  Command-line tools such as Command Prompt and Windows PowerShell can also come in handy in viewing your proxy server details. Here's how to check it using Command Prompt:
@@ -108,18 +83,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 `netsh.exe winhttp show proxy`
 
 ![Command Prompt with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  To check your proxy server settings using PowerShell, launch Windows PowerShell as an administrator (see how to [run Windows PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/)), type the following command, and hit **Enter**.
 
 `Get-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' | findstr ProxyServer`
 
 ![PowerShell window with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  PowerShell will display the proxy server details in the result.
 
@@ -129,9 +98,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you face connectivity issues when updating Windows or using Microsoft Store or other UWP apps, try resetting the WinHTTP proxy. Here are the methods to do that.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 1\. Reset the WinHTTP Proxy Settings Using Command Prompt
 
  To reset the WinHTTP proxy using Command Prompt, launch Command Prompt as an administrator and execute the following command.
@@ -151,9 +117,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Check the **Automatically detect settings** box.
 4. Uncheck the **Use a proxy server for your LAN (These settings will not apply to dial-up or the VPN connection)** box. Then, click **OK** to save the changes.  
 ![Automatically detect settings box in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/automatically-detect-settings-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
  You've successfully reset the WinINET proxy.
 
@@ -163,10 +126,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Whether you want to troubleshoot an internet-related problem or simply want to confirm your connection to a proxy server, you can quickly check your proxy server settings using the above methods.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: Does Windows 11 Have a Proxy Server?
@@ -177,14 +136,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Whether to enable or disable your proxy server depends on how you want to access the internet. If you want to route your internet data via a proxy server, you should keep the option enabled on your PC. If you don't want to route your internet traffic, you can [turn off your proxy server](https://www.makeuseof.com/windows-11-disable-proxy/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Q: Are Proxy Servers Safe?
 
  There are both good as well as bad [proxy servers out there](https://www.makeuseof.com/tag/best-free-online-proxy-server/). As long as you get your proxy server from a trusted company, your data should be safe with it. You shouldn't trust any random proxy server on the web.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -193,5 +147,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-multimedia-split-screen-experience-with-sierra-os/"><u>[New] Mastering the Multimedia Split-Screen Experience with Sierra OS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-burning-movies-to-mac-dvds/"><u>[Updated] In 2024, Step-by-Step Burning Movies to Mac DVDs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-correcting-windows-11s-zoom-failures/"><u>Deciphering and Correcting Windows 11'S Zoom Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-tweak-your-mailcalendar-in-windows-11/"><u>Easy Steps to Tweak Your Mail/Calendar in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-visuals-tips-for-shooting-and-editing-slow-motion-content-on-instagram/"><u>Enhancing Visuals Tips for Shooting and Editing Slow Motion Content on Instagram</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-search-people-on-facebook-quickly-2-ways-included/"><u>How to Search People on Facebook Quickly (2 Ways Included)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-flip-5-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy Z Flip 5 Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-kali-linux-to-your-windows-environment/"><u>Introducing Kali Linux to Your Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masking-language-display-in-windows-11-status-ui/"><u>Masking Language Display in Windows 11 Status UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-repair-top-13-approaches-to-revive-windows/"><u>Mastering PC Repair: Top 13 Approaches to Revive Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-missing-entry-issue-in-windows-os/"><u>Mending the Missing Entry Issue in Windows OS</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-power-of-ai-thumbnail-generators/"><u>New Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-missing-bluetooth-on-windows-device-manager/"><u>Remedying Missing Bluetooth on Windows Device Manager</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-burning-data-onto-a-disc-using-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Burning Data Onto a Disc Using Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-unblocking-a-prohibited-app-in-windows-os/"><u>Tips for Unblocking a Prohibited App in Windows OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-internet-experience-with-the-netgear-nighthawk-rax80-a-review-of-superior-speeds-in-a-striking-package/"><u>Transform Your Internet Experience with the Netgear Nighthawk RAX80 - A Review of Superior Speeds in a Striking Package</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-steam-icons-in-desktop/"><u>Troubleshooting Missing Steam Icons in Desktop</u></a></li>
+</ul></div>
 

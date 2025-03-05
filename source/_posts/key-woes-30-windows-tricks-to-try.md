@@ -1,7 +1,7 @@
 ---
 title: Key Woes? 30 Windows Tricks to Try
-date: 2025-02-10T00:52:16.444Z
-updated: 2025-02-16T03:03:13.685Z
+date: 2025-03-01T16:36:19.151Z
+updated: 2025-03-04T22:13:42.448Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
 
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Hardware and Devices Troubleshooter
 
@@ -66,10 +62,6 @@ msdt.exe -id DeviceDiagnostic
 
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update the Keyboard Driver
 
  Another possible cause of the arrow keys not working problem is outdated or corrupted drivers. To make sure that this isn’t causing the issue, you should update the keyboard drivers. Here's how to do it.
@@ -81,15 +73,7 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
 
@@ -99,10 +83,6 @@ To reinstall the keyboard driver, follow these steps:
 2. When a popup menu appears, click**Uninstall** to confirm.
 
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Arrows on the Keyboard Are Now Working
 
@@ -123,22 +103,20 @@ To reinstall the keyboard driver, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-from-vast-views-to-virtual-visibility-sharing-immersive-content-online-for-2024/"><u>[New] From Vast Views to Virtual Visibility Sharing Immersive Content Online for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unleashing-shareability-secrets-of-trending-on-fb/"><u>[New] Unleashing Shareability Secrets of Trending on Fb</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-eradicated-muted-video-entries-shorts/"><u>[Updated] 2024 Approved Eradicated Muted Video Entries (Shorts)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-innovate-in-note-taking-with-mematic-platform/"><u>[Updated] Innovate in Note-Taking with Mematic Platform</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-steady-yourself-against-oculus-nausea-for-2024/"><u>[Updated] Steady Yourself Against Oculus Nausea for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-to-pc-gaming-ps3-controller-without-cords/"><u>Direct-to-PC Gaming: PS3 Controller without Cords</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-absence-of-key-dll-mfc71u-in-os/"><u>How to Reinstate: Absence of Key DLL – Mfc71u in OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-14-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi 14 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mkv-to-mp4-file-shift-in-windows-environment/"><u>Mastering MKV to MP4 File Shift in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fn-key-configuration-for-windows-os/"><u>Mastering the Art of FN Key Configuration for Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-unreachable-device-error-in-windows/"><u>Navigating Through Unreachable Device Error in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quick-steps-to-access-high-rate-youtube-likes/"><u>Quick Steps to Access High-Rate YouTube Likes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-boot-your-windows-11-to-fix-anydesk/"><u>Re-Boot Your Windows 11 to Fix AnyDesk</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-windows-hello-fingerprint-login-on-pc/"><u>Setting Up Windows Hello Fingerprint Login on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shutting-down-defender-firewall-in-windows-11-easily/"><u>Shutting Down Defender Firewall in Windows 11 Easily</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/troubleshooting-guide-why-isnt-my-headset-mic-working/"><u>Troubleshooting Guide: Why Isn't My Headset Mic Working?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/understanding-camera-shake-in-photographyvideo/"><u>Understanding Camera Shake in Photography/Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-snap-share-and-save-on-instagram/"><u>[New] Snap, Share, and Save on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-personalized-and-no-cost-ending-music-samples-available/"><u>[Updated] Personalized & No-Cost Ending Music Samples Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-easy-ways-to-fix-steam-when-it-wont-open/"><u>8 Easy Ways to Fix Steam When It Won't Open</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-windows-registry-tweaks-guide/"><u>Command Prompt: Windows Registry Tweaks Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-e-learning-hubs-an-alternate-to-udemys-world-for-2024/"><u>Elite E-Learning Hubs An Alternate to Udemy's World for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-functionality-context-menu-for-swift-software-removal/"><u>Enhancing System Functionality: Context Menu for Swift Software Removal</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-switch-controllers-the-leaderboard-of-2024/"><u>Excellent Switch Controllers: The Leaderboard of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-update-error-0x8024800c/"><u>How to Fix Windows Update Error 0X8024800C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-pct-a-windows-fixers-journey/"><u>Navigating PCT: A Windows Fixer's Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-entertainment-cable-vs-streaming-explained/"><u>Navigating the World of Entertainment: Cable Vs. Streaming Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-steam-service-tackling-errors-on-windows-11/"><u>Securing Steam Service: Tackling Errors on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-command-line-navigation-with-netstat-on-win11/"><u>Step-by-Step: Command Line Navigation with Netstat on Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-fold-anticipated-features-pricing-launch-timeline-and-latest-buzz/"><u>Upcoming Google Pixel Fold - Anticipated Features, Pricing, Launch Timeline & Latest Buzz</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-filing-excellence-ultimate-list-max-156/"><u>Windows Filing Excellence: Ultimate List (Max 156)</u></a></li>
 </ul></div>
 

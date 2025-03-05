@@ -1,7 +1,7 @@
 ---
 title: Conquer Win11's Sticky Notes with Ease
-date: 2024-08-16T01:25:02.258Z
-updated: 2024-08-17T01:25:02.258Z
+date: 2025-02-27T22:21:10.683Z
+updated: 2025-03-04T17:39:44.702Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
  Now that you know what a sticky note is, let's see how to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open Sticky Notes via Windows Search
 
  It's likely that you have used the search function on Windows to find a file or launch an application. But did you know that Sticky Notes can also be opened using Windows Search? Here's how to do this:
@@ -39,9 +36,6 @@ To open Sticky Notes using the Windows Search tool, do the following:
 
 1. Press**Win + Q** on your keyboard to open the search tool. See [how to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) for more methods.  
 ![Open Sticky Notes Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Windows-Search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 2. Then type "Sticky Notes" into the search bar.
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
 
@@ -57,14 +51,8 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
 1. Click on the**Start** button and then select**All apps** from the menu in the upper right corner.  
 ![Open Sticky Notes Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Run-Command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. Scroll down until you see**Sticky Notes** , then click to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
 
  If you're a frequent user of the Sticky Notes application, you'll be glad to know that there's an even easier way to access it in Windows 11\. All you need to do is create a [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . Here's how:
@@ -84,36 +72,18 @@ To open Sticky Notes from the Start Menu, follow these steps:
 1. Click on**Start** and type "Sticky Notes."
 2. Right-click on Sticky Notes and select**Pin to taskbar** .  
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can access your sticky notes right from the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easy Access to Sticky Notes
 
  A Sticky Notes is a great way to keep track of things you need to do or remember. With its easy-to-use features and ability to be placed anywhere on your computer screen, it can help you stay productive. If you are looking for a way to keep your thoughts organized, try using this application on Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,8 +92,24 @@ Now you can access your sticky notes right from the taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-vsdcs-potential-and-top-alternatives/"><u>[Updated] In 2024, Unveiling VSDC’s Potential & Top Alternatives</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaotic-ai-could-chatgpt-run-rampant/"><u>Chaotic AI: Could ChatGPT Run Rampant?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-convertir-un-gif-a-mpeg-sin-costo-alguno-con-movavi-online/"><u>Cómo Convertir Un GIF a MPEG Sin Costo Alguno Con Movavi Online</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-11-webcam-problem-a00f4289-expedition/"><u>Eradicating Windows 11 Webcam Problem: A00F4289 Expedition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-v30twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme V30Twith/without a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hemen-satin-alinan-movavi-multimedia-yazilimi-seo-istekleriye-yanit/"><u>Hemen Satın Alınan Movavi Multimedia Yazılımı - SEO İstekleriye Yanıt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-free-online-tool-for-converting-to-3gpp-movmpeg-4-without-charge/"><u>Movavi's Free Online Tool for Converting to 3GPP MOV/MPEG-4 without Charge!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-apple-pages-how-to-effortlessly-open-pages-docs-on-your-personal-computer/"><u>Navigating Through Apple Pages: How to Effortlessly Open Pages Docs on Your Personal Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimice-sus-contenidos-para-youtube-un-tutorial-sobre-edicion-de-video-con-la-herramienta-mas-poderosa-movavi-video-editor/"><u>Optimice Sus Contenidos Para YouTube: Un Tutorial Sobre Edición De Vídeo Con La Herramienta Más Poderosa, Movavi Video Editor</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-edge-40-neo-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Edge 40 Neo Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-tus-ideas-en-obra-maestra-7-tecnicas-de-grabacion-de-audio-interno-para-usuarios-de-mac-y-apps-de-movavi/"><u>Transforma Tus Ideas en Obra Maestra: 7 Técnicas De Grabación De Audio Interno Para Usuarios De Mac Y Apps De Movavi</u></a></li>
+<li><a href="https://win-studio.techidaily.com/uncover-the-reasons-behind-your-computers-memory-issues-expert-insights-from-yl-computing/"><u>Uncover the Reasons Behind Your Computer's Memory Issues: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zatisteni-dvdu-s-prvnimi-programy-bezplatne-pro-windows-top-6-recomendacnich-verzech/"><u>Zátištění DVDů S Prvními Programy Bezplatné Pro Windows: Top 6 Recomendačních Verzech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alhfth-alamn-osryaa-kmaa-alfydyo-bmoafka-movavi-tgza-fada-90/"><u>الحفظ الآمن وسريع: قمع الفيديو بموافقة Movavi - تجزئة فائدة 90٪!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jpeg-arw/"><u>오프라인 안내: JPEG파일의 무료 ARW 변환을 위한 가이드</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win + Print Problem? Here's Your Quick Windows Fix Guide.
-date: 2024-08-16T01:25:59.252Z
-updated: 2024-08-17T01:25:59.252Z
+date: 2025-02-27T22:40:11.055Z
+updated: 2025-03-05T02:52:16.575Z
 tags:
   - windows10
   - windows11
@@ -33,22 +33,13 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
  To do that, press **Win** \+ **S** to bring up Windows Search, type **game mode settings** in the text box, and then click on **Game Mode settings** when it appears in the results.
 
 ![Game Mode settings in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-mode-settings-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  If the **Game Mode** toggle is **On**, click on it to set it to the **Off** position.
 
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now, try the **Win + P** shortcut again to see if the display switch options will show up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Make Sure the Action Center Is Working
 
  If the Action Center (Quick Settings on Windows 11) isn't working, it can cause the **Win + P** shortcut to not work. Try clicking on the Action Center and see if it will come up. If it doesn't, you can learn [how to fix the Action Center](https://www.makeuseof.com/windows-11-action-center-not-opening/)[when it is not opening](http://www.makeuseof.com/windows-11-action-center-not-opening/).
@@ -68,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
  To do that, right-click an empty part of your Desktop and select **New > Shortcut**.
 
 ![The New and Shortcut options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/new-shortcut-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  The table below shows the locations of the various shortcuts for the display options:
 
@@ -84,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
  Depending on the option you want to use, enter the appropriate shortcut location in the text box of the Create Shortcut wizard and click **Next**.
 
 ![entering the shortcut path for display switch in the Create Shortcut wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-shortcut-display-switch-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  Give the display switch shortcut a name and click **Finish**.
 
@@ -94,16 +79,11 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  You will find the display switch shortcut on the desktop, and when you double-click it, it will switch to the desired display option. You can create display switches for each option if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Win + P Working Again on Windows
 
  When you want to switch displays on Windows, the **Win + P** shortcut comes in handy. If it's not working, you can try the fixes above to get it to work. And if nothing helps, try creating a display switch shortcut as we've shown you.
 
  If you don't want to use the display switch shortcut, and you're sure there's nothing wrong with your keyboard, you can try the nuclear option: resetting your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,5 +92,26 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-download-youtube-playlists-without-hassle-our-guide-for-2024/"><u>[New] Download YouTube Playlists Without Hassle - Our Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro-for-2024/"><u>[Updated] Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-complete-review-of-razer-video-streaming-device/"><u>2024 Approved Complete Review of Razer Video Streaming Device</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728492531195-iphone/"><u>解決方法：當 iPhone 進水後，資料能否被拯救？深入了解技巧</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviflacaac/"><u>如何使用MOVAVI將FLAC格式自由轉換成AAC - 線上無縫服務</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pbmpngmovavi/"><u>移動魷魚(PBM)成PNG便攜轉換器：使用Movavi免費網上服務 - 高效變更影像格式</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/archivage-des-films-sur-vhs-une-solution-digitale-passionnelle-chez-movavi/"><u>Archivage Des Films Sur VHS : Une Solution Digitale Passionnelle Chez Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-tv-streaming-services-ranked-for-a-stellar-2024-viewing-experience/"><u>Best TV Streaming Services Ranked for a Stellar 2024 Viewing Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-convertir-votre-oma-en-une-version-en-ligne-gratuite-avec-movavi-les-etapes-cles/"><u>Comment Convertir Votre OMA en Une Version en Ligne Gratuite Avec Movavi : Les Étapes Clés</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-a-sonic-whatsapp-update/"><u>Craft a Sonic WhatsApp Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effektieve-videoclips-verkorte-nieuwaardigheid-experimenteer-met-movavis-sterke-verslenginstrumente/"><u>Effektieve Videoclips Verkorte Nieuwaardigheid | Experimenteer Met Movavi's Sterke Verslenginstrumente</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-malfunctioning-corsair-audio-device-troubleshooting-tips/"><u>Fixing Your Malfunctioning Corsair Audio Device: Troubleshooting Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gebruikersvrijet-trp-in-mp4-konvertiering-onafhankelijk-van-fysieke-materie-movavi/"><u>Gebruikersvrijet TRP-In MP4 Konvertiering Onafhankelijk Van Fysieke Materie - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>In 2024, Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-video-converter-italiano-per-pc-e-mac-installazione-gratuita-con-codice-attivazione/"><u>Movavi Video Converter Italiano per PC E Mac - Installazione Gratuita Con Codice Attivazione</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ntsc-vs-pal-explained-how-to-choose-the-right-video-format-for-your-needs/"><u>NTSC Vs. PAL Explained: How to Choose the Right Video Format for Your Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-de-archivos-mpeg-a-aiff-tecnicas-y-consejos-con-movavi/"><u>Transformación Gratuita De Archivos MPEG a AIFF: Técnicas Y Consejos Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tips-for-iphone-data-protection-seamless-backup-strategies-with-icloud-and-macos-features/"><u>Ultimate Tips for iPhone Data Protection: Seamless Backup Strategies with iCloud & macOS Features</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-g24-power-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola G24 Power Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

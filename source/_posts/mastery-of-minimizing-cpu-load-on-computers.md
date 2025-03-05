@@ -1,7 +1,7 @@
 ---
 title: Mastery of Minimizing CPU Load on Computers
-date: 2024-08-16T01:26:27.173Z
-updated: 2024-08-17T01:26:27.173Z
+date: 2025-03-02T22:16:51.464Z
+updated: 2025-03-04T20:46:08.765Z
 tags:
   - windows10
   - windows11
@@ -35,28 +35,15 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
  Let's look at how to fix all of these things that can affect Modern Setup Host.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## How to Fix it Modern Setup Host Causing High CPU Usage
 
  There are several things you can do to stop Modern Setup Host from causing high CPU usage, and we're going to cover several of them in this section. And if none of them work and the situation gets so bad that you can't operate your PC efficiently, you can consider [resetting your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/)[Computer](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Run an SFC or DISM Scan
 
  When your computer has corrupted, damaged, or missing system files, it can affect system components, including Modern Setup Host. This can cause these components to not function properly, leading to high CPU usage. To fix this, you can [repair or replace the affected Windows system files](https://www.makeuseof.com/windows-built-in-repair-tools/) using built-in tools like the SFC and DISM scan.
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
 
@@ -73,9 +60,6 @@ No advertising on the website.
  First, you need to stop the Windows Update service in case it is using the files in the SoftwareDistribution folder. To do that, press **Win + R** to open Windows Run. Type **services.msc** in the text box and then press the **Enter** key to open the Services window.
 
 ![services msc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/services-msc-Windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Find **Windows Update** in the list of services, right-click it, and select **Stop**.
 
@@ -84,15 +68,9 @@ No advertising on the website.
  Once the service stops, go to the SoftwareDistribution folder by [opening the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and heading to **C: > Windows > SoftwareDistribution**.
 
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Try a Clean Boot
 
  A clean boot can help you rule out third-party programs and services that could conflict with Modern Setup Host. In this mode, Windows will launch with only the essential programs and services it needs to run, allowing you to rule out the culprit. Luckily, [launching Windows in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) is easy, and the instructions are the same for both Windows 10 and 11\.
@@ -103,8 +81,6 @@ No advertising on the website.
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,5 +88,18 @@ No advertising on the website.
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>[New] 2024 Approved Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/"><u>[New] In 2024, Discover the Best Tools & Tips to Accurately Tag Your Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-these-9-counterfeit-ai-tools-how-they-might-compromise-your-personal-information/"><u>Beware of These 9 Counterfeit AI Tools: How They Might Compromise Your Personal Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enduring-techniques-for-inhibiting-windows-defender/"><u>Enduring Techniques for Inhibiting Windows Defender</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a56s-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A56s 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-talking-avatar-for-2024/"><u>New What Is Talking Avatar for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-firewall-a-step-by-step-approach/"><u>Overhauling Firewall: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-methods-reopen-closed-nvidia-control-panel-windows-11/"><u>Quick Methods: Reopen Closed Nvidia Control Panel, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-selecting-issue-on-double-click-folders/"><u>Tackling Windows' Selecting Issue on Double-Click Folders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unboxing-the-typhoon-h-yuneecs-drone-expertise/"><u>Unboxing the Typhoon H Yuneec's Drone Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-vac-denial-in-games/"><u>Understanding and Resolving VAC Denial in Games</u></a></li>
+</ul></div>
 

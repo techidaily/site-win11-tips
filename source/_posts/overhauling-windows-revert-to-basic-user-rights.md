@@ -1,7 +1,7 @@
 ---
 title: "Overhauling Windows: Revert to Basic User Rights"
-date: 2025-02-13T00:18:04.122Z
-updated: 2025-02-16T00:30:09.454Z
+date: 2025-02-27T20:49:27.256Z
+updated: 2025-03-05T02:50:08.166Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ Let's now explore them in detail.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run the Icacls Command
 
@@ -57,10 +53,6 @@ In the above command, here are the parameters explained:
 
  Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the Subinacl Tool
 
  If you're not comfortable using the command prompt, you may use the Subinacl tool. This is a command-line utility from Microsoft that can be used to reset user permissions. Here's how to do it:
@@ -70,16 +62,8 @@ In the above command, here are the parameters explained:
 ![Open the installation wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg)
 3. Click on**Next** and then accept the license agreement terms.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
 4. Next, copy and paste the following path into the Destination folder:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\Windows\System32`  
  Note: If you have installed Windows on a different drive, use that path instead.
@@ -103,10 +87,6 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 
  Once done, close any running program, and then restart your computer. Your Windows Update permissions will be reset to their default settings. These are three different methods you can use to reset the user permission settings on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restore User Permissions to Default on Windows
 
  User permissions play a crucial role in computer security. If you're experiencing user permission issues, you must reset them to their default settings. This guide helps you reset all user permissions on Windows using three different methods. You can use the ICACLS command, Secedit command, or Subinacl tool, depending on your preference.
@@ -126,20 +106,17 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-reddit-threads-ever-the-10-greatest-hits/"><u>[Updated] In 2024, Top Reddit Threads Ever The 10 Greatest Hits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-digital-art-with-free-versatile-lut-tools/"><u>[Updated] Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-0x8007251d-activation-issue-in-windows-os/"><u>Fixing the 0X8007251D Activation Issue in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-managed-settings-failures-due-to-org-policies/"><u>Fixing Windows 11: Managed Settings Failures Due to Org Policies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratis-online-converteer-mpg-naar-3gp2-met-movavi/"><u>Gratis Online Converteer MPG Naar 3GP2 Met Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restart-an-iphone-forcefully-and-switch-to-devices-recovery-environment/"><u>How to Restart an iPhone Forcefully and Switch to Device's Recovery Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-solve-apex-legends-crashes-in-win11/"><u>How to Stop and Solve Apex Legends Crashes in Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-zero-30-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Zero 30 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-the-update-comprehensive-guide-for-xp-pen-pen-tablet-device-drivers-upgrade/"><u>Master the Update: Comprehensive Guide for XP-Pen Pen Tablet Device Drivers Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/paint-your-windows-11-desk-a-simple-guide-to-drawing/"><u>Paint Your Windows 11 Desk - A Simple Guide to Drawing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/png-o-jpeg-un-confronto-dettagliato-per-la-qualita-superiore/"><u>PNG O JPEG: Un Confronto Dettagliato per La Qualità Superiore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-obsolete-heat-management-policies-in-win/"><u>Reactivating Obsolete Heat Management Policies in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-0x00709-error-on-pc/"><u>Steps to Rectify 0X00709 Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-patches-without-wi-fi/"><u>Streamlining Windows Patches Without Wi-Fi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-in-depth-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Reviews and News</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-screen-size-showdown-the-ultrawide-vs-uhd-4k-dilemma/"><u>[New] Screen Size Showdown The UltraWide Vs UHD 4K Dilemma</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-transforming-old-images-into-snaps-on-snapchat/"><u>[New] Transforming Old Images Into Snaps on Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-5-filters-elevating-submerged-cinematography/"><u>[Updated] Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-xs-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone XS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-locate-processes-with-win11-task-manager/"><u>How to Efficiently Locate Processes with Win11 Task Manager</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-captivating-videos-start-here-these-7-royalty-free-audios/"><u>In 2024, Captivating Videos Start Here These 7 Royalty-Free Audios</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-cyberlink-screen-recorder-review-and-the-best-alternative/"><u>In 2024, Cyberlink Screen Recorder Review and the Best Alternative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-configuration-of-dns-services-in-windows-11/"><u>Precision Configuration of DNS Services in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-your-keys-repair-win10-shortcuts/"><u>Regain Control of Your Keys: Repair WIN10 Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-screen-stutter-on-windows-11-systems/"><u>Resolving Screen Stutter on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shield-your-activity-turn-off-windows-tracking/"><u>Shield Your Activity: Turn Off Windows Tracking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategizing-success-the-open-door-approach/"><u>Strategizing Success The Open Door Approach</u></a></li>
 </ul></div>
 

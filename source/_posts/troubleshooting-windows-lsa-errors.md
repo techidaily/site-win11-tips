@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows LSA Errors
-date: 2024-08-16T01:24:47.525Z
-updated: 2024-08-17T01:24:47.525Z
+date: 2025-02-28T01:07:13.460Z
+updated: 2025-03-04T16:49:26.613Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,10 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 2\. Scan for Malicious Programs
 
  If restarting the computer doesn't solve the issue, check your system for malicious software. Malware infections may corrupt system files and prevent LSA protection from working.
@@ -47,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 3. On the left pane of Windows Security, click the **Virus & threat protection** tab.
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select **Full scan** and click **Scan now**.
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
@@ -74,9 +65,6 @@ Administrative Templates > System > Local Security Authority
 
  After making the above changes, restart your computer and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 4\. Tweak the Registry Editor
 
  If you're running Windows Home edition, you can tweak the Registry Editor to modify Local Security Authority protection values. The steps are pretty straightforward, but be aware that making incorrect changes to the registry can cause serious problems. To be safe, [back up the Windows Registry data](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -89,18 +77,12 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  You can also copy and paste the given path into the address bar at the top of the Registry window. Then, hit Enter to jump directly to the folder.
 5. In the right pane, double-click on **RunAsPPL** to open Edit DWORD (32-bit) Value.  
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Change the Value data from 0 to **2** and click **OK**.
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
 
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reset the Windows Security App
 
  Windows Security is an integrated antivirus program built into the Windows OS. It's responsible for scanning your system and removing malicious content. If there's something wrong with the Windows Security app, it might trigger this error. To fix the issue, reset the app and see if it helps. Here's how to do it:
@@ -128,8 +110,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -137,5 +117,22 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-ultimate-mac-dvd-authorization-handbook/"><u>[New] 2024 Approved The Ultimate Mac DVD Authorization Handbook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-a-practical-guide-elevating-your-podcast-with-an-iconic-title-for-2024/"><u>[New] A Practical Guide Elevating Your Podcast with an Iconic Title for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-adjust-your-android-images-right-here/"><u>[Updated] In 2024, Adjust Your Android Images Right Here</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximize-engagement-discover-the-8-best-timers-for-android-and-iphone-for-2024/"><u>[Updated] Maximize Engagement Discover the 8 Best Timers for Android & iPhone for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-8-converters-seamless-sub-and-srt-transition/"><u>2024 Approved Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/360-degree-cameras-vs-3d-cameras-what-are-the-differences-in-2024/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-gratuite-convertir-un-mp3-en-fichier-3g2-avec-movavi/"><u>Conversion en Ligne Gratuite: Convertir Un MP3 en Fichier 3G2 Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-video-converter-mp4-to-mp3-and-more-easy-mpg-conversions-with-movavi/"><u>Gratis Online Video Converter: MP4 to MP3 & More - Easy MPG Conversions with Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/incorporating-secondary-footage-a-filmmakers-guide/"><u>Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-5-applications-phares-pour-une-transformation-videoprofessionnelle-superieure-en-2024/"><u>Les 5 Applications Phares Pour Une Transformation Videoprofessionnelle Supérieure en 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-video-editor-suite-comprehensive-features-with-tutti-and-unlimited-plans/"><u>Movavi Video Editor Suite: Comprehensive Features with Tutti and Unlimited Plans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-archivos-webm-gratuitamente-en-gif-utilizando-servicios-en-linea-como-movavi/"><u>Transforma Archivos WebM Gratuitamente en GIF Utilizando Servicios en Línea Como Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vtuber202-cups-15-x-7-plus-134x-plus-8/"><u>VTuber之路上的秘密诀窍：如何在202 Cups = (1/5) X -7 + (1/3)(4X + 8)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-best-video-editing-tools-a-comprehensive-guide-to-top-picks/"><u>Windows 11'S Best Video Editing Tools: A Comprehensive Guide to Top Picks</u></a></li>
+</ul></div>
 

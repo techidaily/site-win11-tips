@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: How to Turn Off Defender Firewall"
-date: 2024-08-16T01:24:37.607Z
-updated: 2024-08-17T01:24:37.607Z
+date: 2025-03-01T16:10:31.426Z
+updated: 2025-03-05T03:44:03.957Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 
  To ensure maximum security while disabling your firewall, always make sure that other protective measures such as antivirus programs are running in the background. Once these have been taken care of, you can disable the firewall on your Windows 11 PC. Here's how to do this:
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. How to Disable the Firewall Using Windows Security
 
  The Windows Security program allows you to disable the firewall in Windows 11\. It is the most straightforward way to disable Microsoft Defender Firewall and you don’t need to have any additional tools or software installed. Here's how:
@@ -52,15 +49,9 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 2. In the Control Panel, select **System and Security** and then click **Windows Defender Firewall**.
 3. From the left pane, select **Turn Windows Defender Firewall on or off**.  
 ![Turn off the Firewall Through Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-through-control-panel.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then select **Turn off Windows Defender Firewall (not recommended)** for each network setting.
 5. Click **OK** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Disable the Firewall Using Command Prompt
 
  If you are comfortable using the command line, then you can also disable your firewall through the Command Prompt. Here’s how:
@@ -98,17 +89,11 @@ netsh advfirewall set allprofiles state off
  To do this, open a PowerShell window as an administrator and run the following commands:
 
 ![Turn Off the Firewall Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-via-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
  After running the above command, the firewall will be disabled for all network profiles simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 5\. How to Turn Off the Firewall Using Group Policy Editor
 
  The Group Policy Editor is a powerful system resource that can be used to manage different settings on all Windows computers. With this tool, you can disable your firewall, but it only works with Windows Professional and Enterprise. If you are using Windows Home Edition, you need to [activate the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) in order to access it.
@@ -142,21 +127,15 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
  When you have completed all the steps above, close the Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable the Firewall With Ease on Windows
 
  You may want to disable the firewall for testing, developing applications, or playing online games. However, disabling the firewall can have risks, and you should always exercise caution. In case you need to do it, this guide explains multiple ways to do it, such as via Windows Security, Control Panel, Command Prompt, and more.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,8 +144,26 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-bridging-devices-move-images-and-videos-from-pc-for-2024/"><u>[New] Bridging Devices Move Images & Videos From PC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-down-the-monetization-barriers-for-2024/"><u>[Updated] Breaking Down the Monetization Barriers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-clip-perfection-achieved-through-blended-methodologies/"><u>[Updated] In 2024, Clip Perfection Achieved Through Blended Methodologies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-immersive-play-samsung-vr-classics/"><u>[Updated] In 2024, Immersive Play Samsung VR Classics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviavimkv/"><u>「Movaviで簡単にフリーオンライン動画をAVI、MKV形式に変換」</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-win-and-mac-top-8-excellent-subtitles-converters-to-srt/"><u>2024 Approved Win & Mac Top 8 Excellent Subtitles Converters to SRT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aif-to-mp4-online-aif/"><u>AIF to MP4 : 원탁한 컴퓨터 없이 Online AIF 변환 서비스</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-mac-based-video-conversion-programs-find-download-compare-and-utilize-professional-software/"><u>Comprehensive Guide to Mac-Based Video Conversion Programs: Find, Download, Compare, and Utilize Professional Software!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-facile-et-gratuite-de-vos-fichiers-vob-au-format-flv-guide-etape-par-etape-avec-onlinevideoconverter/"><u>Conversion Facile Et Gratuite De Vos Fichiers VOB Au Format FLV – Guide Étape Par Étape Avec OnlineVideoConverter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/forge-partnerships-from-initial-contact-to-final-deal-on-youtube/"><u>Forge Partnerships From Initial Contact to Final Deal on Youtube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wmv-files-into-high-quality-flac-format-with-ease/"><u>Free Online Converter: Change WMV Files Into High-Quality FLAC Format with Ease</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-chords-to-clicks-mastering-music-on-ig-for-2024/"><u>From Chords to Clicks Mastering Music on IG for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-poco-m6-pro-4g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Poco M6 Pro 4G Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-convertidor-sin-costo-para-cambiar-mpg-a-3gp-facilmente-en-linea/"><u>Móvavi - Convertidor Sin Costo Para Cambiar MPG a 3GP Fácilmente en Línea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726219293739-movavi/"><u>Movavi의 편리한 기술: 사용자 가독성 향상을 위한 이미지 배경 제거 기술</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retouchez-votre-photographie-gratuitement-logiciels-ingredients-cles-sur-windows-et-mac/"><u>Retouchez Votre Photographie Gratuitement : Logiciels Ingrédients Clés Sur Windows Et Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-video-formats-for-free-avi-to-mov-effortless-mov-creation-using-movavi-online-tool/"><u>Transform Video Formats for Free: Avi to Mov - Effortless MOV Creation Using Movavi Online Tool</u></a></li>
+</ul></div>
 

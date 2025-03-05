@@ -1,7 +1,7 @@
 ---
 title: "Resolve Google Chrome: Windows Files Not Syncing Problem"
-date: 2024-08-16T01:24:32.242Z
-updated: 2024-08-17T01:24:32.242Z
+date: 2025-02-27T22:52:12.094Z
+updated: 2025-03-04T21:38:35.226Z
 tags:
   - windows10
   - windows11
@@ -35,15 +35,9 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  To rule out this possibility, you can try using Chrome in incognito mode, which loads the browser without any of your third-party extensions. To open an incognito window in Chrome, click the **three-dot menu** icon in the top-right corner, and select **New Incognito window**.
 
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After that, try uploading files and check if the issue occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 3\. Disable Browser Extensions
 
  If you are able to upload files without issue in an incognito window, it is likely that one of your extensions is causing the problem. To identify it, you will need to disable all of the extensions and then re-enable them one at a time.
@@ -67,15 +61,9 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 2. Use the left pane to switch to the **Performance** tab.
 3. Disable the toggle next to **Energy saver**.  
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
  After completing the above steps, see if you can upload files without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Your Antivirus
 
  Many third-party antivirus programs have web protection features that are intended to safeguard you while you browse the internet. However, these antivirus programs can sometimes be intrusive and prevent file uploads in Chrome.
@@ -83,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  To check for this possibility, you can temporarily disable your antivirus program on Windows. To do so, simply right-click on the antivirus program's taskbar icon, and select **Disable > Disable until the next restart**.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
@@ -99,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 2. Select **Help > About Google Chrome**.
 3. Wait for Chrome to download pending updates, and then click the **Relaunch** button to install them.  
 ![Install Chrome Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-chrome-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have updated Chrome, your file uploads should work as expected.
 
@@ -113,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 2. Select **Add** from the resulting menu.
 3. Choose whether you want to sign in with or without an account.  
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
 
@@ -140,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,5 +126,24 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-visionary-equipment-best-4k-cameras-for-professionals/"><u>[New] Visionary Equipment Best 4K Cameras for Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram/"><u>[Updated] In 2024, Unleash Creativity with These 4 Simple Steps to Loops on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-inshots-music-integration-techniques-for-2024/"><u>[Updated] InShot's Music Integration Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-profitable-content-creation-on-youtube-through-smart-adsense-use/"><u>[Updated] Profitable Content Creation on YouTube Through Smart AdSense Use</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/are-the-features-of-apple-tv-worth-paying-for/"><u>Are the Features of Apple TV Worth Paying For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bandicam-por-movavi-detalle-del-producto-y-precio/"><u>Bandicam Por Movavi - Detalle Del Producto Y Precio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-video-player-platforms-reviewed-from-desktops-to-smartphones-unveiled/"><u>Best Video Player Platforms Reviewed: From Desktops to Smartphones Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuite-de-conversion-en-gif-outils-video-en-ligne-moovit/"><u>Gratuité De Conversion en GIF : Outils Vidéo en Ligne - Moov.it</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-convertisseur-video-avi-en-ligne-moviwizard/"><u>Gratuito Convertisseur Vidéo AVI en Ligne - MoviWizard</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a23-5g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A23 5G Easily?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-m4a-to-swf-file-transformation-without-charge-with-movavi-software-solutions/"><u>Online M4A to SWF File Transformation without Charge with Movavi Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-video-format-change-download-movavis-user-friendly-gratis-mpgmp4-conversion-tool-online/"><u>Seamless Video Format Change: Download Movavi’s User-Friendly, Gratis MPG/MP4 Conversion Tool Online!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-user-authentication-hiccups-a-strategy-for-the-notorious-unauthrenized-error/"><u>Solving User Authentication Hiccups: A Strategy for the Notorious 'Unauthrenized' Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-game-changer-exploring-ais-role-in-transforming-the-gaming-industry/"><u>The Game Changer: Exploring AI's Role in Transforming the Gaming Industry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-grabacion-de-telefono-movil-gsm-a-formato-video-mp4-en-un-solo-click/"><u>Transforma Grabación De Teléfono Móvil GSM a Formato Video MP4 en Un Solo Click</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavim4v/"><u>ダイナミックなビデオ変換: MovaviスウィフトからM4Vへ、無償でオンライン実行可能!</u></a></li>
+</ul></div>
 

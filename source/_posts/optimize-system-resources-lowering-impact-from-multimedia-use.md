@@ -1,7 +1,7 @@
 ---
 title: "Optimize System Resources: Lowering Impact From Multimedia Use"
-date: 2025-02-10T19:12:04.513Z
-updated: 2025-02-15T21:04:00.987Z
+date: 2025-03-01T17:58:47.918Z
+updated: 2025-03-04T19:35:28.268Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Windows Update Hotfix
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
 
@@ -50,10 +42,6 @@ To install a Windows 11 update:
 ## 2\. Turn Off News and Interests
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Turn Off News and Interests on Windows 10
 
@@ -89,10 +77,6 @@ To install a Windows 11 update:
 ![turn off news and interest disabled 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled-1.jpg)
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
@@ -110,10 +94,6 @@ To disable the news feed feature using Windows Registry:
 2. Type**regedit** and click**OK** to open**Registry Editor** .  
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
@@ -141,10 +121,6 @@ To disable the news feed feature using Windows Registry:
 4. The above command will create a new**Windows Feeds** subkey and contain the value**EnableFeeds** set to disabled.
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix the News and Interests Feature's High Memory Usage on Windows
 
  Memory leakage is a common cause for the News and Interests high memory usage issue. While a hotfix is available, you'll need to disable the News and Interests widget item to resolve the problem if the issue persists.
@@ -164,20 +140,24 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exposing-effective-promotions/"><u>[New] Exposing Effective Promotions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>[New] In 2024, From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-revamp-your-tone-7-premier-vocal-modification-tools-for-2024/"><u>[New] Revamp Your Tone 7 Premier Vocal Modification Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-your-gateway-to-perfect-entries-everywhere/"><u>[Updated] 2024 Approved Your Gateway to Perfect Entries, Everywhere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-fb-content-effortless-mp4-conversion/"><u>2024 Approved Unlocking FB Content Effortless MP4 Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/core-functionality-within-vcplusplus-releases/"><u>Core Functionality Within VC++ Releases</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-in-use-errors-tips-for-managing-device-accessibility-across-multiple-software/"><u>Fixing 'HDMI in Use' Errors – Tips for Managing Device Accessibility Across Multiple Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/incorporating-update-info-into-right-click-context-menu/"><u>Incorporating Update Info Into Right-Click Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-system-support-setting-up-custom-hotkeys-for-windows-fixes/"><u>Instant System Support: Setting Up Custom Hotkeys for Windows Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-driver-installation-guide-for-windows-versions-11-and-below/"><u>Latest Logitech Brio Webcam Driver Installation Guide for Windows Versions 11 and Below</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-admin-command-challenges-in-windows/"><u>Navigating Admin Command Challenges in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-non-working-windows-alt-codes-51-characters/"><u>Navigating Non-Working Windows ALT Codes (51 Characters)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/post-update-anomalies-restoring-your-discord-on-windows/"><u>Post-Update Anomalies: Restoring Your Discord On Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-error-0x80004005-a-step-by-step-troubleshooting-guide/"><u>Unraveling Error 0X80004005 - A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-home-vs-pro-which-is-best-for-you/"><u>Windows 11 Home Vs. Pro: Which Is Best for You?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elite-list-of-mac-tech-for-live-recording/"><u>[New] Elite List of Mac Tech for Live Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unveiling-8-exceptional-mirrorless-cameras-for-vloggers/"><u>[New] In 2024, Unveiling 8 Exceptional Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-comprehensive-insights-into-polarr-photo-enhancer/"><u>[Updated] In 2024, Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-quick-click-quest-the-art-of-facebook-id-reconnaissance/"><u>2024 Approved Quick Click Quest The Art of Facebook ID Reconnaissance</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-jotting-down-made-simple-in-win11/"><u>Effortless Jotting Down Made Simple in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-voice-activation-failures-in-the-latest-windows-os/"><u>Fixing Voice Activation Failures in the Latest Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-cannot-log-onto-user-error-in-counter-strike-global-offensive/"><u>How to Overcome 'Cannot Log Onto User' Error in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-se-2020-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone SE (2020) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-streaming-experience-with-these-9-filter-power-ups/"><u>In 2024, Transform Your Streaming Experience with These 9 Filter Power-Ups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-away-from-blocked-router-configuration/"><u>Navigating Away From Blocked Router Configuration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-your-options-crucial-questions-about-smartwatches-answered/"><u>Navigating Your Options: Crucial Questions About Smartwatches Answered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-forgotten-windows-11-pin-post-corruption/"><u>Reinstating Forgotten Windows 11 PIN Post-Corruption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-systemsettingsexe-glitch-in-windows-11/"><u>Remedying SystemSettings.exe Glitch in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-initial-home-page-away-from-settings-app/"><u>Shifting Initial Home Page Away From Settings App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackle-pci-controller-loss-on-win-1011/"><u>Tackle PCI Controller Loss on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-realignment-of-window-widgets-separation-in-winos/"><u>Title: Realignment of Window Widgets' Separation in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unclickers-manual-for-win11-users-facing-issues/"><u>Unclicker's Manual for Win11 Users Facing Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-up-dormant-headsets-overcoming-no-sound-hurdles/"><u>Wake Up Dormant Headsets: Overcoming No Sound Hurdles</u></a></li>
 </ul></div>
 

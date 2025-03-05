@@ -1,7 +1,7 @@
 ---
 title: Unlocking Photo Gallery Functions on Windows PC
-date: 2024-08-16T01:23:50.236Z
-updated: 2024-08-17T01:23:50.236Z
+date: 2025-03-02T00:59:59.539Z
+updated: 2025-03-04T16:29:58.555Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  Repeat the following steps to enable the new Gallery section in File Explorer:
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Update to the Appropriate Windows Insider Build
 
  The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use [UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  You will also need ViVeTool to enable these experimental features on your system. You can [download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Enabling Gallery in Windows File Explorer
 
  Retrace the following steps to enable the Gallery section on Windows 11:
@@ -55,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
 ![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now, type the following command and press the enter key:  
 vivetool /enable /id:41040327
 6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
@@ -67,9 +58,6 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 8. Restart your computer for the changes made by Vivetool to take effect.
 9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View the Gallery in File Explorer
 
  You can access the Gallery section by launching File Explorer and clicking on the Gallery option in the left navigation pane. You will see all the images from the Pictures folder and OneDrive folder arranged by modification time (new to old). There is also a handy slider to scroll through the vast image tiles without using the mouse scroll wheel.
@@ -78,18 +66,12 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
  By default, the Gallery selection displays all the images located in the Pictures folder and OneDrive. But you can add or remove a folder from the Gallery section as well.
 
 1. To add a folder to the Gallery, go to the menu bar and click on the**Locations** option. A new pop-up window will open and list all the folders that the Gallery section is pulling images from. Click on the**Add** button.  
 ![Adding a Folder to Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adding-a-folder-to-gallery-in-windows-file-explorer.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
 3. The selected folder will appear in the list of available folders. Click on the**OK** button.
 4. File Explorer gallery will now display the images present inside the newly added folder as well.
@@ -118,8 +100,6 @@ To remove a folder from Gallery, repeat the following steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +107,18 @@ To remove a folder from Gallery, repeat the following steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/"><u>[New] The Ultimate Guide to Mac-Based Sound Capture in Audacity for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insiders-guide-to-going-live-on-instagram/"><u>[Updated] 2024 Approved The Insider's Guide to Going Live on Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discover-the-best-online-ringtone-stores-for-pixels/"><u>2024 Approved Discover the Best Online Ringtone Stores for Pixels</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/best-noise-canceling-tools-top-choices-for-clean-audio-for-2024/"><u>Best Noise-Canceling Tools Top Choices for Clean Audio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-avi-to-wmv-converter-fast-and-easy-with-movavi/"><u>Free Online AVI to WMV Converter - Fast and Easy with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-caf-files-into-high-quality-flac-format-with-ease/"><u>Free Online Conversion: Change CAF Files Into High-Quality FLAC Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-in-australie-verwijderen-van-au-naar-gg-webadres-kostenloos-bij-movavi/"><u>Gratuit Gebaseerd in Australië: Verwijderen Van .au Naar .gg Webadres - Kostenloos Bij Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-90-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor 90 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-5-logiciels-libres-les-plus-efficaces-pour-votre-lecteur-de-dvd-sous-windows-et-macos-comparedes/"><u>Les 5 Logiciels Libres Les Plus Efficaces Pour Votre Lecteur De DVD Sous Windows Et macOS Comparedes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/stand-out-on-youtube-with-these-20-top-font-choices/"><u>Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-de-conversion-avi-a-lineaire-gratuite-avec-videoproc/"><u>Techniques De Conversion AVI À Linéaire Gratuite Avec VideoProc</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings."
-date: 2024-08-16T01:26:00.264Z
-updated: 2024-08-17T01:26:00.264Z
+date: 2025-02-28T20:52:11.171Z
+updated: 2025-03-04T19:20:31.286Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
@@ -44,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 ![Updating the Generic PnP Monitor Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/updating-the-generic-pnp-monitor-driver.jpeg)
 3. After that, expand the**Display adapters** category, right-click on the drivers listed there, and click**Update driver** .  
 ![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
 
 ![Enable Display Device in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-enable-display-device-in-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  In case that doesn't work either, you should uninstall both drivers. To do that, right-click on both drivers individually and select**Delete device** . After that, reboot your device again, and Windows will reinstall them.
 
@@ -67,18 +58,12 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Repair Corrupted System Files
 
  Corrupt system files can impede many Windows features from working correctly and cause your device's brightness to freeze. So, you should rule out this possibility. Fortunately, Windows has a built-in tool—the System File Checker—to fix corrupt system files.
 
  So,[run the SFC to repair corrupt system files](https://www.makeuseof.com/system-file-checker-sfc-windows/) . Hopefully, after the scan, you can adjust your display's brightness again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Change Your Display Settings
 
  Windows allows users to set the brightness to change automatically as the lightning condition changes. Likewise, you can customize its Night Light settings, Select a Color Profile for compatible monitors, and manage other settings to enhance your display's appearance. While these settings are helpful, they often impede brightness adjustment.
@@ -98,32 +83,23 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
  You should check for and [install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to ensure that's not the case.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 8\. Perform a System Restore
 
  If your PC is fully updated and you still can't adjust its brightness, your next step is performing a system restore. While this fix is what some would call the "nuclear option" as it reverts customizations you've made since the last restore point, it will undo any changes to the system that have caused the brightness issue you're experiencing.
 
  That's why you should [create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Take the Strain Off Your Eyes
 
  Extreme brightness levels and super dim screens will give you eyestrain. Hopefully, you have solved the issue with the above fixes and can adjust the screen again to fit your need.
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,8 +108,24 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-screen-casting-on-your-phone/"><u>[New] 2024 Approved The Ultimate Guide to Screen Casting on Your Phone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-action-sequels-the-best-games-like-grand-theft-auto/"><u>2024 Approved Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-permanent-deactivation-the-ultimate-guide-to-youtube-shorts/"><u>2024 Approved Permanent Deactivation The Ultimate Guide to YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-learning-portal/"><u>学びを強化する! Movavi Learning Portal - 教育の中心であなたをサポート</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-movavi-video-converter-at-no-cost-ultimate-guide/"><u>Activate Movavi Video Converter at No Cost: Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertidor-online-libre-cambia-tu-video-en-formato-flv-al-estandar-mjpeg-con-movavi/"><u>Convertidor Online Libre: Cambia Tu Video en Formato FLV Al Estándar MJPEG Con Movavi</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/duplicating-files-across-nas-devices-with-synologys-rsync-a-dual-approach-guide/"><u>Duplicating Files Across NAS Devices with Synology's RSync: A Dual Approach Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-konverteren-van-w64-bestandsformaten-mobavxi-online-tool/"><u>Gratis Konverteren Van W64 Bestandsformaten - Mobavxi Online-Tool</u></a></li>
+<li><a href="https://article-tips.techidaily.com/marketing-layers-deconstructing-strategys-packaging-for-2024/"><u>Marketing Layers Deconstructing Strategy's Packaging for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategy-in-the-shopping-experience-for-2024/"><u>Strategy in the Shopping Experience for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-quick-fix-how-to-optimize-and-hasten-your-computers-operation/"><u>The Quick Fix: How to Optimize and Hasten Your Computer's Operation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-mais-eficientes-tecnicas-de-apagamento-vocalico-aprenda-como-desabilitar-sua-voz-online/"><u>Top 11 Mais Eficientes Técnicas De Apagamento Vocálico - Aprenda Como Desabilitar Sua Voz Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-14-best-stock-video-scenes-of-2022-free-and-premium-selections/"><u>Top 14 Best Stock Video Scenes of 2022 - Free & Premium Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-outils-de-retouche-video-pour-optimiser-la-qualite-visuelle-en-2024/"><u>Top 5 Outils De Retouche Vidéo Pour Optimiser La Qualité Visuelle en 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/typora/products/"><u>Typora's Products</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings-for-2024/"><u>Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-ai-mp4/"><u>무료 MP4 형식으로 바꾸기 - 온라인 AI MP4 변환 도구</u></a></li>
+</ul></div>
 

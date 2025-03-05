@@ -1,7 +1,7 @@
 ---
 title: Eliminating Exit Code Issues on Your PC
-date: 2025-02-11T18:39:33.870Z
-updated: 2025-02-16T02:58:26.966Z
+date: 2025-03-02T23:16:21.376Z
+updated: 2025-03-04T17:55:51.875Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,8 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 ![appdata run dialog windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-run-dialog-windows-11.jpg)
 3. Next, open the**.minecraft** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![minecraft mods folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-mods-folder-windows-file-explorer.jpg)
 4. Open the**mods** folder inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select and right-click on all the**mods** one by one and select**Delete** .
 
@@ -64,10 +56,6 @@ To repair Minecraft Launcher:
 
 ![repair minecraft launcher windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-minecraft-launcher-windows-11.jpg)
 5. Scroll down to the**Reset** section and click**Repair** . Windows will perform a quick repair and show a checkmark once the repair is complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Relaunch Minecraft Launcher and check for any improvements.
 
@@ -115,10 +103,6 @@ To change the Java executable for Minecraft:
 ![select JRE java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-jre-java-executable-browse-minecraft-launcher-windows.jpg)
 5. Click**Save** to apply the changes and relaunch Minecraft Launcher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. The caveat here is you’ll need to update the Java version number or re-add the Java executable every time you update Java.
 
 ## 5\. Reinstall Minecraft Without Deleting Saves
@@ -148,10 +132,6 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
 
  If Minecraft is still plagued by the "exit code: 1" error, here are some more general fixes you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update the Graphics Drivers
 
  Incompatible or outdated graphics drivers can cause games on Windows computers to malfunction. For a dedicated GPU, you can use AMD Radeon Software or Nvidia GeForce Experience to[install the latest graphics drivers updates on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
@@ -162,10 +142,6 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
 
 ![java runtime environment install windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtine-environment-install-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "exit code: 1" error often hints at invalid Java runtime configuration issues. You can reinstall Java to fix configuration issues fixed in the latest release.
 
 To reinstall Java Runtime Environment:
@@ -174,10 +150,6 @@ To reinstall Java Runtime Environment:
 2. Select the correct version for your Windows computer. You can opt for the Windows Online or Offline version. Also, download the 64-bit version if applicable.
 3. Run the installer and follow the on-screen instructions to complete installations.
 4. Once installed, restart your computer and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Minecraft Exit Code: 1 Error
 
@@ -200,21 +172,19 @@ To reinstall Java Runtime Environment:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>[Updated] Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-five-superior-timelapse-filmmakers/"><u>2024 Approved Five Superior Timelapse Filmmakers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/acclaimed-pioneers-premier-instragram-highlight-makers-for-2024/"><u>Acclaimed Pioneers Premier Instragram Highlight Makers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-out-clutter-celebrate-pure-win11/"><u>Clear Out Clutter: Celebrate Pure Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delay-windows-11-shutdown-dealing-with-live-applications/"><u>Delay Windows 11 Shutdown: Dealing with Live Applications</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/early-brain-adaptability-kids-language-learning-advantage/"><u>Early Brain Adaptability: Kids' Language Learning Advantage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pink-screen-repair-on-windows-os/"><u>Mastering Pink Screen Repair on Windows OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-graphics-evolution-directx-11-vs-directx-12/"><u>PC Graphics Evolution: DirectX 11 V/S DirectX 12</u></a></li>
-<li><a href="https://win-special.techidaily.com/protect-your-personal-data-uncovering-covertly-monitoring-android-apps-detected-by-security-experts/"><u>Protect Your Personal Data: Uncovering Covertly Monitoring Android Apps Detected by Security Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quickening-steam-download-speed-on-your-windows-system/"><u>Quickening Steam Download Speed on Your Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ready-for-the-future-top-laptops-of-ifa-2023/"><u>Ready for the Future? Top Laptops of IFA 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reveal-your-pcs-intel-core-gen-via-8-windows-tips/"><u>Reveal Your PC's Intel Core Gen via 8 Windows Tips</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-how-to-resolve-your-device-not-starting-post-ios-18-and-17-updates/"><u>Ultimate Guide: How to Resolve Your Device Not Starting Post-iOS 18 and 17 Updates</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-capacity-for-storing-videos-on-large-scale-drives-64128gb-for-2024/"><u>Understanding the Capacity for Storing Videos on Large-Scale Drives (64/128GB) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-cloud-storage-seamless-onedrive-plus-microsoft-login/"><u>Uniting Cloud Storage: Seamless OneDrive + Microsoft Login</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/work-life-balance-allows-employees-to-manage-their-personal-and-professional-responsibebilities-effectively-leading-to-higher-morale/"><u>Work-Life Balance Allows Employees to Manage Their Personal and Professional Responsibebilities Effectively, Leading to Higher Morale.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-superior-practices-for-mute-videography/"><u>[Updated] 2024 Approved Superior Practices for Mute Videography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-windows-and-mac-recording-tactics-finding-your-perfect-match-freepaid/"><u>[Updated] In 2024, Windows & Mac Recording Tactics - Finding Your Perfect Match (Free/Paid)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>2024 Approved Become the Brand You Want With Our Exclusive Set of FREE Graphics!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-top-rated-free-ai-tools-for-reviving-your-vintage-photographs/"><u>Best Top-Rated Free AI Tools for Reviving Your Vintage Photographs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-wifi-connectivity-on-microsoft-os/"><u>How to Reset WiFi Connectivity on Microsoft OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-pova-5-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Pova 5 Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-bootable-windows-11-media-with-3-strategies/"><u>Mastering the Art of Bootable Windows 11 Media with 3 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-defenders-protection-to-use-other-avs/"><u>Overcoming Windows Defender's Protection to Use Other AVs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-selections-cutting-edge-iphone-tune-makers/"><u>Prime Selections Cutting-Edge iPhone Tune Makers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-repairing-ms-store-crash-error-0x0-on-win-1011/"><u>Quick Guide to Repairing MS Store Crash (Error 0X0) on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-operation-failed-error-0x0000011b-in-windows-11/"><u>Rectifying Operation Failed (Error: 0X0000011B) in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210861009-9781454952589-tarot-basics/"><u>Tarot Basics | Free Book</u></a></li>
 </ul></div>
 

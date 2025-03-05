@@ -1,7 +1,7 @@
 ---
 title: Combat Shrinking Icon Size on Win 11 Systems
-date: 2025-02-08T22:37:02.596Z
-updated: 2025-02-15T20:22:55.570Z
+date: 2025-02-26T16:05:28.742Z
+updated: 2025-03-05T00:48:40.443Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Are My Icons Shrinking on Windows 11?
 
 ![screenshot_of_small_icon_size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_small_icon_size.jpg)
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
  If you've noticed your icons seem to be getting smaller, there's a good chance you're running a device with a high resolution, or non-standard DPI settings.
 
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Restore Icon Size by Deleting Icon Cache
 
@@ -55,25 +47,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stop Icons From Shrinking
 
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
 
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
 
@@ -89,14 +69,20 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-explore-the-finest-yt-unboxing-sequences/"><u>[Updated] 2024 Approved Explore the Finest YT Unboxing Sequences</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-discover-novel-webcam-functions-today-for-2024/"><u>[Updated] Discover Novel Webcam Functions Today for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphone-filmmakers-choice-top-8-free-and-paid-app-list/"><u>[Updated] IPhone Filmmakers' Choice Top 8 Free & Paid App List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-mastering-accessibility-a-step-by-step-guide-to-adding-alt-text-in-ms-excel/"><u>1. Mastering Accessibility: A Step-by-Step Guide to Adding Alt Text in MS Excel</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stabilized-shots-fighting-instability/"><u>2024 Approved Stabilized Shots Fighting Instability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-essential-benefits-of-integrating-microsoft-365-into-daily-operations/"><u>7 Essential Benefits of Integrating Microsoft 365 Into Daily Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-showing-and-hiding-excel-sheet-columns-for-better-organization/"><u>A Step-by-Step Guide to Showing and Hiding Excel Sheet Columns for Better Organization</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-csv-files-a-beginners-guide-to-opening-and-usage/"><u>Understanding CSV Files: A Beginner's Guide to Opening & Usage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-exploring-proficiency-uncovering-the-best-5-online-title-creators-for-2024/"><u>[New] Exploring Proficiency Uncovering the Best 5 Online Title Creators for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-save-verbatim-audio-review-notes/"><u>[Updated] Save Verbatim Audio, Review Notes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a56s-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A56s 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files-for-2024/"><u>Best 10 Gratuitous Online Transformers for Srt Files for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/combat-100-storage-use-on-windows-11-with-these-expert-strategies/"><u>Combat 100% Storage Use on Windows 11 with These Expert Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unresponsive-steam-graphics-in-windows/"><u>Correcting Unresponsive Steam Graphics in Windows</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/essential-steps-to-recover-from-a-failed-hard-drive-tips-by-yl-computing/"><u>Essential Steps to Recover From a Failed Hard Drive - Tips by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-common-steam-broadcasting-issues-on-windows/"><u>How to Fix Common Steam Broadcasting Issues on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-office-error-0x80041015-on-windows/"><u>How to Fix the Microsoft Office Error 0X80041015 on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c50-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C50</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-pixels-win-1011-themes-per-monitor-mastery/"><u>Personalized Pixels: Win 10/11 Themes Per Monitor Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-your-favorite-microsoft-store-for-windows-devices/"><u>Reinstate Your Favorite Microsoft Store for Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reprogram-ram-settings-for-maximum-performance-in-win-11/"><u>Reprogram RAM Settings for Maximum Performance in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-outlook-safe-mode-only-on-windows-issue/"><u>Resolving Outlook: Safe Mode Only on Windows Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpg-m4v-online-movavi/"><u>무료 MPG 파일을 직접 M4V로 전환하기 - Online 도구 : Movavi</u></a></li>
 </ul></div>
 

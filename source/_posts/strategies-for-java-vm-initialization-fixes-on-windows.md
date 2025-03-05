@@ -1,7 +1,7 @@
 ---
 title: Strategies for Java VM Initialization Fixes on Windows
-date: 2025-02-12T03:30:15.394Z
-updated: 2025-02-15T17:10:30.437Z
+date: 2025-03-02T03:51:11.828Z
+updated: 2025-03-04T17:08:25.445Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,6 @@ To check the Java version installed on Windows:
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
 1. Press**Win + X** to open the**WinX menu** and select**Task Manager** .
@@ -62,19 +58,11 @@ To check the Java version installed on Windows:
 
  Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out[how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Increase the System Memory for Java
 
  A common reason for the Could not create the Java virtual machine error is insufficient memory allocation, also known as Java heaps. Insufficient memory allocation can throttle the performance or cause the app to crash.
 
  To remedy this issue, you can increase the Java heap size. You can do this by modifying the**Runtime Parameters** from**Java Runtime Environment Settings** or changing the**\_JAVA\_OPTIONS** variable value to your preference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size by Manually Modifying Variables
 
@@ -88,10 +76,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
@@ -99,10 +83,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -120,10 +100,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
@@ -166,20 +142,20 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-untold-elements-of-instagram-story-engagement/"><u>[New] The Untold Elements of Instagram Story Engagement</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/3-formas-faciles-para-apagar-la-funcion-de-inicio-rapido-en-windows-11/"><u>3 Formas Fáciles Para Apagar La Función De Inicio Rápido en Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-integration-into-dev-practices/"><u>AI Integration Into Dev Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-instructions-running-chatgpt-seamlessly-on-windows-devices/"><u>Easy Instructions: Running ChatGPT Seamlessly on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-powershell-to-unblock-files/"><u>Essential Tips for Using PowerShell to Unblock Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/evaluate-your-computers-electrical-demand-in-windows-environment/"><u>Evaluate Your Computer’s Electrical Demand in Windows Environment</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtubes-link-trimming-winners-select-the-top-5-apps/"><u>In 2024, Youtube's Link-Trimming Winners Select the Top 5 Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-date-and-time-settings-on-desktop-toolbars/"><u>Navigating Date & Time Settings on Desktop Toolbars</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-relink-function-failures-for-an-enhanced-granblue-fantasy-experience/"><u>Overcoming 'Relink' Function Failures for an Enhanced Granblue Fantasy Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overriding-no-notify-feature-for-ws11-webcam-access/"><u>Overriding No-Notify Feature for WS11 WebCam Access</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rejuvenate-your-iphone-steps-to-overcome-freeze-issues-effortlessly/"><u>Rejuvenate Your iPhone: Steps to Overcome Freeze Issues Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rising-roars-3-applications-for-elevating-your-pcs-audio-levels/"><u>Rising Roars: 3 Applications for Elevating Your PC’s Audio Levels</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-why-the-luxurious-amazon-kindle-oasis-is-worth-its-high-cost/"><u>The Ultimate Guide to Understanding Why the Luxurious Amazon Kindle Oasis Is Worth Its High Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unsuccessful-image-saving-issue-in-win11/"><u>Troubleshooting Unsuccessful Image Saving Issue in Win11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-aria-elimination-kit-compose-one-of-a-kind-background-scores-for-2024/"><u>Updated Aria Elimination Kit Compose One-of-a-Kind Background Scores for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-identity-design-icons-and-thumbnails-essentials-for-2024/"><u>[New] Channel Identity Design Icons & Thumbnails Essentials for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-stories-harmonizing-photos-for-maximum-impact-for-2024/"><u>[New] Instagram Stories Harmonizing Photos for Maximum Impact for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rectification-of-injustice/"><u>[Updated] Rectification of Injustice</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/abbyy-and-the-hamburg-football-association-a-strategic-partnership/"><u>ABBYY and the Hamburg Football Association: A Strategic Partnership</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-sync-combining-onedrive-with-microsoft-id/"><u>Convenient Sync: Combining OneDrive with Microsoft ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-disk-space-graph-in-windows-explorer-context/"><u>Creating a Disk Space Graph in Windows Explorer Context</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-solutions-to-rectify-iomap64-freeze-error-in-winos/"><u>Easy Solutions to Rectify IOMap64 Freeze Error in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-management-auto-windows-update-and-gpu-switching/"><u>Efficient PC Management: Auto Windows Update & GPU Switching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-disk-unknown-not-initialized-issue-on-windows/"><u>How to Fix the “Disk Unknown Not Initialized” Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>How to Fix Your Webcam Showing a Black Screen on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Zero 5G 2023 Turbo Phone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-separating-sound-from-video-using-vlc/"><u>Step-by-Step Guide: Separating Sound From Video Using VLC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-resident-evil-village-from-freezing-or-crashing-on-your-computer-with-these-expert-tips/"><u>Stop Resident Evil Village From Freezing or Crashing on Your Computer with These Expert Tips</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems-for-2024/"><u>The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems for 2024</u></a></li>
 </ul></div>
 

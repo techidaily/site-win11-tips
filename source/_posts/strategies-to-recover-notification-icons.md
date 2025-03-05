@@ -1,7 +1,7 @@
 ---
 title: Strategies to Recover Notification Icons
-date: 2025-02-09T03:12:42.844Z
-updated: 2025-02-16T01:34:47.972Z
+date: 2025-03-03T16:17:09.288Z
+updated: 2025-03-05T00:01:50.712Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Following this, apps should display notification badges on the taskbar.
 
 ## 2\. Make Sure App Notifications Are Enabled
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 3. Enable the toggle next to**Notifications** , if it isn’t already.
 4. Scroll down to the**Notifications from apps and other senders** section and ensure that your favorite apps are allowed to display notifications on Windows.  
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
 
@@ -77,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
  If Windows is failing to display notification badges for only one or two apps, you can try to unpin the affected apps from the taskbar and pin them back again. To do so, use these steps:
@@ -90,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 3. Type the name of the app in the search box.
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
@@ -121,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay on Top of App Alerts With Notification Badges
 
  Taskbar notification badges are useful as they inform you about apps and programs awaiting your attention. Hopefully, one of the above fixes has helped you resolve the underlying issue and Windows is now showing notification badges for taskbar apps.
@@ -146,21 +126,17 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-complete-zoomers-handbook-for-captivating-video-and-audio-content/"><u>[New] The Complete Zoomer's Handbook for Captivating Video and Audio Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-speech-to-text-technology-absolutely-gratuitous/"><u>[Updated] 2024 Approved Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-expert-advice-on-crafting-an-ideal-video-conference-room/"><u>[Updated] In 2024, Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>[Updated] In 2024, M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/captivating-creativity-top-30-unique-tiktok-profile-photos/"><u>Captivating Creativity Top 30 Unique TikTok Profile Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-windows-layouts-with-a-macos-vibe-using-these-5-techniques/"><u>Crafting Windows Layouts with a MacOS Vibe Using These 5 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-ai-systems-their-uniqueness/"><u>Decoding AI Systems: Their Uniqueness</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-system-call-issues-on-windows-11-and-11/"><u>Fixing System Call Issues on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-keyboard-driven-program-resizing-for-windows-11/"><u>Guiding Through Keyboard-Driven Program Resizing for Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>In 2024, Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Reno 8T FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/increasing-yuzu-response-time-on-windows/"><u>Increasing Yuzu Response Time on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-overcoming-internet-explorer-failed-to-load-problems/"><u>Solutions for Overcoming Internet Explorer Failed to Load Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-yellow-screen-problem-windows-display-correction-tips/"><u>Solving Yellow Screen Problem: Windows Display Correction Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-blue-screen-dumps-a-comprehensible-guide/"><u>Understanding Blue Screen Dumps: A Comprehensible Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[New] In 2024, The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-upgrading-your-mp4s-integrating-premium-srt-sound-for-2024/"><u>[New] Upgrading Your MP4s Integrating Premium SRT Sound for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-xiaomi-civi-3-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Xiaomi Civi 3</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-asus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Asus Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-media-player-on-pc-a-step-by-step-guide/"><u>Launching Windows Media Player on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-compannies-of-saudi-arabias-capital-an-exclusive-look-at-riyadhs-top-agents-featuring-seo-powersuite-strategies/"><u>Leading SEO Compannies of Saudi Arabia's Capital: An Exclusive Look at Riyadh’s Top Agents , Featuring SEO PowerSuite Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-widest-use-of-windows-pcs-through-advanced-tdarr-integration/"><u>Make Widest Use of Windows PCs Through Advanced Tdarr Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-geforce-x0001-failure-in-w10w11/"><u>Steps to Overcome GeForce X0001 Failure in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rufus-and-tpmsecure-boot-in-win11/"><u>The Ultimate Guide to Rufus and TPM/Secure Boot in Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-ai-bots-how-their-self-censors-impact-us/"><u>Unveiling AI Bots: How Their Self-Censors Impact Us</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-clean-canvas-the-ad-free-promise/"><u>Windows 11'S Clean Canvas: The Ad-Free Promise</u></a></li>
 </ul></div>
 

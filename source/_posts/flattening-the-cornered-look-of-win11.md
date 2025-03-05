@@ -1,7 +1,7 @@
 ---
 title: Flattening the Cornered Look of Win11
-date: 2024-08-16T01:24:15.280Z
-updated: 2024-08-17T01:24:15.280Z
+date: 2025-02-28T19:12:03.911Z
+updated: 2025-03-04T18:36:04.969Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Disable Rounded Corners in Windows 11 Using the Registry Editor
 
  Don't want to use a third-party tool? No problem. You can also disable rounded corners in Windows 11 by making changes to the Windows Registry. However, it's crucial to exercise caution, as modifying registry files without proper knowledge can be risky.
@@ -53,15 +50,9 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 6. Double-click the newly created DWORD and enter **0** in the **Value data** field. Then, click **OK**.
 7. [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) to apply the changes.  
 ![Disable Rounded Corners in Windows 11 via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-rounded-corners-in-windows-11-via-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
  If you want to reverse the above change later, repeat the same steps mentioned earlier and change the value data for the **UseWindowFrameStagingBuffer** to **1**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 3\. How to Disable Rounded Corners in Windows 11 via Device Manager
 
  Another way to remove rounded corners in Windows 11 is by disabling the graphics driver on your PC. However, it is important to consider a few caveats. Firstly, disabling the graphics driver will result in reduced display performance, lower screen resolutions, and the deactivation of any visual effects. Secondly, this will also prevent you from running any graphics-intensive applications or games on your PC.
@@ -73,15 +64,9 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 3. Double-click on **Display adapters** to expand it.
 4. Right-click on your display driver and select **Disable device**.  
 ![Disable Graphics Driver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-graphics-driver-on-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Disabling Rounded Corners in Windows 11 Is Easy
 
  Using a third-party tool is arguably the most convenient way to remove rounded corners in Windows 11\. However, if you prefer to rely on the native methods, you can use the Registry Editor or Device Manager instead.
@@ -90,8 +75,6 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  The good news is that it is possible to disable rounded corners in Windows 11, and this guide will walk you through three easy methods for the same.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -99,5 +82,24 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elite-mkv-deck-desktop-and-mobile/"><u>[New] 2024 Approved Elite MKV Deck Desktop & Mobile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-proven-methods-for-conducting-outstanding-interviews/"><u>[New] 2024 Approved Proven Methods for Conducting Outstanding Interviews</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-studio-setup-starters-top-17-lights-and-more/"><u>[New] In 2024, Studio Setup Starters - Top 17 Lights & More</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nfographics-boosting-buzz-through-social-videos/"><u>[New] Infographics Boosting Buzz Through Social Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-visual-storytelling-for-online-platforms/"><u>[New] The Art of Visual Storytelling for Online Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevate-your-hiring-game-with-the-best-vids-in-town/"><u>[Updated] In 2024, Elevate Your Hiring Game with the Best Vids in Town</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-collection-of-favorite-ig-after-effects-plugins/"><u>2024 Approved The Ultimate Collection of Favorite IG After Effects Plugins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-your-audio-with-m4r-file-format/"><u>Free Online Conversion: Change Your Audio with M4R File Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-png-images-into-bmp-format-with-movavi/"><u>Free Online Converter: Transforming PNG Images Into BMP Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-capture-your-streams-for-free-top-13-strategies-with-movavi/"><u>How To Effortlessly Capture Your Streams for Free - Top 13 Strategies with Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-yuva-2-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Yuva 2 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-x50iplus-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor X50i+.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-28-essential-learning-tools-and-platforms-for-educators/"><u>Top 28 Essential Learning Tools and Platforms for Educators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmv-online-mjpeg-converter/"><u>WMV 이미지/비디오를 자동화된 바이트 스트림으로 무료로 변환: Online MJPEG Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-ogg-movavi/"><u>웹 내 MP4 포맷터를 무료로 사용자가 사용하기 위해 OGG 형식으로 변환 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-wmv/"><u>최선의 MP4, WMV 바인딩: 영상 변환에 대한 전문가 권장</u></a></li>
+</ul></div>
 

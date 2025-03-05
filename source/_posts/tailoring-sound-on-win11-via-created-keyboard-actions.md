@@ -1,7 +1,7 @@
 ---
 title: Tailoring Sound on Win11 via Created Keyboard Actions
-date: 2025-02-11T17:37:11.764Z
-updated: 2025-02-16T02:08:28.773Z
+date: 2025-02-26T00:28:01.989Z
+updated: 2025-03-04T19:48:56.664Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Download and Extract NirCmd
 
  NirCmd is a command-line tool that can carry out many useful PC tasks. It has some volume control commands for muting, maximizing, increasing, and reducing sound levels. Although NirCmd doesn’t provide any built-in options for establishing volume control hotkeys, we can set up keyboard shortcuts for its commands.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 6. Click the **Show extracted files when complete** checkbox to select it.  
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up a Mute Hotkey
 
@@ -74,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 3. Press **M** to set up a **Ctrl + Alt + M** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
@@ -126,29 +114,17 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Hotkeys tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeys-tab.jpg)
 5. Select the **Volume** **up** checkbox and repeat the previous step to set a hotkey for raising the volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Then select **Toggle Mute** and repeat step nine to set a keyboard shortcut for muting the volume.
 2. Now open a program to assign the hotkeys to. A web browser or media player from which you can play music and videos would be ideal.
 3. Click the **Mixer** tab to view a list of open apps.  
 ![The Mixer tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-mixer-tab.jpg)
 4. Press the **Select** button beside the software to which you want to assign the custom hotkeys.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the **Lock** checkbox to ensure the volume control hotkeys always remain assigned to the selected software.
 
  Try out the custom volume hotkeys you’ve set for the software. Play a video within your software if you can. Press the keyboard shortcuts you’ve assigned to the app to raise, lower, and mute its volume. Those hotkeys will only affect the app’s volume level and won’t change the general system sound beyond it. The Volume bar within the **Mixer** tab shows you the audio level for the software.
 
 ![A YouTube video in the Opera browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-youtube-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also create new volume control hotkeys from scratch with Volume Control. To do so, select the **Advanced Hotkeys** checkbox on the **Settings** tab. Then you’ll see a **Create New Hotkey** button on the **Hotkeys** tab you can press to set up new keyboard shortcuts. You can select options on an **Action** drop-down menu with advanced hotkeys enabled.
 
@@ -170,21 +146,19 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>[New] 2024 Approved Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-essential-tiktok-edits-guide-for-beginners/"><u>[Updated] Essential TikTok Edits Guide for Beginners</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expertly-crafted-cloud-microphones/"><u>[Updated] Expertly-Crafted Cloud Microphones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-deep-dive-sonys-s6700-updates-review/"><u>[Updated] In 2024, Deep Dive Sony's S6700 Updates Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>[Updated] In 2024, The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-revolutionary-gameplay-preservation-with-advanced-fbx-recording/"><u>2024 Approved Revolutionary Gameplay Preservation with Advanced FBX Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-defeating-the-d3d11-compatible-gpu-predicament-in-w11w10/"><u>Decoding and Defeating the D3D11-Compatible GPU Predicament in W11/W10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-screen-captures-in-windows-snip-tool-vs-printscreen/"><u>Efficient Screen Captures in Windows: Snip Tool Vs. Printscreen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-iphone-to-pc-mastering-the-use-of-apple-maps/"><u>From iPhone to PC: Mastering the Use of Apple Maps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-f15-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy F15 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-5-drone-racing-headsets-ultimate-vr-experience/"><u>In 2024, Top 5 Drone Racing Headsets Ultimate VR Experience</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmonizing-music-and-imagery-best-ae-lyric-video-blueprints/"><u>New 2024 Approved Harmonizing Music and Imagery Best AE Lyric Video Blueprints</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dll-loss-restoring-d3dx939-on-windows-11/"><u>Overcoming DLL Loss: Restoring D3DX9_39 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rescue-lost-co-pilot-in-windows-new-era-11/"><u>Rescue Lost Co-Pilot in Windows' New Era, 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-the-waters-fixing-icloud-install-problems-on-windows/"><u>Smooth the Waters: Fixing iCloud Install Problems on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-your-routine-with-the-finest-6-apps-for-windows-11-users/"><u>Supercharge Your Routine with the Finest 6 Apps for Windows 11 Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-composing-cinematic-stories-on-an-iphone-learn-three-no-cost-methods-to-add-tunes/"><u>[New] Composing Cinematic Stories on an iPhone – Learn Three No-Cost Methods to Add Tunes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers/"><u>[New] In 2024, A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-powerdirector-mastery-a-comprehensive-guide/"><u>[New] Ultimate PowerDirector Mastery A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-virtual-versus-vital-gears-in-the-pursuit-of-perfect-pixels/"><u>[Updated] 2024 Approved Virtual Versus Vital Gears in the Pursuit of Perfect Pixels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-takeover-1-10-must-watch-threads-for-2024/"><u>[Updated] Twitter Takeover #1-#10 Must-Watch Threads for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-hardware-duplication-in-home-computing/"><u>Effortless Hardware Duplication in Home Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-ps3-connection-guide-for-pc-users/"><u>Effortless PS3 Connection: Guide for PC Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-e13-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto E13 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-handle-missing-updates-on-windows-108/"><u>How to Correctly Handle Missing Updates on Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sam-problems-a-win-guide/"><u>Resolving SAM Problems: A Win Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-chrome-screen-shutdown-in-windows/"><u>Tackling Chrome Screen Shutdown in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-always-see-notes-on-screen/"><u>Tactics to Always See Notes on Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/your-top-10-favorites-on-spotify-for-2024/"><u>Your Top 10 Favorites on Spotify for 2024</u></a></li>
 </ul></div>
 

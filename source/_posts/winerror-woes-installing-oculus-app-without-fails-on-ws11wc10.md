@@ -1,7 +1,7 @@
 ---
 title: "WinError Woes: Installing Oculus App Without Fails on WS11/WC10"
-date: 2025-02-13T23:09:55.985Z
-updated: 2025-02-15T23:43:57.836Z
+date: 2025-03-03T02:05:09.411Z
+updated: 2025-03-04T17:38:51.368Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disconnect Your Quest 2/Rift Headset From Your PC Before Installing Oculus
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
  If you’re trying to reinstall the Oculus app after uninstalling it, removing leftover debris from the previous installation might resolve this issue. This means manually deleting Oculus folders left behind from the previous installation. You can erase leftover Oculus folders as follows:
@@ -90,19 +78,11 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
 C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the Oculus Windows Software
 
@@ -120,16 +100,24 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-12-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 12 Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-hp-officejet-pro-6970-printer-drivers-for-windows-latest-version/"><u>Download HP OfficeJet Pro 6970 Printer Drivers for Windows - Latest Version</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experts-rate-the-amazon-fire-tv-cube-ultimate-guide-to-lightning-fast-entertainment/"><u>Experts Rate the Amazon Fire TV Cube: Ultimate Guide to Lightning-Fast Entertainment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-reawakening-a-shader-driven-journey-to-the-past-with-retroarc/"><u>Game Reawakening: A Shader-Driven Journey to the Past with RetroArc</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-alternatives-weighing-the-pros-of-podcasts-and-youtube/"><u>In 2024, Audio Alternatives Weighing the Pros of Podcasts and YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-graphics-command-center-for-gamers-on-windows/"><u>Intel Graphics Command Center for Gamers on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-fix-your-pc-when-it-wont-recognize-a-usb-drive/"><u>Quick Solutions: Fix Your PC When It Won't Recognize a USB Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-0xc0000001-in-windows-os/"><u>Solving Error 0xC0000001 in Windows OS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-instagram-to-tiktok-connection-protocol/"><u>The Instagram to TikTok Connection Protocol</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transfiere-tu-video-avi-a-memoria-ram-con-gratuitidad-usando-movavi-en-linea-hoy-mismo/"><u>Transfiere Tu Vídeo AVI a Memoria RAM Con Gratuitidad Usando Movavi en Línea Hoy Mismo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-team-efficiency-fixing-microsoft-teams-errors-80080300/"><u>Unlocking Team Efficiency: Fixing Microsoft Teams Errors, #80080300</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aunchpad-essentials-your-first-steps-in-streaming-for-2024/"><u>[New] Launchpad Essentials Your First Steps in Streaming for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-perfect-purity-extract-background-from-your-photos-at-home/"><u>[Updated] 2024 Approved Perfect Purity Extract Background From Your Photos at Home</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-movie-maker-from-beginner-to-pro-edition/"><u>2024 Approved YouTube Movie Maker From Beginner to Pro Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-unveils-new-melbourne-data-center-with-a-projected-45-billion-boost/"><u>Amazon Web Services Unveils New Melbourne Data Center with a Projected $4.5 Billion Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-cut-cinematic-9-ways-to-ensure-smooth-videos-on-windows-os/"><u>Clear Cut Cinematic: 9 Ways to Ensure Smooth Videos on Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-14-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 14 online without jailbreak</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>In 2024, The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-map-integration-microsoft-meets-google/"><u>Master the Art of Map Integration: Microsoft Meets Google</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-bring-back-missing-windows-patch-service/"><u>Methods to Bring Back Missing Windows Patch Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-domain-services-printing-issues-in-windows-oses/"><u>Navigating Through Domain Services Printing Issues in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-smooth-files-transfer-on-win11-systems-2/"><u>Re-Establishing Smooth Files Transfer on WIN11 Systems (2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-default-menu-with-advanced-move-and-copy-options/"><u>Revamping the Default Menu with Advanced Move and Copy Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-sail-away-from-marooned-xbox-issue-on-windows-11/"><u>Setting Sail Away From Marooned Xbox Issue on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-installing-handbrake-with-libdvdcss-on-macos-monterey-and-windows-11-visual-tutorial-included/"><u>Step-by-Step Guide: Installing Handbrake with Libdvdcss on macOS Monterey and Windows 11 (Visual Tutorial Included)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-blueprint-for-snaps-via-powertoys/"><u>The Ultimate Blueprint for Snaps via PowerToys</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-m6-pro-4g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from M6 Pro 4G.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-legality-of-dvd-duplication-is-it-against-the-law/"><u>Understanding the Legality of DVD Duplication: Is It Against the Law?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-avatar-for-2024/"><u>Updated What Is an AI Avatar for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-zoom-quality-addressing-code-1132-concerns/"><u>Win 10/11 Zoom Quality: Addressing Code 1132 Concerns</u></a></li>
 </ul></div>
 

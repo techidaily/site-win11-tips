@@ -1,7 +1,7 @@
 ---
 title: Resolve Discrepanranks Between Prime Audio & Subtitle Feedback on Windows 11
-date: 2025-02-14T00:29:02.937Z
-updated: 2025-02-16T02:35:40.382Z
+date: 2025-03-02T22:31:09.215Z
+updated: 2025-03-05T00:49:56.721Z
 tags:
   - windows10
   - windows11
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
 
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -78,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reinstall the Prime Video App
 
  If you're still facing the issue, you are left with no option other than to reinstall the Prime Video app. To do that, first[uninstall the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, launch the Microsoft Store and search for and download the Prime Video for Windows.
@@ -89,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -113,15 +93,15 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] 2024 Approved Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-rapidly-increase-views-effective-growth-hacks-for-channels/"><u>[Updated] Rapidly Increase Views Effective Growth Hacks for Channels</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-upload-tweets-no-retweets-on-mobile/"><u>2024 Approved How to Upload Tweets - No Retweets on Mobile?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-social-sharing-during-facebook-lives/"><u>2024 Approved Mastering Social Sharing During Facebook Lives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-hp-officejet-t4500-printer-release/"><u>Download Updated Drivers for HP Officejet T4500 Printer, Release</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-windows-tech-for-premium-macos-experience/"><u>Integrating Windows Tech for Premium macOS Experience</u></a></li>
-<li><a href="https://fox-where.techidaily.com/optimale-verfahren-zur-lagerung-von-e-mail-daten-die-fuhrenden-2-ansatze-fur-externe-speichermedien/"><u>Optimale Verfahren Zur Lagerung Von E-Mail-Daten: Die Führenden 2 Ansätze Für Externe Speichermedien</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-quick-and-easy-route-to-your-pcs-credential-vault-on-win11/"><u>The Quick and Easy Route to Your PC's Credential Vault on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-for-smooth-captions-essential-tips-on-windows-10/"><u>Troubleshoot for Smooth Captions: Essential Tips on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-in-windows-should-you-delete-it/"><u>What Is Pagefile.sys in Windows? Should You Delete It?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-compreranly-insightful-study-on-vtubers-and-beyond/"><u>[New] In 2024, Compreranly Insightful Study on VTubers and Beyond</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-speeding-up-on-the-go-vimeo-videos/"><u>[New] In 2024, Speeding Up On-the-Go Vimeo Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-panasonics-hx-a1-the-wearable-action-camera-revealed/"><u>[Updated] In 2024, Panasonic’s HX-A1 - The Wearable Action Camera Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-treasure-trove-of-premium-rate-free-luts-revealed/"><u>A Treasure Trove of Premium-Rate Free LUTs Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-with-an-unresponsive-tablet-display-8-practical-fixes/"><u>How to Resolve Issues with an Unresponsive Tablet Display: 8 Practical Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-windows-11s-sluggish-search-bar-on-the-settings-screen/"><u>How To Revive Windows 11'S Sluggish Search Bar on the Settings Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-v27e-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo V27e via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-lengthening-windows-10-restart-time-while-apps-run/"><u>Strategies for Lengthening Windows 10 Restart Time While Apps Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pivot-point-of-time-the-taskbar-narrative/"><u>The Pivot Point of Time: The Taskbar Narrative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-to-fix-any-installer-fiasco-in-win11/"><u>Unlocking Solutions to Fix Any Installer Fiasco in Win11</u></a></li>
 </ul></div>
 

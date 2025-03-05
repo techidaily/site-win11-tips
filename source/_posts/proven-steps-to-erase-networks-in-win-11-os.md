@@ -1,7 +1,7 @@
 ---
 title: Proven Steps to Erase Networks in Win 11 OS
-date: 2025-02-12T02:31:45.438Z
-updated: 2025-02-16T02:07:45.821Z
+date: 2025-03-03T22:16:07.029Z
+updated: 2025-03-05T01:29:01.518Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
  Over time, your PC may accumulate a long list of Wi-Fi networks that you won't be connecting to. In such cases, it makes sense to remove old and unused Wi-Fi networks from your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Remove a Saved Wi-Fi Network Using the Quick Settings Panel
 
  The Quick Settings panel on Windows provides access to some commonly used settings. It also makes it simple to remove a saved Wi-Fi network from Windows 11.
@@ -61,10 +57,6 @@ To forget a Wi-Fi network via the Settings app:
 
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
 
  Another option for removing a saved Wi-Fi network is to use a command-line tool such as Command Prompt or Windows PowerShell. You can easily forget a Wi-Fi network by running a couple of commands in the terminal window. Here’s how you can go about it.
@@ -79,17 +71,9 @@ To forget a Wi-Fi network via the Settings app:
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
 `netsh wlan delete profile name=* i=*`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Remove a Saved Wi-Fi Network Using Registry Editor
 
@@ -119,10 +103,6 @@ To remove a Wi-Fi network using the Registry Editor:
 
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
 
 ## Removing Saved Wi-Fi Networks From Windows 11
@@ -146,24 +126,21 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-first-film-experience-selecting-best-gopro-extras/"><u>[New] First Film Experience Selecting Best GoPro Extras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-creative-channel-titling-techniques-for-growth/"><u>[Updated] Creative Channel Titling Techniques for Growth</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-short-film-synopsis-must-know-points/"><u>[Updated] Short Film Synopsis Must-Know Points</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>2024 Approved Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-blackout-phenomenon-in-pc-titles-on-windows/"><u>Combatting Blackout Phenomenon in PC Titles on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-linux-access-without-wsl/"><u>Direct Linux Access, Without WSL</u></a></li>
-<li><a href="https://common-error.techidaily.com/icue-detection-failure-identifying-and-solving-the-common-issues/"><u>ICUE Detection Failure: Identifying and Solving the Common Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y100t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y100t Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-2023-update-from-youtube-to-high-quality-mp3s-for-2024/"><u>MacOS 2023 Update From YouTube to High-Quality MP3s for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-mp3s-incorporating-tunes-into-powerpoint-slides/"><u>Mastering MP3s Incorporating Tunes Into PowerPoint Slides</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-how-to-skip-windows-11-lock/"><u>Mastering the Art: How to Skip Windows 11 Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-time-display-customization-in-windows/"><u>Mastering Time Display Customization in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-your-pcs-core-settings-with-effective-registry-backups-and-recovery-tips/"><u>Protect Your PC's Core Settings with Effective Registry Backups and Recovery Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/releasing-locked-resources-in-windows-environments-154-chars/"><u>Releasing Locked Resources in Windows Environments (154 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-microsofte-shop-error-code-0x80073cf3/"><u>Tackling Microsoft'e Shop Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-perfect-blend-of-aesthetics-and-functionality-in-the-asus-s15/"><u>The Perfect Blend of Aesthetics & Functionality in the ASUS S15</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-onedrive-fixing-invalid-tag-errors-in-windows/"><u>Troubleshooting OneDrive: Fixing Invalid Tag Errors in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-steam-network-errors-in-windows-11/"><u>Unblocking Steam Network Errors in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enhance-your-content-filmmaking-for-youtube-trailers-with-filmora/"><u>[New] In 2024, Enhance Your Content Filmmaking for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-navigating-youtubes-landscape-a-beginners-primer/"><u>[New] In 2024, Navigating YouTube's Landscape A Beginner's Primer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-technique-for-embedding-linktree-on-tiktok/"><u>2024 Approved Streamlined Technique for Embedding Linktree on TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/dance-of-the-feathers-analyzing-parrots-flight-in-bebop-2/"><u>Dance of the Feathers Analyzing Parrot's Flight in Bebop 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-jscriptdll-file-missing-issues-practical-tips-and-expert-advice-for-windows-users/"><u>Eliminate JScript.dll File Missing Issues: Practical Tips and Expert Advice for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-frozen-clicks-6-remedies-for-windows-users/"><u>Eliminating Frozen Clicks: 6 Remedies for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-navigating-with-windows-narrator/"><u>Essential Tips for Navigating with Windows Narrator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expandreduce-win11-taskbar-dimensions/"><u>Expand/Reduce Win11 Taskbar Dimensions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 13T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-stream-on-the-go-youtube-via-mobile-for-understaffed-creators/"><u>In 2024, Stream on the Go YouTube via Mobile for Understaffed Creators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-infinite-c-drive-consumption-anomaly/"><u>Overcoming Infinite C: Drive Consumption Anomaly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-zip-extraction-hurdle/"><u>Overcoming Windows 11'S ZIP Extraction Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-continuous-login-challenges-with-microsoft-teams/"><u>Remedy for Continuous Login Challenges with Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracing-the-path-to-improved-windows-experience-via-ai/"><u>Tracing the Path to Improved Windows Experience via AI</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-evaluation-the-linksys-wrt3200acm-top-choice-in-open-source-routers/"><u>Ultimate Evaluation: The Linksys WRT3200ACM - Top Choice in Open-Source Routers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-best-bargains-on-apple-watches-in-july-2024-featured-by-zdnet/"><u>Uncover the Best Bargains on Apple Watches in July 2024, Featured by ZDNet</u></a></li>
 </ul></div>
 

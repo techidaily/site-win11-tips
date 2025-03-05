@@ -1,7 +1,7 @@
 ---
 title: Seamless Transition of NAT Configurations on Windows 10 & 11
-date: 2025-02-09T18:15:08.674Z
-updated: 2025-02-15T18:11:48.624Z
+date: 2025-02-25T22:23:25.150Z
+updated: 2025-03-04T23:00:13.690Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 
  You can change the NAT type on Windows to ease restrictions, resulting in a faster and more reliable network connection. But you must balance your needs with potential security risks when changing the NAT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is NAT, and What Are the NAT Types?
 
 [Network Address Translation](https://www.makeuseof.com/tag/what-is-network-address-translation-nat-and-how-does-it-work/) (NAT) is a feature in routers (and firewalls) that translates the private IPv4 address from devices in your home and office to the public IPv4 address assigned to your router by the ISP and vice versa. NAT helps address the limited number of public IPv4 addresses available worldwide.
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 5. Toggle the switch for **Network Discovery** to turn it on for public networks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable UPnP On Your Router
 
 ![TP-Link Router Web Interface with UPnP Enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-upnp-tp-link-router.jpg)
@@ -138,10 +130,6 @@ UDP: 3074-3079`
 6. In the **Add a Port Forwarding** **Entry** dialog, type a name for **Service Name**. Make sure to add a name to make it easy to identify this port forwarding entry for future reference.  
 ![TP-Link Web Interface Add a Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-port-forwarding-entry-tp-link.jpg)
 7. In **Device IP Address**, type your computer's static IP address for Ethernet or Wi-Fi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Type your game's port number in the **External** and **Internet Port** fields. You can use a UDP or TCP port, but use the same port in both the **External** **Port** and **Internal Port** fields.
 9. Set the **Protocol** field to **All**.
@@ -213,10 +201,6 @@ UDP: 3074-3079`
 ![Windows 11 Settings Advanced Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-advanced-network-settings.jpg)
 3. Click on **Advanced network settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 4. Scroll down and click **Advanced sharing settings** under the **More settings** section.  
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
@@ -341,10 +325,6 @@ UDP: 3074-3079`
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 5. Toggle the switch for **Network Discovery** to turn it on for public networks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable UPnP On Your Router
 
 ![TP-Link Router Web Interface with UPnP Enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-upnp-tp-link-router.jpg)
@@ -390,10 +370,6 @@ UDP: 3074-3079`
 ![TP-Link Web Interface Add a Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-port-forwarding-entry-tp-link.jpg)
 7. In **Device IP Address**, type your computer's static IP address for Ethernet or Wi-Fi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Type your game's port number in the **External** and **Internet Port** fields. You can use a UDP or TCP port, but use the same port in both the **External** **Port** and **Internal Port** fields.
 9. Set the **Protocol** field to **All**.
 10. Once done, click **Save** to save the port forwarding entry.
@@ -403,10 +379,6 @@ UDP: 3074-3079`
  The entry will be saved in the Port Forwarding table. You can enable or disable the entry using the Status toggle switch.
 
  Apart from port forwarding, you can also change the NAT type by modifying your router's configuration file. However, some router manufacturers, including TP-Link, encrypt the configuration file, making it extremely difficult to make necessary modifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Changing NAT Type on Windows to Fix Network Issues
 
@@ -442,10 +414,6 @@ UDP: 3074-3079`
 ![Command Prompt Windows Showing Ipconfig Ethernet Adapter Network Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-ipconfig-ethernet-adapter-network-information.jpg)
 5. Next, press **Win + I** to open **Settings**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Go to **Network & internet**, and click on **Ethernet** to open the Ethernet adapter properties.  
 ![Windows 11 Settings App Showing Ethernet Network and Internet Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-ethernet-network-and-internet-1.jpg)
 2. Click the **Edit** button beside **IP assignment.**  
@@ -453,10 +421,6 @@ UDP: 3074-3079`
 3. Select the **Automatic (DCHP)** drop-down and choose **Manual.**  
 ![Manual IP assignment Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manual-ip-assignment-ethernet-windows-11-settings.jpg)
 4. Toggle the switch to enable **IPv4**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Enter the IP address by ensuring the first three octets of your IP address match the IPv4 address obtained using the ipconfig command—for example, type **192.168.0.200**. As you can see, we have kept the first three octets of the IP address (**192.168.0**) but changed the fourth octet to **200** from **101**.  
 ![Save Static IP Settings Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-manual-ethernet-adapter-ip-configuration-1.jpg)
@@ -480,10 +444,6 @@ UDP: 3074-3079`
 
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 5. Toggle the switch for **Network Discovery** to turn it on for public networks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable UPnP On Your Router
 
@@ -558,19 +518,16 @@ UDP: 3074-3079`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-premium-mac-recorder-for-crystal-clear-audio-and-hd-video/"><u>[New] Premium Mac Recorder for Crystal Clear Audio & HD Video</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-exploring-bandicam-ultimate-guide-to-screen-capture-for-2024/"><u>[Updated] Exploring Bandicam Ultimate Guide to Screen Capture for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expertise-in-iphones-macro-photography-secrets-revealed-for-2024/"><u>Expertise in iPhone's Macro Photography Secrets Revealed for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>In 2024, A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-10-picks-best-facebook-video-players/"><u>In 2024, Top 10 Picks Best Facebook Video Players</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/join-the-chorus-of-discontent-the-unforeseen-consequences-of-moving-to-ios-18-on-your-iphone-as-revealed-readers/"><u>Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed Readers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-missing-file-updates-on-windows-os/"><u>Mastering the Art of Fixing Missing File Updates on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-windows-10-value-with-expert-key-tips/"><u>Maximize Windows 10 Value with Expert Key Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-path-to-windows-assistant-activation/"><u>Navigating the Path to Windows Assistant Activation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/pcandroid-friendly-methods-to-post-videos-on-facebook-successfully-for-2024/"><u>PC/Android-Friendly Methods to Post Videos on Facebook Successfully for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-your-agenda-linking-to-dot-to-ifttt/"><u>Simplify Your Agenda: Linking To-Dot to IFTTT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-regain-smooth-operation-of-asana-on-desktop-computers/"><u>Steps to Regain Smooth Operation of Asana on Desktop Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-ways-win11-gathers-your-digital-footprint/"><u>Top 5 Ways Win11 Gathers Your Digital Footprint</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-srt-to-sub-transition-for-2024/"><u>Unlocking the Secrets of SRT-to-SUB Transition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>[New] The Ultimate Drone Buying Roadmap Pre-Purchase Essentials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-7-disruptive-w11-design-choices/"><u>Decoding the 7 Disruptive W11 Design Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-or-turn-off-the-geforce-overlay-on-windows/"><u>How to Disable or Turn Off the GeForce Overlay on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-investing-in-a-blu-ray-player-worth-it/"><u>Is Investing in a Blu-Ray Player Worth It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-output-with-these-top-8-ai-powered-google-addons/"><u>Maximize Output with These Top 8 AI-Powered Google Addons</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/real-time-recording-rivals-obs-and-shadowtoolkit/"><u>Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reduce-resource-bottlenecks-on-android-wsl/"><u>Techniques to Reduce Resource Bottlenecks on Android WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-images-how-to-use-the-photos-apps-blur-feature-in-windows-11/"><u>Transforming Your Images: How to Use the Photos App's Blur Feature in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-on-mac-parallels-assisted-guide/"><u>Unleashing Windows 11 on Mac - Parallels-Assisted Guide</u></a></li>
 </ul></div>
 

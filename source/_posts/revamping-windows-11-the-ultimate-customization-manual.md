@@ -1,7 +1,7 @@
 ---
 title: "Revamping Windows 11: The Ultimate Customization Manual"
-date: 2025-02-09T19:30:45.360Z
-updated: 2025-02-15T23:53:14.137Z
+date: 2025-02-28T02:12:05.766Z
+updated: 2025-03-05T03:10:57.055Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## First, Download and Extract WinBubble
 
  The latest version of WinBubble is primarily designed for customizing Windows 10\. Its WinBubble for Windows 10 title makes it clear what platform it’s intended for. There are older versions of the software for Windows 7 and Vista.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
  You can extract the archive as covered in our guide on[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) . Double-click**WinBubble.exe** in the extracted WinBubbles directory to open the software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Customize Desktop Shortcut Icons With WinBubble
 
  The icons for desktop shortcuts on Windows include little arrows on them. However, you can change that with WinBubble’s Customize Shortcut Icon option. That option enables you to remove the arrow or change it to a star, heart, or Windows logo. You can tweak the desktop shortcut icons like this:
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 4. Click**OK** on the dialog box that prompts a restart.
 5. Then you’ll need to restart Windows for this customization to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Customize Windows’ Screensavers With WinBubble
 
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
@@ -95,17 +79,9 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
@@ -139,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. How to Add New Items to the Control Panel
 
  WinBubble’s**Tools** tab also includes a section that enables you to add new items to the Control Panel. You can add third-party software shortcuts to the Control Panel from there in the following steps:
@@ -160,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  Now you’ll be able to open the software added from the Control Panel. Bring up the Control Panel window, and select**Large icons** from the**View by** drop-down menu there. Click the new software shortcut there.
 
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. How to Disable the Registry Editor in WinBubble
 
@@ -192,24 +160,18 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-best-windows-sketchpad-selections-cost-free-and-premium-plans/"><u>[New] 2024 Approved Best Windows Sketchpad Selections Cost-Free & Premium Plans</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-briefing-on-simple-strategies-for-crafting-snapchat-duos/"><u>[Updated] 2024 Approved Briefing on Simple Strategies for Crafting Snapchat Duos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-apple-airpods-pro-released-still-a-solid-choice-an-in-depth-review/"><u>Are Apple AirPods Pro, Released , Still a Solid Choice? An In-Depth Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-modify-the-drop-down-selection-options-in-microsoft-excel/"><u>Efficiently Modify the Drop-Down Selection Options in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-total-up-multiple-excel-cells-a-comprehensive-tutorial/"><u>Efficiently Total Up Multiple Excel Cells - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-guide-turning-excels-rows-into-columns-with-tips-and-tricks/"><u>Effortless Guide: Turning Excel's Rows Into Columns with Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-methods-how-to-populate-excel-rows-using-sequence-and-autofill-feature/"><u>Effortless Methods: How to Populate Excel Rows Using Sequence and AutoFill Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-conference-name-builder/"><u>Elite Conference Name Builder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excel-online-vs-desktop-understanding-my-preference-and-its-benefits/"><u>Excel Online Vs. Desktop: Understanding My Preference and Its Benefits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excel-tricks-revealed-how-to-isolate-and-arrange-singular-entries-efficiently/"><u>Excel Tricks Revealed: How to Isolate & Arrange Singular Entries Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excel-guide-tutorial-and-specific-functions-index-and-match/"><u>Excel, Guide, Tutorial, and Specific Functions INDEX and MATCH.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excel-word-and-powerpoint-go-virtual-with-latest-support-for-quest-vr-devices/"><u>Excel, Word & PowerPoint Go Virtual with Latest Support for Quest VR Devices!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-implementing-round-functionality-in-your-excel-spreadsheets/"><u>Expert Strategies for Implementing ROUND Functionality in Your Excel Spreadsheets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-your-pcs-volume-output-with-easy-tweaks-for-windows-10-users/"><u>Improve Your PC's Volume Output with Easy Tweaks for Windows 10 Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-safely-through-social-media-scams/"><u>Navigating Safely Through Social Media Scams</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-poco-c50-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco C50 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-5-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic 5 Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/turning-voice-into-text-mastering-microsoft-words-speech-toolkit-for-2024/"><u>Turning Voice Into Text Mastering Microsoft Word's Speech Toolkit for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-culinary-kings-and-queens-youtube-food-experts/"><u>[New] In 2024, Culinary Kings & Queens YouTube Food Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-crafting-captivating-real-time-tweets-for-maximum-impact-for-2024/"><u>[Updated] Crafting Captivating Real-Time Tweets for Maximum Impact for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/d-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2010-file-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2010 File?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-in-voice-modification-tools-featuring-magic/"><u>In 2024, Excellence in Voice Modification Tools, Featuring Magic</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructive-path-to-setup-windows-for-in-hand-typing/"><u>Instructive Path to Setup Windows for In-Hand Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/lightgamerscreen-led-economical-27m2v-model/"><u>LightGamerScreen LED - Economical 27M2V Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-windows-queries-using-everythingapp/"><u>Quick Windows Queries: Using EverythingApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-opengl-error-code-3-on-windows-and-nvidia-gpus/"><u>Remedy for OpenGL Error Code 3 on Windows & Nvidia GPUs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-shelldll-error-tips-and-solutions-for-quick-recovery/"><u>Troubleshooting the Shell.dll Error: Tips and Solutions for Quick Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-screen-mirroring-android-to-fire-stick-streaming-made-simple/"><u>Unlock the Power of Screen Mirroring: Android to Fire Stick Streaming Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-windows-fixes-for-unresponsive-keyboard-shortcuts-and-combinations/"><u>Unlock the Power of Windows: Fixes for Unresponsive Keyboard Shortcuts and Combinations</u></a></li>
 </ul></div>
 

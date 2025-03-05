@@ -1,7 +1,7 @@
 ---
 title: Enhance PC Download Pace in Battle.net Gaming
-date: 2024-08-16T01:25:11.759Z
-updated: 2024-08-17T01:25:11.759Z
+date: 2025-03-02T03:43:29.656Z
+updated: 2025-03-04T16:07:13.935Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  Now that you're aware of all the common culprits let's check out what you can do to improve the connection.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Allocate Adequate Bandwidth to Battle.net
 
  The first thing you must do is allocate adequate bandwidth to the Battle.net app. You can do this by pausing other downloads running in the background and closing network-hogging applications. Also, ensure that streaming applications like Twitch are not running in the background.
@@ -47,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our [guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Turn Off Windows' Metered Connection
 
  Windows has a metered connection feature that lets you control your bandwidth usage. This feature is mainly designed to save data, especially if you're under a data cap. It also affects how an app uses the available bandwidth.
@@ -61,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 3. Select**Wi-Fi,** and then choose your**Wi-Fi** connection.
 4. Disable the toggle next to**Metered connection.**  
 ![Metered Connection option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Metered-Connection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. Restart Battle.net, and check if there's any improvement in the download speed.
 
@@ -86,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![Turn off proxy on Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Turn-off-proxy.jpg)
 5. Save the changes by clicking the**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 5\. Download the Latest Network Driver Updates
 
  The next fix to try to download the latest network driver update. As it turns out, an outdated or corrupt network driver can cause various network issues, including the slow download speed in Battle.net.
@@ -105,13 +93,6 @@ To update the network driver update, follow the below instructions:
 
 After that, restart your computer and check for the issue again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 6\. Clear the Battle.net Cache Data
 
  Battle.net stores cache data to offer faster access. Sometimes, this cache folder can get corrupted and affect your download speed. You'll have to delete the content of this folder to solve the problem. Don't worry; deleting this folder will not affect your game data.
@@ -120,9 +101,6 @@ No advertising on the website.
 2. In the search bar, type**%ProgramData%** and click**OK.**
 3. Locate and right-click on the**Blizzard Entertainment** folder.  
 ![Blizzard Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Blizzard-Folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 4. Choose the**Delete** option.
 
 ## 7\. Flush the DNS Cache
@@ -145,9 +123,6 @@ You can fix this by resetting the network settings. Here's how:
 2. Choose**Advanced network settings,** and then select**Network reset.**
 3. Click the**Reset now** button.  
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/the-network-reset-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Yes** to the prompt that appears to confirm your selection.
 
 ## Improve Your Battle.net Download Speed
@@ -162,8 +137,6 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,8 +144,22 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-your-streams-with-seamless-obspluszoom-integration/"><u>[New] Elevate Your Streams with Seamless OBS+Zoom Integration</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-masterclass-conquering-one-device-livestream-challenges-for-2024/"><u>[New] Masterclass Conquering One-Device Livestream Challenges for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-asmrists-aiding-the-nighttime-ritual/"><u>[Updated] Top ASMRists Aiding the Nighttime Ritual</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-exploration-of-sierra-icloud-documentdesktop-views/"><u>2024 Approved Complete Exploration of Sierra iCloud Document/Desktop Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/answer-cortical-remapping-involves-changes-in-the-brains-motor-cortex-allowing-patients-to-regain-movement-by-learning-new-ways-to-perform-tasks-with-affect1/"><u>Answer: Cortical Remapping Involves Changes in the Brain's Motor Cortex, Allowing Patients to Regain Movement by Learning New Ways to Perform Tasks with Affected Limbs or Using Other Muscles.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-mp2-mp4-converter-enligthenment-online-movavi/"><u>Gratuit MP2-MP4 Converter Enligthenment Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-y-facil-transforma-avi-a-swf-con-el-servicio-de-convertir-en-linea-de-movavi/"><u>Gratuito Y Fácil, Transforma AVI a SWF Con El Servicio De Convertir en Línea De Movavi</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-discover-the-richest-mountain-biking-audio-archives-online/"><u>In 2024, Discover the Richest Mountain Biking Audio Archives Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-youtube-skip-the-top-8-novice-missteps/"><u>In 2024, Navigating YouTube Skip the Top 8 Novice Missteps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/los-10-lideres-indiscutibles-programas-mas-eficaces-de-voz-en-off-libre-y-pago-del-2024/"><u>Los 10 Líderes Indiscutibles: Programas Más Eficaces De Voz en Off Libre Y Pago Del 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-pixel-device-unveiling-price-forecasts-expected-launch-date-and-insider-speculation/"><u>Next-Gen Pixel Device Unveiling: Price Forecasts, Expected Launch Date & Insider Speculation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-votre-image-tiff-en-format-jpeg-faites-le-sans-frais-online-avec-movavi/"><u>Transformez Votre Image TIFF en Format JPEG Faites-Le Sans Frais - Online Avec Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amv-mpeg-movavi/"><u>무료 AMV MPEG 이미지 크론 원자 바이트로 직막 전환 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Functional Copy-Paste in Chrome/Edge/Firefox Windows
-date: 2024-08-16T01:26:16.190Z
-updated: 2024-08-17T01:26:16.190Z
+date: 2025-03-02T16:42:54.153Z
+updated: 2025-03-04T20:23:59.980Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  If none of the above basic checks help, it's time to move on to the other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 2\. Check How Widespread the Issue Is
 
  Some websites turn off text selection and copy-pasting to prevent users from copying large chunks of their content and abusing it elsewhere. Therefore, it's crucial to ensure that the problem isn't isolated to one website. You can test that by opening another website and copying and pasting text from there.
@@ -44,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check for Problems With Your Keyboard
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
 
@@ -56,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  However, if you can copy-paste text outside the browser but not within it, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable Other Active Applications
 
  If another app already uses **CTRL + C** or **CTRL + V** as a hotkey for performing a specific action, pressing the shortcut in Chrome may not copy or paste the text due to a conflict from another app. Therefore, temporarily turn off any other apps currently running on your device to see if it resolves the issue.
@@ -79,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
 
  Turning off the mini menu that appears when selecting text in Microsoft Edge resolved the copy-paste issue for some users. This feature reportedly blocks copy-pasting. So, if you are experiencing the problem in Microsoft Edge, follow these steps to turn it off:
@@ -91,13 +79,7 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 3. Navigate to the **Appearance** tab on the left.
 4. Scroll to the **Context menus** section and turn off the toggle next to the **Show mini menu when selecting text** option.  
 ![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Check for Browser Interference
 
  If you fail to get copy-paste to work again, ensure that the browser interference is not causing this issue. You can rule out this possibility by applying these fixes:
@@ -116,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Copy-Paste Your Text Again Effortlessly
 
  Copy-paste is one of those operations we perform almost constantly while surfing the internet. When it stops working, it's nothing short of a nightmare. Hopefully, by now, you have a clearer understanding of why the feature suddenly stops working in your browser and how to get it working again.
@@ -129,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +115,19 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] 2024 Approved Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[New] 2024 Approved Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-broadcasting-with-breeze-tips-for-fb-video-sharing/"><u>[New] In 2024, Broadcasting with Breeze Tips for FB Video Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuit-en-ligne-de-fichiers-mp4-vers-mpeg-avec-movavi-guide-simple-et-rapide/"><u>Conversion Gratuit en Ligne De Fichiers MP4 Vers MPEG Avec Movavi - Guide Simple Et Rapide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convierte-archivos-mp2-a-formato-mp3-en-linea-gratis-con-una-solucion-de-convertidor-web-innovadora/"><u>Convierte Archivos MP2 a Formato MP3 en Línea Gratis Con Una Solución De Convertidor Web Innovadora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-and-convert-your-ogvs-to-mp3-at-no-cost-using-our-simple-tools/"><u>Download and Convert Your OGVs to MP3 at No Cost Using Our Simple Tools!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-ps4-freezing-step-by-step/"><u>How to FIX PS4 Freezing | Step by Step</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12r-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12R Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-narzo-n53-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/producing-dynamic-content-for-discord-channels-for-2024/"><u>Producing Dynamic Content for Discord Channels for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-8-essential-steps-to-optimize-your-new-pc-a-guide-for-new-windows-users/"><u>Top 8 Essential Steps to Optimize Your New PC: A Guide for New Window's Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/44og44oq44on44km44o744kq44o844ox44oz44o744km44kn44ow44og44ov44kp44or44oa6lui6ycbic0g44oi44o044kh44ot44kj/"><u>ムリョウ・オープン・ウェブムフォルダ転送 - モヴァビィ</u></a></li>
+</ul></div>
 

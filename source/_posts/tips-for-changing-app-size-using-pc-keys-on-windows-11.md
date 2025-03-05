@@ -1,7 +1,7 @@
 ---
 title: Tips for Changing App Size Using PC Keys on Windows 11
-date: 2024-08-16T01:22:45.620Z
-updated: 2024-08-17T01:22:45.620Z
+date: 2025-02-26T17:43:56.950Z
+updated: 2025-03-04T18:01:18.322Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
  However, you can also resize windows with Snap Layouts by pressing the keyboard keys. To activate the Snap Layout panel without the mouse, press**Win** +**Z** . Then press the arrow keys to navigate the layout options. Press**Enter** to select a highlighted layout for resizing your window.
 
 ![Snap Layout options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/snap-layout-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
@@ -68,9 +64,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Double-click the Sizer desktop shortcut.
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click the**Edit** button.
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
@@ -79,9 +72,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
@@ -90,9 +80,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on [BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
@@ -101,15 +88,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Sizer has a useful extra popup menu you can access with a keyboard shortcut. Press the**Ctrl** +**Win** +**Z** hotkey to view Sizer’s menu. That menu includes various sizes you can select to resize an active window. You can also access the software’s primary window by selecting Configure Sizer on that menu.
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
  Resizing windows helps you fit multiple apps open on the desktop better. You may find it better to utilize keyboard keys for changing window sizes with the methods above instead of the mouse.
@@ -122,8 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,8 +110,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-complete-guide-to-inverted-footage-in-instagram/"><u>[New] 2024 Approved The Complete Guide to Inverted Footage in Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-complete-guide-to-iphone-sound-personalization/"><u>[New] The Complete Guide to iPhone Sound Personalization</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polaroid-cubeplus-review-live-action-in-a-new-light/"><u>2024 Approved Polaroid Cube+ Review Live-Action in a New Light</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-periscope-broadcasting-made-simple/"><u>2024 Approved Speedy Periscope Broadcasting Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-updating-drivers-for-amd-cards-in-various-windows-versions/"><u>Essential Guide: Updating Drivers for AMD Cards in Various Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-implement-hyper-v-on-windows-11-home/"><u>Essential Steps to Implement Hyper-V on Windows 11 Home</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-startup-error-winscomrssrvdll-in-windows/"><u>How to Fix the Startup Error Winscomrssrv.dll in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-microsoft-bluetooth-driver-for-windows-101187-download-and-update-options/"><u>How to Get the Latest Microsoft Bluetooth Driver for Windows 10/11/8/7 - Download & Update Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-galaxy-f34-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Galaxy F34 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-file-explorer-functionality-for-windows-11/"><u>Reignite File Explorer Functionality for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speech-capture-made-easy-a-guide-to-keyboard-shortcuts-on-windows-11/"><u>Speech Capture Made Easy: A Guide to Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-ai-potential-in-microsofts-bing/"><u>Unveiling AI Potential in Microsoft's Bing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veiled-voyage-of-virtual-vigilance-mastering-windows-11s-hidden-features/"><u>Veiled Voyage of Virtual Vigilance: Mastering Windows 11'S Hidden Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-booting-basics-clean-process-explained/"><u>Windows 11 Booting Basics: Clean Process Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-transition-dissecting-w10-and-w11s-core-enhancements/"><u>Windows Transition: Dissecting W10 and W11's Core Enhancements</u></a></li>
+</ul></div>
 

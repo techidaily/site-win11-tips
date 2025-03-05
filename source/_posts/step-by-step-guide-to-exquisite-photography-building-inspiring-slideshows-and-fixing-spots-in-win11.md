@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Exquisite Photography: Building Inspiring Slideshows & Fixing Spots in Win11"
-date: 2024-08-16T01:24:36.563Z
-updated: 2024-08-17T01:24:36.563Z
+date: 2025-02-28T03:49:57.444Z
+updated: 2025-03-05T02:58:14.263Z
 tags:
   - windows10
   - windows11
@@ -28,23 +28,6 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -54,9 +37,6 @@ Key features:
  If you don’t yet see the update for the Photos app, copy the official Microsoft Store link of the app and visit the [Store.Rg-adguard website](https://store.rg-adguard.net/). Paste the link in the search box and select the **Fast** or **Slow** option. Click on the **tick** icon and download the latest Photos app build for Windows Insider. Install the app and then continue to the next section.
 
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the Slideshow Feature in the Photos App
 
@@ -77,9 +57,6 @@ Key features:
  If you want to resize the slideshow window, click on the **resize** icon. Now, snap the window to the left or right side. To close the slideshow click on the **Exit Slideshow** button in the top-left corner.
 
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
 
@@ -98,15 +75,9 @@ Key features:
  We tried deleting some taskbar icons from an image and the tool worked perfectly. But it also struggled in some areas, where transparency effects were in action. However, with a real-world image of an ice cream cone the tool somewhat struggled to do a convincing spot fix. So, the end result depends on the number of objects, shapes, patterns, and colors in an image.
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Other Improvements in the Photos App
 
  The app reintroduces the Timeline Scrollbar using which you can quickly view photos added in a particular month or year. Microsoft also added the [timeline scrollbar in the Gallery section of the File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) which is also in the experimental stage.
@@ -114,9 +85,6 @@ Key features:
  Earlier, you could use the **Auto Enhance** feature to improve image quality after downloading an add-on. Now the feature is already included in the new version of the Photos app thus removing the hassle of downloading an add-on.
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
@@ -126,8 +94,6 @@ Key features:
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,5 +101,23 @@ Key features:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>[New] Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-snapshot-into-the-heart-of-video-edits-filmoras-top-10-for-2024/"><u>[Updated] Snapshot Into the Heart of Video Edits - Filmora’s Top 10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-ultimate-photo-frame-tools/"><u>[Updated] Unveiling the Ultimate Photo Frame Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-mpegmod/"><u>使用 Movavi 自由轉換 MPEG/MOD格式 - 網上免費工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alawmp3-movavi/"><u>直接在線上將Alaw音頻轉成MP3 - 使用Movavi無限免費工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converti-file-m4a-in-formato-mp3-di-fatto-a-secco-free-on-web/"><u>Converti File .m4a in Formato .mp3 Di Fatto a Secco - Free on Web</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-seamless-green-screening-in-kinemaster-for-2024/"><u>Expert Strategies for Seamless Green Screening in KineMaster for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-aifc-files-to-mp4-format-using-movavi/"><u>Free Online Converter - Convert AIFC Files to MP4 Format Using Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/hd-korean-beauty-wallpaper-collection-stunning-hd-images-and-photographs-yl-software-solutions/"><u>HD Korean Beauty Wallpaper Collection: Stunning HD Images and Photographs - YL Software Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-gt-3-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme GT 3 Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y27-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y27 5G Phones</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators/"><u>The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-ts-in-mpeg-senza-costi-su-filmix-la-soluzione-piu-efficace-per-convertire-video/"><u>Trasforma I File TS in MPEG Senza Costi Su Filmix - La Soluzione Più Efficace per Convertire Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-simples-guia-passo-a-passo-para-construir-um-slideshow-no-iphones-com-movavi/"><u>Tutorial Simples - Guia Passo a Passo Para Construir Um Slideshow No iPhones Com Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmvwebmmovavi/"><u>オンラインでのWMV/WEBMコンバーター：移行ツールとしてMovavi紹介 - ファイル変換無料プログラム</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Prime Experience: Tackling Audio-Subtitle Hiccups in Windows 11"
-date: 2025-02-14T03:14:20.551Z
-updated: 2025-02-16T02:45:21.999Z
+date: 2025-03-01T21:28:49.575Z
+updated: 2025-03-04T21:21:01.502Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
@@ -48,14 +44,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Eliminate Browser Issues
 
  If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually[clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
@@ -63,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -77,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 3. Click the**three dots** next to**Prime Video for Windows** and choose**Advanced options.**
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
@@ -113,20 +93,22 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-image-editing-suite-for-text-overlay/"><u>2024 Approved Top Image Editing Suite for Text Overlay</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>2024 Approved Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-optimal-performance-of-lenovo-ideapad-100-by-updating-drivers-on-windows-10/"><u>How To Ensure Optimal Performance of Lenovo IdeaPad 100 by Updating Drivers on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prevent-chromium-from-spontaneously-launching-tabs/"><u>How to Prevent Chromium From Spontaneously Launching Tabs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-a60s-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel A60s</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-monetization-frequency/"><u>In 2024, Navigating YouTube's Monetization Frequency</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6 i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/linguistic-harmony-installing-fonts-for-all-windows-users/"><u>Linguistic Harmony: Installing Fonts for All Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x00000001-in-xbox-game-pass-with-windows-11/"><u>Overcoming Error 0X00000001 in Xbox Game Pass with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstructed-operations-by-windows-security/"><u>Overcoming Obstructed Operations by Windows Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-rejected-error-messages/"><u>Overcoming Windows Upgrade Rejected Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/sector-by-sector-economic-recovery-strategies/"><u>Sector by Sector Economic Recovery Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-device-functions-in-windows-11s-edge-guards/"><u>Unlocking Device Functions in Windows 11'S Edge Guards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>[New] Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-practice-for-incorporating-gopro-clips-into-360-video-tapestries/"><u>[Updated] Best Practice for Incorporating GoPro Clips Into 360 Video Tapestries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>[Updated] The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862722328-beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-advice-for-overcoming-iphone-images-not-uploading-problem/"><u>Comprehensive Advice for Overcoming iPhone Images Not Uploading Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-the-tech-behind-windows-11s-file-protection-features/"><u>Delving Into the Tech Behind Windows 11'S File Protection Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-verifying-health-advice-from-chatgpt-and-artificial-intelligence/"><u>Effective Strategies for Verifying Health Advice From ChatGPT and Artificial Intelligence</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-user-interface-affixing-this-pc-symbols/"><u>Enhance User Interface: Affixing 'This PC' Symbols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flawless-audio-and-visual-recording-using-the-modern-windows-11-snipping-tool-max-156/"><u>Flawless Audio & Visual Recording Using the Modern Windows 11 Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-virtual-memory-a-step-by-step-for-windows-11-users/"><u>Leveraging Virtual Memory: A Step-by-Step for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-advanced-techniques-for-efficient-qr-code-scanning-in-windows-systems/"><u>Navigating Advanced Techniques for Efficient QR Code Scanning in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/stepwise-guide-to-optimal-zoom-audio-recording/"><u>Stepwise Guide to Optimal Zoom Audio Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-facetune-walkthrough-for-stunning-photos-for-2024/"><u>The Essential Facetune Walkthrough for Stunning Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-downloading-and-setting-up-adobe-reader-on-microsoft-marketplace/"><u>The Ultimate Guide for Downloading and Setting up Adobe Reader on Microsoft Marketplace</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlocking-the-power-of-android-time-lapses/"><u>Unlocking the Power of Android Time-Lapses</u></a></li>
 </ul></div>
 
