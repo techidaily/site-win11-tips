@@ -40,8 +40,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/easy-context-menu-window.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg">
-<meta property="article:published_time" content="2025-02-08T16:22:26.390Z">
-<meta property="article:modified_time" content="2025-02-15T09:42:38.912Z">
+<meta property="article:published_time" content="2025-02-25T16:06:09.421Z">
+<meta property="article:modified_time" content="2025-03-04T09:08:17.593Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -727,15 +727,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-09 00:22:26</span>
-        <span class="mobile">2025-02-09 00:22:26</span>
+        <span class="desktop">2025-02-26 00:06:09</span>
+        <span class="mobile">2025-02-26 00:06:09</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-15 17:42:38</span>
-            <span class="mobile">2025-02-15 17:42:38</span>
+            <span class="desktop">2025-03-04 17:08:17</span>
+            <span class="mobile">2025-03-04 17:08:17</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -807,21 +807,19 @@
 </blockquote>
 <h2 id="How-to-Add-a-Submenu-to-the-Context-Menu-by-Manually-Editing-the-Registry"><a href="#How-to-Add-a-Submenu-to-the-Context-Menu-by-Manually-Editing-the-Registry" class="headerlink" title="How to Add a Submenu to the Context Menu by Manually Editing the Registry"></a>How to Add a Submenu to the Context Menu by Manually Editing the Registry</h2><p> You can manually create a context menu submenu that includes any number of software shortcuts with the Registry Editor. For the sake of example, here we’ll create a submenu that includes shortcuts for opening the Notepad and Remote Desktop Connection apps. Then you can add more shortcuts for software on your PC. First, you’ll need to lay the foundation for the submenu as follows:</p>
 <ol>
-<li>To access the registry app, check out this guide about <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >how to open Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>Go to a <strong>shell</strong> key by inputting the following location into the Registry Editor’s address bar:<br><code>Computer\HKEY_CLASSES_ROOT\Directory\Background\shell</code></li>
-<li>Right-click the <strong>shell</strong> key in the left sidebar and select the <strong>New</strong> &gt; <strong>Key</strong> options for adding a new registry entry.<br><img  
+<li><p>To access the registry app, check out this guide about <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >how to open Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+</li>
+<li><p>Go to a <strong>shell</strong> key by inputting the following location into the Registry Editor’s address bar:<br><code>Computer\HKEY_CLASSES_ROOT\Directory\Background\shell</code></p>
+</li>
+<li><p>Right-click the <strong>shell</strong> key in the left sidebar and select the <strong>New</strong> &gt; <strong>Key</strong> options for adding a new registry entry.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-key-options.jpg"
                       alt="The New &gt; Key options"
-                ></li>
-<li>Enter <strong>Menu1</strong> to be the new key’s name.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="5">
+                ></p>
+</li>
+<li><p>Enter <strong>Menu1</strong> to be the new key’s name.</p>
+</li>
 <li><p>Right-click <strong>Menu1</strong> to select the <strong>New</strong> &gt; <strong>String Value</strong> options.</p>
 </li>
 <li><p>Input <strong>MUIVerb</strong> for the new string’s name.</p>
@@ -835,32 +833,24 @@
 </li>
 <li><p>Double-click the <strong>MUIVerb</strong> string added to the <strong>Menu1</strong> key.</p>
 </li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="4">
-<li>Enter <strong>Apps</strong> in the <strong>Value</strong> box for the <strong>MUIVerb</strong> string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the <strong>Value data</strong> box if preferred.<br><img  
+<li><p>Enter <strong>Apps</strong> in the <strong>Value</strong> box for the <strong>MUIVerb</strong> string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the <strong>Value data</strong> box if preferred.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muiverb-string.jpg"
                       alt="The MUIVerb string value"
-                ></li>
-<li>Click <strong>OK</strong> to exit the Edit String window for <strong>MUIVerb</strong>.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="6">
-<li>Next, double-click on the <strong>SubCommand</strong> string inside the <strong>Menu1</strong> key.</li>
-<li>Input <strong>Notepad; Remote Desktop Connection</strong> inside the <strong>Value</strong> box for the <strong>SubCommands</strong> string and click <strong>OK</strong>.<br><img  
+                ></p>
+</li>
+<li><p>Click <strong>OK</strong> to exit the Edit String window for <strong>MUIVerb</strong>.</p>
+</li>
+<li><p>Next, double-click on the <strong>SubCommand</strong> string inside the <strong>Menu1</strong> key.</p>
+</li>
+<li><p>Input <strong>Notepad; Remote Desktop Connection</strong> inside the <strong>Value</strong> box for the <strong>SubCommands</strong> string and click <strong>OK</strong>.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/subcommands-string-value.jpg"
                       alt="subcommands-string-value"
-                ></li>
+                ></p>
+</li>
 </ol>
 <p> Now a new <strong>App</strong> submenu will be visible on Windows 11’s classic context menu. However, it won’t include any shortcuts. So, you will need to do some further editing of a different <strong>shell</strong> key to add functionality to the submenu. Edit the registry like this to complete the submenu:</p>
 <ol>
@@ -886,10 +876,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/notepad-and-remote-desktop-connection-keys.jpg"
                       alt="The Remote Desktop Connection and Notepad keys"
                 ><br>11. Double-click the <strong>(Default)</strong> string for the <strong>Remote Desktop Connection</strong> key you created.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ol start="12">
 <li>Input <strong>Remote Desktop Connection</strong> into the <strong>Value</strong> box and select <strong>OK</strong>.</li>
 <li>Select the <strong>command</strong> subkey for the <strong>Remote Desktop Connection</strong> key and double-click its <strong>(Default)</strong> string.</li>
@@ -911,10 +897,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-option.jpg"
                       alt="The Delete option for the Menu1 key"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Add-a-Submenu-to-the-Context-Menu-With-Easy-Context-Menu"><a href="#How-to-Add-a-Submenu-to-the-Context-Menu-With-Easy-Context-Menu" class="headerlink" title="How to Add a Submenu to the Context Menu With Easy Context Menu"></a>How to Add a Submenu to the Context Menu With Easy Context Menu</h2><p> Easy Context Menu is a freely available context menu customization desktop app. That software enables you to add custom software shortcut submenus to the right-click menu without <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/" >manually editing the registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> You can create a custom software shortcuts submenu with Easy Context Menu like this:</p>
 <ol>
@@ -974,10 +956,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu2.jpg"
                       alt="software-shortcuts-submenu2"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Another advantage of utilizing Easy Context Menu is that it includes options for positing the submenu. You can configure the approximate position of that submenu by selecting one of the three <strong>Show at</strong> options for it within the List Editor window. You can also reposition the submenu or items in it by selecting them and clicking the <strong>Move Up</strong> or <strong>Move Down</strong> buttons.</p>
 <p> Easy Context Menu also includes <strong>Tools</strong>, <strong>System Tools</strong>, and <strong>Turn Off Options</strong> submenus for you to add to the right-click menu. To add those submenus, select the <strong>System Tools</strong>, <strong>Turn Off Options</strong>, and <strong>Tools</strong> checkboxes for the desktop context menu and click <strong>Apply Changes</strong>. You can also deselect some of the checkboxes for those submenus to remove certain shortcuts from them.</p>
 <p><img  
@@ -997,20 +975,18 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/new-in-2024-master-online-engagement-with-proficient-use-of-snap-in-teams/"><u>[New] In 2024, Master Online Engagement with Proficient Use of Snap in Teams</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/updated-innovate-with-spinning-images-iphone-filming-tactics-for-2024/"><u>[Updated] Innovate with Spinning Images IPhone Filming Tactics for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/updated-ios-choice-premium-psp-emulators-ranked-1-5-for-2024/"><u>[Updated] IOS Choice Premium PSP Emulators Ranked #1-5 for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/updated-top-10-audio-transformation-apps-for-next-level-vtuber-performance/"><u>[Updated] Top 10 Audio Transformation Apps for Next-Level VTuber Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-to-windows-11-safe-mode-via-easy-methods/"><u>Fast Track to Windows 11 Safe Mode via Easy Methods</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-hdr-in-portrait-photography/"><u>In 2024, Harnessing the Power of HDR in Portrait Photography</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/mastering-screenshots-a-guide-to-premium-recorders/"><u>Mastering Screenshots A Guide to Premium Recorders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-fast-windows-11-app-accessing-techniques/"><u>Mastery of Fast Windows 11 App Accessing Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-activation-error-0x8007251d-a-step-by-step-guide/"><u>Resolving Windows Activation Error 0X8007251D: A Step-by-Step Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/solving-fps-hiccups-for-a-smoother-gameplay-experience-in-cod-modern-warfare-3/"><u>Solving FPS Hiccups for a Smoother Gameplay Experience in COD: Modern Warfare 3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-pcs-safety-audit-with-wins-11-tactics/"><u>Streamline Your PC's Safety Audit with Wins 11 Tactics</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/troubleshooting-techniques-for-overcoming-lag-in-avatar-frontiers-of-pandora/"><u>Troubleshooting Techniques for Overcoming Lag in 'Avatar: Frontiers of Pandora'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-headset-with-single-side-functioning/"><u>Troubleshooting Windows Headset with Single Side Functioning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-secrets-automating-selective-file-shifts/"><u>Windows 11 Secrets: Automating Selective File Shifts</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-hot-spots-1-10-viral-visits/"><u>[New] 2024 Approved Twitter's Hot Spots #1-#10 Viral Visits</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/new-innovative-approaches-to-harvest-large-amounts-of-tiktok-media-for-2024/"><u>[New] Innovative Approaches to Harvest Large Amounts of TikTok Media for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-enhancing-your-android-and-iphone-snaps/"><u>[Updated] The Ultimate Guide to Enhancing Your Android & iPhone Snaps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/2024-approved-speed-racers-remarkable-22-run/"><u>2024 Approved Speed Racers' Remarkable '22 Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locating-the-security-configuration-panel-in-windows-11/"><u>Locating the Security Configuration Panel in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-clients-adopting-windows-terminal-by-default/"><u>Mastering Clients: Adopting Windows Terminal by Default</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/measuring-space-understanding-app-impact-on-windows/"><u>Measuring Space: Understanding App Impact on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/radeon-relive-download-for-2024/"><u>Radeon Relive Download for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-printer-issues-in-windows-11-a-quick-guide/"><u>Resolve Printer Issues in Windows 11: A Quick Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-non-responsive-keyboards/"><u>Troubleshooting Guide: Resolving Non-Responsive Keyboards</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://driver-error.techidaily.com/troubleshooting-tips-for-killer-wifi-bluetooth-connectivity-problems-with-windows-11/"><u>Troubleshooting Tips for Killer WiFi Bluetooth Connectivity Problems with Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/win-utorrent-how-to-quickly-access-files/"><u>Win uTorrent: How to Quickly Access Files</u></a></li>
 </ul></div>
 
 
@@ -1023,11 +999,11 @@
         <li><strong>Title:</strong> Step-by-Step Tutorial: Integrating Submenus Into Win 11</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2025-02-09 00:22:26</li>
+                :</strong> 2025-02-26 00:06:09</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-15 17:42:38
+                    :</strong> 2025-03-04 17:08:17
             </li>
         
         <li>
@@ -1071,13 +1047,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/effortless-enhancement-streamlined-file-exploration-for-windows-11/"
+                        href="/tailoring-sound-on-win11-via-created-keyboard-actions/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Effortless Enhancement: Streamlined File Exploration for Windows 11</span>
+                                <span class="post-nav-title-item">Tailoring Sound on Win11 via Created Keyboard Actions</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1087,10 +1063,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/preventing-backward-text-display-errors-on-pcs/"
+                        href="/overcoming-windows-11-taskbar-disruption/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Preventing Backward Text Display Errors on PCs</span>
+                                <span class="post-nav-title-item">Overcoming Windows 11 Taskbar Disruption</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1126,15 +1102,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 

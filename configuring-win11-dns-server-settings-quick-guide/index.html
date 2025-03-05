@@ -30,8 +30,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-cmd-1.jpg">
-<meta property="article:published_time" content="2025-02-10T16:55:57.932Z">
-<meta property="article:modified_time" content="2025-02-15T12:11:17.866Z">
+<meta property="article:published_time" content="2025-02-26T15:06:47.506Z">
+<meta property="article:modified_time" content="2025-03-04T09:44:37.668Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -717,15 +717,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-11 00:55:57</span>
-        <span class="mobile">2025-02-11 00:55:57</span>
+        <span class="desktop">2025-02-26 23:06:47</span>
+        <span class="mobile">2025-02-26 23:06:47</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-15 20:11:17</span>
-            <span class="mobile">2025-02-15 20:11:17</span>
+            <span class="desktop">2025-03-04 17:44:37</span>
+            <span class="mobile">2025-03-04 17:44:37</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -799,47 +799,40 @@
 <p> However, fiddling with Windows Registry is a risky endeavor, and you should<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >create a registry backup <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> as well as a<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-reset-system-restore-difference/" >System Restore point <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . That way, you can always revert to the last known good system configuration.</p>
 <p>Repeat the following steps to disable the DNS client service:</p>
 <ol>
-<li>Press<strong>Win + R</strong> to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-run-command-dialog-box/" >open the Run command box <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Type “regedit” and press<strong>Ctrl + Shift + Enter</strong> to open the Registry Editor with administrator privileges.</li>
-<li>Navigate to the address bar in the Registry Editor windows and paste the following path:<br><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Dnscache</code></li>
-<li>In the Dnscache key, locate the<strong>Start</strong> DWORD value and double-click on it to edit its properties.</li>
-<li>Change the<strong>Value Data</strong> to<strong>4</strong> and keep the base as<strong>Hexadecimal</strong> . Click on the<strong>OK</strong> button.<br><img  
+<li><p>Press<strong>Win + R</strong> to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-run-command-dialog-box/" >open the Run command box <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Type “regedit” and press<strong>Ctrl + Shift + Enter</strong> to open the Registry Editor with administrator privileges.</p>
+</li>
+<li><p>Navigate to the address bar in the Registry Editor windows and paste the following path:<br><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Dnscache</code></p>
+</li>
+<li><p>In the Dnscache key, locate the<strong>Start</strong> DWORD value and double-click on it to edit its properties.</p>
+</li>
+<li><p>Change the<strong>Value Data</strong> to<strong>4</strong> and keep the base as<strong>Hexadecimal</strong> . Click on the<strong>OK</strong> button.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-1.jpg"
                       alt="Disable the DNS Client Service Using Registry Editor-1"
-                ></li>
-<li>Close the Registry editor.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="6">
-<li>Press<strong>Win + S</strong> and type<strong>services.msc</strong> . Click on the<strong>Run as administrator</strong> option.</li>
-<li>Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.<br><img  
+                ></p>
+</li>
+<li><p>Close the Registry editor.</p>
+</li>
+<li><p>Press<strong>Win + S</strong> and type<strong>services.msc</strong> . Click on the<strong>Run as administrator</strong> option.</p>
+</li>
+<li><p>Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg"
                       alt="Disable the DNS Client Service Using Registry Editor 2"
-                ></li>
-<li>Close the Services utility and restart your system to apply the changes.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="9">
-<li>Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.<br><img  
+                ></p>
+</li>
+<li><p>Close the Services utility and restart your system to apply the changes.</p>
+</li>
+<li><p>Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg"
                       alt="Disable the DNS Client Service Using Registry Editor 3-1"
-                ></li>
+                ></p>
+</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Now, DNS Client Service won’t start until you manually tweak its registry key again.</p>
 <h2 id="Is-It-Possible-to-Configure-the-DNS-Client-Service-Without-the-Registry-Editor"><a href="#Is-It-Possible-to-Configure-the-DNS-Client-Service-Without-the-Registry-Editor" class="headerlink" title="Is It Possible to Configure the DNS Client Service Without the Registry Editor?"></a>Is It Possible to Configure the DNS Client Service Without the Registry Editor?</h2><p> Unfortunately, no. As we described above, you will have to manually change the registry value of the Start DWORD every time you want to stop the DNS Client service on your system.</p>
 <p> Even if you set the service to Manual mode, it will still not display anything in the context menu when you right-click on it. So, it is evident that Microsoft doesn’t want anyone tinkering with the DNS Client service in any condition.</p>
@@ -848,10 +841,6 @@
 <p><strong>Hexadecimal Value Data (3)</strong> - DNS Client service is set to Manual mode but will automatically run at startup.</p>
 <p><strong>Hexadecimal Value Data (4)</strong> - DNS Client service is set to Disabled mode and won’t run until you change the value.</p>
 <p> Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the<strong>Value Data</strong> of the<strong>Start DWORD value</strong> to any of the numbers described above.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Quickly-Disable-the-DNS-Client-Service-Using-Command-Prompt"><a href="#How-to-Quickly-Disable-the-DNS-Client-Service-Using-Command-Prompt" class="headerlink" title="How to Quickly Disable the DNS Client Service Using Command Prompt"></a>How to Quickly Disable the DNS Client Service Using Command Prompt</h2><p> It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to “Disabled”. Here’s how to do it:</p>
 <ol>
 <li>Press<strong>Win + R</strong> to open the Run command box. Type “cmd” and press the<strong>Ctrl + Shift + Enter</strong> keys to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/how-to-always-open-command-prompt-as-administrator-windows/" >start the Command Prompt with administrator privileges <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</li>
@@ -864,10 +853,6 @@
                 ></li>
 <li><strong>Restart</strong> your system for the changes to take effect. DNS Client Service will remain disabled on your system.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Tweak-Your-DNS-Client-Service-Easily"><a href="#Tweak-Your-DNS-Client-Service-Easily" class="headerlink" title="Tweak Your DNS Client Service Easily"></a>Tweak Your DNS Client Service Easily</h2><p> Microsoft makes it very difficult to disable the DNS Client service on Windows 10 and 11. But you can use the registry hack to disable the service whenever the need arises. Or if you want to disable the service quickly, use the Command Prompt method.</p>
 <p><ins class="adsbygoogle"
      style="display:block"
@@ -882,22 +867,19 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/astery-in-migrating-youtube-videos-to-igtv-platform-for-2024/"><u>[New] Mastery in Migrating YouTube Videos to IGTV Platform for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/updated-in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-overuse-signal-fixing-chatgpt-on-windowed-systems/"><u>Easing Overuse Signal: Fixing ChatGPT on Windowed Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-impossible-roblox-app-failures/"><u>Eliminating Impossible Roblox App Failures</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/free-logitech-rx250-drivers-compatible-with-win7-8-and-10-download-now/"><u>Free Logitech RX250 Drivers: Compatible with Win7, 8 & 10 – Download Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-dism-your-windows-11-image-salvation/"><u>Leveraging Dism: Your Windows 11 Image Salvation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-file-management-on-windows-with-altwindirstat/"><u>Master the Art of File Management on Windows with altWinDirStat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-lsa-not-available-alert-in-windows/"><u>Mitigating LSA Not Available Alert in Windows</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-posts.techidaily.com/pinnacle-performance-the-best-8k-camera-technology-for-2024/"><u>Pinnacle Performance The Best 8K Camera Technology for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-lab.techidaily.com/rapid-laptop-battery-drainage-causes-and-solutions-expert-tips-by-yl-computing/"><u>Rapid Laptop Battery Drainage: Causes and Solutions - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-screens-harmony-uncover-hidden-apps-and-windows-in-windows-11/"><u>Restore Your Screen's Harmony: Uncover Hidden Apps & Windows in Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/samsung-galaxy-ai-growth-leads-surpassing-google-in-latest-tech-innovation-rankings/"><u>Samsung Galaxy AI Growth Leads, Surpassing Google in Latest Tech Innovation Rankings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamlessly-connecting-wi-fi-and-ethernet-in-one-operating-system/"><u>Seamlessly Connecting Wi-Fi & Ethernet in One Operating System</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-creation-software.techidaily.com/updated-2024-approved-captioning-in-fcpx-a-beginners-guide-to-adding-subtitles/"><u>Updated 2024 Approved Captioning in FCPX A Beginners Guide to Adding Subtitles</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-in-2024-a-comprehensive-guide-to-hp-laptops-screen-recording-features/"><u>[New] In 2024, A Comprehensive Guide to HP Laptop's Screen Recording Features</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/updated-are-earnings-linked-to-assessing-merchandise/"><u>[Updated] Are Earnings Linked to Assessing Merchandise?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/updated-in-2024-getting-acquainted-with-discords-innovations/"><u>[Updated] In 2024, Getting Acquainted with Discord's Innovations</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/updated-maintaining-youtube-like-video-quality-on-twitter-for-2024/"><u>[Updated] Maintaining YouTube-Like Video Quality on Twitter for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-zaraz.techidaily.com/elevate-your-digital-workspace-with-uplifting-pixels-premium-solitude-themes-from-yl-softwares-portfolio/"><u>Elevate Your Digital Workspace with Uplifting Pixels: Premium Solitude Themes From YL Software's Portfolio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-developers-playground-windows-11s-enhanced-dev-drive/"><u>Exploring Developer's Playground: Windows 11'S Enhanced Dev Drive</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-help.techidaily.com/pioneering-portable-cd-devices-of-the-year-2024/"><u>Pioneering Portable CD Devices of the Year 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-paudio-with-audacity-software/"><u>Realigning Windows PAudio with Audacity Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-previous-windows-backup-standards/"><u>Restoring Previous Windows Backup Standards</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://novels-ebooks.techidaily.com/96316649-9781401951931-secrets-of-the-lost-mode-of-prayer/"><u>Secrets of the Lost Mode of Prayer | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-tackling-the-absent-gpeditmsc-in-windows/"><u>Strategies for Tackling the Absent Gpedit.msc in Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/the-popularity-of-subpar-rear-projection-televisions-a-look-back-at-our-misguided-longing/"><u>The Popularity of Subpar Rear-Projection Televisions: A Look Back at Our Misguided Longing</u></a></li>
 </ul></div>
 
 
@@ -910,11 +892,11 @@
         <li><strong>Title:</strong> Configuring Win11 DNS Server Settings Quick Guide</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2025-02-11 00:55:57</li>
+                :</strong> 2025-02-26 23:06:47</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-15 20:11:17
+                    :</strong> 2025-03-04 17:44:37
             </li>
         
         <li>
@@ -958,13 +940,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/accelerate-your-app-launch-with-windows-11/"
+                        href="/cut-down-installation-time-with-proper-deps-setup/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Accelerate Your App Launch with Windows 11</span>
+                                <span class="post-nav-title-item">Cut Down Installation Time with Proper Deps Setup</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -974,10 +956,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/accessing-a-quake-environment-via-terminals/"
+                        href="/sync-your-schedule-how-to-reset-windows-time-service/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Accessing a Quake Environment via Terminals</span>
+                                <span class="post-nav-title-item">Sync Your Schedule: How to Reset Windows Time Service</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1013,15 +995,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 

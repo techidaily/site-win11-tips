@@ -30,8 +30,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-update-permissions.jpg">
-<meta property="article:published_time" content="2025-02-12T16:18:04.122Z">
-<meta property="article:modified_time" content="2025-02-15T16:30:09.454Z">
+<meta property="article:published_time" content="2025-02-27T12:49:27.256Z">
+<meta property="article:modified_time" content="2025-03-04T18:50:08.166Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -717,15 +717,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-13 00:18:04</span>
-        <span class="mobile">2025-02-13 00:18:04</span>
+        <span class="desktop">2025-02-27 20:49:27</span>
+        <span class="mobile">2025-02-27 20:49:27</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-16 00:30:09</span>
-            <span class="mobile">2025-02-16 00:30:09</span>
+            <span class="desktop">2025-03-05 02:50:08</span>
+            <span class="mobile">2025-03-05 02:50:08</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -796,10 +796,6 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="1-Run-the-Icacls-Command"><a href="#1-Run-the-Icacls-Command" class="headerlink" title="1. Run the Icacls Command"></a>1. Run the Icacls Command</h2><p> The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-10-11-own-folder/" >take ownership of the folders on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Then<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-run-command-prompt-admin/" >open an elevated Command Prompt on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and type in the following command:</p>
 <p><code>icacls * /t /q /c /reset</code></p>
 <p> Now press Enter on your keyboard to execute the command. This will reset all user permissions to default for every folder, subfolder, and file within the current working directory.</p>
@@ -820,10 +816,6 @@
                 ></p>
 <p><code>secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose</code></p>
 <p> Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="3-Run-the-Subinacl-Tool"><a href="#3-Run-the-Subinacl-Tool" class="headerlink" title="3. Run the Subinacl Tool"></a>3. Run the Subinacl Tool</h2><p> If you’re not comfortable using the command prompt, you may use the Subinacl tool. This is a command-line utility from Microsoft that can be used to reset user permissions. Here’s how to do it:</p>
 <ol>
 <li><a class="link"   target="_blank" rel="noopener" href="https://web.archive.org/web/20190830103837/http://www.microsoft.com/en-us/download/confirmation.aspx?id=23510" >Download the Subinacl tool from Microsoft’s webpage <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . When you open the page, the download starts automatically. If not, wait 30 seconds and click the link.</li>
@@ -835,20 +827,12 @@
                 ></li>
 <li>Click on<strong>Next</strong> and then accept the license agreement terms.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg"
                       alt="Install the Subinacl tool"
                 ><br>4. Next, copy and paste the following path into the Destination folder:  </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><code>C:\Windows\System32</code><br> Note: If you have installed Windows on a different drive, use that path instead.<br>5. Now click on<strong>Install now</strong> and wait for the Subinacl tool to be installed. This may take several minutes, so be patient.</p>
 <ol>
 <li><p>When the installation is complete,<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-notepad/" >open Notepad <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and type in the following commands:<br><code>subinacl /subkeyreg HKEY_LOCAL_MACHINE /grant=administrators=f   subinacl /subkeyreg HKEY_CURRENT_USER /grant=administrators=f   subinacl /subkeyreg HKEY_CLASSES_ROOT /grant=administrators=f   subinacl /subdirectories %SystemDrive% /grant=administrators=f   subinacl /subkeyreg HKEY_LOCAL_MACHINE /grant=system=f   subinacl /subkeyreg HKEY_CURRENT_USER /grant=system=f   subinacl /subkeyreg HKEY_CLASSES_ROOT /grant=system=f   subinacl /subdirectories %SystemDrive% /grant=system=f</code></p>
@@ -868,10 +852,6 @@
 </li>
 </ol>
 <p> Once done, close any running program, and then restart your computer. Your Windows Update permissions will be reset to their default settings. These are three different methods you can use to reset the user permission settings on Windows.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Restore-User-Permissions-to-Default-on-Windows"><a href="#Restore-User-Permissions-to-Default-on-Windows" class="headerlink" title="Restore User Permissions to Default on Windows"></a>Restore User Permissions to Default on Windows</h2><p> User permissions play a crucial role in computer security. If you’re experiencing user permission issues, you must reset them to their default settings. This guide helps you reset all user permissions on Windows using three different methods. You can use the ICACLS command, Secedit command, or Subinacl tool, depending on your preference.</p>
 <p><ins class="adsbygoogle"
      style="display:block"
@@ -886,21 +866,18 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-hovers.techidaily.com/updated-in-2024-top-reddit-threads-ever-the-10-greatest-hits/"><u>[Updated] In 2024, Top Reddit Threads Ever The 10 Greatest Hits</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/updated-transforming-digital-art-with-free-versatile-lut-tools/"><u>[Updated] Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-0x8007251d-activation-issue-in-windows-os/"><u>Fixing the 0X8007251D Activation Issue in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-managed-settings-failures-due-to-org-policies/"><u>Fixing Windows 11: Managed Settings Failures Due to Org Policies</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/gratis-online-converteer-mpg-naar-3gp2-met-movavi/"><u>Gratis Online Converteer MPG Naar 3GP2 Met Movavi</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/how-to-restart-an-iphone-forcefully-and-switch-to-devices-recovery-environment/"><u>How to Restart an iPhone Forcefully and Switch to Device's Recovery Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-solve-apex-legends-crashes-in-win11/"><u>How to Stop and Solve Apex Legends Crashes in Win11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-zero-30-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Zero 30 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://hardware-help.techidaily.com/master-the-update-comprehensive-guide-for-xp-pen-pen-tablet-device-drivers-upgrade/"><u>Master the Update: Comprehensive Guide for XP-Pen Pen Tablet Device Drivers Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/paint-your-windows-11-desk-a-simple-guide-to-drawing/"><u>Paint Your Windows 11 Desk - A Simple Guide to Drawing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/png-o-jpeg-un-confronto-dettagliato-per-la-qualita-superiore/"><u>PNG O JPEG: Un Confronto Dettagliato per La Qualità Superiore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-obsolete-heat-management-policies-in-win/"><u>Reactivating Obsolete Heat Management Policies in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-0x00709-error-on-pc/"><u>Steps to Rectify 0X00709 Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-patches-without-wi-fi/"><u>Streamlining Windows Patches Without Wi-Fi</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/toms-tech-hub-in-depth-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Reviews and News</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/new-screen-size-showdown-the-ultrawide-vs-uhd-4k-dilemma/"><u>[New] Screen Size Showdown The UltraWide Vs UHD 4K Dilemma</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/new-transforming-old-images-into-snaps-on-snapchat/"><u>[New] Transforming Old Images Into Snaps on Snapchat</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/updated-prime-5-filters-elevating-submerged-cinematography/"><u>[Updated] Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-xs-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone XS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-locate-processes-with-win11-task-manager/"><u>How to Efficiently Locate Processes with Win11 Task Manager</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/in-2024-captivating-videos-start-here-these-7-royalty-free-audios/"><u>In 2024, Captivating Videos Start Here These 7 Royalty-Free Audios</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/in-2024-cyberlink-screen-recorder-review-and-the-best-alternative/"><u>In 2024, Cyberlink Screen Recorder Review and the Best Alternative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-configuration-of-dns-services-in-windows-11/"><u>Precision Configuration of DNS Services in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-your-keys-repair-win10-shortcuts/"><u>Regain Control of Your Keys: Repair WIN10 Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-screen-stutter-on-windows-11-systems/"><u>Resolving Screen Stutter on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shield-your-activity-turn-off-windows-tracking/"><u>Shield Your Activity: Turn Off Windows Tracking</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/strategizing-success-the-open-door-approach/"><u>Strategizing Success The Open Door Approach</u></a></li>
 </ul></div>
 
 
@@ -913,11 +890,11 @@
         <li><strong>Title:</strong> Overhauling Windows: Revert to Basic User Rights</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2025-02-13 00:18:04</li>
+                :</strong> 2025-02-27 20:49:27</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-16 00:30:09
+                    :</strong> 2025-03-05 02:50:08
             </li>
         
         <li>
@@ -961,13 +938,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/7-steps-to-tame-the-gpu-hungry-desktop-window-manager/"
+                        href="/disarming-windows-11-security-error-messages-quickly/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">7 Steps to Tame the GPU-Hungry Desktop Window Manager</span>
+                                <span class="post-nav-title-item">Disarming Windows 11 Security Error Messages Quickly</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -977,10 +954,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/navigate-and-solve-windows-os-errors-with-ease/"
+                        href="/eliminate-windows-updates-prompts/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Navigate and Solve Windows OS Errors with Ease</span>
+                                <span class="post-nav-title-item">Eliminate Windows Updates Prompts</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1016,15 +993,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 
